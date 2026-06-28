@@ -1,0 +1,802 @@
+{
+ "talk_mayoeru_00001": {
+  "t": " Que raro que quieras<FF03>a <FFF3>",
+  "shortened": true
+ },
+ "talk_mayoeru_00002": {
+  "t": "<FFF5>Uurh. <FFF3> no tiene a donde<FF03>ir",
+  "shortened": true
+ },
+ "talk_mayoeru_00003": {
+  "t": "<FFF5> Uiii. Hombre carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00004": {
+  "t": "<FF03><FFF3> feliz!<FFF5>  Hombre de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00005": {
+  "t": " Que ganas con<FF03>retar a <FFF3>?<FFF5> Uuuurh. Siento ira. <FFF3><FF03>hara que ese cuerpo sea de<FF03><FFF3>.<FFF5>   Es grato amenazar a <FFF3><FF03>sin un hogar",
+  "shortened": true
+ },
+ "talk_mayoeru_00006": {
+  "t": "<FFF5> Nunca imagine que humanos<FF03>me invitaran",
+  "shortened": true
+ },
+ "talk_mayoeru_00007": {
+  "t": " Hombre de carne, buena<FF03>alma!<FFF5> Uuurh. <FFF3> tiene orgullo.<FFF5>Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00008": {
+  "t": "Los de carne llaman<FF03><FFF0>",
+  "shortened": true
+ },
+ "talk_mayoeru_00009": {
+  "t": "<FFF5>   Uuuuurh. Para mal canto. Este espiritu<FF03>enloquecera.<FFF5> Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00010": {
+  "t": " Voz horrible, muy horrible",
+  "shortened": true
+ },
+ "talk_mayoeru_00011": {
+  "t": "<FF03>Cosas malas a <FFF0><FF03> tambien?<FFF5>  Uiii. Canciones buenas",
+  "shortened": true
+ },
+ "talk_mayoeru_00012": {
+  "t": " Recuerda<FF03>a <FFF0> ser de carne.<FFF5>  No hay nada que <FFF3> no<FF03>pueda! Tener carne ha de ser incomodo!<FFF5>   Uuuuurh.<FF03><FFF0> y humanos son enemigos!<FF03>No puede dar peticiones!<FFF5>  Uiiii. Tantos anos desde que mujer de<FF03>carne pidio algo.<FFF5>Uuuurh. <FFF3> no es tonta.<FF03>No entiende. No la enganaran.<FFF5> Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00013": {
+  "t": " Planes temibles",
+  "shortened": true
+ },
+ "talk_mayoeru_00014": {
+  "t": " Uno de<FF03>carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00015": {
+  "t": " Que tramas",
+  "shortened": true
+ },
+ "talk_mayoeru_00016": {
+  "t": "<FFF5> Uiii. <FFF3> es fuerte.<FF03>Mujer de carne dice bien!<FFF5>  Frio aqui",
+  "shortened": true
+ },
+ "talk_mayoeru_00017": {
+  "t": " Nada de que hablar",
+  "shortened": true
+ },
+ "talk_mayoeru_00018": {
+  "t": "<FF03>Envidia a los de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00019": {
+  "t": "<FFF5>Mujer de carne miente. <FFF3><FF03>sacara la lengua, la toma.<FFF5>  Uiii. Mas lista. Listo es bueno en<FF03>mundo de difuntos.<FFF5>  Bien, mujer de carne! Supiste<FF03>la fuerza de <FFF3>.<FFF5>  Uuurh. Calla. Sin razon para creer<FF03>lo que dice mujer de carne.<FFF5>   Uiii. <FFF3> es fuerte.<FF03>Teme mas, mujer de carne.<FFF5> Frio aqui",
+  "shortened": true
+ },
+ "talk_mayoeru_00020": {
+  "t": " Quiere sitio<FF03>calido",
+  "shortened": true
+ },
+ "talk_mayoeru_00021": {
+  "t": " Cuerpo de mujer luce<FF03>calido",
+  "shortened": true
+ },
+ "talk_mayoeru_00022": {
+  "t": "<FFF5>   Uuuurh. <FFF3> sin interes<FF03>en hombre de carne. Salvo poseerlo",
+  "shortened": true
+ },
+ "talk_mayoeru_00024": {
+  "t": " <FFF3> no tiene<FF03>forma fisica",
+  "shortened": true
+ },
+ "talk_mayoeru_00025": {
+  "t": "Perdio razon el<FF03>hombre de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00026": {
+  "t": "<FFF5>   Uiii. Yahhhhh.<FFF5> Si hombre de carne es amigo<FF03>de <FFF3>, este mundo grato",
+  "shortened": true
+ },
+ "talk_mayoeru_00027": {
+  "t": "<FFF5>  Uuuurhh. Aburre",
+  "shortened": true
+ },
+ "talk_mayoeru_00030": {
+  "t": " Creyo que <FFF3><FF03>moriria",
+  "shortened": true
+ },
+ "talk_mayoeru_00031": {
+  "t": "<FFF5> Uiii. Corazon de <FFF3><FF03>calido.<FFF5> Hombre de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00032": {
+  "t": "<FF03><FFF3> quiere oir mas!<FFF5>  Uuuurh. No cuentes historias del mundo<FF03>de la carne.<FFF5>Tan frio aqui",
+  "shortened": true
+ },
+ "talk_mayoeru_00033": {
+  "t": " Hasta un saludo<FF03>casual da felicidad!<FFF5>  <FFF3> tuvo ninez tambien",
+  "shortened": true
+ },
+ "talk_mayoeru_00034": {
+  "t": "<FF03>Es el recuerdo mas preciado!<FFF5>  Uuuuurh. Que haces.?<FF03><FFF3> esta enojada.<FFF5>  Hombre de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00035": {
+  "t": "<FF03>Es grato sorprender a <FFF3>",
+  "shortened": true
+ },
+ "talk_mayoeru_00036": {
+  "t": "<FFF5>Cuando vivia, <FFF3> quizas<FF03>tenia casa",
+  "shortened": true
+ },
+ "talk_mayoeru_00037": {
+  "t": " Sitio que llamar<FF03>hogar",
+  "shortened": true
+ },
+ "talk_mayoeru_00038": {
+  "t": "<FFF5>Uuuurghh.<FF03><FFF3> quiere cuerpo carne.<FF03>Sitio para el alma.<FFF5>   Uiii. Calido tener eso",
+  "shortened": true
+ },
+ "talk_mayoeru_00039": {
+  "t": "<FF03>Sera feliz asi!<FFF5>   Lo que dice hombre de carne quizas sea cierto!<FF03>Suerte! Eso espera!<FFF5>Uuuurgh. Facil decir todo.<FF03>Imprudente sin ser fuerte.<FFF5>Uiii. Tan energico.<FF03>Asi deben ser los de carne!<FFF5>Hombre de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00040": {
+  "t": "<FF03>Se oye sin gritar!<FF03>Pero voz fuerte es linda!<FFF5>Uuuurgh. <FFF3> es invencible.<FF03>Hombre de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00041": {
+  "t": " Sin perdon!<FFF5>  Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00043": {
+  "t": "<FF03><FFF3> no hizo nada malo",
+  "shortened": true
+ },
+ "talk_mayoeru_00044": {
+  "t": "<FFF5>  Si hombre de carne muere, sera como<FF03><FFF3>",
+  "shortened": true
+ },
+ "talk_mayoeru_00045": {
+  "t": " Pero es tan frio y<FF03>oscuro aqui",
+  "shortened": true
+ },
+ "talk_mayoeru_00046": {
+  "t": "<FFF5>   No des por hecho el cuerpo de carne.<FF03><FFF3> nota al instante si<FF03>cuerpo de carne miente.<FFF5> Uiii. Hombre de carne tiene razon.<FF03><FFF3> es <0028>genial<0028>.<FFF5>   <FFF3> ve",
+  "shortened": true
+ },
+ "talk_mayoeru_00047": {
+  "t": " Ese baile es<FF03>popular en mundo de vivos",
+  "shortened": true
+ },
+ "talk_mayoeru_00048": {
+  "t": "<FF03><FFF3> quiere bailar",
+  "shortened": true
+ },
+ "talk_mayoeru_00049": {
+  "t": "<FFF5>  Uuurhh. No presumas cuerpo de carne.<FF03>Uurhhh. Pega donde duele.<FFF5> No mal para tener cuerpo fisico, hombre<FF03>de carne. Pero mas facil bailar<FF03>cuando muerte lo quita.<FFF5>   Interesante, hombre de carne.<FF03>Aunque fue dicho nuevo!<FFF5> Uuur. Hombre de carne osa oponerse a<FF03><FFF3>.? Ensenara limites de la<FF03>carne.<FFF5> Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00052": {
+  "t": "<FF03>Debe <FFF3> huir",
+  "shortened": true
+ },
+ "talk_mayoeru_00053": {
+  "t": "<FFF5>   Ojos dan calor a <FFF3>",
+  "shortened": true
+ },
+ "talk_mayoeru_00054": {
+  "t": "<FF03>Mira mas!<FFF5>Uuurgh. Mirada de ojos negros duele.<FF03>Deja de ver, oscuro.<FFF5>Recuerda dias idos",
+  "shortened": true
+ },
+ "talk_mayoeru_00055": {
+  "t": " Que sera<FF03>de esa chica",
+  "shortened": true
+ },
+ "talk_mayoeru_00056": {
+  "t": "<FFF5>  Esa historia da deleite. El mundo<FF03>de vivos si divierte",
+  "shortened": true
+ },
+ "talk_mayoeru_00057": {
+  "t": "<FFF5>Uuuurhh. No mientas, hombre de carne.<FF03>No menosprecies a <FFF3>.<FFF5>Uiii. Eso si es para hablar.<FF03>Hay que enganar a los recien idos!<FFF5>  Uuuurhh.<FF03><FFF3> no teme nada.<FF03>Urrhh. No subestimes.<FFF5>  Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00060": {
+  "t": " Mujer de carne cuenta historias<FF03>asi? No lista",
+  "shortened": true
+ },
+ "talk_mayoeru_00061": {
+  "t": "<FFF5> Mujer de carne tiene gran voz!<FF03>Apura y muere para cantar con<FF03><FFF3> en el mas alla!<FFF5>Uuurhh. Para mal canto. Cada vez mas<FF03>frio ahora.<FFF5> Uiiii. Canciones son maravillosas",
+  "shortened": true
+ },
+ "talk_mayoeru_00062": {
+  "t": " Voluntad<FF03>restaurada!<FFF5>   Mujer de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00063": {
+  "t": " Que descaro tienes?<FF03><FFF3> es distinta a los de<FF03>carne!<FFF5> Uuuurhh.<FF03><FFF3> tiene orgullo.<FF03>Di eso a ninos de carne.<FFF5>  <FFF3> tuvo madre una vez",
+  "shortened": true
+ },
+ "talk_mayoeru_00064": {
+  "t": "<FF03>Hace mucho que no cruzaba ese<FF03>pensamiento",
+  "shortened": true
+ },
+ "talk_mayoeru_00065": {
+  "t": "<FFF5>Seducida por mujer carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00066": {
+  "t": " Quizas<FF03>perdida no tan mal",
+  "shortened": true
+ },
+ "talk_mayoeru_00067": {
+  "t": "<FFF5>Uuuurhh.<FF03><FFF3> sabe que debe hacer.<FF03>No es eso.<FFF5>   <FFF3> es omnipotente",
+  "shortened": true
+ },
+ "talk_mayoeru_00068": {
+  "t": " pero<FF03>no hace obra de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00069": {
+  "t": "Aun asi, bueno<FF03>ser invitada!<FFF5> Calumnia",
+  "shortened": true
+ },
+ "talk_mayoeru_00070": {
+  "t": " Los de carne calumnian muy<FF03>seguido",
+  "shortened": true
+ },
+ "talk_mayoeru_00071": {
+  "t": " <FFF3> no lo hara!<FFF5>   No seas falso, ser de carne.<FFF5>   Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00074": {
+  "t": "<FFF5>  Gozar del sexo opuesto es privilegio de<FF03>los de carne! Quizas los sin carne<FF03>revivan viejos dias",
+  "shortened": true
+ },
+ "talk_mayoeru_00075": {
+  "t": "<FFF5>   Uuuurhhh.<FF03>Que quieres de <FFF3>?<FF03>No sabe.<FFF5> Uiii. Creyo imposible ligar<FF03>con mujer de carne.<FFF5>  Mujer de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00076": {
+  "t": " Si el presente es tan<FF03>doloroso, muere, y se <FFF3>!<FFF5> Uurh",
+  "shortened": true
+ },
+ "talk_mayoeru_00077": {
+  "t": " Alegrate de tener carne, mujer.<FF03><FFF3> la tomara si no la<FF03>quieres.<FFF5> Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00078": {
+  "t": " T-Tan frio luce",
+  "shortened": true
+ },
+ "talk_mayoeru_00079": {
+  "t": " No es<FF03>frio para cuerpos de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00080": {
+  "t": "<FFF5>   Mujer de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00081": {
+  "t": "<FF03><FFF3> nada que perder!<FF03>Amenazas inutiles!<FFF5>  <FFF3> es invencible.<FF03>Nada que perder.<FF03>Ansia cuerpo de carne.<FFF5> Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00082": {
+  "t": "<FF03>Es grato amenazar a <FFF3>?<FFF5>   Deja de burlarte de <FFF3>.<FF03>No es distinto a cuando<FF03><FFF3> vivia.<FFF5>   Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00084": {
+  "t": " Debe <FFF3><FF03>huir?<FFF5>  Uiiii. Se siente bien que la fastidien",
+  "shortened": true
+ },
+ "talk_mayoeru_00085": {
+  "t": "<FF03><FFF3> se despierta",
+  "shortened": true
+ },
+ "talk_mayoeru_00086": {
+  "t": "<FFF5>   Mujer de carne dice la verdad",
+  "shortened": true
+ },
+ "talk_mayoeru_00087": {
+  "t": "<FF02><FF04>Quizas mujer de carne sabe a donde<FF03><FFF3> debe volver",
+  "shortened": true
+ },
+ "talk_mayoeru_00088": {
+  "t": "<FFF5>   Que sabe mujer de carne de<FF03><FFF3>.? Uuuurhhh.<FF03>Mujer de carne tan insolente.<FFF5>  Cerebro de carne es listo! Tambien luce<FF03>bien curado y delicioso",
+  "shortened": true
+ },
+ "talk_mayoeru_00089": {
+  "t": "<FFF5>   Uuuurhh. <FFF3> ha madurado.<FF03>Di eso a ninos de carne.<FFF5> Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00091": {
+  "t": " D-Debe huir",
+  "shortened": true
+ },
+ "talk_mayoeru_00092": {
+  "t": "<FFF5> <FFF3> tuvo madre una vez",
+  "shortened": true
+ },
+ "talk_mayoeru_00093": {
+  "t": "<FF03>Hace mucho que no cruzaba ese<FF03>pensamiento",
+  "shortened": true
+ },
+ "talk_mayoeru_00094": {
+  "t": "<FFF5>Mujer de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00095": {
+  "t": " Es frio contar<FF03>historias de los vivos",
+  "shortened": true
+ },
+ "talk_mayoeru_00096": {
+  "t": "<FFF5> Uuurhh. Ignorada. Crueldad. No calida de<FF03>corazon para ser carne.<FFF5>Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00098": {
+  "t": "Este sitio muy<FF03>frio tambien",
+  "shortened": true
+ },
+ "talk_mayoeru_00099": {
+  "t": "<FFF5>Hombre carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00100": {
+  "t": " Se alguien para que <FFF3><FF03>perdida hable",
+  "shortened": true
+ },
+ "talk_mayoeru_00101": {
+  "t": "<FFF5>  Uuurhh. Ignorada. Crueldad. No calida de<FF03>corazon para ser carne.<FFF5>Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00102": {
+  "t": " D-Donde es esto",
+  "shortened": true
+ },
+ "talk_mayoeru_00103": {
+  "t": "Tantos<FF03>frios cuerpos de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00104": {
+  "t": "<FFF5>   Hombre carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00105": {
+  "t": " Ese cuerpo luce<FF03>energico! <FFF3> lo quiere.<FFF5> Uuuurhh.<FF03><FFF3> no se asusta.<FF03>Hasta que <FFF3> halle cuerpo.<FFF5>   Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00106": {
+  "t": " <FFF3> solo perdida",
+  "shortened": true
+ },
+ "talk_mayoeru_00107": {
+  "t": "<FF03>Por que estorbar",
+  "shortened": true
+ },
+ "talk_mayoeru_00108": {
+  "t": "<FFF5>Uuuurhh. Calla, hombre carne. Maldicion<FF03>sobre ti.<FFF5> Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00109": {
+  "t": " Hombre de carne enloquecio",
+  "shortened": true
+ },
+ "talk_mayoeru_00110": {
+  "t": "<FFF5>Es saludo de los de carne?<FF03>Raro",
+  "shortened": true
+ },
+ "talk_mayoeru_00111": {
+  "t": " No igual a lo recordado",
+  "shortened": true
+ },
+ "talk_mayoeru_00112": {
+  "t": "<FFF5>   Frio aqui",
+  "shortened": true
+ },
+ "talk_mayoeru_00113": {
+  "t": " Nada gracioso",
+  "shortened": true
+ },
+ "talk_mayoeru_00114": {
+  "t": "<FF03>Envidia a hombre carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00119": {
+  "t": " Corazon da calor",
+  "shortened": true
+ },
+ "talk_mayoeru_00121": {
+  "t": " divertido!<FFF5>   Podria hablar mas con boca<FF03>de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00124": {
+  "t": "<FFF5> Punto entendido",
+  "shortened": true
+ },
+ "talk_mayoeru_00125": {
+  "t": "<FF03>Pero <FFF3> tiene frio!<FF03>Da algo calido!<FFF1><FFF5>   Uuuurhh. No hace falta cuerpo de carne para<FF03>tratar con <FFF3>.<FFF5>  Uuurh. No interesa esa historia!<FF03>Interesa calor. Da calor.<FFF1><FFF5> Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00127": {
+  "t": "Donde es hogar de<FF03><FFF3>",
+  "shortened": true
+ },
+ "talk_mayoeru_00129": {
+  "t": " No tiene nada que ver con<FF03><FFF3>",
+  "shortened": true
+ },
+ "talk_mayoeru_00130": {
+  "t": "<FFF5>   <FFF3> contenta de haber <FF03>hablado con los de carne!<FFF5> Uiii. Palabras de carnosos utiles.<FFF5>Quizas bueno",
+  "shortened": true
+ },
+ "talk_mayoeru_00131": {
+  "t": " Pero hay largo<FF03>camino por delante!<FFF5> Si ayuda a los de carne, quizas<FF03>halle hogar",
+  "shortened": true
+ },
+ "talk_mayoeru_00132": {
+  "t": "<FFF5>  Uuuurhh. Los de carne no deberian<FF03>tratar con <FFF3>.<FFF5><FFF3> no quiere ayudar.<FFF5>   Podra <FFF3> ayudar a<FF03>los de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00134": {
+  "t": " <FFF3> solo perdida",
+  "shortened": true
+ },
+ "talk_mayoeru_00135": {
+  "t": "<FFF5>Carnosos piden ayuda de <FFF0>.?<FF03>Tan feliz, calido",
+  "shortened": true
+ },
+ "talk_mayoeru_00136": {
+  "t": "<FFF5> <FFF3> sera util.<FF03>De verdad.<FFF5>   Los de carne osan enojar a <FFF3>?<FF03>Hombre de carne es raro",
+  "shortened": true
+ },
+ "talk_mayoeru_00137": {
+  "t": "<FFF5>Los de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00138": {
+  "t": " <FFF3><FF03>aceptara algo por cuanto<FF03>los carnosos quieren a <FFF3>!<FFF1><FFF5> Uuuurhhh.<FF03>Burla a <FFF3>.?<FF03>Nunca perdona.<FFF5>  Uuurrhh. <FFF3> enojada.<FF03>Tiempo de rogar se acorta!<FFF1><FFF5>Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00139": {
+  "t": " Carnosos lucen fuertes",
+  "shortened": true
+ },
+ "talk_mayoeru_00141": {
+  "t": " Fastidiada",
+  "shortened": true
+ },
+ "talk_mayoeru_00142": {
+  "t": "<FF03><FFF3> solo perdida",
+  "shortened": true
+ },
+ "talk_mayoeru_00143": {
+  "t": "<FFF5><FFF3> quiere buen<FF03>humor siempre",
+  "shortened": true
+ },
+ "talk_mayoeru_00144": {
+  "t": " No se enojara!<FFF5>   <FFF3> no es de carne viva!<FF03>Por eso las expresiones de<FF03>los de carne son grato!<FFF5> Hombre de carne, mejora mas tus proezas!<FF03><FFF3> esperara!<FFF5> Proezas de los de carne intrigan!<FF03><FFF3> no puede hacer proezas",
+  "shortened": true
+ },
+ "talk_mayoeru_00145": {
+  "t": "<FF03>Tomara algo en cambio!<FFF1><FFF5>  Uuuuurh. Y que?<FF03>Fue aburrido y desagradable.<FFF5>   Los de carne quieren ver la<FF03>ira de <FFF3>.?<FF03>Ahora, compensa por desviar.<FFF1><FFF5>   Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00146": {
+  "t": "Frio por alguna razon",
+  "shortened": true
+ },
+ "talk_mayoeru_00147": {
+  "t": "<FF03>Vidas de los carnosos son frias",
+  "shortened": true
+ },
+ "talk_mayoeru_00149": {
+  "t": " No calido estar con los<FF03>de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00150": {
+  "t": " Debe ir a casa",
+  "shortened": true
+ },
+ "talk_mayoeru_00151": {
+  "t": "<FFF5>   Los de carne dan deleite.<FF03><FFF3> debe hallar lugar para<FF03>si tambien.<FFF5>Bien hecho. Mas. <FFF3><FF03>mirara!<FFF5> <FFF3> tiene interes en los<FF03>de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00152": {
+  "t": " Quizas bueno aceptar<FF03>invitacion!<FFF5>   Pasara tiempo con los de carne,<FF03>pero <FFF3> tiene peticion tambien!<FFF1><FFF5>   Uuuurh. <FFF3> es <FFF0>!<FF03>Incompatible con carnosos.<FFF5>   <FFF3> busca lugar al<FF03>que pertenecer. No hay tiempo para los<FF03>de carne. Compra tu tiempo.<FFF1><FFF5>   Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00153": {
+  "t": " Los de carne astutos",
+  "shortened": true
+ },
+ "talk_mayoeru_00154": {
+  "t": "<FF03>Quizas sea trampa",
+  "shortened": true
+ },
+ "talk_mayoeru_00156": {
+  "t": " No entiende actos de<FF03>los de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00158": {
+  "t": " Doloroso!<FFF5>Uiiii.<FF03>Necesita ayuda de <FFF3>.?<FF03>Tan feliz.<FFF5>   <FFF3> ama seducir!<FF03>Los de carne, seduzcamos juntos.<FFF5> <FFF3> no caza al debil!<FF03>Los de carne, tranquilos!<FFF5> Los de carne dicen cosas buenas!<FF03><FFF3> te quiere!<FF03>Aceptara algo!<FFF1><FFF5>   Uuuuurh.<FF03><FFF3> no permitira mentiras.<FFF5>   Dudoso si en serio lo dice. Los<FF03>de carne cargan culpa por no tener<FF03>garantia.<FFF1><FFF5> Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00160": {
+  "t": " Me fastidian?<FFF5>  Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00161": {
+  "t": " Los actos de los carnosos<FF03>siempre tienen truco",
+  "shortened": true
+ },
+ "talk_mayoeru_00162": {
+  "t": "<FFF5> <FFF3> es buena.<FF03>Los de carne saben bien.<FF03>Di mas.<FFF5> Hasta <FFF3> se averguenza<FF03>de tanto elogio",
+  "shortened": true
+ },
+ "talk_mayoeru_00163": {
+  "t": " Pero aun<FF03>feliz.<FFF5>Carnosos cargan carta de hechizo de<FF03><FFF3>",
+  "shortened": true
+ },
+ "talk_mayoeru_00164": {
+  "t": " Cuidala!<FFEF>   Dara esto!<FF03>Cuidala bien!<FFEF>  ",
+  "shortened": true
+ },
+ "talk_mayoeru_00165": {
+  "t": "<FFF3> vagara una vez<FF03>mas",
+  "shortened": true
+ },
+ "talk_mayoeru_00166": {
+  "t": "<FFEF> <FFF3> tiene distinta afinidad,<FF03>asi que no!<FFF5>   <FFF3> tiene interes en los<FF03>de carne, pero no le gustan los debiles!<FFEF> Dara esto para conmemorar encuentro!<FF03>Cuidala bien!<FFEF>   Bueno, hora de partir",
+  "shortened": true
+ },
+ "talk_mayoeru_00167": {
+  "t": "<FF03><FFF3> empezara otro<FF03>viaje para perderse!<FFEF>   <FFF3> quiere a los carnosos,<FF03>asi que dara esto tambien!<FFEF> <FFF3> ocupada buscando<FF03>lugares",
+  "shortened": true
+ },
+ "talk_mayoeru_00168": {
+  "t": "<FFEF>  <FFF3> tiene sitio al que<FF03>llamar hogar. Cuida la carta",
+  "shortened": true
+ },
+ "talk_mayoeru_00169": {
+  "t": "<FFEF>Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00171": {
+  "t": " Perdona con esto",
+  "shortened": true
+ },
+ "talk_mayoeru_00172": {
+  "t": "<FFEF>   <FFF3> aburrida.<FF03>Mas grato estar perdida.<FFF5>   Perderse es mas emocionante.<FF03>Dara esto para que <FFF3> se<FF03>vaya.<FFEF>Pensandolo",
+  "shortened": true
+ },
+ "talk_mayoeru_00173": {
+  "t": " Hace tiempo que no<FF03>la enojaban. Se siente algo aliviada<FF03>ahora",
+  "shortened": true
+ },
+ "talk_mayoeru_00174": {
+  "t": "<FFEF>Por que sera?<FF03>Bueno!<FF03>Dara carta de hechizo.<FFEF>  Quizas sea Persona calida si va con<FF03>los de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00175": {
+  "t": "<FFEF>Da carta hechizo",
+  "shortened": true
+ },
+ "talk_mayoeru_00176": {
+  "t": " haz Persona<FF03>con hogar al que volver",
+  "shortened": true
+ },
+ "talk_mayoeru_00177": {
+  "t": "<FFEF>   Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00178": {
+  "t": " <FFF3> no<FF03>peleara con los carnosos",
+  "shortened": true
+ },
+ "talk_mayoeru_00179": {
+  "t": "<FFEF>  Dara esto a los de carne!<FF03>Cuidala bien!<FFEF>Que puede hacerse para que los de carne<FF03>dejen ir a <FFF3> a salvo?<FFEF> Dara carta de hechizo de <FFF3>!<FF03>No mas cosas frias porfa",
+  "shortened": true
+ },
+ "talk_mayoeru_00180": {
+  "t": "<FFEF>   Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00181": {
+  "t": " Envidia.<FF03>Ese cuerpo luce calido",
+  "shortened": true
+ },
+ "talk_mayoeru_00182": {
+  "t": "<FF02><FF04><FFF3> quiere cuerpo carne<FF03>de repente.<FFF5>   Carnosos han de tener algo<FF03>calido",
+  "shortened": true
+ },
+ "talk_mayoeru_00184": {
+  "t": "<FFF1><FFF5> Ese cuerpo luce calido",
+  "shortened": true
+ },
+ "talk_mayoeru_00185": {
+  "t": "<FF03>Pero no es de <FFF3>.<FF02><FF04><FFF3> esta de mal humor.<FF03>Culpa de los de carne.<FFF5>   Ese cuerpo luce tan calido",
+  "shortened": true
+ },
+ "talk_mayoeru_00186": {
+  "t": "<FF03>Pero no es de <FFF3>.<FF02><FF04>Uuuuuurh. Esta enojada.<FF03>Da algo.<FFF1><FFF5> Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00187": {
+  "t": " Algo distinto hay en el<FF03>aire",
+  "shortened": true
+ },
+ "talk_mayoeru_00189": {
+  "t": "<FF02><FF04>Este lugar no se siente bien",
+  "shortened": true
+ },
+ "talk_mayoeru_00190": {
+  "t": " Sera que<FF03>debe vagar de nuevo",
+  "shortened": true
+ },
+ "talk_mayoeru_00191": {
+  "t": "<FFF5>   <FFF3> tambien fue de carne<FF03>viva",
+  "shortened": true
+ },
+ "talk_mayoeru_00192": {
+  "t": " Era carne muy linda",
+  "shortened": true
+ },
+ "talk_mayoeru_00193": {
+  "t": "<FF02><FF04>Todos los carnosos dan miedo hoy?<FFF5> Tan grato",
+  "shortened": true
+ },
+ "talk_mayoeru_00194": {
+  "t": " El mundo es mas calido<FF03>con los de carne cerca!<FFF5>Uiiiiii. Pudo conversar con<FF03>los de carne viva. Tan feliz",
+  "shortened": true
+ },
+ "talk_mayoeru_00195": {
+  "t": "<FF03>Valio perderse!<FFF5> No justo. Lindos cuerpos de carne.<FF02><FF04>Molesta. Pero",
+  "shortened": true
+ },
+ "talk_mayoeru_00196": {
+  "t": " aun escuchara!<FFF5>  <FFED>No es justo. Tan lindos cuerpos de carne.<FF02><FF04>Furiosa. Da algo y<FF03>negociara!<FFF1><FFF5>  <FFEC>Quiere hablar con los de carne!<FF03>Por eso te llamo",
+  "shortened": true
+ },
+ "talk_mayoeru_00197": {
+  "t": " No hagas<FF03>cosas frias igual",
+  "shortened": true
+ },
+ "talk_mayoeru_00198": {
+  "t": "<FFF5><FFEE>Carnosos respondieron",
+  "shortened": true
+ },
+ "talk_mayoeru_00199": {
+  "t": " Luce calido!<FF03>Pero debe esperar y ver que pasa",
+  "shortened": true
+ },
+ "talk_mayoeru_00200": {
+  "t": "<FFF5><FFEE>Los de carne parecen divertidos.<FF03><FFF3> quiere saber mas.<FFF5>   <FFEB>El calor de la carne es grato.<FF03><FFF3> agradece.<FFF5>  <FFEC>Uuuuurh. Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00201": {
+  "t": " Uuuurh.<FF03>Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00202": {
+  "t": " Siente que enloquece",
+  "shortened": true
+ },
+ "talk_mayoeru_00203": {
+  "t": "<FFF5><FFED>Respondio de modo relajado",
+  "shortened": true
+ },
+ "talk_mayoeru_00204": {
+  "t": " Que crees<FF03>que es <FFF3>.?<FF02><FF04><FFEC>Hm",
+  "shortened": true
+ },
+ "talk_mayoeru_00205": {
+  "t": " Quizas ya lo piensa",
+  "shortened": true
+ },
+ "talk_mayoeru_00206": {
+  "t": "<FFF5> <FFEB>Feliz y molesta",
+  "shortened": true
+ },
+ "talk_mayoeru_00207": {
+  "t": "<FF03><FFF3> no entiende a<FF03>los carnosos.<FFF5><FFED><FFF3> feliz y enojada.<FF03>Los de carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00208": {
+  "t": " Da algo!<FFF1><FFF5>  <FFEC>Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00209": {
+  "t": " Pero por que el corazon de <FFF3><FF03>baila feliz",
+  "shortened": true
+ },
+ "talk_mayoeru_00210": {
+  "t": "<FFF5> <FFEB><FFF3> no es masoquista, pero<FF03>el miedo se siente bien",
+  "shortened": true
+ },
+ "talk_mayoeru_00211": {
+  "t": "<FFF5>   <FFF3> quiere a los carnosos ahora!<FF03>Oira los deseos de los de carne!<FFEF> Uuurrhhh. Odia a los de carne.<FF03>Los poseera.<FFEF>  Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00213": {
+  "t": "Quiere ir a casa",
+  "shortened": true
+ },
+ "talk_mayoeru_00214": {
+  "t": "<FFEF> <FFF3> tan feliz",
+  "shortened": true
+ },
+ "talk_mayoeru_00215": {
+  "t": "<FFEF>   Odia a los de carne!<FF03>Pero algo interesada!<FF03>Que quieren los carnosos?<FFEF> Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00217": {
+  "t": " Oira lo que digan los<FF03>carnosos",
+  "shortened": true
+ },
+ "talk_mayoeru_00218": {
+  "t": " Que quieres que<FF03><FFF3> haga?<FFEF><FFF3> ama a los carnosos ahora!<FF03>Oira todos sus deseos!<FFEF>   Uuurghhh. Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00220": {
+  "t": " Urrghhh.<FFEF> ",
+  "shortened": true
+ },
+ "talk_mayoeru_00221": {
+  "t": "Quiere cuerpo de carne, pero no<FF03>interesa cuerpos inutiles.<FFEF> ",
+  "shortened": true
+ },
+ "talk_mayoeru_00222": {
+  "t": "Ese buen cuerpo carne",
+  "shortened": true
+ },
+ "talk_mayoeru_00223": {
+  "t": "<FF03>Verlo deja a <FFF3> muy<FF03>fascinada",
+  "shortened": true
+ },
+ "talk_mayoeru_00224": {
+  "t": "<FFEF>   <FFF3> quiere dinero!<FF03>Le bastara <FFF8> yen!<FFEF>   Uiii. Los de carne son buenos humanos!<FFF5>  No tienen nada.<FF03>Uuuurh. Los de carne son mentirosos.<FFF5>  Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00225": {
+  "t": " Nada que hacer si los carnosos<FF03>son pobres",
+  "shortened": true
+ },
+ "talk_mayoeru_00226": {
+  "t": "<FFF5>   No subestimes a <FFF3>.<FFF5> Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00227": {
+  "t": "<FF03>Pero <FFF3> con hambre",
+  "shortened": true
+ },
+ "talk_mayoeru_00228": {
+  "t": "<FFF5>  <FFF3> quiere piedras de vida!<FF03>Le bastara una!<FFEF>   Uiiii. <FFF3> ama a los carnosos!<FFF5> No tienen.?<FF03>Son idiotas los de carne?<FF03>Si, han de ser idiotas!<FFF5>   Augh",
+  "shortened": true
+ },
+ "talk_mayoeru_00229": {
+  "t": " Nada que hacer si los carnosos<FF03>no tienen",
+  "shortened": true
+ },
+ "talk_mayoeru_00230": {
+  "t": "<FFF5> Los de carne.<FF03>No subestimes a <FFF3>.<FFF5> No",
+  "shortened": true
+ },
+ "talk_mayoeru_00231": {
+  "t": " Pero quizas dieron dinero a<FF03><FFF3>",
+  "shortened": true
+ },
+ "talk_mayoeru_00232": {
+  "t": " Debe esperar<FF03>la proxima!<FFF5><FFF3> quiere una gema!<FF03>Quiere <FFF4>!<FFEF>Uiiii. <FFF3> quiere a los de<FF03>carne viva. Te amara.<FFF5>   Bien",
+  "shortened": true
+ },
+ "talk_mayoeru_00233": {
+  "t": " Los de carne son raros!<FFF5>  Los de carne son tan codiciosos.<FFF5>  Los de carne han de amar <FFF4>.<FFF5><FFF3> quiere la energia vital<FF03>de carne viva! Le bastara<FF03>una porcion!<FFEF>   Uiiii. Tan calido. Tan delicioso.<FFF5>  Los de carne creen que no es posible<FF03>para <FFF0>.? Humanos crueles.<FFF5>  Solo queria un poco",
+  "shortened": true
+ },
+ "talk_mayoeru_00235": {
+  "t": "<FFF5>   Solo queria un poco",
+  "shortened": true
+ }
+}

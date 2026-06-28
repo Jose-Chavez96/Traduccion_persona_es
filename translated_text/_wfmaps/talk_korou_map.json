@@ -1,0 +1,1458 @@
+{
+ "talk_korou_00001": {
+  "t": " No puedo ayudarte!<FFFD><00FF><F500> Argh, que quieres de un viejo.?<FF03>Mira al demonio antes de abrir la boca!<FFF5> Oye. Si quieres hacer amigos entre<FF03>demonios, mejor se franco con ellos.<FFFD><01FF><F500>   Jo jo. Quieres mi carta dices? Hmmm?<FFFD><02FF><F500> Jo jo. No importa cuanto envejezcas, es<FF03>lindo que cuenten contigo.<FFF5>   Je",
+  "shortened": false
+ },
+ "talk_korou_00002": {
+  "t": " Cuanto mas cerca llegas a tu lecho<FF03>de muerte, mas facil es perdonar!<FF03>Los errores de joven no me molestan!<FFF5>  Jo jo. Soy como un muro de piedra! No<FF03>podrias romperme aunque lo intentaras.<FFFD><03FF><F500> Argh. No cuesta mucho zarandear a<FF03>jovenes briosos como tu. No tienes<FF03>aguante.<FFFD><04FF><F500>   Yo tambien tengo orgullo. Mi espalda<FF03>fallara, mas acepto tu reto.<FFF5>Soy viejo",
+  "shortened": false
+ },
+ "talk_korou_00003": {
+  "t": " Solo quiero vivir el resto<FF03>de mis dias como ermitano",
+  "shortened": false
+ },
+ "talk_korou_00004": {
+  "t": "<FFF5>  N-No lo harias",
+  "shortened": true
+ },
+ "talk_korou_00005": {
+  "t": " No atormentarias a un<FF03>viejo indefenso, o si?<FFFD><05FF><F500>  Jo jo. Nunca crei que me<FF03>buscarian a esta edad.<FFF5>De verdad te gustan las cosas raras",
+  "shortened": false
+ },
+ "talk_korou_00006": {
+  "t": " Que<FF03>bien crees que un viejo como yo puede<FF03>hacerte?<FFFD><06FF><F500> Solo quiero vivir en paz. Por favor,<FF03>dejame en paz.<FFF5> Argh. Sere viejo, mas aun soy un<FF03><FFF0>. Soy libre de elegir mi trabajo.<FFFD><07FF><F500> Se que solo intentas endulzarme<FF03>para ganar mi favor",
+  "shortened": false
+ },
+ "talk_korou_00007": {
+  "t": "<FFF5> Saldrias perdiendo si contrataras a un<FF03>viejo como yo",
+  "shortened": false
+ },
+ "talk_korou_00009": {
+  "t": "<FFFD><08FF><F500>Argh. Que terrible. Hay un limite<FF03>para desentonar, muchacho.<FFF5>   Odio esta cancion",
+  "shortened": true
+ },
+ "talk_korou_00010": {
+  "t": " Me trae malos<FF03>recuerdos",
+  "shortened": false
+ },
+ "talk_korou_00011": {
+  "t": "<FFFD><09FF><F500>   Que voz es esa",
+  "shortened": false
+ },
+ "talk_korou_00012": {
+  "t": " Quiza por eso<FF03>tengo dolor de cabeza",
+  "shortened": true
+ },
+ "talk_korou_00013": {
+  "t": "<FFF5>  Que voz tan terrible",
+  "shortened": false
+ },
+ "talk_korou_00014": {
+  "t": " Como<FF03>sigues cuerdo oyendote hablar?<FFFD><0AFF><F500> Jo, jo. Es una cancion sobre tener<FF03>falso valor? Que delicia!<FFF5> Esa si es buena cancion! Tu tono<FF03>alegra al que escucha.<FFFD><0BFF><F500>Hay montones de otros demonios mas<FF03>dignos de oir a un talentoso<FF03>como tu",
+  "shortened": false
+ },
+ "talk_korou_00015": {
+  "t": "<FF02><FF04>No se por que le chillarias a<FF03>un viejo tonto como yo",
+  "shortened": false
+ },
+ "talk_korou_00016": {
+  "t": "<FFF5> Dicen que los arboles mas sanos dan<FF03>la mejor sombra, no? Que haces<FF03>aqui conmigo entonces, eh, nena?<FFFD><0CFF><F500>   Aun piensas dar el latigo a<FF03>este cuerpo viejo y moribundo.? Que cruel<FF03>ninita eres.<FFFD><0DFF><F500>   Dependes demasiado de los demas",
+  "shortened": false
+ },
+ "talk_korou_00017": {
+  "t": "<FF03>Los jovenes de hoy son tan vagos. No<FF03>saben lo que es la dureza.<FFF5>  Je",
+  "shortened": false
+ },
+ "talk_korou_00018": {
+  "t": " Asi que hay hasta un yen de valor<FF03>en este viejo?<FFFD><0EFF><F500>Vaya, me alegro. No puedo rechazar<FF03>el canto de una dulce jovencita!<FFF5>   La adulacion no me da ninguna<FF03>ternura",
+  "shortened": false
+ },
+ "talk_korou_00019": {
+  "t": " Solo me hace enojar.<FFF5>Hm",
+  "shortened": false
+ },
+ "talk_korou_00021": {
+  "t": " toda una belleza<FF03>eres",
+  "shortened": false
+ },
+ "talk_korou_00022": {
+  "t": "<FFFD><0FFF><F500>   Nena",
+  "shortened": true
+ },
+ "talk_korou_00023": {
+  "t": " Que crees que vas<FF03>a sacar de estar de mi lado?<FFFD><10FF><F500>   Mueves la cola ahora",
+  "shortened": false
+ },
+ "talk_korou_00024": {
+  "t": " Mas<FF03>el perro muerde la mano que<FF03>lo cuida",
+  "shortened": true
+ },
+ "talk_korou_00025": {
+  "t": "<FFF5>Jo, jo. Me dejas drenar tu<FF03>vida, asi que bien podria! Si no<FF03>desperdiciaria tu oferta!<FFFD><11FF><F500>   Jo jo. Que encantadora jovencita<FF03>tenemos aqui.<FFF5>Jo jo. Intentas enganarme<FF03>a mi? Tienes demasiado tiempo<FF03>libre, nena!<FFFD><12FF><F500> Je. Debo decir, me quito el sombrero ante la<FF03>imaginacion que tienen los humanos!<FFF5>  Todo lo que dices es una mentira sin<FF03>fundamento. Nada peor que jovenes<FF03>mintiendo con descaro.<FFF5>   Suena a que tienes ciertos<FF03>motivos ocultos",
+  "shortened": false
+ },
+ "talk_korou_00026": {
+  "t": " Cuanta diversion seria<FF03>burlarse de un vejete como yo, nena?<FFFD><13FF><F500>   Ahora si lo hiciste! Eso va mucho mas<FF03>alla de una sarta normal de mentiras, je.<FFF5>Jo jo. Estoy de lujo si tengo<FF03>un caramelo que chupar!<FFFD><14FF><F500>  Mira esa cara. Es como si<FF03>perdieras",
+  "shortened": false
+ },
+ "talk_korou_00028": {
+  "t": " Que fue?<FFFD><15FF><F500> Je. Tienes mucho que aprender si te pones<FF03>palido frente a un vejete.<FFF5> No voy a comerte. Deja de mirarme<FF03>como venado ante los faros.<FFFD><16FF><F500>  Argh. No como a los de tu clase.<FFF5>No hay nada que temer",
+  "shortened": false
+ },
+ "talk_korou_00029": {
+  "t": " Solo soy<FF03>un viejo inofensivo. Je je je.<FFF5>   Jo jo. Suena a que aun me queda algo<FF03>de dignidad, eh?<FFFD><17FF><F500>   Has de tener problemas serios si<FF03>te interesan los viejos",
+  "shortened": false
+ },
+ "talk_korou_00031": {
+  "t": " Seras joven, mas hacerlo<FF03>con cualquiera no es sano!<FFFD><18FF><F500>   Escucha bien. Basta. Me estas<FF03>dando asco. Deja de mirarme.<FFF5>No tienes modales.? Los jovenes<FF03>de hoy creen que todo es broma.<FFFD><19FF><F500>Oye, oye, muchacho! No me interesan<FF03>los hombres! No se que voy a hacer contigo<FF03>encimandote a mi",
+  "shortened": false
+ },
+ "talk_korou_00032": {
+  "t": "Soy un hombre, y viejo encima!<FF03>Necesitas revisarte los ojos, hijo?<FFFD><1AFF><F500>   Jo jo jo!<FFF5>  Jo jo jo!<FFF5>  Jo, jo. Me cuesta contener<FF03>la risa! Eres agradable para ser<FF03>humano!<FFF5>  Jo jo. Eres uno interesante.<FF03>Eres una especie de comico?<FFFD><1BFF><F500> Es tan soso",
+  "shortened": false
+ },
+ "talk_korou_00033": {
+  "t": " Preferiria estar tomando<FF03>el sol.<FFF5>   Que es ese acto? Es de plano<FF03>incoloro. Haz algo al respecto.<FFFD><1CFF><F500>   Jo jo",
+  "shortened": false
+ },
+ "talk_korou_00034": {
+  "t": " Tengo el estomago revuelto",
+  "shortened": false
+ },
+ "talk_korou_00035": {
+  "t": "<FFF5> Vaya, casi me disloco la mandibula!<FF03>Que espanto",
+  "shortened": false
+ },
+ "talk_korou_00036": {
+  "t": "<FFF5>   Je. Eres divertido! Esa es una<FF03>vida que vale vivir!<FFF5>   Jo jo jo",
+  "shortened": true
+ },
+ "talk_korou_00037": {
+  "t": " No puedo dejar de reir!<FF03>Detenme tu.<FFFD><1DFF><F500>   Siempre estoy listo para charlar! Di",
+  "shortened": false
+ },
+ "talk_korou_00038": {
+  "t": "<FF03>Quieres hablar de mi?<FFFD><1EFF><F500> Ha de ser dificil hallar un tema<FF03>digno de hablar con un viejo!<FF03>Que nino tan considerado eres!<FFF5>Argh. Tan indiferente. Vas a quedarte<FF03>en agua tibia toda tu vida.?<FFFD><1FFF><F500>   Tomas la vida como viene, no<FF03>es asi.? Debes entrenar tus agallas,<FF03>o la muerte vendra a tocar.<FFF5>  Je",
+  "shortened": false
+ },
+ "talk_korou_00039": {
+  "t": " Tengo la tendencia a alterarme<FF03>mucho",
+  "shortened": false
+ },
+ "talk_korou_00040": {
+  "t": " La charla es de plano<FF03>relajante!<FFF5>   Jo jo jo. Eres un gatito que apenas<FF03>abrio los ojos! No sabes nada<FF03>de este mundo!<FFFD><20FF><F500>   Je. No basta, nino",
+  "shortened": false
+ },
+ "talk_korou_00041": {
+  "t": " Cuando<FF03>envejezcas, las cosas dejaran de<FF03>sorprenderte!<FFFD><21FF><F500> Jo jo. Eres muy joven, no?<FF03>Bien, me gustan los ninos!<FFF5> Argh. Sera un dia frio en el infierno antes<FF03>de que me saques el higado, amigos.<FFF5>Argh. No te acercas ni a<FF03>los pelos de mi trasero.<FFFD><22FF><F500>No molesten a los viejos",
+  "shortened": true
+ },
+ "talk_korou_00042": {
+  "t": " Como<FF03>se supone que te enfrente si apenas<FF03>me sostengo en pie?<FFF5>Vaya. Q-Que vas a hacer<FF03>con mi higado",
+  "shortened": false
+ },
+ "talk_korou_00043": {
+  "t": "<FFFD><23FF><F500>  Los jovenes de hoy tienen toda clase de<FF03>aparatos",
+  "shortened": true
+ },
+ "talk_korou_00044": {
+  "t": " Que envidia!<FFF5> Cosas que el cambio del bolsillo<FF03>de un viejo no compraria",
+  "shortened": true
+ },
+ "talk_korou_00045": {
+  "t": " No tienes<FF03>algo un poco mas barato?<FFFD><24FF><F500>  Mejor dame un farol<FF03>solar. No tienes algo<FF03>util?<FFFD><25FF><F500>  Me he vuelto exigente con la edad. Esto<FF03>ni para adorno servir.<FFF5>  Jo jo. El pastel en el cielo se volvio<FF03>comida real.<FFFD><26FF><F500>  Je. Esto servir! Estoy agradecido!<FFF5>  Jo, jo, los jovenes aman hablar!<FF03>Bueno, dicen que es mejor dejar la vida<FF03>a los de espiritu joven!<FFF5>  Tienes fuego en tu discurso",
+  "shortened": false
+ },
+ "talk_korou_00046": {
+  "t": " Me alegra<FF03>que tengas pasion, mas cuida que<FF03>no te quemes!<FFFD><27FF><F500>   Siempre son los malos oradores quienes<FF03>parlotean sin parar. Estoy harto de esto.<FFF5>   Hablas demasiado. He estado mucho<FF03>mas tiempo que tu, oyes.<FFFD><28FF><F500>   Jo, jo. Veo que ardes, joven<FF03>hombre! Como papel aceitado junto a la llama.<FFF5> Jo, jo. Naciste hablando<FF03>en vez de llorando, no?<FFFD><29FF><F500> Nunca imagine que me reganara un<FF03>novato como tu! Cuanto mas verde es<FF03>el pasto de aquel lado, de todos modos?<FFFD><2AFF><F500>Je",
+  "shortened": false
+ },
+ "talk_korou_00047": {
+  "t": " Verte me recuerda mis<FF03>dias de joven!<FF02><FF04>Eres mas presumido que yo nunca lo fui,<FF03>mas lo dejare pasar!<FFF5>  No tienes que gritar. Estoy aqui mismo.<FF03>Y mi oido esta muy bien, sabes.<FFF5>  Mira como tratas a tus mayores.<FF03>Si no tienes modales, no llegaras<FF03>a ningun lado en la vida.<FFFD><2BFF><F500>   Oye, nino",
+  "shortened": false
+ },
+ "talk_korou_00048": {
+  "t": " Es tan divertido<FF03>gritarles a tus mayores?<FFFD><2CFF><F500>Se supone que trates a tus mayores<FF03>con bondad, mas aqui estas",
+  "shortened": false
+ },
+ "talk_korou_00049": {
+  "t": " Mi corazon<FF03>casi salta de mi pecho",
+  "shortened": false
+ },
+ "talk_korou_00050": {
+  "t": "<FFF5>  Je. Es obvio, muchacho. Intentas<FF03>probarme, no?<FFFD><2DFF><F500>  Es lamentable, mas me he vuelto cada<FF03>vez mas descarado con los anos!<FF03>Eso no me afecta!<FFF5> Oye. Puedo ver justo a traves de tus<FF03>verdaderos motivos.<FFF5> Sarcasmo, eh.? Tienes un espiritu mezquino,<FF03>humano. Te metere algo de sentido.<FFFD><2EFF><F500>Jo, jo. Estas de acuerdo, no? Sere<FF03>viejo, mas aun soy un <FFF0>!<FFF5>  Je. Voy entrado en anos! Di<FF03>lo que se te de la gana!<FFFD><2FFF><F500>  Que danza tan boba! No se parece<FF03>en nada a los pasos que estaban<FF03>de moda cuando yo me movia!<FFF5>  Ah, sabes mover esas caderas.<FF03>Solo cuida no forzar tu<FF03>espalda demasiado!<FFFD><30FF><F500> Deja de menearte. Pareces un<FF03>tonto infantil. Es molesto.<FFF5> Argh. Ni siquiera dominas<FF03>lo basico. Te ensenare.<FFFD><31FF><F500>  Asi que los chicos aun saben que es<FF03>el baile de verdad, eh? Estoy impresionado!<FFF5>Jo, jo. En mis dias, tenia bastante<FF03>ritmo. Bailaba todo el tiempo.<FFFD><32FF><F500>   Je",
+  "shortened": false
+ },
+ "talk_korou_00051": {
+  "t": " Cuanto mas cerca llegas a tu lecho<FF03>de muerte, mas facil es perdonar!<FF03>Los errores de joven no me molestan!<FFF5>  Jo jo. Soy como un muro de piedra! No<FF03>podrias romperme aunque lo intentaras.<FFFD><33FF><F500> Argh. No cuesta mucho zarandear a<FF03>jovenes briosos como tu. No tienes<FF03>aguante.<FFFD><34FF><F500>   Yo tambien tengo orgullo. Mi espalda<FF03>fallara, mas acepto tu reto.<FFF5>Soy viejo",
+  "shortened": false
+ },
+ "talk_korou_00052": {
+  "t": " Solo quiero vivir el resto<FF03>de mis dias como ermitano",
+  "shortened": false
+ },
+ "talk_korou_00053": {
+  "t": "<FFF5>  N-No lo harias",
+  "shortened": true
+ },
+ "talk_korou_00054": {
+  "t": " No atormentarias a un<FF03>viejo indefenso, o si?<FFFD><35FF><F500>  Je",
+  "shortened": false
+ },
+ "talk_korou_00055": {
+  "t": " Intentas contar mis arrugas<FF03>o algo?<FFFD><36FF><F500> Tienes pasion en esa mirada, hijo.<FF03>",
+  "shortened": false
+ },
+ "talk_korou_00056": {
+  "t": "Claro, me gustaria mas si fueras<FF03>una dama",
+  "shortened": false
+ },
+ "talk_korou_00057": {
+  "t": "<FFF5> Ya basta. Me estas poniendo<FF03>incomodo.<FFFD><37FF><F500>Que grosero. No deberias mirar justo a<FF03>los ojos de alguien asi.<FFF5>  Para tan joven mente, tienes buena<FF03>concentracion. Estoy impresionado.<FFF5> Jo, jo. Que esperas hallar<FF03>al inspeccionar a un viejo como yo?<FFFD><38FF><F500>Jo, jo. Intentas enganarme<FF03>a mi? Tienes demasiado tiempo libre.<FFF5>Oi que los humanos eran de dos caras, mas<FF03>jamas imagine esto! Cuantas caras<FF03>tienes, de todos modos?<FFFD><39FF><F500>  Todo lo que dices es una mentira sin<FF03>fundamento. Nada peor que jovenes<FF03>mintiendo con descaro.<FFFD><3AFF><F500> Argh. Tu historia tiene mas huecos que<FF03>el queso suizo. No caere en esa<FF03>patrana.<FFF5>Ahora si lo hiciste! Eso va mucho mas<FF03>alla de una sarta normal de mentiras, je.<FFFD><3BFF><F500>  Jo, jo. Esto es como ver a los grandes<FF03>comicos de antano. Estoy satisfecho.<FFF5>Oye. Que hubieras hecho si mi<FF03>corazon se detenia en seco.?<FFFD><3CFF><F500> Argh. Creiste que eso me daria<FF03>escalofrios? Lo que necesitas es drama.<FFF5> Esa historia fue de plano siniestra! Por que<FF03>a las humanas les gustan esas historias?<FFFD><46FF><F500> Muchacho, esa historia me hiela la sangre!<FF03>",
+  "shortened": false
+ },
+ "talk_korou_00058": {
+  "t": "El mundo es un lugar aterrador!<FFF5> Je. Cuando llegas a viejo, no queda<FF03>nada que te asuste!<FFFD><47FF><F500> Disfrutas esa clase de historias? Aun<FF03>un nino, ya veo! Jo jo jo",
+  "shortened": false
+ },
+ "talk_korou_00059": {
+  "t": "<FFF5>Jo, jo, tienes buena postura para ser<FF03>cantante! Mas linda que un cuadro!<FFF5>Estas comoda en ese rango mediocre<FF03>ahora, mas algun dia rivalizaras<FF03>con el canto del ruisenor!<FFFD><48FF><F500>   Argh. Esto es terrible. Hay un limite<FF03>para ser desentonado.<FFF5>Odio esta cancion",
+  "shortened": false
+ },
+ "talk_korou_00060": {
+  "t": " Me trae malos<FF03>recuerdos",
+  "shortened": false
+ },
+ "talk_korou_00061": {
+  "t": "<FFFD><49FF><F500>   Oooh. Esa si es una voz hermosa.<FF03>Cuidala bien, oyes?<FFF5>Esa si es buena cancion! Tu tono<FF03>alegra al que escucha.<FFFD><4AFF><F500>Hmm? Estoy muy pasado de moda, nena!<FF03>Necesitas lentes?<FFFD><4BFF><F500>  Jo jo jo, eso deberias decirlo<FF03>a tus hijos!<FFF5>Oye, aun tengo mi cordura. No<FF03>me trates como bebe.<FFF5>  Argh. Te burlas de mi, eh.? Nena o<FF03>no, no me contendre.<FFFD><4CFF><F500>  Jo, jo, suena a que aun lo tengo si<FF03>me confundes con un jovencito!<FFF5> Eres como un angel, nena! Manten<FF03>puro ese corazon tuyo, oyes?<FFFD><4DFF><F500>  Jo jo. Nunca crei que me<FF03>buscarian a esta edad.<FFF5>De verdad te gustan las cosas raras",
+  "shortened": false
+ },
+ "talk_korou_00062": {
+  "t": " Que<FF03>bien crees que un viejo como yo puede<FF03>hacerte?<FFFD><4EFF><F500> Solo quiero vivir en paz. Por favor,<FF03>dejame en paz.<FFF5> Argh. Sere viejo, mas aun soy un<FF03><FFF0>. Soy libre de elegir mi trabajo.<FFFD><4FFF><F500> Je. Es bueno ser un <FFF0>.<FF03>Aun soy popular, hasta a esta edad.<FFF5> Saldrias perdiendo si contrataras a un<FF03>viejo como yo",
+  "shortened": false
+ },
+ "talk_korou_00064": {
+  "t": "<FFFD><50FF><F500>Solo soy un viejo esperando que la muerte<FF03>senale con su dedo huesudo y me lleve!<FF03>Te diviertes criticandome?<FFFD><51FF><F500>  Jo, jo. Hara falta mas que unas pocas<FF03>palabras feas para irritarme!<FFF5>Argh. Ahora estoy enojado. Crees tener<FF03>mordida para respaldar ese ladrido, nino.?<FFFD><52FF><F500>   Que ninita grosera. Parece que es<FF03>hora de ponerte sobre mi rodilla.<FFF5>Me burla una nena? <0056>sigh<0056><FF03>O como han caido los poderosos",
+  "shortened": false
+ },
+ "talk_korou_00065": {
+  "t": "<FFFD><53FF><F500> Que hice para merecer esto? Los<FF03>jovenes son una pandilla espantosa",
+  "shortened": true
+ },
+ "talk_korou_00066": {
+  "t": " No es una lastima! Si las jovenes<FF03>como tu supieran cuidar mejor su<FF03>piel, quiza me habria enamorado de ti!<FFFD><54FF><F500>Je",
+  "shortened": false
+ },
+ "talk_korou_00067": {
+  "t": " A veces es bueno solo disfrutar<FF03>la vida con los jovenes!<FFF5>  Oye. Las mujeres deben ser mas virtuosas.<FFFD><55FF><F500>  Argh. Eres solo una ninita. No<FF03>deberias coquetear asi<FF03>hasta que seas mayor.<FFF5>A mi edad, no hay mucho uso<FF03>en expresar esa clase de sentimientos, si<FF03>captas mi idea. Jo jo jo.<FFF5>Jo jo. Bueno, dicen que el amor trasciende<FF03>la edad, no? Supongo que es verdad.<FFFD><56FF><F500>   La rueda de la fortuna da a casi todos<FF03>su oportunidad! Solo debes ser paciente!<FFF5>  Oye, tendras tu pedazo del<FF03>pastel algun dia! No tiene caso llorar!<FFFD><57FF><F500> Argh. Ya creciste, no?<FF03>Deja de aferrarte a tus mayores. Debes<FF03>ser independiente.<FFFD><58FF><F500>   No quiero oirlo. Quejarse de las<FF03>cosas no cambiara nada.<FFF5> El mundo humano esta lleno de dureza",
+  "shortened": false
+ },
+ "talk_korou_00068": {
+  "t": "<FF03>No pierdas fe",
+  "shortened": true
+ },
+ "talk_korou_00069": {
+  "t": "<FFF5>  El mundo humano parece un lugar<FF03>duro",
+  "shortened": false
+ },
+ "talk_korou_00070": {
+  "t": " No quiero comer comida fria<FF03>a esta edad",
+  "shortened": true
+ },
+ "talk_korou_00071": {
+  "t": "<FFFD><59FF><F500>  Jo jo jo! Lo siento, nena, mas no<FF03>tienes cara para hacer amenazas!<FFFD><5AFF><F500>   Jo jo. Para tan dulce cara, si que<FF03>dices cosas aterradoras!<FFF5>  Argh. Intentas presionarme<FF03>a mi.? Eres un poco altanera para mi<FF03>gusto.<FFF5> Argh. Tengo mi orgullo que considerar.<FF03>No perdere ante una joven como tu.<FFFD><5BFF><F500>Qu-Que",
+  "shortened": false
+ },
+ "talk_korou_00072": {
+  "t": " Solo soy un viejo que esta<FF03>casi sin fuelle",
+  "shortened": true
+ },
+ "talk_korou_00073": {
+  "t": "No hice nada malo, o si?<FFFD><5CFF><F500> Oye. No tomes ese tono arrogante<FF03>conmigo, jovencita.<FFF5>Argh. Nada peor que ninos rebeldes como<FF03>tu.<FFFD><5DFF><F500> Eres una especie de sadico? ",
+  "shortened": false
+ },
+ "talk_korou_00074": {
+  "t": "Ahora que lo<FF03>pienso, si tienes la pinta",
+  "shortened": false
+ },
+ "talk_korou_00075": {
+  "t": "Solo soy un viejo grunon! Deja<FF03>de fastidiarme!<FFF5>Jo jo. Con una actitud asi, ningun<FF03>muchacho en sus cabales se casara<FF03>contigo.<FFFD><5FFF><F500>   Jo, jo. Tienes agallas, no.?<FF03>Esto sera divertido!<FFF5>   Jo jo jo",
+  "shortened": false
+ },
+ "talk_korou_00076": {
+  "t": " Nunca eres muy viejo para<FF03>aprender de los errores de otros!<FFF5>Je, pese a como luces, tienes una<FF03>cabeza sensata sobre esos hombros!<FFF5>  He estado cien veces mas tiempo<FF03>que tu. Claro que se eso.<FFF5>   Argh. Deja de preocuparte por este viejo<FF03>demonio y empieza por ti mismo.<FFFD><60FF><F500>  Jo, jo. Parece que el maestro<FF03>aprende del pupilo ahora.<FFFD><61FF><F500>No todo es blanco y negro!<FF03>Tienes mucho que aprender!<FFF5>  Oye. Por que tengo que comerme las<FF03>sobras.?<FFFD><62FF><F500>Oye. Que estes de mal humor<FF03>no significa que debas desquitarte con<FF03>los demonios.<FFF5> No recuerdo haber hecho nada que<FF03>mereciera un desprecio",
+  "shortened": false
+ },
+ "talk_korou_00077": {
+  "t": "<FFF5>  Qu-Que, de repente tu",
+  "shortened": false
+ },
+ "talk_korou_00078": {
+  "t": " Muchacho,<FF03>las humanas dan miedo!<FFF5>   Jo, jo. Perforas buscando petroleo, mas<FF03>este viejo esta todo seco!<FFF5>  Jo, jo. Me hace sentir como si<FF03>estuvieramos en la escuela!<FFFD><63FF><F500> Tu, el del cabello corto",
+  "shortened": true
+ },
+ "talk_korou_00079": {
+  "t": " Charla con<FF03>este viejo solo un poco, nena!<FFF5>  Jo jo jo, crees que me ignoras,<FF03>mas me tienes en tus pensamientos,<FF03>supongo.<FFFD><64FF><F500>Argh. Asi que ni merezco una mirada.?<FF03>Bien.<FFF5> Oye. Parezco una rata o algo",
+  "shortened": false
+ },
+ "talk_korou_00080": {
+  "t": "<FF03>Prestame algo de atencion.<FFFD><65FF><F500>   Asi que no tienes asuntos con este<FF03>vejete, eh? Me botan como<FF03>basura de ayer",
+  "shortened": false
+ },
+ "talk_korou_00081": {
+  "t": "<FFFD><66FF><F500>Ni puedes mirar a un viejo como yo,<FF03>verdad? Supongo que me desvanecere<FF03>sin que nadie lo note",
+  "shortened": true
+ },
+ "talk_korou_00082": {
+  "t": "<FFF5>  Jo, jo. El virtuoso nunca corteja<FF03>el peligro, eh? Mas mira aqui, dejame<FF03>decirte algo sobre la virtud",
+  "shortened": true
+ },
+ "talk_korou_00083": {
+  "t": "<FFFD><67FF><F500> Eres muy timido para hablar, no?<FF03>Jojojo",
+  "shortened": false
+ },
+ "talk_korou_00084": {
+  "t": "<FFF5>   Argh. Asi que ni merezco una mirada.?<FF03>Bien.<FFF5> Oye. Parezco una rata o algo",
+  "shortened": false
+ },
+ "talk_korou_00085": {
+  "t": "<FF03>Prestame algo de atencion.<FFFD><68FF><F500>   Asi que no tienes asuntos con este<FF03>vejete, eh? Me botan como<FF03>basura de ayer",
+  "shortened": false
+ },
+ "talk_korou_00086": {
+  "t": "<FFFD><69FF><F500>Ni puedes mirar a un viejo como yo,<FF03>verdad? Supongo que me desvanecere<FF03>sin que nadie lo note",
+  "shortened": true
+ },
+ "talk_korou_00087": {
+  "t": "<FFF5>  Jojojo, como esperas sostener una<FF03>espada sobre tu cabeza si apenas<FF03>puedes levantar una?<FFFD><6AFF><F500>Tienes una linda amenaza en esa voz<FF03>tuya! Si es tu voz natural,<FF03>atesorala, oyes?<FFF5> Argh. Intentas presionarme<FF03>a mi.? Eres un poco altanera para mi<FF03>gusto.<FFF5> Argh. Tengo mi orgullo que considerar.<FF03>No perdere ante una joven como tu.<FFFD><6BFF><F500>Qu-Que",
+  "shortened": false
+ },
+ "talk_korou_00088": {
+  "t": " Solo soy un viejo que esta<FF03>casi sin fuelle",
+  "shortened": true
+ },
+ "talk_korou_00089": {
+  "t": "No hice nada malo, o si?<FFFD><6CFF><F500> Calla. Que joven tan creido.<FFF5>  Oye. Intentas verme la cara de<FF03>tonto porque soy viejo.<FFFD><6DFF><F500>Qu-Que rayos",
+  "shortened": false
+ },
+ "talk_korou_00090": {
+  "t": " No tienes la voluntad<FF03>de negociar conmigo?<FFFD><6EFF><F500>  Cielos",
+  "shortened": false
+ },
+ "talk_korou_00091": {
+  "t": " Es peligroso meter<FF03>la nariz en los asuntos de los demonios",
+  "shortened": false
+ },
+ "talk_korou_00092": {
+  "t": "<FFF5>Jo, jo. Es genial verte tan lleno<FF03>de espiritu! Me siento mas joven solo<FF03>de verte.<FFF5> Jo, jo. Ese grito tuvo fuerza.<FF03>Mas que significaba?<FFFD><6FFF><F500>Jojojo, linda tecnica! Donde aprendiste<FF03>a hacer eso?<FFFD><70FF><F500> No es eso misterioso? ",
+  "shortened": false
+ },
+ "talk_korou_00093": {
+  "t": "Me gustaria<FF03>saber como hiciste eso!<FFF5>Usas magia muy misteriosa",
+  "shortened": true
+ },
+ "talk_korou_00094": {
+  "t": " No soy<FF03>bueno tratando con los de tu tipo",
+  "shortened": true
+ },
+ "talk_korou_00095": {
+  "t": "<FFF5>  Qu-Que rayos.? Intentas<FF03>sacarme algo",
+  "shortened": true
+ },
+ "talk_korou_00096": {
+  "t": "<FFFD><71FF><F500>  Jojojo. Gracias por tomarte el tiempo de<FF03>entretener a un viejo!<FFFD><72FF><F500>  Eres un mago excelente. Deberias<FF03>venir a mi asilo, te<FF03>adorarian alli.<FFF5>Jojojo, ya veo, ya veo! Las historias<FF03>humanas pueden ser utiles!<FFF5> A los humanos les gusta hablar de cosas<FF03>asi? Hrmm",
+  "shortened": false
+ },
+ "talk_korou_00097": {
+  "t": " Aprendi algo nuevo!<FFF5>  Tienes la boca grande, asi que tienes la<FF03>billetera grande tambien, no? Espero que<FF03>le des algo a tu mayor!<FFF1><FFF5>   Argh. Calla. No me interesa<FF03>eso.<FFF5> Que.? Me jubilo pronto. Solo<FF03>dejame en paz.<FFF5>Hablas demasiado. Los viejos se cansan<FF03>solo de oir, sabes.<FF02><FF04>Argh. Te cobro una tarifa por oirte.<FFF1><FFF5> Tu tecnica de negociacion<FF03>revela tus planes",
+  "shortened": false
+ },
+ "talk_korou_00098": {
+  "t": "Estas soltando un olor muy<FF03>sospechoso aqui",
+  "shortened": false
+ },
+ "talk_korou_00099": {
+  "t": "<FFF5>   Jojojo. Dices cosas tan interesantes.<FF03>Eres todo un conversador!<FFF5>  No importa el tema, me<FF03>encanta hablar con los jovenes!<FFF5>Estas dispuesto a tratar con un<FF03>vejete como yo? Que lindo!<FFF5>   Jojojo, nunca crei que un vejete<FF03>como yo aun sirviera de algo!<FFF5>Vaya, si me invitas,<FF03>aun debo estar en mi mejor momento.<FFF5>Jo, jo. No puedo darte mi poder con<FF03>tecnicas de negociacion como esas",
+  "shortened": false
+ },
+ "talk_korou_00100": {
+  "t": "<FF02><FF04>Quiza si me sorprendieras, seria<FF03>otra historia! Resulta que<FF03>hay algo que ansio",
+  "shortened": false
+ },
+ "talk_korou_00101": {
+  "t": "<FFF1><FFF5> Argh. No me gusta esta negociacion ni<FF03>un poco.<FF02><FF04>De hecho, la odio. Asi que dame algo.<FFF1><FFF5> Que.? Me jubilo pronto. Solo dejame<FF03>en paz.<FFF5>Que es eso.? Si quieres mi poder, entrega<FF03>la mercancia.<FFF1><FFF5>  Soy un viejo",
+  "shortened": false
+ },
+ "talk_korou_00102": {
+  "t": " Solo un vejete, de verdad!<FF03>No quiero nada muy peligroso",
+  "shortened": false
+ },
+ "talk_korou_00103": {
+  "t": "<FFF5>Mal presentimiento de ti en<FF03>las rodillas",
+  "shortened": true
+ },
+ "talk_korou_00104": {
+  "t": " Este viejo no te servira de mucho<FF03>igual",
+  "shortened": true
+ },
+ "talk_korou_00105": {
+  "t": "<FFF5>No es bueno cuando un humano pide<FF03>un favor",
+  "shortened": false
+ },
+ "talk_korou_00106": {
+  "t": "<FFF5> Jo, jo. Mi sangre guerrera hierve.<FFF5>   Lo dijiste. Aunque mientas, estoy<FF03>feliz como pez en el agua!<FFF5>  Quieres que te preste poder? Seguro<FF03>que si, mas espera un momento",
+  "shortened": false
+ },
+ "talk_korou_00107": {
+  "t": "<FFF5> Jojo, solo demuestra cuan joven eres<FF03>si usas tecnicas como esas!<FFF5> Crees controlar la<FF03>negociacion asi? Si es asi, tienes<FF03>mucho que aprender!<FFF5>  Jo, jo! Que lindo clima",
+  "shortened": false
+ },
+ "talk_korou_00108": {
+  "t": "<FF02><FF04>De verdad, que lindo dia!<FF02><FF04>Dame algo!<FFF1><FFF5>   Que te pasa.? Crees que estoy senil,<FF03>no.?<FF02><FF04>Argh. Que mocoso molesto.<FFF5>   Hmph. Los <FFF0> no palidecen ante<FF03>negociaciones como esa.<FF02><FF04>Vuelvete muy creido, y hasta yo me<FF03>enojare.<FFF5> Bueno, si vas a tomar esa actitud,<FF03>tengo una idea. Dame algo.<FFF1><FFF5>",
+  "shortened": false
+ },
+ "talk_korou_00110": {
+  "t": " Un vejete",
+  "shortened": true
+ },
+ "talk_korou_00111": {
+  "t": "<FFF5>   Los chicos de hoy dan miedo",
+  "shortened": true
+ },
+ "talk_korou_00112": {
+  "t": " Que<FF03>piensas de los ancianos?<FFF5>Si todos los ninos de alla afuera fueran<FF03>como tu, seria un mundo aterrador",
+  "shortened": false
+ },
+ "talk_korou_00113": {
+  "t": " Oh,<FF03>Dios no",
+  "shortened": true
+ },
+ "talk_korou_00114": {
+  "t": "<FFF5>  Je. Que es esa actitud.?<FF02><FF04>En fin! Cuando llegas a mi edad,<FF03>aprendes a sobrellevar los golpes!<FFF5>   Jo, jo. Veo que aun estas en esa<FF03>etapa rebelde! Apresurate y crece,<FF03>quieres?<FFF5>  No me queda mucho tiempo! Creo<FF03>que es mejor no enojarse y solo<FF03>disfrutar el invierno de mi vida!<FF02><FF04>Ya se. Quiza haga que me<FF03>ayudes!<FFF1><FFF5>   Jo, jo. Debes trabajar tu sincronia<FF03>un poco, mas eso pasa por un acto!<FFF5> Jo jo. Eres comico?<FF02><FF04>Es un mundo duro alla afuera para<FF03>los bromistas, mas no te desanimes, muchacho!<FFF5> Reconozco eso como un acto de clase.<FF03>Asi que dame mi tarifa de aprobacion. Je.<FFF1><FFF5>Bueno, eso fue distinto. Malo, mas<FF03>distinto.<FF02><FF04>Y yo que esperaba un<FF03>espectaculo comico.<FFF5>  Argh. Esto no esta bien. Basta.<FFF5> Argh. No me gusta esta negociacion ni<FF03>un poco.<FF02><FF04>De hecho, la odio. Asi que dame algo.<FFF1><FFF5> Lindo clima tenemos",
+  "shortened": false
+ },
+ "talk_korou_00115": {
+  "t": " No vi<FF03>nada, asi que solo dejame en paz",
+  "shortened": false
+ },
+ "talk_korou_00116": {
+  "t": "<FFF5>No te metas en asuntos de la gente<FF03>loca",
+  "shortened": true
+ },
+ "talk_korou_00117": {
+  "t": " Da mucho miedo",
+  "shortened": true
+ },
+ "talk_korou_00118": {
+  "t": "<FFF5> Jo jo jo. Eso es buenisimo. Jojojo!<FFF5>  Esta tecnica de negociacion se llama<FF03><0028>entretenimiento,<0028> no? Hazlo otra vez.<FFF5>   Eso fue lindo. Gracias por mostrarme<FF03>eso. Jojojo.<FFF5>  Bueno, mi lema siempre ha sido no dejar<FF03>pasar las oportunidades! Estoy listo!<FFF5>   Debo reconocerlo, tu tecnica de<FF03>negociacion es fascinante",
+  "shortened": false
+ },
+ "talk_korou_00119": {
+  "t": " Mas cuales son<FF03>tus planes para este viejo?<FFF5>Jo, jo. Planeas seducir a un hombre de<FF03>mi experiencia? Eso no funcionar!<FFF1><FFF5>  Soy un guerrero <FFF0>. Si cayera a<FF03>la tentacion humana, no podria mirar a mis<FF03>camaradas a la cara de nuevo.<FFF5>  No me interesa esa<FF03>basura insipida. Ve a hablar con otro<FF03>demonio.<FFF5>  Argh. Hay una manera correcta de hacer<FF03>todo. Lo entiendes?<FFF1><FFF5>   Una invitacion? Hmm",
+  "shortened": false
+ },
+ "talk_korou_00120": {
+  "t": " No dire que me<FF03>interesa, mas ultimamente, no sabes<FF03>que haran si los rechazas",
+  "shortened": false
+ },
+ "talk_korou_00121": {
+  "t": "<FFF5>   Espera un momento",
+  "shortened": true
+ },
+ "talk_korou_00122": {
+  "t": " Tengo este<FF03>mal presagio",
+  "shortened": true
+ },
+ "talk_korou_00123": {
+  "t": " Como si fuera justo<FF03>a tu trampa",
+  "shortened": true
+ },
+ "talk_korou_00124": {
+  "t": " Tengo un asunto urgente que<FF03>atender! Quiza la proxima vez!<FFF5>  Tanto me necesitas? Jojojo.<FF03>Me alegra saberlo.<FFF5>  No merezco tecnicas como esa!<FF03>Mas me alegra que la usaras",
+  "shortened": false
+ },
+ "talk_korou_00125": {
+  "t": "<FFF5>Jojojo. Que gran sensacion. Estoy<FF03>subiendo la escalera de la vida.<FFF5>No eres muy afortunada, eh, nena?<FF03>Bueno, estoy de buen humor, asi que no<FF03>tienes de que preocuparte!<FFF5>  Jo, jo. Eres una buena jovencita! Sabes<FF03>como respetar a tus mayores!<FFF5> Argh. Las mujeres que tratan de seducir a los hombres son<FF03>deplorables. Deplorables, digo.<FFF5>  Calla, tu. Las ninitas deberian estar<FF03>jugando a la casita o algo.<FFF5> Si entiendes cuan terrible soy,<FF03>entonces dame algo y vete.<FFF1><FFF5>  Me cuesta creer que eso<FF03>saliera de tu corazon",
+  "shortened": false
+ },
+ "talk_korou_00126": {
+  "t": "Pareces humilde, mas huelo<FF03>algo",
+  "shortened": false
+ },
+ "talk_korou_00127": {
+  "t": "<FFF5>Lo dijiste. Aunque mientas, estoy<FF03>feliz como pez en el agua!<FFF5>  Jojojo. De verdad soy bueno, no?<FFF5> Je. Dominas el arte de la supervivencia<FF03>de pe a pa, chico. No hare movimientos<FF03>bruscos, asi que no te preocupes!<FFF5>Que? Ya tienes mi carta de hechizo,<FF03>no? Cuidala bien, oyes?<FFEF>Te dare esto!<FFEF>  Que es eso? Asi que al final, no tenias<FF03>asuntos con un viejo de todos modos!<FFEF>   Soy de otra clase del todo!<FFEF>  No es una sorpresa? No tienes<FF03>lo que hace falta! Sigue entrenando!<FFEF>   Bueno, no hay nada que puedas hacer!<FF03>Te dare esto en su lugar!<FFEF>   Ya es hora de seguir caminos<FF03>distintos! Es triste, mas asi es el destino! Cuidense<FF03>ahora!<FFEF>Aqui hay mesada, jovencito! No<FF03>la gastes toda en un solo lugar!<FFEF> Estoy cansado",
+  "shortened": false
+ },
+ "talk_korou_00128": {
+  "t": " Te importa si me largo?<FFEF>  Mi espalda no estara muy bien,<FF03>mas aun estoy activo!<FF02><FF04>Mi carta de hechizo es vieja, mas<FF03>no la guardes en un cajon!<FFEF>  Urgh",
+  "shortened": true
+ },
+ "talk_korou_00129": {
+  "t": " Me dan dolores",
+  "shortened": true
+ },
+ "talk_korou_00130": {
+  "t": " Mejor<FF03>me voy a casa! A-A-Adios",
+  "shortened": false
+ },
+ "talk_korou_00131": {
+  "t": "<FFEF> Ay, ya basta. Los humanos son mucho mas<FF03>aburridos de lo que crei. Me<FF03>voy al camino.<FFEF> Ay, ya basta. Los humanos son mucho mas<FF03>aburridos de lo que crei.<FF02><FF04>Si te doy esto, me puedo ir, no.?<FFEF> Hrrnng",
+  "shortened": false
+ },
+ "talk_korou_00132": {
+  "t": " Me siento mareado",
+  "shortened": false
+ },
+ "talk_korou_00133": {
+  "t": " Eres<FF03>un mocoso, subiendome la<FF03>presion asi.<FFEF>  Mas, supongo que esta bien! Hasta los encuentros<FF03>fortuitos son del destino!<FF03>",
+  "shortened": true
+ },
+ "talk_korou_00134": {
+  "t": "Toma mi carta!<FFEF> Quiza forjes un nuevo<FF03>camino",
+  "shortened": true
+ },
+ "talk_korou_00135": {
+  "t": "<FFEF> Toma mi carta!<FFEF>",
+  "shortened": true
+ },
+ "talk_korou_00136": {
+  "t": "No quiero pelear contigo!<FFEF>No es un mundo facil para<FF03>los humanos! Me preocupo por ti, asi que<FF03>lleva esto contigo",
+  "shortened": true
+ },
+ "talk_korou_00137": {
+  "t": "<FFEF> Argh. Espalda",
+  "shortened": true
+ },
+ "talk_korou_00139": {
+  "t": "<FFEF>No voy a desafiarte! Te dare<FF03>mi carta de hechizo si me dejas ir",
+  "shortened": false
+ },
+ "talk_korou_00140": {
+  "t": "<FFEF>   Jo, jo. Que sorpresa hallar humanos<FF03>en un lugar como este!<FF02><FF04>Mas que haces aqui sin la<FF03>luz de la luna como guia?<FFFD><73FF><F500>   Si esto aparece, es un error!<FFF5>  Jo jo jo, no esperaba hallar a nadie<FF03>caminando conmigo aqui",
+  "shortened": false
+ },
+ "talk_korou_00141": {
+  "t": "<FF02><FF04>Es solitario sin luna, no?<FF03>Te hare compania, mas que tal<FF03>algo que valga la pena?<FFF1><FFF5>Oye. Este camino es privado. Estan<FF03>invadiendo si no tienen permiso.<FF02><FF04>Hm",
+  "shortened": false
+ },
+ "talk_korou_00142": {
+  "t": " Y eres humano, encima. Ugh, esto es<FF03>deplorable.<FFFD><74FF><F500> Oye. Este es mi camino. No<FF03>necesito humanos ensuciandolo.<FFF5>  Oye. Este es mi paseo. Necesitas<FF03>mi permiso para estar aqui.<FF02><FF04>Quieres pasar, paga el peaje.<FFF1><FFF5> Sin luna",
+  "shortened": false
+ },
+ "talk_korou_00143": {
+  "t": " los viejos no podemos<FF03>ver bien el suelo! Hace dificil<FF03>dar paseos nocturnos",
+  "shortened": false
+ },
+ "talk_korou_00144": {
+  "t": "Por que desaparece la luna?<FFFD><75FF><F500> Si esto aparece, es un error!<FFF5>  No soy alguien sospechoso",
+  "shortened": false
+ },
+ "talk_korou_00145": {
+  "t": " solo<FF03>un vejete",
+  "shortened": false
+ },
+ "talk_korou_00146": {
+  "t": " Por favor no danes",
+  "shortened": true
+ },
+ "talk_korou_00147": {
+  "t": "<FFF5>Es mejor ver la luna con algo<FF03>de botana en mano. Justo cuando lo<FF03>resolvi, apareciste.<FF02><FF04>Debes ser un regalo del cielo",
+  "shortened": false
+ },
+ "talk_korou_00148": {
+  "t": " asi que tienes<FF03>algo para mi, no?<FFFD><76FF><F500> Vaya, mira eso. La luna se<FF03>ve muy bien esta noche.<FF02><FF04>Que inspiracion! Se siente bien<FF03>estar vivo en momentos asi!<FFF5> Jo, jo. Un humano incauto cayo<FF03>en mi red.<FF02><FF04>Bienvenido a la oscuridad del<FF03>inframundo. Si quieres salir, dame<FF03>algo.<FFF1><FFF5><FFED>Eh? Un humano? Por favor, sin historias aburridas.<FF03>Hm",
+  "shortened": false
+ },
+ "talk_korou_00149": {
+  "t": "<FF02><FF04>Mas si logras impresionarme, quiza<FF03>obtengas mi carta!<FFFD><77FF><F500><FFEE>Esto es peculiar",
+  "shortened": false
+ },
+ "talk_korou_00150": {
+  "t": " No es propio de mi<FF03>hablar con humanos",
+  "shortened": true
+ },
+ "talk_korou_00151": {
+  "t": "<FFF5><FFED>Que? Crei haber hallado compania, mas<FF03>eran solo unos humanos extraviados.<FF02><FF04>Negociare contigo, mas mejor<FF03>que valga la pena con algo.<FFF1><FFF5> <FFEE>Te busco porque tengo<FF03>una pregunta",
+  "shortened": false
+ },
+ "talk_korou_00152": {
+  "t": " Dame tu mejor respuesta!<FF02><FF04>Que piensas de las noches sin luna<FF03>como esta, humano?<FFFD><78FF><F500> Si esto aparece, es un error!<FFF5>  <FFEC>Por que vagas por mi<FF03>territorio? No lo entiendo!<FFF5> <FFEB>Oooh. Vienes a hacerme compania?<FF03>Perfecto.<FF02><FF04>La suerte esta conmigo hoy. Por que no me<FF03>cuentas una historia? Hazla interesante.<FFFD><79FF><F500>  <FFEE>Ooh. Ooh. Te importa hacerme compania<FF03>un rato? Perdona la molestia!<FF02><FF04>No tengo mucho que ofrecer a mi edad,<FF03>mas negociare contigo de fe!<FFF5><FFEE>Je, tienes linda cara para un humano!<FF02><FF04>Quiza seas un santo algun dia. Jojojo.<FFF5><FFED>Oye. No tienes modales.? El primer<FF03>saludo viene del mas joven o el<FF03>inferior.<FF02><FF04>Qu-Que miras? Te comio la lengua el<FF03>gato?<FFFD><7AFF><F500> Si esto aparece, es un error!<FFF5>  <FFED>",
+  "shortened": false
+ },
+ "talk_korou_00153": {
+  "t": " Asi que SI era un humano. Por eso<FF03>me sentia mareado. Ahora tengo<FF03>emociones encontradas, gracias a ti.<FFF5> <FFEB>Je je. Otra victima atrapada por los<FF03>encantos de la luna.<FF02><FF04>Ya eres pez en un balde! Si<FF03>tienes ultimas palabras, las oire!<FFFD><7BFF><F500>   <FFEB>Mira la luna. Es una<FF03>noche tan hermosa.<FF02><FF04>De verdad hace rebosar el espiritu,<FF03>hasta en un vejestorio como yo.<FFF5>  <FFEB>Je je. Otra victima atrapada por los<FF03>encantos de la luna.<FF02><FF04>Me siento generoso esta noche! Tomare<FF03>algo distinto a tu vida!<FFF1><FFF5>   <FFEC>",
+  "shortened": false
+ },
+ "talk_korou_00154": {
+  "t": "Eh? Crei que eras un viejo<FF03>conocido! ",
+  "shortened": false
+ },
+ "talk_korou_00155": {
+  "t": "Quien anda ahi?<FFFD><7CFF><F500>   Si esto aparece, es un error!<FFF5>  <FFEB>",
+  "shortened": false
+ },
+ "talk_korou_00156": {
+  "t": "Eh? Crei que eras un viejo<FF03>conocido! Parece que me equivoco!<FF02><FF04>No te conozco de nada",
+  "shortened": false
+ },
+ "talk_korou_00158": {
+  "t": "<FFF5>   Oooh. Una vida de servicio es una vida<FF03>bien vivida! Tienes algun deseo?<FFEF> Argh. Estoy estallando. Listo para<FF03>levantar los punos.?<FFEF> Yeargh. Es un demonio. Ya sabes lo que<FF03>dicen, quien huye pelea otro dia.<FFEF>   Jojojo. No todos los dias rie uno<FF03>tanto.<FFEF>  Aun. Esto es una lata. Apresuremos<FF03>el paso en esta negociacion.<FF02><FF04>Vamos, no te quedes ahi con la<FF03>boca abierta. Apresurate y di tu<FF03>asunto.<FFEF>  Aun. Por que usas tecnicas como<FF03>esa conmigo",
+  "shortened": false
+ },
+ "talk_korou_00159": {
+  "t": "<FF02><FF04>No importa cuanto envejezca, no<FF03>entiendo mejor a los humanos! Que<FF03>quieres de mi?<FFEF> Jo, jo. Eso fue hospitalidad de la<FF03>mejor. Eres de lo mas sincero.<FF02><FF04>Bien, para mostrar mi gratitud, te<FF03>devolvere el favor.<FFEF> Que rayos",
+  "shortened": false
+ },
+ "talk_korou_00160": {
+  "t": " Por que un viejo como<FF03>yo pasa por esto.?<FFEF>  Tu estilo de negociacion es inmaduro.<FF03>Intentalo de nuevo luego!<FFEF>   Hmmm",
+  "shortened": true
+ },
+ "talk_korou_00161": {
+  "t": " Quiza si fuera contigo, tendria<FF03>una vida en paz! Quiza sea hora<FF03>de ceder",
+  "shortened": false
+ },
+ "talk_korou_00162": {
+  "t": "<FFEF>  Pues",
+  "shortened": true
+ },
+ "talk_korou_00163": {
+  "t": " Que deberia pedir",
+  "shortened": false
+ },
+ "talk_korou_00164": {
+  "t": "<FF02><FF04>Supongo que tomare mi parte del dinero!<FF03><004F><FFF8>!<FFEF> Jo, jo. Haces parecer que el dinero<FF03>crece en los arboles.<FFF5> Bolsillos vacios, eh?. No tienes remedio",
+  "shortened": true
+ },
+ "talk_korou_00165": {
+  "t": "<FF03>Mas supongo que no das lo que<FF03>no tienes",
+  "shortened": true
+ },
+ "talk_korou_00166": {
+  "t": "<FFF5>  Oye. Te quedas corto. Mentir nunca<FF03>paga.<FFF5> Que desperdicio",
+  "shortened": false
+ },
+ "talk_korou_00167": {
+  "t": " Se supone que debes<FF03>ahorrar dinero a tu edad, no?<FFF5> A nadie le gusta vaciar la billetera",
+  "shortened": false
+ },
+ "talk_korou_00168": {
+  "t": "<FF03>Mas aun debes hacerlo.<FFF5>Veamos",
+  "shortened": false
+ },
+ "talk_korou_00169": {
+  "t": " Creo que tomare una<FF03>deliciosa piedra de vida! Una bastara!<FFEF>  Jo jo. Te portas bien para tu edad!<FFF5>   No tienes la mercancia.? Quien<FF03>negocie sin piedras de vida es un verdadero<FF03>terror",
+  "shortened": false
+ },
+ "talk_korou_00170": {
+  "t": "<FFF5>   Oye. Te quedas corto. Mentir nunca<FF03>paga.<FFF5> No lo entiendes, eh? No hay<FF03>puerta que una piedra de vida no abra! Mejor<FF03>tenlo en mente!<FFF5>   A nadie le gusta vaciar la billetera",
+  "shortened": false
+ },
+ "talk_korou_00171": {
+  "t": "<FF03>Mas aun debes hacerlo.<FFF5>No soy aprovechado, mas me gustaria<FF03>mucho una <FFF4>!<FFEF>  Me la daras? Supongo que todo<FF03>vale la pena intentar! Jojojo!<FFF5> Fue mi error!<FFF5> Jo jo jo. Solo intentaba ser algo<FF03>ambicioso! No le hagas caso a este<FF03>viejo!<FFF5> Argh. Que desperdicio. Intentas burlarte<FF03>de vivir dentro de tus medios.?<FFF5> Dejame ver",
+  "shortened": false
+ },
+ "talk_korou_00172": {
+  "t": " Prefiero comida a flores<FF03>cualquier dia! Dame algo de vida!<FFEF> Jo jo. Que delicia. Mejor no<FF03>como de mas! Me da indigestion.<FFF5> Eh? Estas bien? Debes cuidarte<FF03>mejor!<FFF5>   Argh. No me dejas tomar nada.? No<FF03>deberias ser tan quisquilloso.<FFF5>  De veras.? Bueno, entiendo la necesidad de<FF03>ser modesto.<FFF5> Que es eso.? Dices que hay cosas<FF03>que ni yo puedo lograr? Intrigante.<FFF5>  Soy viejo! No deberia esforzarme",
+  "shortened": false
+ },
+ "talk_korou_00173": {
+  "t": "<FFF5>  Asi es. Dame los detalles, y<FF03>te prestare mi oido!<FFF5>  Jojojo, tienes buena seleccion!<FF03>Quiza valga la pena complacerte",
+  "shortened": false
+ },
+ "talk_korou_00174": {
+  "t": "<FFF5>   Oye. No hay peor tactica de negociacion<FF03>que el soborno.<FFF5>   De que te emocionas.?<FF03>Nunca dije que te daria mi carta.<FFF5>Je, me alegra que seas honesto!<FFF5>  Eh? No la necesitas? Pues no eres<FF03>divertido",
+  "shortened": true
+ },
+ "talk_korou_00175": {
+  "t": "<FFF5>  Argh. No lo entiendes. Eso no me<FF03>afectara en lo mas minimo.<FFF5> Ah, no has dado el primer paso<FF03>hacia la espiritualidad! No que te culpe<FF03>a tu edad!<FFF5> Q-Que planeas arrancar",
+  "shortened": false
+ },
+ "talk_korou_00176": {
+  "t": "<FF03>No los entiendo a ustedes humanos<FF03>nada",
+  "shortened": true
+ },
+ "talk_korou_00177": {
+  "t": "<FFF5><0056>nod<0056> Eres un buen muchacho sincero!<FFF5>  Argh. Bien entonces.<FFF5>   Eh? Estoy perdiendo el interes aqui!<FFF5>  Si solo soy un numero para tu conteo,<FF03>no caere sin pelear.<FFF5>   Ugh",
+  "shortened": false
+ },
+ "talk_korou_00178": {
+  "t": " Que crees que haces?<FF03>Me estas dando un susto de muerte",
+  "shortened": false
+ },
+ "talk_korou_00179": {
+  "t": "<FFF5>Oh, eso fue broma? Me agarraste. Te<FF03>veias tan real! Jojojo!<FFF5>Crei estar jubilado, mas el deber me<FF03>llama de nuevo",
+  "shortened": false
+ },
+ "talk_korou_00180": {
+  "t": "sigh<0056><FFF5>  Planeas cocinarme? Los demonios no son<FF03>tan comestibles! Asi que que planeas",
+  "shortened": false
+ },
+ "talk_korou_00181": {
+  "t": "<FFF5>Jo, jo. Quieres oir los desvarios<FF03>de un viejo? Claro. Te complacere!<FFF5>   Oh",
+  "shortened": false
+ },
+ "talk_korou_00183": {
+  "t": " Vaya, revuelcame en<FF03>harina y llamame cena! Me enoje<FF03>por nada!<FFF5> Que.? No estoy protegido por la ley.?<FFF5>  Argh. La discriminacion es mala.<FF03>Especialmente asi.<FFF5>Jo, jo. Suena a que lo interprete de<FF03>mas! Mis disculpas!<FFF5> Es asi? Entonces esta bien!<FFF5>No hagas preguntas a una boca cerrada",
+  "shortened": false
+ },
+ "talk_korou_00184": {
+  "t": "<FF03>El mundo esta lleno de miedos",
+  "shortened": true
+ },
+ "talk_korou_00185": {
+  "t": "<FFF5>   <0056>sigh<0056> No trato con un nino<FF03>que no puede entenderme!<FFF5>  Podrias cantar a cappella, no me<FF03>importa! No cambia tu ritmo.<FFF5>   Hrm",
+  "shortened": false
+ },
+ "talk_korou_00186": {
+  "t": " Esa no estuvo mal! Algo<FF03>relajante!<FFF5>Encima de eso, tienes mal genio!<FF03>",
+  "shortened": false
+ },
+ "talk_korou_00187": {
+  "t": "No aguanto toda esta patrana!<FFF5>   Asi que si perdiste la cabeza",
+  "shortened": false
+ },
+ "talk_korou_00188": {
+  "t": " Pobre<FF03>cosa",
+  "shortened": false
+ },
+ "talk_korou_00189": {
+  "t": "<FFF5>   Oye. Sonrie todo lo que quieras, mas es<FF03>insincero! Y tu voz horrible sigue<FF03>siendo horrible.<FFF5>Jojo. Asi esta bien, asi esta bien!<FFF5>Hmph. Es duro tratar con simplones<FF03>que se obsesionan con una cosa.<FFF5> Eh? Ya terminaste? Que lastima!<FFF5>   Hmph",
+  "shortened": false
+ },
+ "talk_korou_00190": {
+  "t": " Que adulacion tan obvia",
+  "shortened": false
+ },
+ "talk_korou_00191": {
+  "t": "<FFF5>   Lamento decirlo, mas soy<FF03>muy viejo para ayudarte!<FFF5>  Jojojo, dejas que el viento te lleve<FF03>donde quiera, eh? Interesante!<FFF5>   Asi que ahora que sabes, deberias<FF03>echarte atras mientras puedas!<FFF5> Hmm",
+  "shortened": true
+ },
+ "talk_korou_00192": {
+  "t": " Dices lo que piensas, no?<FF02><FF04>Mas aun asi, estas aqui para negociar<FF03>conmigo, no? Apuesto a que si!<FFF5> Argh. Que mocoso tan revoltoso.<FF03>Hora de sacar la cuchara de palo.<FFF5>   Jo, jo. Nena, sabes justo como<FF03>adular a un demonio.<FFF5>   Que",
+  "shortened": false
+ },
+ "talk_korou_00194": {
+  "t": "<FFF5>   Oye. Si soy menos que paja, entonces quien<FF03>eres tu para venir a rogar favores.?<FFF5> Eres tonta.? Hablaba de<FF03>la clase mas rara de belleza.<FFF5>Jojojo! Es bueno que seas linda,<FF03>porque eres de plano tonta!<FFF5>   Jo, jo. Descifrar el sentido de mis<FF03>palabras requiere habilidad!<FFF5>  Que.? Y que si fue sarcasmo, no<FF03>hay que alterarse tanto.<FFF5>Oh",
+  "shortened": false
+ },
+ "talk_korou_00195": {
+  "t": " Eso es todo? Vaya, revuelcame en<FF03>harina y llamame cena! Me enoje<FF03>por nada!<FFF5>   Hm, no haras nada?<FFF5>  No puedo confiar en ti asi como asi! Has<FF03>de estar tramando algo",
+  "shortened": false
+ },
+ "talk_korou_00196": {
+  "t": "<FFF5>   Q-Que planeas comer? No<FF03>te darias un festin con mi alma, o si",
+  "shortened": false
+ },
+ "talk_korou_00197": {
+  "t": "<FFF5>   Jojojo. Me alegra oir eso!<FFF5>Argh. Es un hecho. Deja<FF03>tu palabreria.<FFF5>Jo, jo. Somos como dos gotas de agua!<FFF5>  Oh, estas ocupada? Adios a llevarte<FF03>a un lugar lindo",
+  "shortened": false
+ },
+ "talk_korou_00198": {
+  "t": "<FFF5> Estas tan ocupada que me ruegas",
+  "shortened": false
+ },
+ "talk_korou_00199": {
+  "t": "<FF03>El mundo humano sera duro",
+  "shortened": true
+ },
+ "talk_korou_00200": {
+  "t": "<FFF5>  Tienes nervios de acero o algo?<FF03>Las mujeres de hoy me dan miedo",
+  "shortened": true
+ },
+ "talk_korou_00201": {
+  "t": "Entonces esta bien!<FFF5> Argh. Que jovencita tan grosera. Ya<FF03>llegue a mi limite.<FFF5>  Jojojo. Tomare lo que pueda!<FFF5>  Argh. Tiene un sentido distinto.<FF03>De vuelta a los libros contigo.<FFF5>Asi es",
+  "shortened": false
+ },
+ "talk_korou_00202": {
+  "t": " Mas con una actitud<FF03>asi",
+  "shortened": false
+ },
+ "talk_korou_00203": {
+  "t": " Esto es sospechoso",
+  "shortened": true
+ },
+ "talk_korou_00204": {
+  "t": "<FFF5>   Eso no esta bien!<FFF5>Jo, jo. Perdiste la memoria? Pues,<FF03>buscala!<FFF5>  Oye. Por que paraste.? No seguiste<FF03>el ritmo de tus mentiras.?<FFF5>Hmm",
+  "shortened": true
+ },
+ "talk_korou_00205": {
+  "t": " SI depende de mi! Me disculpo!<FFF5>Fue grosero con el venado? Pues<FF03>me disculpo con ellos!<FFF5>  Jojojojo, asi es!<FFF5>Eres un poco obediente de mas! Creo<FF03>que esto va demasiado bien",
+  "shortened": true
+ },
+ "talk_korou_00206": {
+  "t": "<FFF5>   Oh, asi que SI era mentira! Al final,<FF03>soy solo un vejete",
+  "shortened": true
+ },
+ "talk_korou_00207": {
+  "t": "<FFF5>Bien!<FFF5> ",
+  "shortened": true
+ },
+ "talk_korou_00208": {
+  "t": "Eso no es bueno",
+  "shortened": false
+ },
+ "talk_korou_00209": {
+  "t": "<FFF5>  Argh. Claro, a ti te parece bien, mas<FF03>yo soy el acabado.<FFF5>   Oh, no eres tan malo despues de todo!<FF03>Los ninos obedientes son los mejores!<FFF5> No me gustan los ninos que ignoran<FF03>las ensenanzas de sus mayores!<FFF5>   No lo entiendes. No me molesto<FF03>con ninos que tratan las palabras de los<FF03>viejos como basura.<FFF5>",
+  "shortened": true
+ },
+ "talk_korou_00210": {
+  "t": "Eh, no esperaba una respuesta<FF03>directa",
+  "shortened": false
+ },
+ "talk_korou_00211": {
+  "t": "Estas bien con hombres.? Pues, en mis<FF03>dias, eso no pasaba",
+  "shortened": true
+ },
+ "talk_korou_00212": {
+  "t": "<FFF5>Exacto. De acuerdo.<FFF5>  Jo, jo. Ese chiste es un clasico! Eres<FF03>todo un animador.<FFF5>   No tienes sentido. A quien<FF03>llamas Sra! Kawasaki.?<FFF5> No creo entender ese chiste",
+  "shortened": false
+ },
+ "talk_korou_00213": {
+  "t": " Creo<FF03>que lo contaste mal",
+  "shortened": false
+ },
+ "talk_korou_00214": {
+  "t": " Que es eso?<FFF5>   Que dices",
+  "shortened": false
+ },
+ "talk_korou_00215": {
+  "t": " Si eso es de veras<FF03>lo que quieres, te pondre rojo.<FFF5>  Por desgracia, no se pone verde<FF03>muy facil",
+  "shortened": false
+ },
+ "talk_korou_00219": {
+  "t": " Jojo.<FF03>Para",
+  "shortened": true
+ },
+ "talk_korou_00221": {
+  "t": " Jojojo.<FFF5> Urgh. Rah. Mi risa paro.<FFF5>Estoy con dolor y tu bromeas.?<FF03>Desconsiderado bueno para nada.<FFF5> Ack. No puedo hacer nada vergonzoso de<FF03>ahora en mas.<FFF5> ",
+  "shortened": false
+ },
+ "talk_korou_00222": {
+  "t": "Es asi? Bien por mi, mientras no<FF03>hablemos de mi debilidad",
+  "shortened": false
+ },
+ "talk_korou_00223": {
+  "t": "No digas cosas tragicas asi",
+  "shortened": false
+ },
+ "talk_korou_00224": {
+  "t": "<FFF5>No. Eso no es bueno. Te arreglare ya<FF03>mismo.<FFF5> Cierto, mas aun prefiero un bano caliente!<FFF5>   No, tu lo eres! Debes estar mas atento<FF03>de las cosas.<FFF5>  Jo, jo. Sabes jugar la carta de<FF03>la calma.<FFF5> Oye. No puedes tener esa actitud<FF03>si vas a cargar el peso del<FF03>mundo algun dia.<FFF5> ",
+  "shortened": false
+ },
+ "talk_korou_00225": {
+  "t": "Por que eres tan violento con<FF03>un viejo",
+  "shortened": false
+ },
+ "talk_korou_00227": {
+  "t": " Rayos, estoy muy sacudido! Me<FF03>agarraste ahi!<FFF5> Argh. Da tu mejor golpe.<FFF5>  ",
+  "shortened": false
+ },
+ "talk_korou_00228": {
+  "t": "No digas eso! Saltalos",
+  "shortened": false
+ },
+ "talk_korou_00229": {
+  "t": "<FFF5> De veras quieres los pelos de mi atras.?<FF03>Que vas a hacer, olerlos",
+  "shortened": true
+ },
+ "talk_korou_00230": {
+  "t": "<FFF5>  Los arrancaras sobre mi cadaver.<FFF5> No, no! Los higados son mejores como sashimi!<FFF5>  Si te enfrias mas que esto,<FF03>perdere el poco vigor que tengo",
+  "shortened": false
+ },
+ "talk_korou_00231": {
+  "t": "<FFF5>Por que frotaste.?<FFF5>Oh, bueno si no tienes, entonces<FF03>no lo necesito!<FFF5>   Argh. Que es esa actitud.? El<FF03>cliente siempre tiene la razon.<FFF5>Quien",
+  "shortened": false
+ },
+ "talk_korou_00233": {
+  "t": "<FFF5>  Nada como sentarse en el<FF03>kotatsu y comer mandarinas",
+  "shortened": false
+ },
+ "talk_korou_00234": {
+  "t": "<FFF5>No soy bueno con animales, mas tengo<FF03>debilidad por gatitos!<FFF5>   Odio los gatos.<FFF5>   ",
+  "shortened": true
+ },
+ "talk_korou_00235": {
+  "t": "Parece que podre morderte.<FFF5>Por supuesto. No conoces refranes.?<FFF5>   Bueno, por supuesto",
+  "shortened": false
+ },
+ "talk_korou_00236": {
+  "t": " No creo que<FF03>intentara eso, aunque lo pidieras",
+  "shortened": false
+ },
+ "talk_korou_00237": {
+  "t": "<FFF5>Ooh. Se ve muy bien de cerca.<FFF5>Jojojo! Eres uno honesto!<FF03>Te apoyo!<FFF5>  Oye. No he caido tan bajo como para<FF03>dejar que un nino me regane.<FFF5>   Jojojo. Eres tan agresivo, que no<FF03>siento la necesidad de enojarme.<FFF5>  Argh. Tus labios siguen moviendose.<FF03>Los pondre morados.<FFF5>   ",
+  "shortened": false
+ },
+ "talk_korou_00238": {
+  "t": "No eres solo palabras",
+  "shortened": true
+ },
+ "talk_korou_00239": {
+  "t": "<FFF5>No podria mirar a mis ancestros a la cara<FF03>si dejara pasar esta burla. Debes<FF03>ser castigado, nino.<FFF5>  Por supuesto! No me tomes literal!<FFF5> Jo, jo. Que historia tan loca. Ya<FF03>veo por que eres buen conversador!<FFF5>  Jojojo! Tu tambien sorprendido?<FFF5>  Espero que llueva",
+  "shortened": true
+ },
+ "talk_korou_00240": {
+  "t": " Esta sequia me pone<FF03>ansioso",
+  "shortened": false
+ },
+ "talk_korou_00241": {
+  "t": "<FFF5> Llueve todo el tiempo. ",
+  "shortened": false
+ },
+ "talk_korou_00242": {
+  "t": "Pues, no<FF03>ha sido asi de tarde!<FFF5> Asi es! Solo tenias que<FF03>disculparte!<FFF5> Asi es! Solo tenias que<FF03>disculparte! No que vivas de<FF03>buenos modales toda la vida",
+  "shortened": true
+ },
+ "talk_korou_00243": {
+  "t": "<FFF5>  Argh. Esto va mas alla de aprobar.<FF03>Decepcionaste a la raza humana.<FFF5>   Los jovenes dan miedo estos dias",
+  "shortened": true
+ },
+ "talk_korou_00244": {
+  "t": "<FFF5>  Los jovenes dan miedo hoy",
+  "shortened": true
+ },
+ "talk_korou_00245": {
+  "t": "<FFF5>  Oh, no lo entiendes",
+  "shortened": false
+ },
+ "talk_korou_00246": {
+  "t": " Bueno eso<FF03>de veras me molesta.<FFF5>Jojojo. Esta bien!<FFF5>   Que se supone que significa eso.? No tienes<FF03>derecho a probar a tus mayores.<FFF5> Jojojo, lo veo todo.<FFF5>  Argh. Tienes las agallas de seguir tu<FF03>actito inocente.? Ya basta.<FFF5>Asi que se revela el verdadero yo. Es hora<FF03>de poner a prueba a este viejo.<FFF5>   Eso es calderilla!<FFF5>  No importa lo que digas, es inutil en<FF03>mi ahora!<FFF5>Oye. Eso no fue sarcastico. No soy tan<FF03>facil de enganar.<FFF5>  Jo, jo. No he envejecido en<FF03>vano!<FFF5>  Si tuviera tiempo, te guiaria por ello,<FF03>mas",
+  "shortened": false
+ },
+ "talk_korou_00247": {
+  "t": " Quiza la proxima vez!<FFF5>Asi tratas a alguien que esta<FF03>de veras preocupado por ti.?<FFF5>  Es asi",
+  "shortened": false
+ },
+ "talk_korou_00248": {
+  "t": " Bueno eso no es muy<FF03>distinto a mi",
+  "shortened": false
+ },
+ "talk_korou_00249": {
+  "t": "<FFF5>   Listo? Mira bien. ",
+  "shortened": false
+ },
+ "talk_korou_00250": {
+  "t": "<FF03>Me estoy poniendo rigido! Renuncio!<FFF5>  Estaba listo para echarte una mano!<FF03>Eres un nino muy tonto.<FFF5>",
+  "shortened": false
+ },
+ "talk_korou_00252": {
+  "t": "<FFF5>   Quieres oir mis historias.? Te dare<FF03>todas las que quieras cuando<FF03>terminemos de negociar aqui!<FFF5> Pues",
+  "shortened": true
+ },
+ "talk_korou_00253": {
+  "t": " A veces menos es mas",
+  "shortened": false
+ },
+ "talk_korou_00254": {
+  "t": "<FFF5>  Vamos, vamos, joven! Dale a un<FF03>viejo su momento al sol!<FFF5>  Jojojo! Es inutil! Estoy en un estado<FF03>de despertar espiritual!<FFF5> Argh. No lo entiendes, verdad.? Es<FF03>inutil.<FFF5> Que planeas arrancar",
+  "shortened": false
+ },
+ "talk_korou_00255": {
+  "t": " No hay<FF03>nada aqui que arrancar",
+  "shortened": false
+ },
+ "talk_korou_00256": {
+  "t": "<FFF5>  Argh. Bien entonces.<FFF5>   Ya confiesas? Justo cuando mi<FF03>presion subia",
+  "shortened": false
+ },
+ "talk_korou_00257": {
+  "t": "<FFF5>  Que quieres decir con eso.? Eres un nino<FF03>arrogante!<FFF5>   Si solo soy un numero para tu conteo,<FF03>no caere sin pelear.<FFF5>   Ugh",
+  "shortened": false
+ },
+ "talk_korou_00258": {
+  "t": " Que crees que haces?<FF03>Me estas dando un susto de muerte",
+  "shortened": false
+ },
+ "talk_korou_00259": {
+  "t": "<FFF5>Oh, eso fue broma? Me agarraste. Te<FF03>veias tan real! Jojojo!<FFF5>Por que buscas eso? Tendras<FF03>una pronto!<FFF5>  Lo cual significa",
+  "shortened": false
+ },
+ "talk_korou_00260": {
+  "t": " No querras decir que te gusto,<FF03>o si?<FFF5>  Lo cual",
+  "shortened": true
+ },
+ "talk_korou_00261": {
+  "t": " Jo, jo. Husmeas<FF03>mi debilidad, no.?<FFF5>Te dije que no miraras, asi que por que<FF03>miras.?<FFF5>Eh",
+  "shortened": false
+ },
+ "talk_korou_00262": {
+  "t": " No tienes que hacer eso",
+  "shortened": false
+ },
+ "talk_korou_00263": {
+  "t": "<FFF5> J-Justo ahi! Ese es el punto. ",
+  "shortened": false
+ },
+ "talk_korou_00264": {
+  "t": "Ooh.<FFF5>Eres bueno animando a los viejos,<FF03>no.? ",
+  "shortened": false
+ },
+ "talk_korou_00265": {
+  "t": "Bueno saber",
+  "shortened": true
+ },
+ "talk_korou_00266": {
+  "t": "<FFF5>Tu humildad te delata",
+  "shortened": false
+ },
+ "talk_korou_00268": {
+  "t": "<FFF5>   Oye. Esa no es la respuesta. Se<FF03>supone que me alabes ahi.<FFF5>Es mentira. Se que eres de dos caras.<FFF5> Jo jo",
+  "shortened": true
+ },
+ "talk_korou_00269": {
+  "t": " Dices mentiras tan<FF03>monstruosas con solo dos caras? Los humanos son<FF03>listos",
+  "shortened": true
+ },
+ "talk_korou_00270": {
+  "t": "<FFF5> Esa cuenta no cuadra",
+  "shortened": false
+ },
+ "talk_korou_00271": {
+  "t": " No me digas que<FF03>la cara se parte con cada engano",
+  "shortened": true
+ },
+ "talk_korou_00272": {
+  "t": "<FFF5>  Si eso es lo que piensas, entonces ya no<FF03>me importa!<FFF5>   Deja de criticar. Solo intentas<FF03>hallar falla en todo.<FFF5> Hrm, si las examinas con ojo mas<FF03>agudo, sera distinto",
+  "shortened": false
+ },
+ "talk_korou_00273": {
+  "t": " Esta es<FF03>buena!<FFF5> Oye. Hablar grande esta bien, mas sin mentir.<FF03>Mentir es de canallas.<FFF5> Jo, jo. Volveras? Pues",
+  "shortened": true
+ },
+ "talk_korou_00274": {
+  "t": "<FF03>Vaya!<FFF5> No estas haciendo mucha conversacion<FF03>aqui",
+  "shortened": false
+ },
+ "talk_korou_00275": {
+  "t": "<FFF5>Eso es irresponsable.<FFF5>Buena idea. Detendre el corazon, y tu<FF03>cuentas algo de miedo.<FFF5>  Por que un codo? No entiendo el<FF03>estilo occidental",
+  "shortened": true
+ },
+ "talk_korou_00277": {
+  "t": " Asi que dices que todo es<FF03>aprendizaje!<FFF5>  Quieres decir que QUIERES enfrentar algo<FF03>asi? ",
+  "shortened": true
+ },
+ "talk_korou_00278": {
+  "t": "No lo entiendo!<FFF5>Oh, es asi?<FFF5>Eh? Sospechas de mi?. Que grosera<FF03>ninita.<FFF5>   A decir verdad, hay una<FF03>cosa que me asusta! Mas es secreto!<FFF5>Jo, jo. No he envejecido por<FF03>nada.<FFF5>  Jojojo! Asi que tienes buena personalidad<FF03>tambien! Quiza seas la proxima Marilyn!<FFF5>Jo, jo. Esa fue una mentira descarada! Deberias<FF03>empezar de cero con clases de canto!<FFF5>   Hrm",
+  "shortened": false
+ },
+ "talk_korou_00279": {
+  "t": " Quiza en 300 anos mas!<FFF5>Eso no. Noooooooo.<FFF5>   Que jovencita tan retorcida",
+  "shortened": false
+ },
+ "talk_korou_00280": {
+  "t": " Creo<FF03>que sera mejor solo detener la<FF03>negociacion aqui mismo",
+  "shortened": false
+ },
+ "talk_korou_00281": {
+  "t": "<FFF5>  Esa cancion cambia de tono raro",
+  "shortened": true
+ },
+ "talk_korou_00282": {
+  "t": "<FF02><FF04>No se quien la escribio, mas no es<FF03>malo eso para su venta?<FFF5> Hrm",
+  "shortened": false
+ },
+ "talk_korou_00283": {
+  "t": " Esa es una cancion de la que<FF03>enorgullecerse.<FFF5>Solo digo la verdad!<FFF5>Que es esta cosa nueva? Una<FF03>placa de plata? Un espejo, quiza?<FF02><FF04>Crees que hablo en serio? Se que es un CD,<FF03>caramba.<FFF5>  Es",
+  "shortened": true
+ },
+ "talk_korou_00285": {
+  "t": " Pues, soy un <FFF0> mas<FF03>a la antigua, asi",
+  "shortened": true
+ },
+ "talk_korou_00286": {
+  "t": "<FFF5>   E-Es asi.? Sere un <FFF0><FF03>a la antigua, mas aun me defiendo.<FFF5>   Te burlas de mi edad.? Tengo noticias<FF03>para ti, no soy tan viejo aun.<FFF5>Supongo que deje volar mi genio<FF03>un poco ahi",
+  "shortened": false
+ },
+ "talk_korou_00287": {
+  "t": " Me disculpo, asi que dejemos<FF03>lo pasado en el pasado!<FFF5> Perdona eso! No hay que enojarse<FF03>ahora!<FFF5>Te burlas de mi edad.? Tengo noticias<FF03>para ti, no soy tan viejo aun.<FFF5>Asi debe ser. Las ninas deben<FF03>ser dulces y obedientes!<FFF5>   No puedo creer eso",
+  "shortened": false
+ },
+ "talk_korou_00288": {
+  "t": " Si no eres<FF03>angel, ya no confio en humanos",
+  "shortened": true
+ },
+ "talk_korou_00289": {
+  "t": "<FFF5> Bueno, los angeles son tercos y remilgados,<FF03>aunque sean mensajeros de Dios!<FF02><FF04>Claro, hablo de la<FF03>definicion general aqui!<FFF5> Crei haberme jubilado, mas parece que<FF03>tengo mas trabajo que hacer",
+  "shortened": false
+ },
+ "talk_korou_00290": {
+  "t": " <0056>sigh<0056><FFF5>   Materiales? Cual es tu plan para mi,<FF03>nena? No vas a comerme",
+  "shortened": false
+ },
+ "talk_korou_00291": {
+  "t": "<FFF5>  De verdad quieres oir los desvarios<FF03>de un viejo, nena? Que loable",
+  "shortened": false
+ },
+ "talk_korou_00292": {
+  "t": "<FFF5>   Argh. Dices que no tengo el derecho.?<FF03>Hmph. Deja tu tonteria.<FFF5>Que dices",
+  "shortened": false
+ },
+ "talk_korou_00293": {
+  "t": " El mundo es todo<FF03>hermano y hermana, no.?<FF02><FF04>Entonces debes ser amable con los demonios<FF03>tambien, nena!<FFF5>No deberias discriminar solo porque<FF03>soy demonio",
+  "shortened": false
+ },
+ "talk_korou_00294": {
+  "t": " No te ensenan<FF03>eso en la escuela",
+  "shortened": false
+ },
+ "talk_korou_00295": {
+  "t": "<FFF5>  Jo, jo. Feliz como ciruela madura. Eres<FF03>una linda jovencita!<FFF5>   ",
+  "shortened": true
+ },
+ "talk_korou_00296": {
+  "t": "Claro! Mientras estes conmigo,<FF03>habra beneficios!<FFF5>",
+  "shortened": true
+ },
+ "talk_korou_00297": {
+  "t": "Asi que a quien le toco lo peor?<FF03>A mi",
+  "shortened": true
+ },
+ "talk_korou_00298": {
+  "t": "Que dama",
+  "shortened": false
+ },
+ "talk_korou_00299": {
+  "t": "<FFF5>  Jo, jo. Si tu eres feliz, yo tambien.<FFF5>  Si te aburres, entonces haz otra<FF03>cosa. Por que perder el tiempo.?<FFF5>  Argh. No lo aguanto mas.<FF03>No te perdonare, aunque lo<FF03>ruegues.<FFF5>   Asi es! Solo tenias que<FF03>disculparte!<FFF5>  El viejo ni esta en el cuadro,<FF03>eh",
+  "shortened": true
+ },
+ "talk_korou_00300": {
+  "t": "<FFF5>  Es lindo que se preocupen",
+  "shortened": true
+ },
+ "talk_korou_00301": {
+  "t": " Eres<FF03>una jovencita bondadosa, nena!<FFF5>  Tranquilizarme asi me<FF03>hace miserable",
+  "shortened": true
+ },
+ "talk_korou_00302": {
+  "t": "<FFF5>   Vas a llegar tan lejos.? Entonces sacare<FF03>mi vieja supremacia y te mostrare.<FFF5>Eh? Dices que hay productos para la<FF03>piel hoy? Eso si que es algo!<FFF5>   Quemar tu piel con el sol suena<FF03>a locura para los demonios!<FFF5>No, no! Ese es tu encanto! Me gusta!<FFF5>  Lo es. Me gustan las ninas puras.<FFF5>Crees entenderlo? Las mujeres tienen<FF03>dos caras, despues de todo",
+  "shortened": true
+ },
+ "talk_korou_00303": {
+  "t": "Bien, lo admito, solo soy un demonio<FF03>a la antigua",
+  "shortened": false
+ },
+ "talk_korou_00304": {
+  "t": "<FFF5>   Es cierto, mas",
+  "shortened": true
+ },
+ "talk_korou_00305": {
+  "t": " estas muy tranquilo!<FFF5>Lo se! Solo feliz de sentir mi<FF03>corazon latir por primera vez en mucho!<FFF5>  No. No funcionara. El amor entre un humano<FF03>y un <FFF0> es tabu! Tendriamos<FF03>una ruptura terrible",
+  "shortened": true
+ },
+ "talk_korou_00306": {
+  "t": "<FFF5>Buena nina! Cuando llegue ese dia,<FF03>me asegurare de entregartela!<FFF5> Oye. No te pongas exigente ahora.<FF02><FF04>Hay muchos demonios alla afuera<FF03>pasandola peor que tu.<FFF5>Que nina tan exigente",
+  "shortened": false
+ },
+ "talk_korou_00307": {
+  "t": " Te<FF03>dire algo, hare un pastel si paras<FF03>el llanto!<FFF5>  Esa fue una respuesta firme, mas eres<FF03>de veras independiente? Me preocupa",
+  "shortened": false
+ },
+ "talk_korou_00308": {
+  "t": "<FFF5>  Si dices que asi te gusta, entonces<FF03>dejare de importarme.<FFF5>Entiendo querer proteger a un nino,<FF03>mas la gente debe crecer!<FFF5>   Ooh. Justo como dijiste. Hay comida<FF03>llamada bagels. Las culturas oriental y occidental<FF03>son tan diversas.<FFF5> Oye. No soy japones. Soy un demonio.<FFF5>Que hace ese sonido? Hay<FF03>un monje con campana atrapado ahi<FF03>dentro",
+  "shortened": true
+ },
+ "talk_korou_00309": {
+  "t": "<FFF5>  Jojojo, no seria tan dificil si pudieras<FF03>decirlo tu misma! Eres una jovencita<FF03>extrana!<FFF5> Bueno, asi es!<FFF5>Nop, no siempre! Aunque sean<FF03>pequenos, un aura de fuerza enganos!<FFF5> Argh. Nena, has dicho todo lo que puedo<FF03>aguantar! Ya me harte de ti.<FFF5> No tengo tanto orgullo",
+  "shortened": false
+ },
+ "talk_korou_00310": {
+  "t": "<FFF5>   Si solo vas a terminar disculpandote,<FF03>por que usaste esa tactica en primer<FF03>lugar.?<FFF5>Por que.? Un buen demonio como yo es raro<FF03>de hallar.<FFF5> Pues, SOY demonio, mas no todos somos<FF03>malos, sabes!<FFF5><0056>sigh<0056> Vamos, no molestes a los<FF03>viejos!<FFF5>   ",
+  "shortened": true
+ },
+ "talk_korou_00311": {
+  "t": "Eres un abuson real",
+  "shortened": true
+ },
+ "talk_korou_00312": {
+  "t": "<FFF5>   Oye. Odio el abuso.<FFF5>  Jo, jo. Siempre quise ser abuson.<FF03>Toma eso. Y eso. Y eso tambien.<FFF5>  Jo, jo. Estas en racha. Veo que eres<FF03>todo un abuson consumado.<FFF5>  Oh, oh, ohhh",
+  "shortened": false
+ },
+ "talk_korou_00313": {
+  "t": " Soy viejo, no<FF03>seas amable?<FFF5>",
+  "shortened": true
+ },
+ "talk_korou_00314": {
+  "t": "E-Asi que eres masoquista tambien,<FF03>nena?<FFF5> Ya veo, ya veo! Es bueno oirlo",
+  "shortened": false
+ },
+ "talk_korou_00315": {
+  "t": "<FF03>Me alegra que aun haya hombres<FF03>respetables.<FFF5> Jojojo",
+  "shortened": true
+ },
+ "talk_korou_00316": {
+  "t": " <0028>Sufragio femenino,<0028> eh? Suena<FF03>elegante, mas te apoyo.<FFF5> Oye. Me preocupaba por ti! No hay<FF03>necesidad de ponerlo asi.<FFF5>  Argh. La confianza asi bajara tu<FF03>guardia, y asi te lastiman.<FFF5>Eh",
+  "shortened": false
+ },
+ "talk_korou_00317": {
+  "t": " Me gustaria que hablaras<FF03>conmigo un poco mas",
+  "shortened": false
+ },
+ "talk_korou_00318": {
+  "t": "<FFF5>   Debo estar envejeciendo si una<FF03>nena se preocupa por mi",
+  "shortened": true
+ },
+ "talk_korou_00319": {
+  "t": "<FFF5>   Jojojo. Te gusta que te consideren<FF03>novata, nena.?<FFF5> Solo fue una forma de hablar!<FF03>No te llamaba principiante!<FFF5>Por que me ignoras",
+  "shortened": false
+ },
+ "talk_korou_00320": {
+  "t": " Que nina<FF03>tan voluble",
+  "shortened": true
+ },
+ "talk_korou_00321": {
+  "t": "<FFF5> Jojo. Me gusta todo lo que va bien<FF03>con el licor.<FFF5>  Si, los odio. Aunque quiza me<FF03>interese una nina en escabeche. Jojojo.<FFF5> Guiso? Entiendes las palabras<FF03>que salen de mi boca.?<FFF5> Jo, jo. Estas avergonzada? Eres<FF03>toda una doncella!<FFF5>   Por que te enojaste? No<FF03>entiendo a las ninas de hoy",
+  "shortened": false
+ },
+ "talk_korou_00322": {
+  "t": "<FFF5>Asi es! Estoy de maravilla!<FFF5>  Oye. Si lo vas a negar, sigue<FF03>ignorandome.<FFF5>   Que nina tan timida tenemos aqui!<FF03>Eso es raro estos dias!<FFF5> Argh. Estoy tomando nota.<FFF5>   Vamos, nena, debes ser un poco<FF03>mas amable! Deja ese genio tuyo!<FFF5>",
+  "shortened": false
+ },
+ "talk_korou_00323": {
+  "t": "Y sigues ignorandome",
+  "shortened": false
+ },
+ "talk_korou_00324": {
+  "t": " Me<FF03>voy a enfurrunar!<FFF5>  Oye. Aun no me he podrido. Deja de<FF03>clasificarme.<FFF5> Asi es. Aun tengo lena que<FF03>quemar. Me siento mas confiado ya,<FF03>gracias a ti.<FFF5>   Justo como dices",
+  "shortened": false
+ },
+ "talk_korou_00325": {
+  "t": " No me queda pasion<FF03>que quemar",
+  "shortened": false
+ },
+ "talk_korou_00326": {
+  "t": "<FFF5>Asi es. Eres un hombre de virtud.<FF03>Mas dejemoslo ahi",
+  "shortened": false
+ },
+ "talk_korou_00327": {
+  "t": "N-No quise decir eso",
+  "shortened": true
+ },
+ "talk_korou_00328": {
+  "t": " No te<FF03>ofendas",
+  "shortened": false
+ },
+ "talk_korou_00329": {
+  "t": "No importa",
+  "shortened": false
+ },
+ "talk_korou_00330": {
+  "t": "<FFF5>   Si no te gusta, no importa",
+  "shortened": false
+ },
+ "talk_korou_00331": {
+  "t": "Tienes mal ojo",
+  "shortened": true
+ },
+ "talk_korou_00333": {
+  "t": "<FFF5>   Soy una rata.? No lo tolerare.<FFF5>Hay algunos humanos crueles alla afuera",
+  "shortened": false
+ },
+ "talk_korou_00334": {
+  "t": "<FFF5>   Si renaciera, tendria otra vida<FF03>como esta",
+  "shortened": false
+ },
+ "talk_korou_00335": {
+  "t": " Noooo.<FFF5>   Es asi.? Me alegra oir que hay<FF03>una segunda vida! Me hace feliz!<FFF5>   Ugh. Q-Que estas haciendo.?<FFF5>   Blergh",
+  "shortened": false
+ },
+ "talk_korou_00336": {
+  "t": " P-Por que me golpeaste asi de<FF03>la nada",
+  "shortened": false
+ },
+ "talk_korou_00337": {
+  "t": "<FFF5>B-Basta, por favor. Te lo ruego.<FFF5>  M-Me disculpo",
+  "shortened": false
+ },
+ "talk_korou_00338": {
+  "t": " Finge que nunca oiste<FF03>eso",
+  "shortened": false
+ },
+ "talk_korou_00339": {
+  "t": "<FFF5>Solo tienes que disculparte, mas<FF03>eres demasiado importante para<FF03>eso",
+  "shortened": true
+ },
+ "talk_korou_00340": {
+  "t": " No me caes bien",
+  "shortened": false
+ },
+ "talk_korou_00341": {
+  "t": "<FFF5>  Me has empujado muy lejos. Ahora es el<FF03>orgullo del <FFF0> lo que tratamos.<FF03>Tengo un reto.<FFF5>  No importa lo que digas",
+  "shortened": false
+ },
+ "talk_korou_00342": {
+  "t": " Naci<FF03>demonio, y no hay nada que pueda<FF03>cambiar eso",
+  "shortened": false
+ },
+ "talk_korou_00343": {
+  "t": "<FFF5>  Asi es. Exacto. No puedes juzgar<FF03>algo solo por bueno o malo.<FFF5> Si no tiene nada que ver conmigo, entonces<FF03>dejame fuera de esto",
+  "shortened": false
+ },
+ "talk_korou_00344": {
+  "t": " Captas mi idea?<FFF5>  ",
+  "shortened": false
+ },
+ "talk_korou_00345": {
+  "t": "Me tendian trampa?<FFF5> Jojojo. Ves, como pense! No<FF03>enganas a estos ojos de aguila!<FFF5>   Y-Entiendo",
+  "shortened": true
+ },
+ "talk_korou_00347": {
+  "t": " No tienes<FF03>que gritar",
+  "shortened": false
+ },
+ "talk_korou_00348": {
+  "t": "<FFF5> Asi que ESA es tu tecnica?<FF03>Si que hay humanos raros alla afuera!<FFF5> Lo cual significa",
+  "shortened": true
+ },
+ "talk_korou_00349": {
+  "t": " eres solo un bicho raro.<FF03>Que alguien haga algo con este tipo.<FFF5> Es asi",
+  "shortened": false
+ },
+ "talk_korou_00350": {
+  "t": " Aun asi, eres un<FF03>joven muy molesto",
+  "shortened": false
+ },
+ "talk_korou_00352": {
+  "t": " Voy a morir.?<FFF5>  Hrm",
+  "shortened": false
+ },
+ "talk_korou_00354": {
+  "t": " Dame una carta",
+  "shortened": false
+ },
+ "talk_korou_00356": {
+  "t": "Que primitivo",
+  "shortened": false
+ },
+ "talk_korou_00357": {
+  "t": "Eres bastante tacano",
+  "shortened": false
+ },
+ "talk_korou_00358": {
+  "t": "Pues, lanzaste tu anzuelo, y ahora<FF03>cai! Por favor, dime",
+  "shortened": true
+ },
+ "talk_korou_00359": {
+  "t": "<FFF5>Oooh. Excelente movimiento. Ese fue<FF03>increible.<FF02><FF04>Si me mostraras mas cosas asi,<FF03>no necesitaria saber.<FFF5>   Q-Que rayos.? Por que demonios<FF03>gritas.?<FFF5>  E-Eso no fue",
+  "shortened": false
+ },
+ "talk_korou_00360": {
+  "t": " Perdona, no quise<FF03>ser sospechoso! Vas a seguir?<FFF5>Jojo! Eres como un caballo de tiro!<FF03>Ser dedicado es algo bueno!<FFF5>   Por que",
+  "shortened": false
+ },
+ "talk_korou_00361": {
+  "t": " Nada bueno sale de vivir<FF03>una vida rebelde!<FFF5>  Eso me hace feliz! Pareces una<FF03>mentira, mas eres un buen nino!<FFF5>   Hmph. Tienes todo el tiempo libre del<FF03>mundo. Si no quieres, dilo.<FFF5>   Jo, jo. Entonces negociemos.<FFF5>  No soy tanto un demonio como un<FF03><FFF0>",
+  "shortened": false
+ },
+ "talk_korou_00362": {
+  "t": "<FFF5> Resulta que yo tambien paseo!<FF03>Creo que tu y yo nos llevariamos bien!<FFF5> Ya es muy tarde! No tiene caso llorar sobre<FF03>la leche derramada!<FF02><FF04>Cuidado la proxima vez!<FFF5> De que te quejas? Es<FF03>primero en llegar, primero en servir para cosas<FF03>asi!<FFF5> Ahhhh. Basta. Va a apestar a<FF03>humanos",
+  "shortened": false
+ },
+ "talk_korou_00363": {
+  "t": " Noooo, esta acabado.<FFF5> Oye. Esa es respuesta de nino. No juegues<FF03>conmigo.<FFF5>   Es asi.? Eso es de plano cruel.<FF03>Mas quiero comerlo tambien",
+  "shortened": false
+ },
+ "talk_korou_00365": {
+  "t": "<FFF5>   Cuanto mas tienes que chupar, mas<FF03>sabroso se pone. Eso es calamar seco.<FF03>Delicioso, digo.<FFF5>Oye. Mis dientes no son lo que eran<FF03>antes. No puedo comer comida tan dura.<FFF5>  No necesito eso!<FFF5> Oye. Es obvio que no quieres.<FFF5>  Asi es! Ahora esa es una buena<FF03>actitud!<FFF5> Si solo vas a ignorarme, por que<FF03>respondiste mi primera pregunta.? No<FF03>entiendo",
+  "shortened": false
+ },
+ "talk_korou_00366": {
+  "t": "<FFF5> Jo jo! Los jovenes no entienden<FF03>el sentir de una noche sin luna!<FFF5> Una noche sin luna facilita los<FF03>ataques sorpresa",
+  "shortened": true
+ },
+ "talk_korou_00367": {
+  "t": " Estas tramando algo",
+  "shortened": false
+ },
+ "talk_korou_00368": {
+  "t": "<FFF5>   Eso es muy raro! Tu y yo ambos<FF03>tenemos mas que aprender!<FFF5>  ",
+  "shortened": true
+ },
+ "talk_korou_00369": {
+  "t": "Nunca he jugado este juego del que<FF03>hablas",
+  "shortened": false
+ },
+ "talk_korou_00370": {
+  "t": "He oido de eso antes, mas<FF03>donde",
+  "shortened": false
+ },
+ "talk_korou_00371": {
+  "t": "<FFF5>Eres travieso! No tienes que molestarme,<FF03>o si? Vamos, haz algo!<FFF5> Argh. No vas a escuchar.?<FF02><FF04>Hora de poner a un nino rebelde en su<FF03>lugar.<FFF5> Eres obediente",
+  "shortened": false
+ },
+ "talk_korou_00372": {
+  "t": " Mas tras ver<FF03>esos ojos tuyos, no puedo confiar en ti",
+  "shortened": false
+ },
+ "talk_korou_00373": {
+  "t": "<FFF5>   Oye. No debes interrumpir.<FF02><FF04>Si no puedes esperar a que alguien termine<FF03>de hablar, tendre que castigarte.<FFF5>   Jo, jo. Que descaro al hablar.<FF03>Interesante. Negociemos!<FFF5>  Te dare un uno-dos. No<FF03>hables esas tonterias.<FFF5>   ",
+  "shortened": false
+ },
+ "talk_korou_00374": {
+  "t": "En fin!<FFF5>Asi es. Ahora que lo pienso,<FF03>siento que ya nos conociamos",
+  "shortened": false
+ },
+ "talk_korou_00375": {
+  "t": "<FF02><FF04>Perdon, los humanos se parecen",
+  "shortened": true
+ },
+ "talk_korou_00376": {
+  "t": "<FFF5>  Jo, jo. Es solo un humano! Me preocupe<FF03>por nada!<FFF5> ",
+  "shortened": false
+ },
+ "talk_korou_00377": {
+  "t": "De veras eres demonio? Hueles algo<FF03>humano",
+  "shortened": false
+ },
+ "talk_korou_00378": {
+  "t": "De veras eres demonio? Hueles algo<FF03>humano",
+  "shortened": false
+ },
+ "talk_korou_00380": {
+  "t": "<FFF5> Tengo kotatsu!<FFF5>  Tengo gato!<FFF5>  Tengo gato!<FFF5>  Tengo dentadura!<FFF5>   No puedo comer esto!<FFF5>  No puedo comer esto!<FFF5>  Esta rico!<FFF5>Tienes razon!<FFF5>  Tu tambien!<FFF5>   Me niego!<FFF5>  La edad no importa!<FFF5>   Asi que invalido",
+  "shortened": true
+ },
+ "talk_korou_00381": {
+  "t": "<FFF5>   Asi que invalido",
+  "shortened": true
+ },
+ "talk_korou_00382": {
+  "t": "<FFF5>   No!<FFF5>Asi es!<FFF5>  Cielo despejado!<FFF5>   Cielo nublado!<FFF5>  Lluvia!<FFF5>  Disculpate<FFF5>  Disculpate<FFF5>  Otro rugido<FFF5>   Que gracioso!<FFF5>   Que gracioso!<FFF5>   Que aburrido!<FFF5>No!<FFF5>Me descubriste!<FFF5>  Me descubriste!<FFF5>  Me honra!<FFF5>   No puedes hacerlo!<FFF5>   Necesitas cambio?<FFF5> Que tonto",
+  "shortened": false
+ },
+ "talk_korou_00383": {
+  "t": "<FFF5> Que tonto",
+  "shortened": false
+ },
+ "talk_korou_00385": {
+  "t": "<FFF5>No me casare!<FFF5> Es asunto mio!<FFF5>",
+  "shortened": false
+ },
+ "talk_korou_00386": {
+  "t": "Estoy bien!<FFF5>   Hare eso!<FFF5>  No puedo ignorarlo!<FFF5> Jejeje",
+  "shortened": false
+ },
+ "talk_korou_00387": {
+  "t": "<FFF5>  No juegues conmigo.<FFF5>   A donde ir?<FFF5>  No te gusta el sake?<FFF5>   No es bueno el escabeche?<FFF5>   No te gusta el guiso?<FFF5>   ",
+  "shortened": false
+ },
+ "talk_korou_00388": {
+  "t": "Ya basta!<FFF5> No juegues conmigo.<FFF5>   Si!<FFF5>  No!<FFF5>El clima esta",
+  "shortened": false
+ },
+ "talk_korou_00379": {
+  "t": "<FFF5><88AB>`<B0AB>`<D8AB>`<08AC>`<28AC>`<48AC>`<68AC>`<70AC>`<78AC>`<80AC>`<98AC>`<B0AC>`<C0AC>`<D8AC>`<08AD>`<20AD>`<48AD>`<78AD>`<98AD>`<A8AD>`<C0AD>`<D8AD>`<F8AD>`<20AE>`<48AE>`<70AE>`<98AE>`<B8AE>`<D0AE>`<F0AE>`<18AF>`<30AF>`<40AF>`<50AF>`<68AF>`<80AF>`<A8AF>`<D0AF>`<F0AF>`<18B0>`<40B0>`<68B0>`<80B0>`<A8B0>`<C8B0>`<F0B0>`<08B1>`<20B1>`<48B1>`<70B1>`<98B1>`<C8B1>`<F8B1>`<28B2>`<48B2>`<68B2>`<88B2>`<B0B2>`<D0B2>`<E8B2>`<10B3>`<38B3>`<58B3>`<80B3>`<90B3>`<B0B3>`<C8B3>`<F0B3>`<18B4>`<38B4>`<48B4>`<58B4>`<78B4>`<A0B4>`<B8B4>`<E0B4>`<F8B4>`<10B5>`<28B5>`<50B5>`<80B5>`<A8B5>`<D8B5>`<08B6>`<30B6>`<50B6>`<70B6>`<90B6>`<A0B6>`<C8B6>`<F0B6>`<10B7>`<30B7>`<48B7>`<70B7>`<98B7>`<C0B7>`<E8B7>`<10B8>`<40B8>`<60B8>`<80B8>`<A8B8>`<D0B8>`<F8B8>`<18B9>`<38B9>`<58B9>`<80B9>`<A8B9>`<D0B9>`<F8B9>`<18BA>`<38BA>`<60BA>`<88BA>`<B0BA>`<D0BA>`<F0BA>`<08BB>`<20BB>`<48BB>`<78BB>`<A8BB>`<B0BB>`<D0BB>`<F0BB>`<10BC>`<20BC>`<38BC>`<50BC>`<70BC>`<90BC>`<B0BC>`<C8BC>`<D0BC>`<F8BC>`<20BD>`<40BD>`<68BD>`<90BD>`<B0BD>`<D0BD>`<F0BD>`<08BE>`<30BE>`<58BE>`<68BE>`<78BE>`<88BE>`<B0BE>`<D8BE>`<E8BE>`<08BF>`<28BF>`<48BF>`<68BF>`<98BF>`<C8BF>`<F0BF>`<10C0>`<30C0>`<50C0>`<70C0>`<90C0>`<A8C0>`<D0C0>`<F8C0>`<20C1>`<48C1>`<60C1>`<70C1>`<80C1>`<A8C1>`<D0C1>`#`<30C2>`<50C2>`<70C2>`<80C2>`<A8C2>`<D0C2>`<F8C2>`<10C3>`<28C3>`<40C3>`<50C3>`<70C3>`<98C3>`<C0C3>`<E8C3>`<10C4>`<30C4>`<50C4>`<70C4>`<80C4>`<98C4>`<B8C4>`<E0C4>`<08C5>`<30C5>`<60C5>`<88C5>`<B0C5>`<D8C5>`<F8C5>`<20C6>`<30C6>`<48C6>`<60C6>`<90C6>`<B8C6>`<E0C6>`<08C7>`<30C7>`<50C7>`<70C7>`<90C7>`<B0C7>`<D8C7>`<F0C7>`<18C8>`<40C8>`<68C8>`<88C8>`<A8C8>`<D8C8>`<08C9>`<30C9>`<40C9>`<68C9>`<88C9>`<A8C9>`<C8C9>`<D8C9>`<F0C9>`<08CA>`<18CA>`<30CA>`<48CA>`<68CA>`<90CA>`<B8CA>`<E0CA>`<08CB>`<30CB>`<58CB>`<80CB>`<98CB>`<C8CB>`<F8CB>`<18CC>`<30CC>`<58CC>`<80CC>`<98CC>`<B0CC>`<D8CC>`<F0CC>`<10CD>`<38CD>`<58CD>`<78CD>`<A0CD>`<B8CD>`<E8CD>`<10CE>`<40CE>`<70CE>`<A0CE>`<C0CE>`<F0CE>`0`<08CF>`<30CF>`<40CF>`<50CF>`<60CF>`<80CF>`<A0CF>`<B8CF>`<C0CF>`<E8CF>`<08D0>`<28D0>`<50D0>`<78D0>`<98D0>`<B8D0>`<D8D0>`<F8D0>`<18D1>`<40D1>`<60D1>`<80D1>`<A0D1>`<C0D1>`<E8D1>`<10D2>`<38D2>`<60D2>`<88D2>`<A0D2>`<B0D2>`<D0D2>`<F0D2>`<10D3>`<38D3>`<50D3>`<68D3>`<90D3>`<A0D3>`<B0D3>`<D8D3>`<F8D3>`<18D4>`<38D4>`<60D4>`<80D4>`<98D4>`<B0D4>`<C8D4>`<F0D4>`<18D5>`<40D5>`<68D5>`<80D5>`<A0D5>`<B8D5>`<D0D5>`<E8D5>`<F8D5>`<10D6>`<30D6>`<58D6>`<80D6>`<B0D6>`<C0D6>`<D0D6>`<E8D6>`<F8D6>`<18D7>`<40D7>`<68D7>`<70D7>`<80D7>`<FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>No es verdad!<FFF5>   Tienes un rol!<FFF5>   Te dare uso!<FFF5>   Persuade mas<FFF5>  Da un tesoro<FFF5>Da un tesoro<FFF5>Si<FFF5>Si<FFF5> No<FFF5> Burla mas<FFF5> Burla mas<FFF5> Desgarralo<FFF5>Haz ruido<FFF5> Si? Peleame entonces!<FFF5>   Exacto!<FFF5>   Te atormentare!<FFF5>  No te atormentare!<FFF5>   Es broma!<FFF5>   Trabajo!<FFF5>  Materiales!<FFF5> Compania!<FFF5>   Es verdad!<FFF5>   No eres libre!<FFF5>   No tienes derechos!<FFF5>No tengo planes!<FFF5>   No tengo planes!<FFF5>   No dire!<FFF5>  Canta otra vez<FFF5> Canta a cappella<FFF5>Canta otra cancion<FFF5>  Enojate<FFF5>  Rie<FFF5>  Rie<FFF5>  Canta otra vez<FFF5> Canta otra vez<FFF5> Canta otra cancion<FFF5>  Eres atractivo!<FFF5> Eres fuerte!<FFF5> Fue por azar!<FFF5>  Entonces no importa!<FFF5>   Entonces no importa!<FFF5>   Mas por favor!<FFF5>Mas que paja!<FFF5>   Valor de paja!<FFF5> Menos que paja!<FFF5>   Je je.<FFF5>   Je je.<FFF5>   Que dijiste.?<FFF5>   Que dijiste.?<FFF5>   Quiero tu carta!<FFF5>  No hare nada!<FFF5>   No hare nada!<FFF5>   Gracias por la comida!<FFF5>   No miento!<FFF5> No miento!<FFF5>Tengo tiempo!<FFF5>   No tengo tiempo!<FFF5>Dame tiempo.<FFF5>  Es divertido!<FFF5>  No tengo planes!<FFF5>   Que cara graciosa!<FFF5> Quieres mas?<FFF5>No tengo dulces!<FFF5>Corazon!<FFF5> La loteria!<FFF5>   Mi memoria!<FFF5>Bien. Parare!<FFF5>   Todo depende de ti.<FFF5>   Que grosero!<FFF5>   Lo eres!<FFF5>Lo eres!<FFF5>Eso fue mentira!<FFF5>Es asunto mio!<FFF5>Muy tarde!<FFF5>  Aun eres joven!<FFF5>Disculpate<FFF5>  Coquetea mas<FFF5> Coquetea mas<FFF5> Tengo buena vista!<FFF5>  El genero no importa!<FFF5>   No es por la edad!<FFF5>De veras, Sra!Kawasaki?<FFF5>   De veras, Sra!Kawasaki?<FFF5>   No soy un tabloide!<FFF5>Ponlo azul!<FFF5>  Ponlo rojo!<FFF5>   Ponlo verde!<FFF5>No puede ser!<FFF5>Una sal y bateria!<FFF5>Llanto y queso!<FFF5>  Claro que si!<FFF5>  Claro que si!<FFF5>  Nunca lo hice!<FFF5>Es un buen bano!<FFF5>  Es bueno para ti!<FFF5>Eso no es verdad!<FFF5>   No hay que saber!<FFF5>   No hay que saber!<FFF5>   Solo no tengo brio!<FFF5>   Te matare.<FFF5> Te matare.<FFF5>No necesito pelos!<FFF5>Los arrancare.<FFF5> Los arrancare.<FFF5>Sopa, quiza?<FFF5>   Los enfriare!<FFF5>Los frotare!<FFF5>Por desgracia, no!<FFF5>Entonces no lo compres!<FFF5>Si tan solo Yamaoka",
+  "shortened": false
+ },
+ "talk_korou_00384": {
+  "t": "<FFF5>Estoy honrado!<FFF5>  Oh si!<FFF5>   No soy como tu!<FFF5>  No soy como tu!<FFF5>  Aprende<FFF5>  Rechaza<FFF5> Ignora<FFF5> Oye historias!<FFF5> Oye historias!<FFF5> Ignora<FFF5> Oye, oye, oye.<FFF5> Oye, oye, oye.<FFF5>Te desgarrare!<FFF5>  Te probare.<FFF5> Rayos, lo supiste.<FFF5>   Rayos, lo supiste.<FFF5>   Te atormentare!<FFF5>  Te perdonare!<FFF5>Es broma!<FFF5>   Si, exacto!<FFF5>No es eso!<FFF5> No es eso!<FFF5>Mira mas fijo<FFF5>Te aranare!<FFF5>   Te aranare!<FFF5>   No es verdad!<FFF5>   No es verdad!<FFF5>   Bueno, si!<FFF5>Uno!<FFF5>   Dos!<FFF5>   Tres y un tercio!<FFF5>Estoy bien con eso.<FFF5>Solo adorno.<FFF5> Solo adorno.<FFF5>Solo este!<FFF5>51,670,000,000!<FFF5>24<001E>7!<FFF5>  Pedire ayuda!<FFF5>Hare resucitacion!<FFF5>  Que tal un codo?<FFF5>Curiosidad!<FFF5>Respeto!<FFF5>   Sin razon!<FFF5>De veras?<FFF5>Mentir esta mal!<FFF5>Vaya, increible.<FFF5>   Muchas gracias!<FFF5> Muchas gracias!<FFF5>Cuando sera eso?<FFF5>Otra cancion<FFF5>   La misma cancion<FFF5>  Una cancion inventada<FFF5>Presume<FFF5>  Se modesto<FFF5>  Recomienda un CD<FFF5>Te ves muy joven!<FFF5>Te ves muy joven!<FFF5>No estas feliz?<FFF5>  No hay que alterarse!<FFF5>   No estas feliz?<FFF5>  No estas feliz?<FFF5>  La atesorare!<FFF5>  No soy puro!<FFF5>  Son buenos los angeles?<FFF5>   Trabajo!<FFF5>  Materiales!<FFF5>Compania!<FFF5>   Pocos demonios son libres!<FFF5>   No tienes opcion!<FFF5>No tienes opcion!<FFF5>No es verdad!<FFF5>   No es verdad!<FFF5>   No perdere!<FFF5>  Es muy divertido!<FFF5>  Eso es divertido?<FFF5>   Es aburrido.<FFF5>   Tu aliento apesta.<FFF5>Lo siento!<FFF5>Hara buen clima!<FFF5>Eso no es verdad!<FFF5>   No es verdad!<FFF5>   Esta enterrado!<FFF5>   Es sano!<FFF5>  No te gusta el bronceado?<FFF5>   Oculto pecas!<FFF5>   Eso no es verdad.<FFF5>   Bien!<FFF5>  Muy a la antigua!<FFF5>Tienes razon!<FFF5>  No es amor?<FFF5>Estas enamorado!<FFF5>Bien!<FFF5>  Odio el pay!<FFF5>Odio el pay!<FFF5>Bien!<FFF5>  Que, no.<FFF5>  Que, no.<FFF5>  Hay bagels.<FFF5>Hay ochazuke.<FFF5>  Usa un microondas!<FFF5>   Porque soy tierno?<FFF5>  Porque soy pequeno?<FFF5> Porque soy pequeno?<FFF5>Oye, quieres morir?<FFF5>Oye, quieres morir?<FFF5>Lo siento!<FFF5>No deberias existir!<FFF5>   No deberias existir!<FFF5>   Eso fue mentira!<FFF5>Abusa mas<FFF5> Aguanta el abuso<FFF5>  Aguanta el abuso<FFF5>  Abusa mas<FFF5> Abusa mas<FFF5> Aguanta el abuso<FFF5>  Hay",
+  "shortened": false
+ },
+ "talk_korou_00390": {
+  "t": "<FFF5>Sobras de cocina?<FFF5>Sobras de cocina?<FFF5>Basura?<FFF5>   Yo!<FFF5>Burlate y muere!<FFF5>  Sigue hablando!<FFF5>  No te oigo!<FFF5>Como una rata!<FFF5>   Como una rata!<FFF5>   Asi es!<FFF5>  Lo reusare!<FFF5> Lo reusare!<FFF5>Patada lobo solitario<FFF5>Puno lobo solitario<FFF5>Suplex lobo solitario<FFF5>   Mas amenazas<FFF5>   No te disculpes<FFF5>No te disculpes<FFF5>Eres malvado!<FFF5>   Es irrelevante!<FFF5>   Es irrelevante!<FFF5>   Si, asi es!<FFF5>Si, asi es!<FFF5>Oyeme gritar.<FFF5>Y que?<FFF5>   Nop!<FFF5>  No se!<FFF5>  Piensalo!<FFF5>Piensalo!<FFF5>No tiene sentido!<FFF5>  No digas<FFF5> No digas<FFF5> Sigue el truco<FFF5> Grita<FFF5>   Ignora<FFF5> Sigue el truco<FFF5>No te oigo!<FFF5>Si tengo tiempo!<FFF5>Si tengo tiempo!<FFF5>Habla con demonios!<FFF5>  Caza de demonios!<FFF5>Un paseo!<FFF5>  Manten la calma<FFF5>  Enojate<FFF5>  Ignora y sigue<FFF5>Solo eres timido!<FFF5>   Se lo estan comiendo!<FFF5>  Por el sol",
+  "shortened": false
+ },
+ "talk_korou_00391": {
+  "t": "<FFF5>  Calamar seco<FFF5>Galletas de arroz<FFF5>  Bekkouame<FFF5>  Se humilde<FFF5>  Se humilde<FFF5>  Ignora<FFF5> Estoy solo!<FFF5>Me siento bien!<FFF5>   Esto es raro!<FFF5>   Los juegos nuevos!<FFF5>  Solo una universitaria!<FFF5>   Rechaza<FFF5> Refuta<FFF5> Disculpate<FFF5>  Ignora<FFF5>Dame una carta!<FFF5>Dame algo!<FFF5>Negociemos!<FFF5>   <FFFA>!<FFF5>Humano!<FFF5> Humano!<FFF5> <2001><2101> `",
+  "shortened": false
+ }
+}

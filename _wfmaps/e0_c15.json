@@ -1,0 +1,90 @@
+{
+ "e0_00556": {
+  "t": " Asi ERA.<FF02><FF01> <FF1B>Nanjo<FF03>Eh",
+  "shortened": true
+ },
+ "e0_00557": {
+  "t": " si!<FF02><FF04><FF1B>Nanjo<FF03>Masao debe estar en las celdas<FF03>de la prision, <FF07>!<FF02><FF04><FF1B>Nanjo<FF03>Pero no entramos a esa zona sin<FF03>llave! Que hacemos",
+  "shortened": true
+ },
+ "e0_00558": {
+  "t": "<FF02><FF01> <FF1B>Maki<FF03>Quiza la dejaron por ahi!<FF03>Veamos si la encontramos!<FF02><FF01> <FF1B>Nanjo<FF03>Cierto! Puedes ayudar a buscar,<FF03><FF07>?<FF02><FF01><0044> Encontraste la Prison Key",
+  "shortened": true
+ },
+ "e0_00559": {
+  "t": "<FF02><FF04><0044> Obtuviste la <FF19><0300><FF18><0500>Prison Key<FF18> !<FF02><FF01>   <0044> No parece haber mas<FF03>llaves utiles",
+  "shortened": true
+ },
+ "e0_00560": {
+  "t": "<FF02><FF01>  <FF1B>Nanjo<FF03>Excelente. Ya podremos entrar<FF03>a las celdas!<FF02><FF01>   <FF1B>Nanjo<FF03>Masao debe estar en la prision!<FF02><FF04><FF1B>Nanjo<FF03>Me cuesta rescatarlo, pero tiene<FF03>la security card!<FF02><FF01>   <FF1B>Maki<FF03>Prision",
+  "shortened": true
+ },
+ "e0_00561": {
+  "t": " Ah si, las celdas!<FF03>Cierto, si las tenian!<FF02><FF01><FF1B>Maki<FF03>Oye, <FF07>",
+  "shortened": true
+ },
+ "e0_00562": {
+  "t": " Nanjo dice que algo<FF03>anda mal conmigo! Tu crees?<FF02><FF01>   <FF1B>Brown<FF03>Confiesa, <FF08>",
+  "shortened": true
+ },
+ "e0_00563": {
+  "t": " Viniste a salvarme<FF03>porque creiste que falle, eh?<FF02><FF04><FF1B>Brown<FF03>Vaya que te equivocaste.<FF02><FF04><FF1B>Brown<FF03>Ya tenia un plan de fuga super<FF03>audaz y genial, sabes!<FF02><FF04><FF1B>Brown<FF03>Raaayos, ya no podre usarlo",
+  "shortened": true
+ },
+ "e0_00564": {
+  "t": "<FF02><FF01>   <FF1B>Nanjo<FF03>Quiza debimos dejar a esos dos<FF03>encerrados al tener la tarjeta!<FF02><FF01> <FF1B>Mark<FF03>Calvo mejor que no deje a los demonios<FF03>tomar la policia tan facil.<FF02><FF04><FF1B>Mark<FF03>Calvo y yo",
+  "shortened": true
+ },
+ "e0_00565": {
+  "t": " O sea, ese teniente,<FF03>tuvo roces antes, y me enojo",
+  "shortened": true
+ },
+ "e0_00566": {
+  "t": "<FF02><FF04><FF1B>Mark<FF03>Pero si estaba preocupado por mi!<FF03>Pudo ese demonio",
+  "shortened": true
+ },
+ "e0_00567": {
+  "t": "<FF02><FF04><FF1B>Mark<FF03>Nah, imposible",
+  "shortened": true
+ },
+ "e0_00568": {
+  "t": " No hay forma de que ese<FF03>tipo se rinda y muera, verdad?<FF02><FF01>  <FF1B>Maki<FF03>La puerta de la prision no abre<FF03>sin llave, verdad?<FF02><FF04><FF1B>Maki<FF03>Busquemos eso primero!<FF02><FF01>  <FF1B>Nanjo<FF03>La llave debe estar por aqui!<FF03>Busca un poco mas!<FF02><FF01><0F00> <0819> <A019> <C81A> <581B> <A81B> <281C> <901C> <201D> <001E> <A81E> <481F> <3021> <E021> <5824> <0825>                                                                                                                                                                                                                                                                              <FFFF>`<FFFF><FFFF><FFFF><4900><FFFF><FFFF><FFFF><FFFF><1C00><FFFF><FFFF>`<FFFF><FFFF>`<FFFF><FFFF>`<FFFF><FFFF>`<FFFF><0500><FFFF><F824> <D810> <F810> <E010> <F810> <E810> <F810> <F010> <F810> <D80C> <0200><100B>` <3013>  ",
+  "shortened": true
+ },
+ "e0_00572": {
+  "t": "<FF78><0500><FF4D><4000><FF60> <FF55> <6820> <FF55> <E820> <FF67><0200><FF55> <3821> <FF68> <FF61> <FF60> <FF67><0300><FF55> <F021> <FF68> <FF55> <6022> <FF55> <D822> <FF67><0200><FF55> <5823> <FF68> <FF61> <FF60> <FF55> <B023> <FF55> <4024> <FF61> <FF24><2700><FF31><0500><FF31><0300><FF4F><0340><FF28><0300><FF21> <FF1B>Mark<FF03>Quien diablos te crees,<FF03>encerrandonos asi.?<FF02><FF04><FF1B>Mark<FF03>No te saldras con la tuya.<FF02><FF01>   <FF1B>Brown<FF03>B-Basta, Mark",
+  "shortened": true
+ },
+ "e0_00573": {
+  "t": " Hacerlos enojar<FF03>no ayuda.<FF02><FF04><FF1B>Brown<FF03>Portemonos bien por ahora y",
+  "shortened": true
+ },
+ "e0_00574": {
+  "t": "<FF02><FF01>   <FF1B>Brown<FF03>Eh?<FF02><FF01>   <FF1B>Maki<FF03>Mira, ahi estan. Bien, Masao?<FF02><FF04><FF1B>Maki<FF03>",
+  "shortened": true
+ },
+ "e0_00575": {
+  "t": "Eh? Hidehiko tambien esta.<FF02><FF01>   <FF1B>Nanjo<FF03>Ja",
+  "shortened": true
+ },
+ "e0_00576": {
+  "t": " Una jaula le queda a este mono!<FF02><FF01>   <FF1B>Mark<FF03>Nanjo, idiota. Que los demoro.?<FF02><FF04><FF1B>Mark<FF03>Espera",
+  "shortened": true
+ },
+ "e0_00577": {
+  "t": " Maki?<FF02><FF01><FF1B>Brown<FF03>Oye, son ustedes! Ahhh, ya veo",
+  "shortened": true
+ },
+ "e0_00578": {
+  "t": "<FF03>Me extranaste tanto, eh?<FF02><FF01><FF1B>Maki<FF03>Oye, Hidehiko? Por que ibas a<FF03>portarte bien con nosotros?<FF02><FF01><FF1B>Brown<FF03>Agh",
+  "shortened": true
+ },
+ "e0_00579": {
+  "t": "<FF02><FF01><FF1B>Nanjo<FF03>Seguro nos confundio con otros!<FF03>Por suerte, estamos de tu lado!<FF02><FF04><FF1B>Nanjo<FF03>No es bueno oir eso, Hidehiko?<FF02><FF04><FF1B>Nanjo<FF03>Pero dime",
+  "shortened": true
+ },
+ "e0_00580": {
+  "t": " Por que estas tu tambien?<FF03>Creiamos que solo atraparon a Masao!<FF02><FF01><FF1B>Maki<FF03>Eso espera! Saquemoslos<FF03>de ahi.<FF02><FF01><FF1B>Brown<FF03>Crei que ni un rudo como yo<FF03>vence demonios sin armas!<FF02><FF04><FF1B>Brown<FF03>Vine a buscar unas, pero<FF03>acabe atrapado con Mark.<FF02><FF01> <FF1B>Mark<FF03>Callate, Hidehiko. Solo",
+  "shortened": true
+ }
+}

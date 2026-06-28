@@ -1,0 +1,30 @@
+import sys; sys.path.insert(0,"/home/josechavez/persona_es/scripts")
+from wf_chunk_e0 import put,repl,dump
+put("e0_00074"," quiza en otro momento")
+repl("e0_00024",
+  ("Hat-wearing student","Estudiante con gorra"),
+  ("Smug student","Estudiante engreido"),
+  ("Dude, if that really worked and I could<FF03>see my future, I'd be on easy street!","Men, si eso sirviera y viera<FF03>mi futuro, la tendria facil!"),
+  ("You sure you ain't got the brain rot,<FF03>Hidehiko?","Seguro que no tienes podrido el<FF03>cerebro, Hidehiko?"))
+put("e0_00025"," Resulta que hay mas que<FF03>un simple chiste.<FF02><FF04><FF1B>Estudiante engreido<FF03>Quiza no ver el futuro exacto,<FF03>pero pasan cosas raras.<FF02><FF04><FF1B>Estudiante engreido<FF03>Apuesto si tu te animas,<FF03>Mark!<FF02><FF01>  <FF1B>Mark<FF03>Bien")
+put("e0_00026"," Trato!<FF02><FF04><FF1B>Mark<FF03>Te apuesto una cena de buffet libre<FF03>en el Peace Diner de Joy Street!<FF02><FF01>   <FF1B>Estudiante boba<FF03>Woooo. Voy con Hidehiko.<FF02><FF01>  <FF1B>Estudiante de cola<FF03>Yo le entro con Brown tambien!<FF02><FF01> <FF1B>Mark<FF03>Hablan en serio?<FF02><FF01>   <FF1B>Mark<FF03>Oye Kei, Yukino. De que lado<FF03>van ustedes?<FF02><FF01><FF1B>Estudiante con lentes<FF03>Hmp! Como si me importara")
+put("e0_00027","<FF03>Es pura tonteria!<FF02><FF01>   <FF1B>Estudiante sereno<FF03>Lo que el dijo")
+put("e0_00028"," Esto es cosa tuya!<FF02><FF01> <FF1B>Mark<FF03>Ugh. Que frios son, sabes?<FF02><FF01>  <FF1B>Mark<FF03>Oye, con quien estas? Tiene que ser<FF03>conmigo, no?<FF02><FF01>  <FF1B>Mark<FF03>Vamos, que sera?<FF02><FF0E><1900><FF01><FF1B>Mark<FF03>Cielos, tu tambien? Estan locos!<FF02><FF01>  <FF1B>Ayase<FF03>Awww. Ya veras")
+put("e0_00029"," te arrepentiras.<FF02><FF01><FF1B>Brown<FF03>Heeheehee")
+put("e0_00030"," Esto sera divertido.<FF02><FF04><FF1B>Brown<FF03>Bien, empecemos.<FF02><FF01>   <FF1B>Ayase<FF03>Bien. Aqui voy.<FF02><FF01>   <FF1B>Ayase<FF03>Umm!<FF02><FF04><FF1B>Ayase<FF03>Persona. Persona.<FF03>Por favor ven.<FF02><FF01>   <FF1B>Brown<FF03>Mi turno.<FF02><FF04><FF1B>Brown<FF03>Persona. Persona.<FF03>Ven aqui.<FF02><FF01>  <FF1B>Mark<FF03>Men, por que yo")
+put("e0_00031","<FF02><FF01><FF1B>Brown<FF03>Apurate. Buffet libre.<FF03>Buffet libre.<FF02><FF01> <FF1B>Mark<FF03>Bien, bien")
+put("e0_00032","<FF02><FF04><FF1B>Mark<FF03>Persona, Persona!<FF03>Ven")
+put("e0_00033"," supongo!<FF02><FF01>   <FF1B>Elly<FF03>Bueno")
+put("e0_00034","<FF02><FF04><FF1B>Elly<FF03>Persona, Persona.<FF03>Por favor ven")
+put("e0_00035","<FF02><FF01> <FF1B>Brown<FF03>Bien. Ahi viene.<FF03>")
+put("e0_00036","E-Eh?<FF02><FF01><FF1B>Ayase<FF03>Hidehiko. Idiota. Ahora parezco una<FF03>tonta total.<FF02><FF01> <FF1B>Mark<FF03>Ves? Un monton de nada!<FF02><FF04><FF1B>Mark<FF03>Hehe")
+put("e0_00037"," Parece que gano!<FF02><FF01><FF1B>Yukino<FF03><0056>sigh<0056> Contento? Apurate y ve por<FF03>el maestro!<FF02><FF01><FF1B>Brown<FF03>E-Espera. Aguanta.<FF02><FF04><FF1B>Brown<FF03>Una vez mas. Porfa.? Mark lo<FF03>arruino.<FF02><FF04><FF1B>Brown<FF03>Vamos, hay que tomarlo en serio<FF03>al hacerlo!<FF02><FF01><FF1B>Mark<FF03>Oh, mocoso")
+put("e0_00038"," Que mal perdedor!<FF02><FF01>   <FF1B>Nanjo<FF03>O-Oye, Masao")
+put("e0_00040"," detras de ti!<FF02><FF01><FF1B>Mark<FF03>Huh? Men, ese tren ya salio de la<FF03>estacion! Muy tarde para--<FF02><FF01>  <FF1B>Mark<FF03>Cielos.<FF02><FF01>  <FF1B>Ayase<FF03>Q-Que es eso")
+put("e0_00043","<FF02><FF01><FF1B>Elly<FF03>Que sorpresa! La vez pasada solo<FF03>oimos ruidos!<FF02><FF01>  <FF1B>Brown<FF03>Haha")
+put("e0_00044"," V-Viste eso? Justo como<FF03>dije, no?<FF02><FF04><FF1B>Brown<FF03>Aunque es un poco distinto<FF03>esta vez")
+put("e0_00045","<FF02><FF01>   <FF1B>Chica de blanco<FF03><0056>sniff<0056> <0056>sniff<0056><FF05><5800><FF03>Ayuda")
+put("e0_00047","<FF02><FF01>   <FF1B>Mark<FF03>Q-Que rayos.?<FF02><FF01>   <FF1B>Nanjo<FF03>Eh? Que rayos")
+put("e0_00048","<FF02><FF01> <FF1B>Elly<FF03>Esto es fantastico. Oh, que intrigante.<FF02><FF01>  <FF1B>Ayase<FF03>Yeeeek. Que pasa.?<FF02><FF01>  <FF1B>Yukino<FF03>Cuidado, todos. Que")
+put("e0_00049","<FF02><FF01><FF1B>Mark<FF03>Whoa.<FF02><FF01><FF1B>Nanjo<FF03>Urgh")
+dump("/home/josechavez/persona_es/translated_text/_wfmaps/e0_d01.json")

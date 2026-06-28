@@ -1,0 +1,90 @@
+{
+ "e0_01011": {
+  "t": "<FF03>Quiza sabe donde esta Kandori.<FF02><FF01><FF1B>Maki<FF03>Esta puerta",
+  "shortened": true
+ },
+ "e0_01012": {
+  "t": " No me gusta<FF03>como se siente",
+  "shortened": true
+ },
+ "e0_01013": {
+  "t": "<FF02><FF01>   <FF1B>Mark<FF03>Maldicion. Esto lo arreglo, espera.<FF02><FF01><FF1B>Nanjo<FF03>Por Dios. Por este idiota,<FF03>olvide que iba a preguntar.<FF02><FF01> <FF1B>Reiji<FF03>",
+  "shortened": true
+ },
+ "e0_01014": {
+  "t": "Te dije que me dejes en paz!<FF02><FF01>   <FF1B>Elly<FF03>El Chico Diablo de este mundo es<FF03>confiable! Aunque podria mejorar su look",
+  "shortened": true
+ },
+ "e0_01015": {
+  "t": "<FF02><FF01> <FF1B>Brown<FF03>Chico Diablo, eh? Es gracioso,<FF03>la verdad",
+  "shortened": true
+ },
+ "e0_01016": {
+  "t": " Pero no me acostumbro!<FF02><FF01>  <FF1B>Ayase<FF03>Queee? Nos vamos YA.?<FF02><FF04><FF1B>Ayase<FF03>Eres el primero que me arrastra<FF03>tanto!<FF02><FF01><FF1B>Tsutomu<FF03>Con tu energia, estaras bien<FF03>ante lo que sea!<FF02><FF04><FF1B>Tsutomu<FF03>Aunque son un grupo rebelde",
+  "shortened": true
+ },
+ "e0_01017": {
+  "t": "<FF02><FF01> <FF1B>Yosuke<FF03>El Alaya Shrine esta donde estaba<FF03>en nuestro mundo! Hallen el camino!<FF02><FF04><FF1B>Yosuke<FF03>Y",
+  "shortened": true
+ },
+ "e0_01018": {
+  "t": "<FF05><3C00> Si ves a Chisato,<FF03>salvala por mi! Te lo ruego",
+  "shortened": true
+ },
+ "e0_01019": {
+  "t": "<FF02><FF01> <0044> Oyes un latido inquietante del<FF03>otro lado de la puerta",
+  "shortened": true
+ },
+ "e0_01020": {
+  "t": "<FF02><FF01><FF1B>Tsutomu<FF03>Tu tambien curioso! Esta puerta<FF03>aparecio en el incidente del mes pasado!<FF02><FF04><FF1B>Tsutomu<FF03>Lo intente todo, pero no<FF03>cede!<FF02><FF04><FF1B>Tsutomu<FF03>Pero si los hilos del destino llevan<FF03>alli, esta puerta debe abrir!<FF02><FF01> <FF18><0200><0044> Tsutomu Kurouri<FF03>Supuesto obseso del ocultismo con<FF03>datos dudosos, pero",
+  "shortened": true
+ },
+ "e0_01037": {
+  "t": "<FF02><FF01> <FF1B>Trish<FF03>Seran 2,500 yenes!<FF03>Esta bien, no?<FF02><FF0E> <FF01>  <FF1B>Trish<FF03>Bien. Aqui voy.<FF03>Dolor, dolor, vete.<FF02><FF01><FF1B>Trish<FF03>Uf",
+  "shortened": true
+ },
+ "e0_01141": {
+  "t": " Quien sera el!<FF02><FF01>  <FF1B>Nanjo<FF03>Ah si, cierto! Maki dijo que<FF03>tambien conocio al enmascarado!<FF02><FF01><FF1B>Mark<FF03>Por que siempre hay una mariposa<FF03>volando",
+  "shortened": true
+ },
+ "e0_01142": {
+  "t": "<FF02><FF01>  <FF1B>Elly<FF03>Este mundo es fascinante!<FF02><FF01>   <FF1B>Brown<FF03>Nada lindo en conocer<FF03>a un tipo raro asi.<FF02><FF01> <FF1B>Ayase<FF03>Yo tambien sone con ese<FF03>hombre mariposa!<FF02><FF01>   <FF1B>Reiji<FF03>Seguro que esa mariposa no tiene<FF03>que ver con Kandori, no?<FF02><FF01>   <FF1B>Mark<FF03>No hay nadie",
+  "shortened": true
+ },
+ "e0_01143": {
+  "t": " Tsutomu nos<FF03>engano?<FF02><FF01> <FF1B>Nanjo<FF03>Pero el Tsutomu de este mundo<FF03>parecia confiable",
+  "shortened": true
+ },
+ "e0_01144": {
+  "t": " <FF05><2000>Que es eso?<FF02><FF01> <FF1B>Nanjo<FF03>Oye, Masao",
+  "shortened": true
+ },
+ "e0_01145": {
+  "t": " no es esa mariposa",
+  "shortened": true
+ },
+ "e0_01146": {
+  "t": "<FF02><FF01> <FF1B>Elly<FF03>Oh. Es esa mariposa de cuando<FF03>hallamos a la mama de Maki aqui!<FF02><FF01><FF1B>Ayase<FF03>Que linda mariposa",
+  "shortened": true
+ },
+ "e0_01147": {
+  "t": " Que tal si<FF03>la atrapamos de mascota?<FF02><FF01>  <FF1B>Brown<FF03>Te gustan las mariposas, Nanjo?<FF02><FF04><FF1B>Brown<FF03>Que, eres de los que presume<FF03>un cuarto lleno de especimenes?<FF02><FF01>  <FF1B>Reiji<FF03>Sera una de sus trampas",
+  "shortened": true
+ },
+ "e0_01148": {
+  "t": "<FF02><FF04><FF1B>Reiji<FF03>Un mal paso y la atrapo<FF03>y la aplasto!<FF02><FF01>  <FF1B>Maki<FF03>No",
+  "shortened": true
+ },
+ "e0_01149": {
+  "t": " <FF05><2500>me mareo",
+  "shortened": true
+ },
+ "e0_01158": {
+  "t": " Asi que el tambien esta aqui!<FF02><FF01>   <FF1B>Ayase<FF03>Kandori tambien? Ay, tengo,<FF03>o sea, muy mal presentimiento.<FF02><FF01><FF1B>Brown<FF03>Kandori, eh? Hasta un galan como yo<FF03>preferiria no lidiar con el",
+  "shortened": true
+ },
+ "e0_01159": {
+  "t": "<FF02><FF01> <FF1B>Reiji<FF03>Kandori",
+  "shortened": true
+ }
+}

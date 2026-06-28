@@ -1,0 +1,90 @@
+{
+ "e2_00671": {
+  "t": "<FF02><FF01> <FF1B>Elly<FF03>Una vez curadas las heridas, debemos<FF03>apurarnos a la fabrica abandonada!<FF02><FF04><FF1B>Elly<FF03>Pero de verdad crees que podemos<FF03>acceder a SEBEC desde ahi?<FF02><FF01> <FF1B>Elly<FF03>Debemos apurarnos tras el Sr! Kandori.<FF02><FF01><FF1B>Mark<FF03>Sabes, casi me rayan la cara<FF03>bonita en batalla hace rato.<FF02><FF04><FF1B>Mark<FF03>50,000 fans de Mark en el mundo<FF03>caerian en total desesperacion.<FF02><FF04><FF1B>Mark<FF03>Como pude ser tan descuidado.?<FF02><FF01>   <FF1B>Ayase<FF03>No nos dara una inyeccion, verdad?<FF03>ODIO las inyecciones!<FF02><FF01><FF1B>Enfermera<FF03>Oi que una mujer herida andaba<FF03>por aqui hace poco!<FF02><FF04><FF1B>Enfermera<FF03>Me pregunto si cayo ante los demonios",
+  "shortened": true
+ },
+ "e2_00673": {
+  "t": "<FF03>interesante como siempre!<FF02><FF01> <FF1B>Doctor<FF03>Bien, en que te ayudo?<FF02><FF0E><1100><FF01> <FF1B>Doctor<FF03>Bien",
+  "shortened": true
+ },
+ "e2_00674": {
+  "t": " Para todos ustedes",
+  "shortened": true
+ },
+ "e2_00675": {
+  "t": "<FF02><FF01> <FF1B>Doctor<FF03>Cobro 800 yenes! Bien?<FF02><FF0E> <FF01><FF1B>Doctor<FF03>Hm! Entonces a curarte!<FF02><FF01><FF1B>Doctor<FF03>Listo, con eso basta!<FF02><FF01><FF1B>Doctor<FF03>Necesitas algo mas?<FF0E> <FF01>   <FF1B>Doctor<FF03>No atiendo a quien no puede<FF03>pagar! Vuelve cuando tengas el dinero!<FF02><FF01>  <FF1B>Doctor<FF03>Espero que no tengas problemas luego<FF03>por ahorrarte el tratamiento!<FF02><FF01> <FF1B>Doctor<FF03>Bien! Si surge algo mas,<FF03>te recomiendo verme de inmediato!<FF02><FF01> <FF1B>Doctor<FF03>Mi tiempo vale! Si no tienes<FF03>nada que hacer aqui, largate!<FF02><FF01><1200> <3012> <B812> <4013> <2014> <4815> <9815> <1817> <9017> <D01B> <601C> <B01C> <101D> <581D> <B01D> <401E> <F01E> <A01F> <4820>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <FFFF><FFFF><FFFF>",
+  "shortened": true
+ },
+ "e2_00677": {
+  "t": "`<0300><FF00>  <FF60> <FF67>a<FF55> <1012> <FF68> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <2013> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF55> <C813> <FF68> <FF61> <FF21>   <FF26><2800><B811> <FF26><2A00><D811> <FF60> <FF67><0701><FF55> <4814> <FF68> <FF61> <FF21>   <FF60> <FF67><0601><FF55> <7012> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF55> <C014> <FF68> <FF61> <FF21>   <FF60> <FF55> <2015> <FF61> <FF21>   <FF1B>Maki<FF03>De verdad no quiero quedarme mucho aqui!<FF02><FF01>  <FF1B>Mark<FF03>Hay un lugar donde destaque mas?<FF03>No se si resalto lo suficiente",
+  "shortened": true
+ },
+ "e2_00678": {
+  "t": "<FF02><FF01><FF1B>Nanjo<FF03>Seria genial si algun dia pudiera curar<FF03>mis heridas solo con voluntad!<FF02><FF01><FF1B>Mark<FF03>Hay tanto silencio aqui",
+  "shortened": true
+ },
+ "e2_00679": {
+  "t": " Siento como si<FF03>nunca hubiera pasado nada!<FF02><FF01><FF1B>Elly<FF03>Los demonios que aparecen deben ser<FF03>obra de SEBEC!<FF02><FF01> <FF1B>Ayase<FF03>Ugh, odio este olor a medicina!<FF02><FF01><FF1B>Enfermera<FF03>Oi que aparecio un oso! Era cafe?<FF03>Blanco? Gordo y peludo?<FF02><FF01> <FF60> <FF26><1400><D815> <FF67><3F01><FF55> <2819> <FF68> <FF61> <FF21>   <FF67><3F01><FF55> <7019> <FF68> <FF67><0001><FF55> <D019> <FF54> <0816> <FF54>`<0819> <FF21> <FF68> <FF67><3F01><FF55> <201A> <FF68> <FF67><0001><FF55> <801A> <FF54> <4016> <FF54>`<9018> <FF21>   <FF68> <FF3E> <E803> <B018> <FF67><3F01><FF55> <D01A> <FF68> <FF61> <FF6C><0500><FF81><2E00><FF4D><1000><FF6C><0200><FF44>`<8816> <FF22> <8816>   <FF45>`<9816> <FF22> <9816> <FF47>`<A816> <FF22> <A816> <FF30><0200><E016> <FF44><0200><C016> <FF22> <C016> <FF45><0200><D016> <FF22> <D016> <FF47><0200><E016> <FF22> <E016> <FF30><0300><1817> <FF44><0300><F816> <FF22> <F816> <FF45><0300><0817> <FF22> <0817> <FF47><0300><1817> <FF22> <1817> <FF30><0400><5017> <FF44><0400><3017> <FF22> <3017> <FF45><0400><4017> <FF22> <4017> <FF47><0400><5017> <FF22> <5017> <FF30><0500><8817> <FF44><0500><6817> <FF22> <6817> <FF45><0500><7817> <FF22> <7817> <FF47><0500><8817> <FF22> <8817> <FF30><0600><C017> <FF44><0600><A017> <FF22> <A017> <FF45><0600><B017> <FF22> <B017> <FF47><0600><C017> <FF22> <C017> <FF30><0700><F817> <FF44><0700><D817> <FF22> <D817> <FF45><0700><E817> <FF22> <E817> <FF47><0700><F817> <FF22> <F817> <FF30><0800><3018> <FF44><0800><1018> <FF22> <1018> <FF45><0800><2018> <FF22> <2018> <FF47><0800><3018> <FF22> <3018> <FF30><0900><6818> <FF44><0900><4818> <FF22> <4818> <FF45><0900><5818> <FF22> <5818> <FF47><0900><6818> <FF22> <6818> <FF3F>`<E803> <FF60> <FF67><3F01><FF55> <281B> <FF68> <FF61> <FF21>   <FF68> <FF67><3F01><FF55> <681C> <FF68> <FF61> <FF21>   <FF67><3F01><FF55> <B81B> <FF68> <FF61> <FF21> <FF55> <D019> <FF54> <0816> <FF54>`<E818> <FF21>   <FF68> <FF67><3F01><FF55> <181D> <FF68> <FF61> <FF21>   <FF68> <FF67><3F01><FF55> <C01D> <FF68> <FF61> <FF21>   <FF1B>Doctor<FF03>Otro buen dia afuera!<FF02><FF01><FF1B>Doctor<FF03>Aparecen osos hasta en este pueblo",
+  "shortened": true
+ },
+ "e2_00680": {
+  "t": "<FF02><FF01> <FF1B>Doctor<FF03>Bien, en que te ayudo?<FF02><FF0E><1100><FF01> <FF1B>Doctor<FF03>Bien",
+  "shortened": true
+ },
+ "e2_00681": {
+  "t": " Para todos ustedes",
+  "shortened": true
+ },
+ "e2_00682": {
+  "t": "<FF02><FF01> <FF1B>Doctor<FF03>Cobro 1,000 yenes! Bien?<FF02><FF0E> <FF01>  <FF1B>Doctor<FF03>Hm! Entonces a curarte!<FF02><FF01><FF1B>Doctor<FF03>Listo, con eso basta!<FF02><FF01><FF1B>Doctor<FF03>Necesitas algo mas?<FF02><FF0E> <FF01>  <FF1B>Doctor<FF03>No atiendo a quien no puede<FF03>pagar! Vuelve cuando tengas el dinero!<FF02><FF01>  <FF1B>Doctor<FF03>Espero que no tengas problemas luego<FF03>por ahorrarte el tratamiento!<FF02><FF01> <FF1B>Doctor<FF03>Bien! Si surge algo mas,<FF03>te recomiendo verme de inmediato!<FF02><FF01> <FF1B>Doctor<FF03>Mi tiempo vale! Si no tienes<FF03>nada que hacer aqui, largate!<FF02><FF01><1200> <1012> <7012> <2013> <C813> <4814> <C014> <2015> <2819> <7019> <D019> <201A> <801A> <D01A> <281B> <B81B> <681C> <181D> <C01D>                                                                                                                                                                      <FFFF><FFFF><FFFF>",
+  "shortened": true
+ },
+ "e2_00687": {
+  "t": " que es SEBEC?<FF02><FF04><FF1B>Maki<FF03>Es una empresa? No recuerdo que<FF03>hubiera algo asi",
+  "shortened": true
+ },
+ "e2_00688": {
+  "t": "<FF02><FF01><FF1B>Maki<FF03>Vamos tras Kandori.<FF02><FF01> <FF1B>Mark<FF03>Je, me estoy emocionando! Desde ahora,<FF03>veras lo que puedo hacer.<FF02><FF01>   <FF1B>Nanjo<FF03>Hidehiko ya olvido que<FF03>nosotros lo rescatamos!<FF02><FF01>   <FF1B>Nanjo<FF03>No crees que hay algo raro<FF03>en Maki? Hmmm",
+  "shortened": true
+ },
+ "e2_00689": {
+  "t": "<FF02><FF01>  <FF1B>Mark<FF03>Esta bien que estas tiendas abran?<FF02><FF04><FF1B>Mark<FF03>No me hago responsable si los demonios<FF03>las destrozan.<FF02><FF01><FF1B>Elly<FF03>Eso me recuerda",
+  "shortened": true
+ },
+ "e2_00690": {
+  "t": " He oido de esta<FF03>tienda rara antes!<FF02><FF01> <FF1B>Ayase<FF03>Es raro que las tiendas sigan abiertas<FF03>en un momento asi!<FF02><FF01>   <FF1B>Cliente<FF03>Esa tienda rara del centro al parecer<FF03>abrira pronto!<FF02><FF04><FF1B>Cliente<FF03>Me pregunto que tipo de tienda es",
+  "shortened": true
+ },
+ "e2_00691": {
+  "t": "<FF02><FF01> <FF1B>Cliente<FF03>Oi de una tienda rara abriendo<FF03>aqui en el centro",
+  "shortened": true
+ },
+ "e2_00692": {
+  "t": "<FF02><FF04><FF1B>Cliente<FF03>Puedo oir musica occidental<FF03>desde adentro",
+  "shortened": true
+ },
+ "e2_00693": {
+  "t": " Sera solo para miembros!<FF02><FF04><FF1B>Cliente<FF03>Me gustaria ver que tienen",
+  "shortened": true
+ },
+ "e2_00694": {
+  "t": "<FF02><FF01><FF1B>Mozo<FF03>Vaya, gracias por venir hasta aqui!<FF03>Debe ser dificil para ustedes!<FF02><FF01><0C00> <7816> <F816> <2018> <6018> <0819> <B019> <401A> <101B> <981B> <281C> <181D> <C01E>                                                   <FFFF><1900><FFFF>",
+  "shortened": true
+ },
+ "e2_00698": {
+  "t": " <ED01><FF60> <FF67>a<FF55> <E013> <FF68> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <8814> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF55> <1015> <FF68> <FF61> <FF21>   <FF26><2800><2813> <FF26><2A00><6813> <FF60> <FF67><0701><FF55> <7015> <FF68> <FF61> <FF21>   <FF60> <FF67><0601><FF26><3000><5013> <FF55> <8016> <FF68> <FF61> <FF21>   <FF55> <9817> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF55> <3018> <FF68> <FF61> <FF21>   <FF60> <FF67><3901><FF55> <D81A> <FF68> <FF61> <FF2A><1200><FF21> <FF60> <FF55> <3019> <FF61> <FF21>   <FF60> <FF67><3901><FF55> <781A> <FF68> <FF61> <FF21>   <FF1B>Maki<FF03>Son tan importantes las TVs y radios?<FF03>Nunca crei que fueran necesarias!<FF02><FF01>  <FF1B>Nanjo<FF03>Solo se puede confiar en la propia<FF03>fuerza! Es el unico modo!<FF02><FF01><FF1B>Mark<FF03>Los chicos de hoy si saben",
+  "shortened": true
+ },
+ "e2_00699": {
+  "t": "<FF02><FF01><FF1B>Elly<FF03>Me gustaria resolver este misterio!<FF02><FF04><FF1B>Elly<FF03>Es mi oportunidad de poner en practica<FF03>lo que he estudiado todo este tiempo!<FF02><FF01>   <FF1B>Mark<FF03>Asi que primero la fabrica abandonada,<FF03>luego SEBEC, y vencemos a Kandori?<FF02><FF04><FF1B>Mark<FF03>Problema resuelto. Sere un heroe.<FF02><FF04><FF1B>Mark<FF03>Cierto",
+  "shortened": true
+ },
+ "e2_00700": {
+  "t": "<FF02><FF01> <FF1B>Mark<FF03>Tenemos que seguir a Kandori?<FF03>Bueno",
+  "shortened": true
+ },
+ "e2_00701": {
+  "t": " si toca, supongo",
+  "shortened": true
+ }
+}

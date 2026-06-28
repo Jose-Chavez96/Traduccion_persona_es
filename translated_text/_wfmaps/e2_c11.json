@@ -1,0 +1,102 @@
+{
+ "e2_00297": {
+  "t": " <0200><FF00>  <FF60> <FF67><0301><FF26><1400><5011> <FF55> <5812> <FF68> <FF61> <FF21>   <FF55> <0013> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF26><1400><9011> <FF55> <8813> <FF68> <FF61> <FF21>   <FF55> <1814> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF26><2200><D011> <FF55> <C015> <FF68> <FF61> <FF21>   <FF55> <7016> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF26><1400><1012> <FF55> <B014> <FF68> <FF61> <FF21>   <FF55> <4815> <FF68> <FF61> <FF21>   <FF60> <FF26><1400><4812> <FF55> <A017> <FF61> <FF21>   <FF55> <7019> <FF61> <FF21> <FF1B>Nanjo<FF03>Me sorprende que la gente del pueblo<FF03>sepa tanto de St! Hermelin!<FF02><FF01> <FF1B>Nanjo<FF03>Preferiria evitar ver al<FF03>doctor por un tiempo",
+  "shortened": true
+ },
+ "e2_00298": {
+  "t": "<FF02><FF01>  <FF1B>Mark<FF03>No te molesta que aun no hayamos<FF03>ido al hospital?<FF02><FF01> <FF1B>Mark<FF03>Rayos, esto me esta enojando",
+  "shortened": true
+ },
+ "e2_00299": {
+  "t": " Debemos<FF03>apurarnos al templo!<FF02><FF01><FF1B>Yukino<FF03>La Srta! Saeko es nuestra superior!<FF03>Me lo dijo una vez!<FF02><FF01>   <FF1B>Yukino<FF03>Crees que la mujer que vio la enfermera<FF03>era la mama de Maki?<FF02><FF01>  <FF1B>Elly<FF03>Vamos al Templo Alaya cuando nos<FF03>curen! Esta a la vuelta!<FF02><FF01>  <FF1B>Elly<FF03>Una vez curadas las heridas, apuremonos<FF03>a la fabrica abandonada!<FF02><FF04><FF1B>Elly<FF03>Aunque de verdad crees que se puede<FF03>acceder a SEBEC desde ahi?<FF02><FF01>  <FF1B>Enfermera<FF03>Vaya, ese uniforme trae recuerdos.<FF03>Yo me gradue de St! Hermelin!<FF02><FF04><FF1B>Enfermera<FF03>Una vieja companera, Saeko Takami,<FF03>ensena ahi ahora! La conocen?<FF02><FF04><FF1B>Enfermera<FF03>Jaja, esa Saeko",
+  "shortened": true
+ },
+ "e2_00300": {
+  "t": " Nunca la imagine<FF03>como maestra.<FF02><FF01>  <FF1B>Enfermera<FF03>Oi que una mujer herida andaba<FF03>por aqui! Se la llevaron los demonios",
+  "shortened": true
+ },
+ "e2_00596": {
+  "t": "<FF02><FF01>  <FF1B>Elly<FF03>Que sensacion curiosa",
+  "shortened": true
+ },
+ "e2_00597": {
+  "t": " Es como si<FF03>todo fuera un sueno cuando estoy aqui!<FF02><FF01>   <FF1B>Ayase<FF03>Oye, y SEBEC? Solo vamos a<FF03>dejar esa idea?<FF02><FF01>  <FF1B>Ayase<FF03>Vamos, persigamos a Kandori.<FF02><FF01> <FF1B>Mozo<FF03>Estare bien si me quedo aqui",
+  "shortened": true
+ },
+ "e2_00598": {
+  "t": " Mantenerla<FF03>abierta",
+  "shortened": true
+ },
+ "e2_00599": {
+  "t": " Nunca cerramos",
+  "shortened": true
+ },
+ "e2_00600": {
+  "t": "<FF02><FF04><FF1B>Mozo<FF03>Hola.<FF02><FF01><0800> <4016> <A016> <5017> <0818> <A818> <5819> <E819> <381A>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               <FFFF><FFFF><FFFF>",
+  "shortened": true
+ },
+ "e2_00603": {
+  "t": " No vamos a estar<FF03>aqui mucho, verdad?<FF02><FF01> <FF1B>Mark<FF03>De verdad tenemos que ir a esa fabrica?<FF03>Es muy sucia para alguien con clase.<FF02><FF01>  <FF1B>Mark<FF03>De verdad hay que vencer a Kandori? Escapo.<FF03>Mejor dejemoslo asi.<FF02><FF01>   <FF1B>Nanjo<FF03>",
+  "shortened": true
+ },
+ "e2_00604": {
+  "t": "<FF05><1000>Oh, perdon, <FF07>! Estaba<FF03>pensando!<FF02><FF01> <FF1B>Mark<FF03>Asi que Kandori estaba detras de todo",
+  "shortened": true
+ },
+ "e2_00605": {
+  "t": " <FF05><2000>Seguimos<FF03>yendo a la fabrica abandonada?<FF02><FF01>  <FF1B>Mark<FF03>Debemos apurarnos y atrapar a Kandori.<FF02><FF01>  <FF1B>Elly<FF03>El ambiente alegre de esta clinica<FF03>siempre relaja, me parece!<FF02><FF01>   <FF1B>Ayase<FF03>Por que SEBEC tiene seguridad<FF03>tan estricta?<FF02><FF01><FF1B>Ayase<FF03>Wow",
+  "shortened": true
+ },
+ "e2_00606": {
+  "t": " SEBEC si era tan malo como<FF03>dicen",
+  "shortened": true
+ },
+ "e2_00607": {
+  "t": "<FF02><FF01>  <FF1B>Enfermera<FF03>Oi que afuera esta todo loco!<FF03>Si no trabajara, iria a ver.<FF02><FF01>  <FF60> <FF67><3F01><FF55> <781B> <FF68> <FF67><0001><FF55> <F01B> <FF54> <5818> <FF54>`<581B> <FF21>   <FF68> <FF67><3F01><FF55> <401C> <FF68> <FF67><0001><FF55> <A01C> <FF54> <9018> <FF54>`<E01A> <FF21>   <FF68> <FF3E> <2003> <001B> <FF67><3F01><FF55> <E81C> <FF68> <FF61> <FF6C><0500><FF81><2E00><FF4D><1000><FF6C><0200><FF44>`<D818> <FF22> <D818>   <FF45>`<E818> <FF22> <E818> <FF47>`<F818> <FF22> <F818> <FF30><0200><3019> <FF44><0200><1019> <FF22> <1019> <FF45><0200><2019> <FF22> <2019> <FF47><0200><3019> <FF22> <3019> <FF30><0300><6819> <FF44><0300><4819> <FF22> <4819> <FF45><0300><5819> <FF22> <5819> <FF47><0300><6819> <FF22> <6819> <FF30><0400><A019> <FF44><0400><8019> <FF22> <8019> <FF45><0400><9019> <FF22> <9019> <FF47><0400><A019> <FF22> <A019> <FF30><0500><D819> <FF44><0500><B819> <FF22> <B819> <FF45><0500><C819> <FF22> <C819> <FF47><0500><D819> <FF22> <D819> <FF30><0600><101A> <FF44><0600><F019> <FF22> <F019> <FF45><0600><001A> <FF22> <001A> <FF47><0600><101A> <FF22> <101A> <FF30><0700><481A> <FF44><0700><281A> <FF22> <281A> <FF45><0700><381A> <FF22> <381A> <FF47><0700><481A> <FF22> <481A> <FF30><0800><801A> <FF44><0800><601A> <FF22> <601A> <FF45><0800><701A> <FF22> <701A> <FF47><0800><801A> <FF22> <801A> <FF30><0900><B81A> <FF44><0900><981A> <FF22> <981A> <FF45><0900><A81A> <FF22> <A81A> <FF47><0900><B81A> <FF22> <B81A> <FF3F>`<2003> <FF60> <FF67><3F01><FF55> <401D> <FF68> <FF61> <FF21>   <FF68> <FF67><3F01><FF55> <801E> <FF68> <FF61> <FF21>   <FF67><3F01><FF55> <D01D> <FF68> <FF61> <FF21> <FF55> <F01B> <FF54> <5818> <FF54>`<381B> <FF21>   <FF68> <FF67><3F01><FF55> <301F> <FF68> <FF61> <FF21>   <FF68> <FF67><3F01><FF55> <D81F> <FF68> <FF61> <FF21>   <FF1B>Doctor<FF03>Ojala hallara una enfermera menos<FF03>despistada!<FF02><FF01> <FF1B>Doctor<FF03>Bien, en que te ayudo?<FF02><FF0E><1100><FF01> <FF1B>Doctor<FF03>Bien",
+  "shortened": true
+ },
+ "e2_00608": {
+  "t": " Para todos ustedes",
+  "shortened": true
+ },
+ "e2_00609": {
+  "t": "<FF02><FF01> <FF1B>Doctor<FF03>Cobro 800 yenes! Bien?<FF02><FF0E> <FF01><FF1B>Doctor<FF03>Hm! Entonces a curarte!<FF02><FF01><FF1B>Doctor<FF03>Listo, con eso basta!<FF02><FF01><FF1B>Doctor<FF03>Necesitas algo mas?<FF0E> <FF01>   <FF1B>Doctor<FF03>No atiendo a quien no puede<FF03>pagar! Vuelve cuando tengas el dinero!<FF02><FF01>  <FF1B>Doctor<FF03>Espero que no tengas problemas luego<FF03>por ahorrarte el tratamiento!<FF02><FF01> <FF1B>Doctor<FF03>Bien! Si surge algo mas,<FF03>te recomiendo verme de inmediato!<FF02><FF01> <FF1B>Doctor<FF03>Mi tiempo vale! Si no tienes<FF03>nada que hacer aqui, largate!<FF02><FF01><1400> <7012> <1813> <C813> <7814> <E814> <9815> <F815> <8816> <0017> <7017> <781B> <F01B> <401C> <A01C> <E81C> <401D> <D01D> <801E> <301F> <D81F>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <FFFF><FFFF><FFFF><FFFF><FFFF><3500><FFFF><FFFF><FFFF><FFFF><4F00><FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><0300><FFFF><6A1B> <D810> <F010> <E010> <F010> <E810> <F010> <0011> <0811> <D80C> <0200><100B>` <FFFF><FFFF> ",
+  "shortened": true
+ },
+ "e2_00612": {
+  "t": " no ibamos a la fabrica<FF03>abandonada?<FF02><FF01>   <FF1B>Maki<FF03>Debemos apurarnos tras Kandori.<FF02><FF01> <FF1B>Mark<FF03>Vaya, que tienda tan mala. Si fuera mia,<FF03>la haria un cafe al aire libre.<FF02><FF01>   <FF1B>Nanjo<FF03>Ese mozo parece sospechar de nosotros!<FF02><FF04><FF1B>Nanjo<FF03>Pero seguimos siendo humanos con<FF03>este poder? Que opinas?<FF02><FF01> <FF1B>Mark<FF03>Ojala fuera tan relajado como tu,<FF03><FF07>!<FF02><FF01>   <FF1B>Elly<FF03>Me sorprende que algunos puedan<FF03>mantener la calma! Es admirable!<FF02><FF01><FF1B>Ayase<FF03>No sabia que te gustaba esto,<FF03><FF07>. Awww, que tierno.<FF02><FF01>   <FF1B>Tendero<FF03>Estas",
+  "shortened": true
+ },
+ "e2_00615": {
+  "t": " <ED01><FF60> <FF67>a<FF55> <D813> <FF68> <FF61> <FF21>   <FF60> <FF67><0601><FF55> <5014> <FF68> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <4815> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF55> <E815> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF26><3000><4013> <FF55> <9816> <FF68> <FF61> <FF21>   <FF55> <7817> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF26><3000><8013> <FF55> <1818> <FF68> <FF61> <FF21>   <FF55> <C018> <FF68> <FF61> <FF21>   <FF60> <FF67><3901><FF55> <5819> <FF68> <FF61> <FF2A><1200><FF21> <FF60> <FF67><3901><FF55> <001B> <FF68> <FF61> <FF21>   <FF1B>Maki<FF03>El dueno aqui si sabe vender<FF03>su producto!<FF02><FF01><FF1B>Mark<FF03>Fue mi primera vez en una celda.<FF02><FF04><FF1B>Mark<FF03>Estaba algo nervioso al inicio",
+  "shortened": true
+ },
+ "e2_00616": {
+  "t": " pero<FF03>fue muy divertido.<FF02><FF01>   <FF1B>Nanjo<FF03>Hombre prevenido vale por dos.<FF03>",
+  "shortened": true
+ },
+ "e2_00617": {
+  "t": "Eso decia siempre Yamaoka!<FF02><FF01> <FF1B>Mark<FF03>Tengo mucho que decirle a Kandori",
+  "shortened": true
+ },
+ "e2_00618": {
+  "t": "<FF03>No dejare a ese tipo en paz!<FF02><FF01>   <FF1B>Elly<FF03>Vamos a la fabrica abandonada,<FF03>si?<FF02><FF04><FF1B>Elly<FF03>Nunca le di una buena mirada<FF03>antes, pero",
+  "shortened": true
+ },
+ "e2_00619": {
+  "t": "<FF02><FF01>   <FF1B>Elly<FF03>Debemos seguir al Sr!Kandori",
+  "shortened": true
+ },
+ "e2_00620": {
+  "t": " No podemos<FF03>dejarlo hacer lo que quiera.<FF02><FF01>  <FF1B>Ayase<FF03>Cierto",
+  "shortened": true
+ },
+ "e2_00621": {
+  "t": " Si vamos a entrar<FF03>a SEBEC, necesitamos medicina.<FF02><FF01> <FF1B>Ayase<FF03>Debemos ir tras Kandori",
+  "shortened": true
+ },
+ "e2_00622": {
+  "t": " Tipo, quien<FF03>sabe que hara?<FF02><FF01>   <FF1B>Mozo<FF03>Ah, bienvenido.<FF02><FF04><FF1B>Mozo<FF03>Oye, has visto a Tamaki?<FF02><FF04><FF1B>Mozo<FF03>Estoy muy preocupada por ella",
+  "shortened": true
+ }
+}

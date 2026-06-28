@@ -1,0 +1,26 @@
+[
+ {
+  "id": "name_na_00000",
+  "archivo_origen": "name/na.bin",
+  "offset_inicio": 740,
+  "offset_fin": 996,
+  "longitud_original_bytes": 256,
+  "texto_original": "    <0055><F5FF>       <5555>        <C5FF><FF05>      <5BFC><FF05>      <BF55><5505>      <FF55><5500>      <FF55><5500>      <FF55><0500>      <5505>               <0500> <7000> <7000> <1000> <3000> <0200> <1000>`<1000><1000>`<0200>  <3000> <4000> <6000>   <0200>`<0300>`<4000>       <FF0F> ",
+  "texto_traducido": "",
+  "notas": "carácter repetido dominante (probable relleno gráfico)",
+  "estado": "revisar",
+  "raw_hex": "00000000000000000055f5ff0000000000000000000000000000555500000000000000000000000000000000c5ffff050000000000000000000000005bfcff05000000000000000000000000bf555505000000000000000000000000ff555500000000000000000000000000ff555500000000000000000000000000ff55050000000000000000000000000055050000000000000000000000000000000000000000000000000000000000000500000070000000700000001000000030000000020000001000010010001000010002000000000030000000400000006000000000000000020001000300010040000000000000000000000000000000ff0f0000"
+ },
+ {
+  "id": "name_na_00001",
+  "archivo_origen": "name/na.bin",
+  "offset_inicio": 11472,
+  "offset_fin": 11984,
+  "longitud_original_bytes": 512,
+  "texto_original": "<FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>  <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>  <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>  <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>  <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>  <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>  <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>  <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>  <0500> <7000> <7000> <1000> <3000> <0200> <1000>`<1000><1000>`<0200>  <3000> <4000> <6000>   <0200>`<0300>`<4000>       ",
+  "texto_traducido": "",
+  "notas": "carácter repetido dominante (probable relleno gráfico)",
+  "estado": "revisar",
+  "raw_hex": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffff00000000ffffffffffffffffffffffff00000000ffffffffffffffffffffffff00000000ffffffffffffffffffffffff00000000ffffffffffffffffffffffff00000000ffffffffffffffffffffffff00000000ffffffffffffffffffffffff000000000500000070000000700000001000000030000000020000001000010010001000010002000000000030000000400000006000000000000000020001000300010040000000000000000000000000000000"
+ }
+]

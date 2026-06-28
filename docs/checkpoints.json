@@ -1,0 +1,344 @@
+{
+ "resumen": {
+  "archivos": 37,
+  "pending": 4,
+  "translated": 1,
+  "validated": 0,
+  "inserted": 32
+ },
+ "archivos": {
+  "bt_menu": {
+   "estado": "pending",
+   "total": 2,
+   "traducido": 0,
+   "shortened": 0,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 0
+  },
+  "e0": {
+   "estado": "translated",
+   "total": 1960,
+   "traducido": 19,
+   "shortened": 0,
+   "fallido": 0,
+   "por_traducir": 1941,
+   "en_patch": 18
+  },
+  "e1": {
+   "estado": "inserted",
+   "total": 1128,
+   "traducido": 0,
+   "shortened": 1128,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 1128
+  },
+  "e2": {
+   "estado": "inserted",
+   "total": 995,
+   "traducido": 5,
+   "shortened": 990,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 995
+  },
+  "e3": {
+   "estado": "inserted",
+   "total": 520,
+   "traducido": 6,
+   "shortened": 514,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 520
+  },
+  "e4": {
+   "estado": "inserted",
+   "total": 1191,
+   "traducido": 32,
+   "shortened": 1159,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 1191
+  },
+  "kage": {
+   "estado": "pending",
+   "total": 4,
+   "traducido": 0,
+   "shortened": 0,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 0
+  },
+  "sys": {
+   "estado": "pending",
+   "total": 7,
+   "traducido": 0,
+   "shortened": 0,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 0
+  },
+  "talk_basket": {
+   "estado": "inserted",
+   "total": 312,
+   "traducido": 0,
+   "shortened": 312,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 312
+  },
+  "talk_doppel": {
+   "estado": "inserted",
+   "total": 149,
+   "traducido": 118,
+   "shortened": 31,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 149
+  },
+  "talk_etc": {
+   "estado": "inserted",
+   "total": 198,
+   "traducido": 121,
+   "shortened": 77,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 198
+  },
+  "talk_gaki": {
+   "estado": "inserted",
+   "total": 98,
+   "traducido": 85,
+   "shortened": 13,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 98
+  },
+  "talk_hiho": {
+   "estado": "inserted",
+   "total": 336,
+   "traducido": 279,
+   "shortened": 57,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 336
+  },
+  "talk_kemono": {
+   "estado": "inserted",
+   "total": 463,
+   "traducido": 245,
+   "shortened": 218,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 463
+  },
+  "talk_kokuri": {
+   "estado": "inserted",
+   "total": 8,
+   "traducido": 8,
+   "shortened": 0,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 8
+  },
+  "talk_korou": {
+   "estado": "inserted",
+   "total": 364,
+   "traducido": 258,
+   "shortened": 106,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 364
+  },
+  "talk_kosiki": {
+   "estado": "inserted",
+   "total": 367,
+   "traducido": 288,
+   "shortened": 79,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 367
+  },
+  "talk_kouman": {
+   "estado": "inserted",
+   "total": 422,
+   "traducido": 0,
+   "shortened": 422,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 422
+  },
+  "talk_kutisake": {
+   "estado": "inserted",
+   "total": 192,
+   "traducido": 0,
+   "shortened": 192,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 192
+  },
+  "talk_kyouki": {
+   "estado": "inserted",
+   "total": 328,
+   "traducido": 0,
+   "shortened": 328,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 328
+  },
+  "talk_mayoeru": {
+   "estado": "inserted",
+   "total": 200,
+   "traducido": 0,
+   "shortened": 200,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 200
+  },
+  "talk_polutar": {
+   "estado": "inserted",
+   "total": 175,
+   "traducido": 0,
+   "shortened": 175,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 175
+  },
+  "talk_qsiruba": {
+   "estado": "inserted",
+   "total": 77,
+   "traducido": 3,
+   "shortened": 74,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 77
+  },
+  "talk_sinsi": {
+   "estado": "inserted",
+   "total": 448,
+   "traducido": 0,
+   "shortened": 448,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 448
+  },
+  "talk_slime": {
+   "estado": "inserted",
+   "total": 134,
+   "traducido": 0,
+   "shortened": 134,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 134
+  },
+  "talk_syoujo": {
+   "estado": "inserted",
+   "total": 269,
+   "traducido": 0,
+   "shortened": 269,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 269
+  },
+  "talk_tensi": {
+   "estado": "inserted",
+   "total": 408,
+   "traducido": 2,
+   "shortened": 406,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 408
+  },
+  "talk_tinpra": {
+   "estado": "inserted",
+   "total": 99,
+   "traducido": 1,
+   "shortened": 98,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 99
+  },
+  "talk_toilet": {
+   "estado": "inserted",
+   "total": 312,
+   "traducido": 0,
+   "shortened": 312,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 312
+  },
+  "talk_worm": {
+   "estado": "inserted",
+   "total": 440,
+   "traducido": 0,
+   "shortened": 440,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 440
+  },
+  "talk_wtensi": {
+   "estado": "inserted",
+   "total": 407,
+   "traducido": 2,
+   "shortened": 405,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 407
+  },
+  "talk_yakuza": {
+   "estado": "inserted",
+   "total": 106,
+   "traducido": 0,
+   "shortened": 106,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 106
+  },
+  "talk_youen": {
+   "estado": "inserted",
+   "total": 377,
+   "traducido": 1,
+   "shortened": 376,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 377
+  },
+  "talk_zmbityan": {
+   "estado": "inserted",
+   "total": 131,
+   "traducido": 0,
+   "shortened": 131,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 131
+  },
+  "talk_zomb_man": {
+   "estado": "inserted",
+   "total": 114,
+   "traducido": 0,
+   "shortened": 114,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 114
+  },
+  "talk_zombiko": {
+   "estado": "inserted",
+   "total": 93,
+   "traducido": 0,
+   "shortened": 93,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 93
+  },
+  "title_title": {
+   "estado": "pending",
+   "total": 3,
+   "traducido": 0,
+   "shortened": 0,
+   "fallido": 0,
+   "por_traducir": 0,
+   "en_patch": 0
+  }
+ }
+}

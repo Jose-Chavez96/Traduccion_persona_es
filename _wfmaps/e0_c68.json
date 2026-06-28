@@ -1,0 +1,90 @@
+{
+ "e0_02386": {
+  "t": "<FF03>Esperare tu regreso a salvo!<FF02><FF01>   <FF1B>Brown<FF03>Saluda a la Maki real de parte nuestra.<FF02><FF01><FF1B>Brown<FF03>Eh? No has ido? Ahhh,<FF03>ya entiendo",
+  "shortened": true
+ },
+ "e0_02387": {
+  "t": " Te acobardaste, eh?<FF02><FF01>   <FF1B>Ayase<FF03>No has ido, <FF07>?<FF03>No me digas que eres gallina.<FF02><FF01> <FF1B>Ayase<FF03>No has ido, <FF08>?<FF03>No me digas que eres gallina.<FF02><FF01> <FF1B>Ayase<FF03><FF08>. Mejor ve a ver a Maki,<FF03>rapido.<FF02><FF01>  <FF1B>Ayase<FF03><FF07>. Mejor ve a ver a Maki,<FF03>rapido.<FF02><FF01><2200> <3026> <9027> <F827> <A828> <3829> <9029> <382A> <A82A> <102B> <D82B> <382C> <B02C> <002D> <982D> <E82D> <802E> <002F> <602F> <802F> <D02F> <4830> <E030> <8831> <2832> <6832> <E832> <7833> <E833> <7834> <C834> <6035> <E035> <6036> <B836>                                                     <FFFF><1600><FFFF>",
+  "shortened": true
+ },
+ "e0_02392": {
+  "t": " <E801>a,`<FF00>d<00FF>  <0302><00FF>  <0301><0001>`<0301><00FF>   <FF4D><5A00><FF60> <FF67><0401><FF55> <5014> <FF68> <FF67><0301><FF55> <C014> <FF68> <FF67><0201><FF55> <6815> <FF68> <FF26><1700><3814> <FF55> <D815> <FF61> <FF2B><B400>  <FF21> <FF55> <0817> <FF61> <FF2B><B400>  <FF21> <FF1B>Yukino<FF03><FF07>. Esta sigue viva.<FF03>Ayudame aqui.<FF02><FF01> <FF1B>Nanjo<FF03>No hay tiempo que perder, <FF07>.<FF03>Es tarde para ella, no para nosotros.<FF02><FF01>   <FF1B>Mark<FF03>Oye, <FF07>. Los monstruos estan<FF03>a la vuelta.<FF02><FF01> <FF1B>Voz de <FF08><FF03>Recuerdas? Dejaste morir<FF03>a la pobre mujer",
+  "shortened": true
+ },
+ "e0_02393": {
+  "t": "<FF02><FF04><FF1B><FF08>'s voice<FF03><0028>Velo por mi mismo",
+  "shortened": true
+ },
+ "e0_02394": {
+  "t": " Seguro<FF03>que no era tu razon?<FF02><FF01>  <FF1B><FF08>'s voice<FF03>Recuerdas? Salvaste a esta mujer,<FF03>sin pensar en tu seguridad",
+  "shortened": true
+ },
+ "e0_02396": {
+  "t": "<FF00><0301><00FF>  <FF6C><0700><FF4D><5A00><FF60> <FF67>a<FF55> <2814> <FF68> <FF26><3100><1014> <FF55> <6015> <FF61> <FF2B><B500>  <FF21>   <FF55> <0816> <FF61> <FF2B><B500>  <FF21> <FF1B>Maki<FF03>Ya basta. No quiero mas<FF03>muertes",
+  "shortened": true
+ },
+ "e0_02397": {
+  "t": "<FF02><FF04><FF1B>Maki<FF03>Nadie quiere morir, verdad?<FF02><FF04><FF1B>Maki<FF03>Atrapamos a Kandori luego! Este<FF03>hombre necesita ayuda.<FF02><FF01>   <FF1B>Voz de <FF08><FF03>Y aqui, trataste de abandonar a un<FF03>viejo, aunque era solo un peon",
+  "shortened": true
+ },
+ "e0_02398": {
+  "t": "<FF02><FF01><FF1B>Voz de <FF08><FF03>Y aqui, elegiste salvar al viejo<FF03>arriesgando perder a Kandori",
+  "shortened": true
+ },
+ "e0_02400": {
+  "t": "  <FF4D><3C00><FF60> <FF67><1C01><FF55> <6015> <FF68> <FF26><4000><4815> <FF55> <D016> <FF61> <FF2B><B600>  <FF21> <FF55> <1818> <FF61> <FF2B><B600>  <FF21> <FF1B>Harem Queen<FF03>Te dare a ti, solo a ti, una<FF03>ultima chance, <FF07>",
+  "shortened": true
+ },
+ "e0_02401": {
+  "t": "<FF02><FF04><FF1B>Harem Queen<FF03>Cual es mejor? Mi pintura<FF03>impresionante, o la de Maki?<FF02><FF04><FF1B>Harem Queen<FF03>Y quiero respuesta honesta.<FF02><FF01>  <FF1B>Voz de <FF08><FF03>De verdad creiste que la pintura<FF03>de Chisato era superior",
+  "shortened": true
+ },
+ "e0_02402": {
+  "t": "<FF02><FF04><FF1B>Voz de <FF08><FF03>Di, <0028>No temi volverme<FF03>piedra!<0028> Puedes decirlo honestamente?<FF02><FF01>  <FF1B>Voz de <FF08><FF03>Afirmar tus creencias ante el<FF03>peligro",
+  "shortened": true
+ },
+ "e0_02403": {
+  "t": " no es facil!<FF02><FF01><0300> <6015> <D016> <1818>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <FFFF><FFFF><FFFF>",
+  "shortened": true
+ },
+ "e0_02406": {
+  "t": " Es la mama de Maki,<FF03>estoy seguro",
+  "shortened": true
+ },
+ "e0_02407": {
+  "t": "<FF02><FF04><FF1B>Mark<FF03>No?<FF02><FF04><FF1B>Mark<FF03>No se por que se ve asi,<FF03>pero y si de verdad es su mama",
+  "shortened": true
+ },
+ "e0_02408": {
+  "t": "<FF02><FF04><FF1B>Mark<FF03>Guarda tu arma, <FF07>.<FF02><FF01>   <FF1B>Voz de <FF08><FF03>Te falto vision para ver<FF03>la verdad",
+  "shortened": true
+ },
+ "e0_02409": {
+  "t": "<FF02><FF04><FF1B>Voz de <FF08><FF03>Juzgas solo con los ojos, y no<FF03>ves con el corazon",
+  "shortened": true
+ },
+ "e0_02410": {
+  "t": "<FF02><FF01> <FF1B>Voz de <FF08><FF03>Tuviste vision para ver<FF03>la verdad",
+  "shortened": true
+ },
+ "e0_02411": {
+  "t": "<FF02><FF04><FF1B>Voz de <FF08><FF03>Ves no solo con los ojos, sino<FF03>tambien con el corazon",
+  "shortened": true
+ },
+ "e0_02413": {
+  "t": " <E901><FF4D><5A00><FF60> <FF67><2701><FF55> <2012> <FF68> <FF26><4A00><0812> <FF55> <C012> <FF61> <FF2B><B800>  <FF21> <FF55> <4814> <FF61> <FF2B><B800>  <FF21> <FF1B>Kandori<FF03>Tu, nino",
+  "shortened": true
+ },
+ "e0_02414": {
+  "t": " Aun no oigo tu respuesta!<FF03>Para que vives?<FF02><FF01><FF1B>Voz de <FF08><FF03>El alma de este hombre enfermo de duda",
+  "shortened": true
+ },
+ "e0_02415": {
+  "t": "<FF02><FF04><FF1B>Voz de <FF08><FF03>Pero no pudiste dar a su alma<FF03>la salvacion que ansiaba",
+  "shortened": true
+ },
+ "e0_02416": {
+  "t": "<FF02><FF04><FF1B>Voz de <FF08><FF03>Y la causa fue la duda que roia<FF03>tu propia alma!<FF02><FF01>   <FF1B>Voz de <FF08><FF03>El alma de este hombre enfermo de duda",
+  "shortened": true
+ }
+}

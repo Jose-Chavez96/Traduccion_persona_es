@@ -1,0 +1,90 @@
+{
+ "e0_01499": {
+  "t": " ni se mueve!<FF02><FF01><FF1B>Mark<FF03>Oye Nanjo, deja de mirar al vacio.<FF03>No tienes un plan o algo?<FF02><FF01> <FF1B>Nanjo<FF03>La chica puso algo en ese<FF03>pedestal!<FF02><FF01>  <FF1B>Nanjo<FF03>No entraremos sin una llave<FF03>para este hueco de media luna!<FF02><FF01>   <FF1B>Elly<FF03>Por lo que dijo, alguien<FF03>mas debe tenerla!<FF02><FF01><FF1B>Brown<FF03>Uf, otra busqueda de cosas?<FF02><FF01>  <FF1B>Ayase<FF03>Oye, abrete ya.<FF02><FF01><FF1B>Maki<FF03>El bosque",
+  "shortened": true
+ },
+ "e0_01500": {
+  "t": " debe ser el del<FF03>oeste! Antes era un jardin de flores",
+  "shortened": true
+ },
+ "e0_01501": {
+  "t": "<FF02><FF04><FF1B>Maki<FF03>Pero ahora lo llaman <FF18><0700>Bosque Perdido<FF18> !<FF02><FF01>  <FF1B>Elly<FF03>Volvamos! Hay que hallar<FF03>a quien tenga esa llave!<FF02><FF01>   <FF1B>Brown<FF03>Uuugh",
+  "shortened": true
+ },
+ "e0_01502": {
+  "t": " tenemos que volver?<FF02><FF04><FF1B>Brown<FF03>Y si el lider se queda aqui<FF03>vigilando? No? Bien, ya",
+  "shortened": true
+ },
+ "e0_01503": {
+  "t": "<FF02><FF01> <FF1B>Ayase<FF03>Que.? Vinimos hasta aqui",
+  "shortened": true
+ },
+ "e0_01504": {
+  "t": " y ahora<FF03>VOLVEMOS.? Que horror.<FF02><FF01>   <FF1B>Mark<FF03>En fin! Volvamos",
+  "shortened": true
+ },
+ "e0_01505": {
+  "t": " Hay que<FF03>hallar a quien dijo esa mocosa!<FF02><FF01>  <FF1B>Maki<FF03>Cuando el Bosque Perdido era jardin,<FF03>una nina llamada Mai jugaba ahi",
+  "shortened": true
+ },
+ "e0_01506": {
+  "t": "<FF02><FF04><FF1B>Maki<FF03>Sera a quien buscamos?<FF02><FF01>   <FF1B>Mark<FF03>Esa mocosa TIENE que ser hija de Kandori!<FF03>Se le parece",
+  "shortened": true
+ },
+ "e0_01508": {
+  "t": " no te inquieta algo<FF03>el comportamiento de esa nina?<FF02><FF04><FF1B>Nanjo<FF03>No quito la sensacion de que<FF03>nos manipulan!<FF02><FF01> <FF1B>Elly<FF03>Kandori debe ser muy valioso para<FF03>esa nina",
+  "shortened": true
+ },
+ "e0_01509": {
+  "t": " Me da algo de envidia!<FF02><FF04><FF1B>Elly<FF03>Oh, perdon si eso sono<FF03>raro!<FF02><FF01>   <FF1B>Brown<FF03>Bien, vuelvo con ustedes! O sea,<FF03>que harian sin lider?<FF02><FF01><FF1B>Ayase<FF03>Oye <FF07>, llevame a caballito<FF03>al otro lado.<FF02><FF04><FF1B>Ayase<FF03>Vamos, me sentirias calientita en tu<FF03>espalda todo el camino! Porfa?<FF02><FF01>   <FF1B>Reiji<FF03>El infeliz esta arriba, eh? No lo<FF03>dejare escapar",
+  "shortened": true
+ },
+ "e0_01510": {
+  "t": " Mejor que este listo para morir!<FF02><FF01>   <FF1B>Reiji<FF03>Mejor quitate del camino!<FF03>Voy a destruirlo!<FF02><FF01><FF1B>Mark<FF03>Calma, Reiji! Esto no es algo<FF03>que puedas romper asi!<FF02><FF04><FF1B>Mark<FF03>Pierdes la calma con Kandori!<FF03>Bueno, no preguntare",
+  "shortened": true
+ },
+ "e0_01511": {
+  "t": "<FF02><FF04><FF1B>Mark<FF03>Pero no tienes que cargar eso<FF03>tu solo!<FF02><FF01>   <FF1B>Reiji<FF03>",
+  "shortened": true
+ },
+ "e0_01512": {
+  "t": "<FF02><FF01> <FF1B>Maki<FF03>Masao tiene razon, Reiji! Estamos<FF03>todos juntos en esto!<FF02><FF01><FF1B>Reiji<FF03>",
+  "shortened": true
+ },
+ "e0_01513": {
+  "t": "No tengo por que ser amable! <0028>Todos<FF03>juntos<0028>? Me das asco!<FF02><FF04><FF1B>Reiji<FF03>Y tu, Masao? Me das mas asco<FF03>que nadie!<FF02><FF01>  <FF1B>Maki<FF03>Reiji. Eso no es lindo.<FF02><FF01> <FF1B>Mark<FF03>Tranquila, Maki!<FF02><FF04><FF1B>Mark<FF03>Asquerate o no, pero hay que<FF03>volver juntos por ahora!<FF02><FF04><FF1B>Mark<FF03>Porque buscamos lo mismo!<FF03>Vamos, <FF07>!<FF02><FF01><FF1B>Maki<FF03>Que complicados los chicos! Masao se<FF03>lleva con Reiji",
+  "shortened": true
+ },
+ "e0_01514": {
+  "t": " creo!<FF02><FF01>   <FF1B>Mark<FF03>Eh? Que si estoy bien? De que<FF03>hablas",
+  "shortened": true
+ },
+ "e0_01515": {
+  "t": "<FF02><FF01>  <FF1B>Nanjo<FF03>Me sorprende que aguantara<FF03>eso de Masao! Heh",
+  "shortened": true
+ },
+ "e0_01516": {
+  "t": "<FF02><FF04><FF1B>Nanjo<FF03>Debe sentir a otro como el!<FF03>Las bestias salvajes pueden, supongo!<FF02><FF01> <0044> La puerta esta bien cerrada!<FF02><FF01> <0044> Hay un hueco con forma de<FF03>media luna!<FF02><FF01><2400> <6825> <F025> <6027> <7827> <D027> <F027> <3828> <D828> <4829> <F029> <682A> <B82A> <F82A> <102C> <982C> <882D> <382E> <F02E> <F82F> <8830> <9831> <9832> <4033> <6834> <2035> <A035> <6837> <8837> <1038> <2039> <6039> <B03A> <503B> <D03B> <003D> <403D>                                                                                                                                                                                                                                      <FFFF>`<FFFF>",
+  "shortened": true
+ },
+ "e0_01520": {
+  "t": " Vamos al castillo.<FF02><FF01>   <FF1B>Mark<FF03>En nuestro mundo, esto era comisaria!<FF02><FF01><FF1B>Mark<FF03>Vamos, volvamos a ese<FF03>castillo raro!<FF02><FF01> <FF1B>Nanjo<FF03>Este mundo debio tener gran seguridad<FF03>antes del incidente!<FF02><FF04><FF1B>Nanjo<FF03>Aqui simplemente no hay policia!<FF02><FF01>  <FF1B>Nanjo<FF03>Perdon",
+  "shortened": true
+ },
+ "e0_01521": {
+  "t": " Necesito tiempo<FF03>para pensar!<FF02><FF01>  <FF1B>Reiji<FF03>",
+  "shortened": true
+ },
+ "e0_01522": {
+  "t": "No necesitas hablarme!<FF03>Apurate y ve!<FF02><FF01> <FF1B>Reiji<FF03>",
+  "shortened": true
+ },
+ "e0_01523": {
+  "t": "Ya no tenemos nada que hacer<FF03>aqui! Vamonos rapido!<FF02><FF01> <FF1B>Elly<FF03>Que bosque tan solitario",
+  "shortened": true
+ },
+ "e0_01524": {
+  "t": "<FF02><FF01> <FF1B>Elly<FF03>No estas herido, <FF07>?<FF03>Hm? Por que pregunto",
+  "shortened": true
+ }
+}

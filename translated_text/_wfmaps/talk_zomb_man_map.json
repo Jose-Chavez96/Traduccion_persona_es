@@ -1,0 +1,458 @@
+{
+ "talk_zomb_man_00001": {
+  "t": "<FFF5>  No hay prueba de que no me enganes",
+  "shortened": true
+ },
+ "talk_zomb_man_00002": {
+  "t": "<FFF5> Eztaba tan zolo ahi zolito",
+  "shortened": true
+ },
+ "talk_zomb_man_00003": {
+  "t": "<FFF5> Gracioso",
+  "shortened": true
+ },
+ "talk_zomb_man_00004": {
+  "t": " Veia tipos como<FF03>tu en la tele harto",
+  "shortened": true
+ },
+ "talk_zomb_man_00005": {
+  "t": "<FFF5> Para que fue ezo? No zoy rico pa comer.<FFF5> Que hacez.? Te como, empezando<FF03>por tu cabeza.<FFF5>  Para que fue ezo.? Me tienes miedo.?<FFF5> Erez raro",
+  "shortened": true
+ },
+ "talk_zomb_man_00006": {
+  "t": " pero me gusta!<FFF5>Nunca habia perdido una pelea",
+  "shortened": true
+ },
+ "talk_zomb_man_00007": {
+  "t": "<FF03>Me quierez probar?<FFF5> Quiero jalarte a la tierra",
+  "shortened": true
+ },
+ "talk_zomb_man_00008": {
+  "t": "<FFF5> Como ez que no me temez",
+  "shortened": true
+ },
+ "talk_zomb_man_00009": {
+  "t": "<FFF5>Antes era un gran miedozo",
+  "shortened": true
+ },
+ "talk_zomb_man_00010": {
+  "t": " pero<FF03>eztoy bien",
+  "shortened": true
+ },
+ "talk_zomb_man_00012": {
+  "t": " No hay nada realmente<FF03>detraz de mi, verdad",
+  "shortened": true
+ },
+ "talk_zomb_man_00013": {
+  "t": "<FFF5>  Te azuzta algo asi?<FF03>Jau",
+  "shortened": true
+ },
+ "talk_zomb_man_00014": {
+  "t": " Podria ezcribir hiztorias que harian<FF03>a King ezconderse.<FFF5>   Mi abuela dize que al morir, la gente va<FF03>al cielo!<FF02><FF04>Como te atrevez a hablarle asi a un ser<FF03>celeztial como yo.?<FFF5>Por que erez malo conmigo",
+  "shortened": true
+ },
+ "talk_zomb_man_00015": {
+  "t": "<FFF5> Erez igual a mi vieja",
+  "shortened": true
+ },
+ "talk_zomb_man_00016": {
+  "t": " Me pregunto<FF03>si eztara bien",
+  "shortened": true
+ },
+ "talk_zomb_man_00017": {
+  "t": "<FFF5>   Te metes conmigo, y te lo devuelvo<FF03>cien vecez.<FFF5>No tenias algun azunto<FF03>conmigo",
+  "shortened": true
+ },
+ "talk_zomb_man_00018": {
+  "t": "<FFF5> Odio la gente sin modalez.<FFF5> De que eztan enojados?<FFF5>Si fuera mi viejo yo, no te<FF03>perdonaria",
+  "shortened": true
+ },
+ "talk_zomb_man_00020": {
+  "t": "<FFF5> Las chicaz hoy dan miedo",
+  "shortened": true
+ },
+ "talk_zomb_man_00021": {
+  "t": "<FFF5>   Eztas vivo, con ropa genial, y<FF03>aun te quierez meter conmigo?<FFF5>   Jurjur",
+  "shortened": true
+ },
+ "talk_zomb_man_00022": {
+  "t": " Que verguenza",
+  "shortened": true
+ },
+ "talk_zomb_man_00023": {
+  "t": "<FFF5> Que te pasa de repente? No zoy<FF03>un bebe, zabes",
+  "shortened": true
+ },
+ "talk_zomb_man_00024": {
+  "t": "<FFF5> Eztabien si actuo como nino",
+  "shortened": true
+ },
+ "talk_zomb_man_00025": {
+  "t": "<FFF5> Nunca pude ir a un club! Me pregunto<FF03>que clase de lugar ez!<FFF5>   Ya ze que bailo pezimo.<FFF5>   Si bailara, zeria popular tambien?<FF03>L-Las chicaz andarian tras de mi",
+  "shortened": true
+ },
+ "talk_zomb_man_00026": {
+  "t": "<FFF5>Quierez hacer comedia conmigo?<FFF5>Ezo fue aburriiido. Zoy exigente con<FF03>la comedia.<FFF5> Que friiio",
+  "shortened": true
+ },
+ "talk_zomb_man_00027": {
+  "t": " Me siento como en<FF03>el Artico",
+  "shortened": true
+ },
+ "talk_zomb_man_00028": {
+  "t": "<FFF5> Tienes zentido del humor",
+  "shortened": true
+ },
+ "talk_zomb_man_00029": {
+  "t": " Lo prometo.<FFF5>Como ze llamaba eza cancion?<FFF5> Ziempre zaque D en muzica",
+  "shortened": true
+ },
+ "talk_zomb_man_00030": {
+  "t": "<FFF5> Nunca zupe de nadie en el mundo que<FF03>cantara tan mal.<FFF5>Mi maeztra de muzica era bien linda",
+  "shortened": true
+ },
+ "talk_zomb_man_00031": {
+  "t": "<FFF5>  Que crees que hacez? Donde<FF03>crees que eztas",
+  "shortened": true
+ },
+ "talk_zomb_man_00032": {
+  "t": "<FFF5> Erez bueno. No ze como lo hicizte.<FFF5> Aun despues de morir, el mundo<FF03>zigue girando",
+  "shortened": true
+ },
+ "talk_zomb_man_00033": {
+  "t": "<FFF5>   Ezo ya no tiene nada que ver conmigo.<FF03>Ni lo mencionez.<FFF5> Hay harto que quiero preguntar!<FFF5>   Oye, zoy zolo un tipo! No lo notas<FF03>al mirarme?<FFF5>  Y-Ya basta",
+  "shortened": true
+ },
+ "talk_zomb_man_00034": {
+  "t": " Ya tengo una chica que me gusta.<FFF5> No me molestaria zer tu amigo!<FFF5>   No erez mi tipo. Alejate.<FFF5>   Parecez un sabrozo trozo de carne!<FF03>No esta mal",
+  "shortened": true
+ },
+ "talk_zomb_man_00035": {
+  "t": "<FFF5>   Tengo zangre encima",
+  "shortened": true
+ },
+ "talk_zomb_man_00036": {
+  "t": " La carne que comi<FF03>antes era bien sucia!<FFF5> No zoy tu hermano ni tu amigo!<FF03>Todos me confunden con otro<FF03>ultimamente",
+  "shortened": true
+ },
+ "talk_zomb_man_00037": {
+  "t": " Necesitas algo conmigo?<FF03>Yo te necesito para algo tambien",
+  "shortened": true
+ },
+ "talk_zomb_man_00038": {
+  "t": "<FFF5>Que ez ezo?<FFF5>Le di todos ezos regalos",
+  "shortened": true
+ },
+ "talk_zomb_man_00039": {
+  "t": " pero eza<FF03>bruja igual me enganaba",
+  "shortened": true
+ },
+ "talk_zomb_man_00040": {
+  "t": " Maldicion.<FFF5>Me vas a dar ezo.?<FFF5>Zabes",
+  "shortened": true
+ },
+ "talk_zomb_man_00041": {
+  "t": " Pase por tiempos durez<FF03>yo tambien",
+  "shortened": true
+ },
+ "talk_zomb_man_00042": {
+  "t": "<FFF5> No hay nada mas zozpechozo que<FF03>las lagrimaz de mujer",
+  "shortened": true
+ },
+ "talk_zomb_man_00044": {
+  "t": "<FFF5> Empiezo a agarrarle la onda a actuar<FF03>como demonio!<FFF5>   Entonces ponte fuerte como yo.<FFF5>   Las mujerez dan miedo! Que piensan",
+  "shortened": true
+ },
+ "talk_zomb_man_00045": {
+  "t": "<FFF5>   Zoy fuerte? Doy miedo? Juju",
+  "shortened": true
+ },
+ "talk_zomb_man_00046": {
+  "t": "<FF03>Me alegra haberme vuelto demonio.<FFF5>   Zuena a que hablas de cosaz<FF03>dificilez!<FFF5>  Si de verdad lo dices, pruebalo",
+  "shortened": true
+ },
+ "talk_zomb_man_00048": {
+  "t": " Ezo ez todo lo que diraz?<FFF5>   Bazta de tanto hablar. Ezto ez lo<FF03>que quiero",
+  "shortened": true
+ },
+ "talk_zomb_man_00049": {
+  "t": "<FFF1><FFF5>  Que idioma ez ezo? No lo entiendo<FF03>para nada",
+  "shortened": true
+ },
+ "talk_zomb_man_00050": {
+  "t": "<FFF5>  Que ze zupone que haga despuez de<FF03>que me digan algo asi",
+  "shortened": true
+ },
+ "talk_zomb_man_00051": {
+  "t": "<FFF5> Ezto ez como ver a un viejo amigo!<FFF5> Lo que hablan los humanos ez divertido<FF03>no importa cuantaz vecez lo oiga",
+  "shortened": true
+ },
+ "talk_zomb_man_00052": {
+  "t": "<FF03>Ez bien interezante!<FFF5>Hmmm",
+  "shortened": true
+ },
+ "talk_zomb_man_00053": {
+  "t": " Ezo zignifica que necesitaz mi ayuda?<FFF5>   Si de verdad lo dices, pruebalo!<FFF1><FFF5>   Ezo hizo zaltar mi ojo. Como me<FF03>vaz a pagar ezto.?<FFF5>  No tengo poder que prestarte.<FFF5>Asi que me necesitas",
+  "shortened": true
+ },
+ "talk_zomb_man_00054": {
+  "t": " Erez maz nuestro<FF03>que humano",
+  "shortened": true
+ },
+ "talk_zomb_man_00055": {
+  "t": "<FFF5>  Que idioma hablas? No lo<FF03>entiendo para nada",
+  "shortened": true
+ },
+ "talk_zomb_man_00056": {
+  "t": "<FFF5> Supongo que un zombie como yo no ez del<FF03>todo inutil si los humanos piden mi ayuda.<FFF5> Me alegra harto oirlo.<FFF5> Quizas no lo parezca, pero mi IQ ez<FF03>1300! Ze justo lo que piensas!<FFF5>   Creez que eza ez la actitud para<FF03>negoziar? Zuena a que tu cerebro<FF03>tambien esta podrido!<FFF5>  No erez nada listo. No tienes<FF03>derecho a burlarte de mi.<FFF5>Te pasaste de la raya, burlandote<FF03>de mi.<FFF5> No me zubeztimes solo porque zoy<FF03>un zombie",
+  "shortened": true
+ },
+ "talk_zomb_man_00057": {
+  "t": "<FFF5>No erez nada listo. No tienes<FF03>derecho a burlarte de mi.<FFF5>Erez bien infantil! Pero gracioso.<FFF5>  Supongo que ez lo que llaman la<FF03><0028>imprudencia de la juventud",
+  "shortened": true
+ },
+ "talk_zomb_man_00058": {
+  "t": " Me gusta.<FFF5> Juju",
+  "shortened": true
+ },
+ "talk_zomb_man_00059": {
+  "t": " Ez bien tonto.<FFF5> Mejor compenza de algun modo el tiempo<FF03>que perdi viendo tu truco tonto",
+  "shortened": true
+ },
+ "talk_zomb_man_00060": {
+  "t": "<FFF1><FFF5>   Como te atrevez a mostrar algo tan<FF03>malo",
+  "shortened": true
+ },
+ "talk_zomb_man_00061": {
+  "t": "<FFF5> Apestas. Dejame a mi. Eztuve en<FF03>una banda de festival una vez.<FFF5>  No tiene zentido lo que dices.<FFF5>   Eztas loco o que",
+  "shortened": true
+ },
+ "talk_zomb_man_00062": {
+  "t": " Mejor hago<FF03>lo que dices",
+  "shortened": true
+ },
+ "talk_zomb_man_00063": {
+  "t": "<FFF5> Ez como una fiezta? Ajujuju.<FF03>Amo las fiestaz.<FFF5> Ajujuju. Erez graciosizimo.<FFF5>   Woah, empiezo a babear por<FF03>todos lados. Jurjurjur.<FFF5> Era bien zerio cuando aun<FF03>era humano",
+  "shortened": true
+ },
+ "talk_zomb_man_00064": {
+  "t": " pero ahora zoy demonio.<FFF1><FFF5>Ez tan divertido burlarte de mi.?<FFF5>  He sido bien zubvalorado",
+  "shortened": true
+ },
+ "talk_zomb_man_00065": {
+  "t": " Ezo<FF03>no ez lo que quiero.<FFF1><FFF5> P-Por zupuesto zon librez de<FF03>elegir ezo",
+  "shortened": true
+ },
+ "talk_zomb_man_00066": {
+  "t": " Pero no zoy como ellos.<FF03>Zoy diferente.<FFF5>Woooa",
+  "shortened": true
+ },
+ "talk_zomb_man_00068": {
+  "t": "<FFF5>Siento que ardo por dentro",
+  "shortened": true
+ },
+ "talk_zomb_man_00069": {
+  "t": "<FFF5>   Quierez que zea tu amigo?<FF03>Eztas zolo, no?<FFF5>  Men, zuenas a que lo dices en zerio!<FFF5>   Entonces dame algo.<FFF1><FFF5> Callate. Guarda zilencio.<FFF5> Vamos, me eztoy enojando.<FF03>Ezcucha lo que digo.<FFF1><FFF5>Erez un humano bien pezimista",
+  "shortened": true
+ },
+ "talk_zomb_man_00070": {
+  "t": "<FFF5>Guh. Perdon. Lo ziento.<FFF5> Entonces zal conmigo. Ajurjurjur.<FFF5>  No hay nada de que preocuparse si<FF03>vienes conmigo.<FFF5>Tienes mi carta de hechizo, no",
+  "shortened": true
+ },
+ "talk_zomb_man_00071": {
+  "t": "<FF03>No la tirez, si?<FFEF>Tu y yo vivimos en mundos diztintos",
+  "shortened": true
+ },
+ "talk_zomb_man_00073": {
+  "t": "<FFEF>  Siento que no voy a crecer como<FF03>zombie si hablo contigo",
+  "shortened": true
+ },
+ "talk_zomb_man_00074": {
+  "t": "<FFEF>Oh, bien!<FFEF>  Entonces te doy ezto!<FFEF>   Toma ezto, tambien!<FFEF>Te doy ezto, asi que no me<FF03>guardes rencor",
+  "shortened": true
+ },
+ "talk_zomb_man_00075": {
+  "t": "<FFEF>   Dejame darte zolo un mordizco la<FF03>proxima.<FFEF>  Ya me voy! Alguien quizas me<FF03>llame en algun lado",
+  "shortened": true
+ },
+ "talk_zomb_man_00076": {
+  "t": "<FFEF> Uuurrgh",
+  "shortened": true
+ },
+ "talk_zomb_man_00077": {
+  "t": " Te doy ezto si<FF03>zolo me dejas ir",
+  "shortened": true
+ },
+ "talk_zomb_man_00078": {
+  "t": "<FFEF>  Siento que mi cerebro se pudrira si<FF03>zigo hablando contigo.<FFEF> Te doy ezto! Mejor vete a casa<FF03>antes de que zea tarde",
+  "shortened": true
+ },
+ "talk_zomb_man_00079": {
+  "t": "Por que no desaparecez.? Urrrgh",
+  "shortened": true
+ },
+ "talk_zomb_man_00080": {
+  "t": "<FF03>De verdad zoy un zombie.<FFEF>   Te doy mi carta, pero apura y<FF03>hazla Persona, o quizas ze pudra!<FFEF>  Ya zomos amigos. No? Cierto.<FFEF>No quiero pelear contigo.<FFEF>   Toma ezto y aguanta! Aunque quizas<FF03>no te guste recibirlo de mi",
+  "shortened": true
+ },
+ "talk_zomb_man_00081": {
+  "t": "<FFEF>Morir como zombie duela maz<FF03>que morir como humano",
+  "shortened": true
+ },
+ "talk_zomb_man_00082": {
+  "t": "<FFEF> Para que pasar por ese lio?<FF03>Yo negozio por ti!<FFEF> Eztoy en aprietos ahora! Pienza<FF03>que ayudas a un amigo!<FFF1><FFF5>Alegrate de zeguir vivo. Ez codicia<FF03>querer mas.<FFEF>   Quierez hablar? Trajiste un pequeno<FF03>regalo para mi, no",
+  "shortened": true
+ },
+ "talk_zomb_man_00083": {
+  "t": "<FFF1><FFF5>Yo tambien tengo derecho a vivir, no?<FF03>No",
+  "shortened": true
+ },
+ "talk_zomb_man_00084": {
+  "t": "<FFF5>Aun te quierez meter conmigo? Solo<FF03>dejame en paz.<FFF5>   Zabes, ez mucho maz divertido de lo que<FF03>crees zer zombie!<FFF5> Erez divertido",
+  "shortened": true
+ },
+ "talk_zomb_man_00085": {
+  "t": " Zeamos amigos.<FFF5>   ",
+  "shortened": true
+ },
+ "talk_zomb_man_00086": {
+  "t": "Ezcondes algo",
+  "shortened": true
+ },
+ "talk_zomb_man_00087": {
+  "t": " Odio los tipos<FF03>que guardan zecretos.<FFF5>   Oi hartos rumorez de ti!<FF03>Zuena a que amenazas demonios y<FF03>les quitas zus cosas!<FFF1><FFF5>P-Podria contigo, facil. Pero si te<FF03>portas bien, oire lo que tengas<FF03>que decir.<FFF5>   <FFEC>De verdad tienes azunto conmigo? No<FF03>me confundes con otro",
+  "shortened": true
+ },
+ "talk_zomb_man_00088": {
+  "t": "<FFF5><FFEE>Me caez bien! Zeamos amigos",
+  "shortened": true
+ },
+ "talk_zomb_man_00089": {
+  "t": "<FFF5>   <FFEE>Quiero hablar maz! No tengo chancez<FF03>asi muy zeguido!<FFF5>   <FFEC>Vaz a llevarte ezte cuerpo tambien",
+  "shortened": true
+ },
+ "talk_zomb_man_00090": {
+  "t": "<FF03>Nooo. No quiero desaparecer.<FFF5>   <FFEC>Erez cruel. Erez tan cruel. Buaaah.<FFF5>  <FFEB>Eztoy sobre humanos! Cada humano ez<FF03>zolo comida para nos.<FFF5><FFED>Oi que te ha ido bien<FF03>ultimamente! Dame algo de eze dinero",
+  "shortened": true
+ },
+ "talk_zomb_man_00091": {
+  "t": "<FFF1><FFF5><FFEC>Oye, men! No zeriamos invenciblez si<FF03>nos unimoz? Que dices",
+  "shortened": true
+ },
+ "talk_zomb_man_00092": {
+  "t": "<FFF5>  <FFEB>Te he eztado buscando",
+  "shortened": true
+ },
+ "talk_zomb_man_00093": {
+  "t": " Queria<FF03>zer tu aprendiz!<FFF5>   Eh",
+  "shortened": true
+ },
+ "talk_zomb_man_00094": {
+  "t": " Que quierez conmigo?<FFEF>   No te burlez de mi. Sal de mi vista.<FFEF>  Eztoy entrando en panico",
+  "shortened": true
+ },
+ "talk_zomb_man_00095": {
+  "t": " Me pregunto si me van<FF03>a matar otra vez",
+  "shortened": true
+ },
+ "talk_zomb_man_00096": {
+  "t": "<FFEF>  Cuando eztoy contigo, siento que vuelvo<FF03>a la ezcuela charlando con<FF03>mis amigos",
+  "shortened": true
+ },
+ "talk_zomb_man_00097": {
+  "t": "<FFEF>Que querias de mi",
+  "shortened": true
+ },
+ "talk_zomb_man_00098": {
+  "t": " Ezo<FF03>era todo ezto, verdad?<FFEF> Ezpera un poco",
+  "shortened": true
+ },
+ "talk_zomb_man_00099": {
+  "t": " No dije nada de<FF03>ignorarte! Me pides un favor.<FFEF>  Ay men",
+  "shortened": true
+ },
+ "talk_zomb_man_00100": {
+  "t": " Ez un zueno bien raro!<FF03>Me pregunto si ez porque jugue un<FF03>juego raro antes de dormir",
+  "shortened": true
+ },
+ "talk_zomb_man_00101": {
+  "t": "<FFEF>  Honrate de poder<FF03>hablarme al final.<FFEF>  Los humanos zon asombrosos",
+  "shortened": true
+ },
+ "talk_zomb_man_00102": {
+  "t": " D-Dejame unirme<FF03>a ti",
+  "shortened": true
+ },
+ "talk_zomb_man_00104": {
+  "t": "<FFEF>  Junto dinero para cambiar<FF03>por un brazo nuevo! Me prestas<FF03><FFF8> yen?<FFEF> Un poco maz y compro un<FF03>brazo nuevo.<FFF5>Ezo no alcanza",
+  "shortened": true
+ },
+ "talk_zomb_man_00105": {
+  "t": " Zabes, podrias<FF03>zolo darme tu brazo.<FFF5>  Urgh. Dame tu brazo.<FFF5> Quiero una piedra de vida! Me hacen sentir<FF03>bien calientito",
+  "shortened": true
+ },
+ "talk_zomb_man_00106": {
+  "t": "<FFEF>En realidad erez buen tipo.<FFF5>Awww",
+  "shortened": true
+ },
+ "talk_zomb_man_00107": {
+  "t": " ez una lastima",
+  "shortened": true
+ },
+ "talk_zomb_man_00108": {
+  "t": "<FFF5> Vaz camino al infierno",
+  "shortened": true
+ },
+ "talk_zomb_man_00109": {
+  "t": " Te muestro<FF03>como llegar.<FFF5>   Quiero un regalo pa una chica!<FF03>Dame una <FFF4>!<FFEF>  Ahora ez mia zeguro.<FFF5>  Maldicion. No lo puedo creer.<FFF5>  Tratas de eztorbar mi<FF03>amor.? Alguien como tu deberia que<FF03>un caballo lo patee y lo mate.<FFF5>   Dame algo de tu fuerza",
+  "shortened": true
+ },
+ "talk_zomb_man_00110": {
+  "t": " Porfa?<FF03>Te lo ruego",
+  "shortened": true
+ },
+ "talk_zomb_man_00111": {
+  "t": "<FFEF>Z-Ze ven tan zabroso",
+  "shortened": true
+ },
+ "talk_zomb_man_00112": {
+  "t": "<FFF5> Tu coraje habria ayudado a<FF03>pobre zombie tambien",
+  "shortened": true
+ },
+ "talk_zomb_man_00113": {
+  "t": "<FFF5>   La verdad, no quiero que nadie maz<FF03>termine como yo",
+  "shortened": true
+ },
+ "talk_zomb_man_00114": {
+  "t": "<FFEF>No tienes bastante? Men, no erez<FF03>apto para vivir!<FFF5>Que pasa con ezo",
+  "shortened": true
+ },
+ "talk_zomb_man_00115": {
+  "t": " Eztoy herido<FF03>zabes",
+  "shortened": true
+ },
+ "talk_zomb_man_00116": {
+  "t": " Erez frio para humano!<FFF5> No tienes nada. Ziempre planeabaz<FF03>pelear conmigo, eh.?<FFF5>Erez tan cruel",
+  "shortened": true
+ },
+ "talk_zomb_man_00117": {
+  "t": " Erez aun maz torcido<FF03>que yo.<FFF5> Eh",
+  "shortened": true
+ },
+ "talk_zomb_man_00118": {
+  "t": " Erez mi rival.? Urrrgh",
+  "shortened": true
+ },
+ "talk_zomb_man_00119": {
+  "t": "<FF03>No zeras facil de vencer",
+  "shortened": true
+ },
+ "talk_zomb_man_00120": {
+  "t": "<FFF5>  Zolo queria un poco. Erez tan patan.<FFF5>   Maldicion. Te doy mi carta.<FFEF>   Zomos amigos, asi que te doy mi carta<FF03>de hechizo. Pero no la tirez",
+  "shortened": true
+ },
+ "talk_zomb_man_00121": {
+  "t": "<FFEF>   Zomos amigos, asi que te doy mi carta<FF03>de hechizo. Pero no la tirez",
+  "shortened": true
+ }
+}

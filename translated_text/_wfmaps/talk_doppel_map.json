@@ -1,0 +1,598 @@
+{
+ "talk_doppel_00001": {
+  "t": "<FFF5>   Eres Maki Sonomura?<FF03>Lo note de inmediato. Tienes un aura<FF03>muy especial",
+  "shortened": false
+ },
+ "talk_doppel_00002": {
+  "t": " Creo que el abuelo de tu madre es<FF03>tu angel guardian! Es muy fuerte.<FFF5>   Quieres saber la verdad? Los que estan<FF03>tras esto",
+  "shortened": true
+ },
+ "talk_doppel_00003": {
+  "t": " son aliens de verdad! O no.<FFF5> Si haces lo que digo, por un milagro<FF03>te erigiran una estatua de bronce.<FFF5>  Me perdi y vine a parar aqui",
+  "shortened": false
+ },
+ "talk_doppel_00004": {
+  "t": "<FF03>Perdoname.<FFF5> U-Un humano. N-No te acerques a mi.<FFF5>   Ajajajajaja.<FF03>Por favor",
+  "shortened": true
+ },
+ "talk_doppel_00005": {
+  "t": " perdoname.<FFF5>   Asi que eres humano? Y que. Ven, nena,<FF03>toquemos una sinfonia de amor.<FFF5>Tonterias.<FFF5>  Oh no",
+  "shortened": true
+ },
+ "talk_doppel_00007": {
+  "t": "<FFF5> Heeheehee. Tu y yo podriamos pasar<FF03>buenos ratos juntos.<FFF5> Bien, cual es la diferencia entre<FF03>un rottweiler y un poodle? Son dos<FF03>razas totalmente distintas. Lo captas?<FFF5>Ni hablar, Hidehiko. No me haras<FF03>imitar algo tan horrible,<FF03>o si? Ten corazon.<FFF5>  Vaya",
+  "shortened": false
+ },
+ "talk_doppel_00008": {
+  "t": " De verdad vas a hacer que imite<FF03>un chiste de grado militar como ese",
+  "shortened": false
+ },
+ "talk_doppel_00009": {
+  "t": "<FFF5>  Que haces si vas en un caballo y<FF03>ves una jirafa y un leon junto a ti?<FF03>Bajarte del carrusel. Vamos, riete.<FFF5>Como has estado? Oi que te va<FF03>genial! A mi no, ha ido bien lento!<FFF5>  Men, que calor. Me gusta el verano,<FF03>pero no de este tipo",
+  "shortened": false
+ },
+ "talk_doppel_00010": {
+  "t": " Bah, al diablo con esto.<FFF5> Y, tienes algun amor? Si, tambien hay<FF03>alguien en mi mente! Heehee",
+  "shortened": true
+ },
+ "talk_doppel_00013": {
+  "t": " <0056>puke<0056><FF03>Eso te asusto, verdad.?<FFF5> BU.<FF03>Ja, caiste!<FF03>",
+  "shortened": false
+ },
+ "talk_doppel_00014": {
+  "t": "Era broma, tarado.<FFF5> Men",
+  "shortened": false
+ },
+ "talk_doppel_00015": {
+  "t": " No puedo imitar algo<FF03>como eso",
+  "shortened": false
+ },
+ "talk_doppel_00016": {
+  "t": " Que debo hacer?<FFF5>Esto es solo un anticipo! Quieres<FF03>tierras? Acciones? Hmph. Te dare una<FF03>foto mia.<FFF5>  Me niego.<FFF5>  Te dare una moneda con el frente y<FF03>el reverso invertidos! Hasta la firme!<FFF5>  Estas feliz con tu lugar en la vida?<FF03>Ese camino es el colmo de la tonteria.<FF03>Yo lograre la dicha por mi cuenta.<FFF5>  Ni hablar.<FFF5>   Las masas deben actuar, o su lugar en<FF03>la vida nunca cambiara.<FFF5>   Eres un completo imbecil.<FF03>Pero no te preocupes por eso!<FFF5>Nunca conoci a un tonto asi.<FF03>Crees ser rival para mi.?<FFF5>   Hmph",
+  "shortened": false
+ },
+ "talk_doppel_00017": {
+  "t": " Que cretino",
+  "shortened": false
+ },
+ "talk_doppel_00018": {
+  "t": "<FFF5>   Tu egolatria es",
+  "shortened": false
+ },
+ "talk_doppel_00019": {
+  "t": " asombrosa!<FFF5>   No hay comparacion alguna entre<FF03>los demonios y tu clase!<FFF5> Lo se",
+  "shortened": true
+ },
+ "talk_doppel_00020": {
+  "t": "<FFF5>  <0044> <FFF3> lucio sus<FF03>pasos suaves!<FFF5>   <0044> <FFF3> bailo como loco.<FFF5>  <0044> <FFF3> bailo feliz!<FFF5>Crees ser rudo? Pues intentalo.<FFF5> Quieres un poco de esto.?<FFF5>Oye. Estoy justo aqui",
+  "shortened": false
+ },
+ "talk_doppel_00021": {
+  "t": "<FFF5> <0044> <FFF3> miro con pasion<FF03>a Masao!<FFF5>  <0044> <FFF3> fulmino a Masao.<FFF5>   <0044> <FFF3> miro coqueto<FF03>a Masao.<FFF5> En verdad soy un principe del mundo<FF03>humano, de intercambio en el inframundo.<FFF5>   Ah, mi querido nino",
+  "shortened": false
+ },
+ "talk_doppel_00022": {
+  "t": " Masao Inaba.<FF03>Bah, vete al diablo.<FFF5> Tengo esta increible forma de demonio<FF03>porque me maldijeron.<FFF5>Si ves 11<0006>11<0006>11 en el reloj tres dias<FF03>seguidos, la puerta no se abrira.<FFF5>  Oh por Dios",
+  "shortened": false
+ },
+ "talk_doppel_00024": {
+  "t": " Se que eso no es cierto!<FFF5>   <0044> <FFF3> canto un chic y conmovedor<FF03>bossa nova americano!<FFF5> No canto tan mal como tu.<FF03>Que grosero.<FFF5>  Oh, esto es maravilloso. Gracias por<FF03>cantar esa hermosa cancion para mi!<FFF5> Ya, ya, pequena Eriko",
+  "shortened": false
+ },
+ "talk_doppel_00025": {
+  "t": " Portate bien!<FFF5>   Si? Un poco de leche?<FF03>",
+  "shortened": true
+ },
+ "talk_doppel_00026": {
+  "t": "Ya no aguanto mas.<FFF5>Heehee",
+  "shortened": false
+ },
+ "talk_doppel_00027": {
+  "t": "Que ricura!<FFF5>Eres un humano muy capaz! Quieres<FF03>un empleo como mi guardaespaldas?<FFF5>  Que acabas de decir",
+  "shortened": true
+ },
+ "talk_doppel_00028": {
+  "t": "<FF03>Me niego!<FFF5>Ajajaj",
+  "shortened": false
+ },
+ "talk_doppel_00029": {
+  "t": " Que debo hacer?<FFF5>Sere de boca floja, pero en verdad<FF03>soy buena chica.<FFF5>  Aqui huele algo raro.<FF03>Y ese estilo es como PRE-prehistorico.<FF03>Que tonto.<FFF5> En serio estas dispuesto a que te vean<FF03>afuera con esa pinta?<FFF5> Aaay, me duele el pecho",
+  "shortened": false
+ },
+ "talk_doppel_00030": {
+  "t": "<FF03>Tal vez si le dieras un masajito",
+  "shortened": false
+ },
+ "talk_doppel_00031": {
+  "t": "<FFF5>   Oye. No pongas esa cara.<FFF5> Sabes",
+  "shortened": false
+ },
+ "talk_doppel_00032": {
+  "t": " Suelo ser muy inocente",
+  "shortened": false
+ },
+ "talk_doppel_00033": {
+  "t": "<FF03>Pero hoy? Me siento atrevida!<FFF5>A mi papi lo abdujo un OVNI",
+  "shortened": false
+ },
+ "talk_doppel_00034": {
+  "t": " Mi mama<FF03>entro a una secta",
+  "shortened": true
+ },
+ "talk_doppel_00035": {
+  "t": "Ahora me desarmaron<FF03>y me rearmaron como un cyborg",
+  "shortened": false
+ },
+ "talk_doppel_00036": {
+  "t": "<FFF5>  Nadie comprara mis fosforos",
+  "shortened": false
+ },
+ "talk_doppel_00037": {
+  "t": " Si no<FF03>vendo nada, Papa me pegara",
+  "shortened": false
+ },
+ "talk_doppel_00038": {
+  "t": "<FFF5> Soy la mayor de 23 hermanos<FF03>y hermanas",
+  "shortened": false
+ },
+ "talk_doppel_00039": {
+  "t": " Debo comerlos todos",
+  "shortened": true
+ },
+ "talk_doppel_00040": {
+  "t": "<FFF5> Yo me cuidaria si fuera tu",
+  "shortened": false
+ },
+ "talk_doppel_00041": {
+  "t": " Estoy tranquila<FF03>y calmada, pero exploto al instante!<FFF5> No vas a hacer lo que digo.? No me<FF03>hagas volarte los sesos.<FFF5>   Mi hobby es juntar cabezas<FF03>de demonio cortadas",
+  "shortened": true
+ },
+ "talk_doppel_00042": {
+  "t": "<FFF5>  Hmph. Es cierto lo que dicen",
+  "shortened": false
+ },
+ "talk_doppel_00043": {
+  "t": "<FF03>Perro que ladra no muerde, humano.<FFF5>Pronto me llamaras demonio a MI!<FFF5> Quien diablos crees que eres para<FF03>hablarme? Odio la grosera mas que nada.<FFF5>  Sabes, he pensado en la<FF03>diferencia entre humanos y demonios",
+  "shortened": true
+ },
+ "talk_doppel_00044": {
+  "t": "<FF03>Y es inutil! No hay nada!<FFF5>Mejor quedarse en cama que vivir<FF03>la vida a medias! Ya hay demasiada<FF03>gente asi!<FFF5>  Tus actos no valen nada!<FF03>Soy muy listo.<FFF5>  Calla por una vez y escucha lo que<FF03>otros tienen que decir. Y no te<FF03>burles de ellos, o te hare arrepentirte.<FFF5> Deja de quejarte",
+  "shortened": false
+ },
+ "talk_doppel_00045": {
+  "t": " Nadie lo quiere",
+  "shortened": true
+ },
+ "talk_doppel_00047": {
+  "t": " quien sabe?<FFF5>",
+  "shortened": true
+ },
+ "talk_doppel_00048": {
+  "t": "<FFF5> No es tu dia de suerte",
+  "shortened": true
+ },
+ "talk_doppel_00049": {
+  "t": " Tus ojos<FF03>quedan al final",
+  "shortened": true
+ },
+ "talk_doppel_00050": {
+  "t": " Asi que al diablo.<FFF5>Suena a que quieres morir.<FFF5> Dejame ya",
+  "shortened": true
+ },
+ "talk_doppel_00051": {
+  "t": "<FFF5>  Rrrrrwwaaaaaoooarrr.<FFF5>   Grrrwaaaaaaahhhh.<FFF5>  Haaaaaaaaaaaaah.<FFF5>   Wow.<FFF5>   ",
+  "shortened": false
+ },
+ "talk_doppel_00052": {
+  "t": "Y que?<FFF5>Hago girar el trompo solo con<FF03>mi poder chi",
+  "shortened": true
+ },
+ "talk_doppel_00053": {
+  "t": "<FFF5>   Tienes un talento excepcional! Voy<FF03>a estudiar tu manera de hablar",
+  "shortened": false
+ },
+ "talk_doppel_00054": {
+  "t": "<FF03>Eso si me interesa!<FFF5>   Tienes un talento excepcional! Voy<FF03>a estudiar tu manera de hablar",
+  "shortened": false
+ },
+ "talk_doppel_00055": {
+  "t": "<FF03>Eso si me interesa!<FF02><FF04>Oh, casi olvido hacer mis exigencias!<FF03>Esa es la parte mas importante.<FFF1><FFF5> Eso ni vale la pena imitarlo.<FF03>No puedes decir algo que despierte<FF03>mi curiosidad un poco.?<FFF5>  Hasta un imitador tiene su orgullo.<FF03>Me niego a imitar algo tan barato.<FFF5>  Que esperas ganar diciendole eso<FF03>a un doble? No logro saber que<FF03>estas pensando",
+  "shortened": false
+ },
+ "talk_doppel_00056": {
+  "t": "<FFF5>  Que esperas ganar diciendole eso<FF03>a un doble? No logro saber que<FF03>estas pensando",
+  "shortened": false
+ },
+ "talk_doppel_00057": {
+  "t": "<FFF5>  Que historia rara",
+  "shortened": true
+ },
+ "talk_doppel_00058": {
+  "t": " Ya<FF03>superaste mis expectativas.<FFF5>  Que historia tan rara",
+  "shortened": false
+ },
+ "talk_doppel_00059": {
+  "t": " Ya<FF03>superaste mis expectativas.<FF02><FF04>Oh, casi olvido hacer mis exigencias!<FF03>Esa es la parte mas importante.<FFF1><FFF5>Tienes un talento excepcional! Voy a<FF03>estudiar tu modo de expresarte",
+  "shortened": false
+ },
+ "talk_doppel_00060": {
+  "t": "<FF03>Eso si me interesa!<FFF5> Tienes un talento excepcional! Voy a<FF03>estudiar tu modo de expresarte",
+  "shortened": false
+ },
+ "talk_doppel_00061": {
+  "t": "<FF03>Eso si me interesa!<FF02><FF04>Oh, casi olvido hacer mis exigencias!<FF03>Esa es la parte mas importante.<FFF1><FFF5>   Eso ni vale la pena imitarlo.<FF03>No puedes hacer algo que despierte<FF03>mi curiosidad un poco.?<FFF5>   Hasta un imitador tiene su orgullo.<FF03>Me niego a imitar algo tan barato.<FFF5>  Asi que piensas usar el poder de un doble",
+  "shortened": false
+ },
+ "talk_doppel_00062": {
+  "t": "<FF03>Para que, exactamente? No logro saber<FF03>que estas pensando",
+  "shortened": false
+ },
+ "talk_doppel_00063": {
+  "t": "<FFF5>Asi que usaras el poder de un doble",
+  "shortened": true
+ },
+ "talk_doppel_00064": {
+  "t": "<FF03>Para que, exactamente? No logro saber<FF03>que estas pensando",
+  "shortened": false
+ },
+ "talk_doppel_00065": {
+  "t": "<FFF5>Tratas de tomar prestado<FF03>el poder ajeno",
+  "shortened": true
+ },
+ "talk_doppel_00066": {
+  "t": " Ya superaste<FF03>mis expectativas.<FFF5> Tratas de tomar prestado el poder<FF03>de un doble",
+  "shortened": false
+ },
+ "talk_doppel_00067": {
+  "t": " Ya superaste<FF03>mis expectativas.<FF02><FF04>Oh, casi olvido hacer mis exigencias!<FF03>Esa es la parte mas importante.<FFF1><FFF5>   Tienes un talento excepcional! Voy<FF03>a estudiar tus expresiones",
+  "shortened": false
+ },
+ "talk_doppel_00068": {
+  "t": "<FF03>Esos si me interesan!<FFF5> Tienes un talento excepcional! Voy<FF03>a estudiar tus expresiones",
+  "shortened": false
+ },
+ "talk_doppel_00069": {
+  "t": "<FF03>Esos si me interesan!<FF02><FF04>Oh, casi olvido hacer mis exigencias!<FF03>Esa es la parte mas importante.<FFF1><FFF5>   Eso ni vale la pena imitarlo.<FF03>No puedes hacer algo que despierte<FF03>mi curiosidad un poco.?<FFF5>   Hasta un imitador tiene su orgullo.<FF03>Me niego a imitar algo tan barato.<FFF5>  Que esperas ganar burlandote de<FF03>un doble? No logro saber que<FF03>estas pensando",
+  "shortened": false
+ },
+ "talk_doppel_00070": {
+  "t": "<FFF5>  Que esperas ganar burlandote de<FF03>un doble? No logro saber que<FF03>estas pensando",
+  "shortened": false
+ },
+ "talk_doppel_00071": {
+  "t": "<FFF5>  Te burlas de un doble",
+  "shortened": false
+ },
+ "talk_doppel_00072": {
+  "t": " Ya<FF03>superaste mis expectativas.<FFF5> Te burlas de un doble",
+  "shortened": false
+ },
+ "talk_doppel_00073": {
+  "t": " Ya<FF03>superaste mis expectativas.<FF02><FF04>Oh, casi olvido hacer mis exigencias!<FF03>Esa es la parte mas importante.<FFF1><FFF5>   Tienes un talento excepcional! Voy<FF03>a estudiar tu modo de hacer trucos",
+  "shortened": false
+ },
+ "talk_doppel_00074": {
+  "t": "<FF03>Eso si me interesa!<FFF5>   Tienes un talento excepcional! Voy<FF03>a estudiar tu modo de hacer trucos",
+  "shortened": false
+ },
+ "talk_doppel_00075": {
+  "t": "<FF03>Eso si me interesa!<FF02><FF04>Oh, casi olvido hacer mis exigencias!<FF03>Esa es la parte mas importante.<FFF1><FFF5> Eso ni vale la pena imitarlo.<FF03>No tienes algun truco que despierte<FF03>mi curiosidad un poco.?<FFF5>   Hasta un imitador tiene su orgullo.<FF03>Me niego a imitar algo tan barato.<FFF5>  Que esperas ganar mostrandole esos<FF03>trucos a un doble? No logro saber que<FF03>estas pensando",
+  "shortened": false
+ },
+ "talk_doppel_00076": {
+  "t": "<FFF5>   Que esperas ganar mostrandole esos<FF03>trucos a un doble? No logro saber que<FF03>estas pensando",
+  "shortened": false
+ },
+ "talk_doppel_00077": {
+  "t": "<FFF5>   Hiciste un truco para un doble como yo.?<FF03>Ya superaste mis expectativas.<FFF5>   Hiciste un truco para un doble como yo.?<FF03>Ya superaste mis expectativas.<FF02><FF04>Oh, casi olvido hacer mis exigencias!<FF03>Esa es la parte mas importante.<FFF1><FFF5> Tienes un talento excepcional! Voy a<FF03>estudiar tus metodos de seduccion",
+  "shortened": false
+ },
+ "talk_doppel_00078": {
+  "t": "<FF03>Esos si me interesan!<FFF5>Tienes un talento excepcional! Voy a<FF03>estudiar tus metodos de seduccion",
+  "shortened": false
+ },
+ "talk_doppel_00079": {
+  "t": "<FF03>Esos si me interesan!<FF02><FF04>Oh, casi olvido hacer mis exigencias!<FF03>Esa es la parte mas importante.<FFF1><FFF5>  Eso ni vale la pena imitarlo.<FF03>No puedes seducirme de un modo que<FF03>despierte mi curiosidad un poco.?<FFF5> Hasta un imitador tiene su orgullo.<FF03>Me niego a imitar algo tan barato.<FFF5>  Que esperas ganar seduciendo a un<FF03>doble como yo? No logro saber que<FF03>estas pensando",
+  "shortened": false
+ },
+ "talk_doppel_00080": {
+  "t": "<FFF5>  Que esperas ganar seduciendo a un<FF03>doble como yo? No logro saber que<FF03>estas pensando",
+  "shortened": false
+ },
+ "talk_doppel_00081": {
+  "t": "<FFF5>  Tratas de seducir a un doble.?<FF03>Ya superaste mis expectativas.<FFF5>   Tratas de seducir a un doble.?<FF03>Ya superaste mis expectativas.<FF02><FF04>Oh, casi olvido hacer mis exigencias!<FF03>Esa es la parte mas importante.<FFF1><FFF5> Tienes un talento excepcional! Voy a<FF03>estudiar tu modo de ganar favores",
+  "shortened": false
+ },
+ "talk_doppel_00082": {
+  "t": "<FF03>Eso si me interesa!<FFF5>Tienes un talento excepcional! Voy a<FF03>estudiar tu modo de ganar favores",
+  "shortened": false
+ },
+ "talk_doppel_00083": {
+  "t": "<FF03>Eso si me interesa!<FF02><FF04>Oh, casi olvido hacer mis exigencias!<FF03>Esa es la parte mas importante.<FFF1><FFF5>  Eso ni vale la pena imitarlo.<FF03>No puedes adularme de un modo que<FF03>despierte mi curiosidad un poco.?<FFF5>  Hasta un imitador tiene su orgullo.<FF03>Me niego a imitar algo tan barato.<FFF5>  Que esperas ganar adulando a<FF03>un doble? No logro saber que<FF03>estas pensando",
+  "shortened": false
+ },
+ "talk_doppel_00084": {
+  "t": "<FFF5>  Que esperas ganar adulando a<FF03>un doble? No logro saber que<FF03>estas pensando",
+  "shortened": false
+ },
+ "talk_doppel_00085": {
+  "t": "<FFF5>  Adulas a un doble.? Ya<FF03>superaste mis expectativas.<FFF5>   Adulas a un doble.? Ya<FF03>superaste mis expectativas.<FF02><FF04>Oh, casi olvido hacer mis exigencias!<FF03>Esa es la parte mas importante.<FFF1><FFF5> Ya tienes mi carta",
+  "shortened": false
+ },
+ "talk_doppel_00086": {
+  "t": " Ya no tengo<FF03>mas interes en ti!<FFEF> Toma esto",
+  "shortened": false
+ },
+ "talk_doppel_00088": {
+  "t": "<FFEF>No puedes usarlo",
+  "shortened": false
+ },
+ "talk_doppel_00089": {
+  "t": "<FFEF>Muy debil para tenerlo",
+  "shortened": true
+ },
+ "talk_doppel_00090": {
+  "t": "<FFEF>  Toma esto, al menos",
+  "shortened": true
+ },
+ "talk_doppel_00091": {
+  "t": "<FFEF>Bien, es hora de separarnos",
+  "shortened": false
+ },
+ "talk_doppel_00092": {
+  "t": "<FFEF> Esto es bueno para ti! Tomalo",
+  "shortened": false
+ },
+ "talk_doppel_00093": {
+  "t": "<FFEF>   Ya me voy",
+  "shortened": false
+ },
+ "talk_doppel_00094": {
+  "t": "<FFEF>   No parece correcto darte la carta<FF03>de un doble, pero haz un<FF03>Persona o lo que sea",
+  "shortened": true
+ },
+ "talk_doppel_00095": {
+  "t": "<FFEF>  Parece que aun debo entrenar mas",
+  "shortened": true
+ },
+ "talk_doppel_00096": {
+  "t": "<FF03>Volvamos a vernos cuando haya<FF03>entrenado mas como doble",
+  "shortened": false
+ },
+ "talk_doppel_00097": {
+  "t": "<FFEF>   Seguire mi propio camino! Hay alguien<FF03>mas de quien debo ser doble.<FFEF>  Me voy a ser doble de otro",
+  "shortened": false
+ },
+ "talk_doppel_00098": {
+  "t": "<FF03>Toma esto y sigue intentando.<FFEF> Lo disfrute! Seria un desperdicio que<FF03>te fueras sin nada",
+  "shortened": false
+ },
+ "talk_doppel_00099": {
+  "t": "<FF02><FF04>Asi que acepta mi carta como recuerdo.<FFEF>   Si no quedaste satisfecho, sientete<FF03>libre de tirar la carta. No me importa.<FFEF>   No me permiten pelear contigo",
+  "shortened": false
+ },
+ "talk_doppel_00100": {
+  "t": "<FF03>Es porque soy tu doble",
+  "shortened": false
+ },
+ "talk_doppel_00101": {
+  "t": "<FF03>Y tu eres el mio",
+  "shortened": false
+ },
+ "talk_doppel_00102": {
+  "t": "<FFEF>Es natural que los dobles se fundan<FF03>en uno solo",
+  "shortened": false
+ },
+ "talk_doppel_00103": {
+  "t": " Te dare<FF03>mi carta",
+  "shortened": false
+ },
+ "talk_doppel_00104": {
+  "t": "<FFEF>  No peleo contigo",
+  "shortened": true
+ },
+ "talk_doppel_00105": {
+  "t": " Soy tu doble,<FF03>al fin",
+  "shortened": true
+ },
+ "talk_doppel_00106": {
+  "t": "<FFEF> Toma",
+  "shortened": false
+ },
+ "talk_doppel_00107": {
+  "t": " un regalo de tu otro yo",
+  "shortened": false
+ },
+ "talk_doppel_00108": {
+  "t": "<FF03>Quiero que lo tomes",
+  "shortened": false
+ },
+ "talk_doppel_00109": {
+  "t": "<FFEF>   Ironicamente, como tu doble, se muy<FF03>bien que no puedo escapar",
+  "shortened": false
+ },
+ "talk_doppel_00110": {
+  "t": "<FFEF>Tambien se que perdonaras mi vida<FF03>si me das tu carta",
+  "shortened": false
+ },
+ "talk_doppel_00111": {
+  "t": "<FFEF> Yo, <FFFA>. Como va?<FF03>Vamos a negociar.<FFF5> Yo <FFFA>, como has estado? Tienes<FF03>algo para tu otro yo?<FFF1><FFF5>  Para ser un tipo que es mi doble, no<FF03>destacas mucho",
+  "shortened": false
+ },
+ "talk_doppel_00112": {
+  "t": " Definamos de una vez<FF03>cual de los dos es el verdadero?<FFF5>  Asi que eres mi otro yo",
+  "shortened": false
+ },
+ "talk_doppel_00113": {
+  "t": " Te hare<FF03>pagar por ser un aguafiestas.<FFF1><FFF5> Que mal aguero toparme con mi doble",
+  "shortened": false
+ },
+ "talk_doppel_00114": {
+  "t": "<FFF5>  Tuve un mal presentimiento",
+  "shortened": true
+ },
+ "talk_doppel_00115": {
+  "t": "<FF03>pero, al fin, eres mi doble",
+  "shortened": false
+ },
+ "talk_doppel_00116": {
+  "t": "<FFF5>   Nunca crei conocer a mi otro yo!<FF03>De verdad el mundo es pequeno",
+  "shortened": false
+ },
+ "talk_doppel_00117": {
+  "t": "<FFF5>   Si eres mi doble, no tengo que ser<FF03>timido. Dame algo.<FFF1><FFF5> <FFED>La luna sera nuestro testigo",
+  "shortened": false
+ },
+ "talk_doppel_00118": {
+  "t": " Definamos<FF03>quien es el verdadero <FFFA>",
+  "shortened": false
+ },
+ "talk_doppel_00119": {
+  "t": "<FFF5><FFEE>Si eres yo, deberias poder<FF03>concederme este pedido",
+  "shortened": false
+ },
+ "talk_doppel_00120": {
+  "t": "<FFF1><FFF5> <FFEC>La luna nueva esta en el cielo, y no<FF03>tienes miedo",
+  "shortened": false
+ },
+ "talk_doppel_00121": {
+  "t": " Esa es la diferencia<FF03>entre tu y yo",
+  "shortened": false
+ },
+ "talk_doppel_00122": {
+  "t": "<FFF5>  <FFEE>Tratas de negociar con tu<FF03>doble? Pues dame algo, y tal vez<FF03>pueda dejar mis sentimientos de lado",
+  "shortened": false
+ },
+ "talk_doppel_00123": {
+  "t": "<FFF1><FFF5>   <FFEE>Hola, <FFFA>.<FF03>Yo tambien soy <FFFA>.<FF03>Es asombroso, pero cierto.<FFF5>  <FFEB>Hola, <FFFA>.<FF03>Yo tambien soy <FFFA>.<FF03>Dame un recuerdo de esto.<FFF1><FFF5>   <FFEC>Ah. Tuve un mal presentimiento",
+  "shortened": true
+ },
+ "talk_doppel_00124": {
+  "t": "<FF03>Asi que eras mi doble! Sera<FF03>esto, tambien, el destino",
+  "shortened": true
+ },
+ "talk_doppel_00125": {
+  "t": "<FFF5><FFED>Estoy de muy mal humor",
+  "shortened": false
+ },
+ "talk_doppel_00126": {
+  "t": " Como mi doble,<FF03>no podrias darme algo?<FFF1><FFF5> <FFEB>De verdad no destacas mucho para<FF03>ser mi doble! Veamos de una vez<FF03>quien es el verdadero.<FFF5>  <FFED>Si eres mi doble, no hay necesidad<FF03>de modestia. Dame un regalo.<FFF1><FFF5>   <FFEC>Eres mi doble",
+  "shortened": false
+ },
+ "talk_doppel_00127": {
+  "t": " No estoy seguro<FF03>de esto",
+  "shortened": false
+ },
+ "talk_doppel_00128": {
+  "t": " Como va a terminar",
+  "shortened": false
+ },
+ "talk_doppel_00129": {
+  "t": "<FFF5><FFEB>Si eres mi doble, bien podria pedir",
+  "shortened": false
+ },
+ "talk_doppel_00130": {
+  "t": "<FF03>Dame algo!<FFF1><FFF5> ",
+  "shortened": false
+ },
+ "talk_doppel_00131": {
+  "t": "Te agradezco, como tu doble, la<FF03>ocasion de vivir algo tan singular",
+  "shortened": false
+ },
+ "talk_doppel_00132": {
+  "t": "<FF03>Dime lo que deseas!<FFEF> ",
+  "shortened": false
+ },
+ "talk_doppel_00133": {
+  "t": "Absurdo. No quiero compartir mis<FF03>vivencias como doble contigo.<FF03>Que descaro.<FFEF>Eres una cosa horrible",
+  "shortened": false
+ },
+ "talk_doppel_00134": {
+  "t": " Ni yo,<FF03>tu doble, lo entiendo",
+  "shortened": false
+ },
+ "talk_doppel_00135": {
+  "t": "Fue grato el tiempo que pase como<FF03>tu doble! Lo disfrute mucho.<FFEF>   No fue una vivencia tan notable,<FF03>ser tu doble",
+  "shortened": false
+ },
+ "talk_doppel_00136": {
+  "t": " pero en fin!<FF03>Dime lo que quieres!<FFEF>Eres una cosa horrible",
+  "shortened": false
+ },
+ "talk_doppel_00137": {
+  "t": " Ni yo,<FF03>tu doble, lo entiendo",
+  "shortened": false
+ },
+ "talk_doppel_00139": {
+  "t": " si despertaste mi interes",
+  "shortened": true
+ },
+ "talk_doppel_00140": {
+  "t": "<FF03>Dime lo que deseas",
+  "shortened": false
+ },
+ "talk_doppel_00141": {
+  "t": "Fue grato el tiempo que pase como<FF03>tu doble! Lo disfrute mucho.<FF02><FF04>Te agradezco la ocasion de vivir<FF03>algo tan singular",
+  "shortened": false
+ },
+ "talk_doppel_00142": {
+  "t": " Si puedo concederte<FF03>algo, lo hare!<FFEF>   ",
+  "shortened": false
+ },
+ "talk_doppel_00143": {
+  "t": "Nunca me senti asi antes en mi<FF03>tiempo como doble",
+  "shortened": false
+ },
+ "talk_doppel_00144": {
+  "t": " Que querra decir?<FFEF>   En general, eso fue delicioso",
+  "shortened": false
+ },
+ "talk_doppel_00145": {
+  "t": "<FF03>Pero fue tan infantil que dudo<FF03>si valio la pena siquiera.<FFEF>  Mi encuentro contigo me dio un poco<FF03>del sabor de lo desconocido",
+  "shortened": false
+ },
+ "talk_doppel_00146": {
+  "t": " Asombroso!<FFEF> Pido",
+  "shortened": true
+ },
+ "talk_doppel_00147": {
+  "t": "<FFEF>  Agradezco que entiendas las<FF03>necesidades de un doble!<FFF5>   No pienso convertirme en el otro<FF03>yo de un pobreton.<FFF5>",
+  "shortened": false
+ },
+ "talk_doppel_00148": {
+  "t": "En que gastaste todo ese dinero?<FF03>No me impresionan tus modos derrochadores!<FFF5>No pienso convertirme en el otro<FF03>yo de un tacano.<FFF5>  No entiendes el terror de un<FF03>doble",
+  "shortened": false
+ },
+ "talk_doppel_00149": {
+  "t": " Pero lo entenderas algun dia!<FFF5>  Bien, mi pedido es",
+  "shortened": false
+ },
+ "talk_doppel_00150": {
+  "t": "<FF03>una piedra de vida!<FFEF>Agradezco que entiendas las<FF03>necesidades de un doble!<FFF5>   No pienso ser el otro yo de un tonto<FF03>que ni siquiera lleva ninguna piedra<FF03>de vida.<FFF5>  En que gastaste las piedras de vida",
+  "shortened": false
+ },
+ "talk_doppel_00151": {
+  "t": "<FF03>No me impresionan tus modos derrochadores!<FFF5>   No pienso convertirme en el otro<FF03>yo de un tacano.<FFF5>  No entiendes el terror de un<FF03>doble",
+  "shortened": false
+ },
+ "talk_doppel_00152": {
+  "t": " Pero lo entenderas algun dia!<FFF5>  Bien, mi pedido es",
+  "shortened": false
+ },
+ "talk_doppel_00153": {
+  "t": "<FFEF> Agradezco que entiendas las<FF03>necesidades de un doble!<FFF5>   No tienes ninguna!<FFF5>Conoceras el terror de<FF03>un doble.<FFF5>Que voluntad tan fuerte. Eres digno<FF03>de ser mi doble.<FFF5>Bien, mi pedido es",
+  "shortened": false
+ },
+ "talk_doppel_00154": {
+  "t": "<FF03>algo de tu energia!<FFEF>   Nadie sabe lo deliciosa que es tu<FF03>energia mejor que tu otro yo",
+  "shortened": false
+ },
+ "talk_doppel_00155": {
+  "t": "<FFF5>  Me rechazas? A mi, tu doble.?<FF03>Tonto otro yo.<FFF5>   Me rechazas? A mi, tu doble.?<FF03>No lo entiendo",
+  "shortened": false
+ },
+ "talk_doppel_00156": {
+  "t": "<FFF5>   Me rechazas? A mi, tu doble.?<FF03>No lo entiendo",
+  "shortened": false
+ }
+}

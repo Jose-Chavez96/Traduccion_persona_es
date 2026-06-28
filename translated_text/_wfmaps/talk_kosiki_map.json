@@ -1,0 +1,1470 @@
+{
+ "talk_kosiki_00001": {
+  "t": "<FFF5>Veo, podras parecer joven, mas tu<FF03>has soportado muchas pruebas! Tus palabras<FF03>tienen peso!<FFFD><00FF><F500>  No digas tales sandeces.<FFF5>   Hablas de cosas tan extranas",
+  "shortened": false
+ },
+ "talk_kosiki_00002": {
+  "t": "<FF03>Es esta tu intencion.?<FFFD><01FF><F500> Que razon tienes para hablar de tales<FF03>asuntos. Te intereso yo",
+  "shortened": false
+ },
+ "talk_kosiki_00003": {
+  "t": "<FFF5> Que quieres decir. Deseas mi<FF03>poder.?<FFFD><02FF><F500>Tienes confianza! Un duelo contigo<FF03>seria muy placentero!<FFF5>  Confias en tu fuerza",
+  "shortened": false
+ },
+ "talk_kosiki_00004": {
+  "t": "<FF03>Que harias conmigo.?<FFFD><03FF><F500>  He de ser tu rival.?<FFF5> Tu lengua teje un gran tapiz, mas<FF03>callara si no tienes el<FF03>temple de respaldar tus palabras",
+  "shortened": false
+ },
+ "talk_kosiki_00005": {
+  "t": "<FFFD><04FF><F500>  Eres un extorsionador, bellaco. No tengo<FF03>moneda para ti!<FFF5>  Eh. Ese ceno",
+  "shortened": false
+ },
+ "talk_kosiki_00006": {
+  "t": "<FFFD><05FF><F500>Lo que dices es razonable",
+  "shortened": false
+ },
+ "talk_kosiki_00007": {
+  "t": "<FFF5>Muestras buen juicio al buscar mi<FF03>cortejo! Eres en verdad uno<FF03>que conoce el mundo!<FFFD><06FF><F500>  No digas sandeces.<FFF5>   Confias en tu fuerza",
+  "shortened": false
+ },
+ "talk_kosiki_00008": {
+  "t": "<FF03>Que harias conmigo.?<FFFD><07FF><F500>  Tales historias no me divierten",
+  "shortened": false
+ },
+ "talk_kosiki_00010": {
+  "t": " Conspiras para apresarme<FF03>con palabras que finges dulces, cuando en<FF03>verdad gotean malicia",
+  "shortened": false
+ },
+ "talk_kosiki_00011": {
+  "t": "<FFFD><08FF><F500>   Una fina voz, si",
+  "shortened": false
+ },
+ "talk_kosiki_00012": {
+  "t": " Mas cambiemos<FF03>la melodia",
+  "shortened": false
+ },
+ "talk_kosiki_00013": {
+  "t": " Tendre tus gritos.<FFF5> Osas retar a la portadora<FF03>de la voz mas dulce del inframundo.?<FF03>Considera lanzado el guante.<FFFD><09FF><F500>Oye",
+  "shortened": false
+ },
+ "talk_kosiki_00015": {
+  "t": " me has vencido",
+  "shortened": false
+ },
+ "talk_kosiki_00016": {
+  "t": "<FFF5>  Como mantienes tu calma<FF03>con sonidos tan viles<FF03>acosandote.?<FFFD><0AFF><F500>   Jaja",
+  "shortened": false
+ },
+ "talk_kosiki_00017": {
+  "t": " No me igualas, mas<FF03>basta con ello!<FFF5>  Mmmm",
+  "shortened": false
+ },
+ "talk_kosiki_00018": {
+  "t": "<FFFD><0BFF><F500>  Lo que dices es razonable",
+  "shortened": false
+ },
+ "talk_kosiki_00019": {
+  "t": " Por<FF03>ello, te hare una peticion!<FFF1><FFF5>   Muestras buen juicio al buscar mi<FF03>cortejo! Eres en verdad uno<FF03>que conoce el mundo!<FFFD><0CFF><F500>  No digas sandeces.<FFF5>   Hablas de cosas tan extranas",
+  "shortened": false
+ },
+ "talk_kosiki_00020": {
+  "t": "<FF03>Es esta tu intencion.?<FFFD><0DFF><F500> Que razon tienes para hablar de tales<FF03>asuntos. Te intereso yo",
+  "shortened": false
+ },
+ "talk_kosiki_00021": {
+  "t": "<FFF5> Que quieres decir. Deseas mi<FF03>poder.?<FFFD><0EFF><F500>Detesto tal adulacion.<FFF5>  Crees que soy ciega a tus<FF03>intenciones.?<FFFD><0FFF><F500>  Eres siniestro!<FFF5>No me comparo a ti",
+  "shortened": false
+ },
+ "talk_kosiki_00022": {
+  "t": "<FFFD><10FF><F500> Entonces jurame tu lealtad.<FF03>Jajajaja.<FFF5> Conoces mi poder. Creo que quienes<FF03>tal don portamos somos a menudo robados de los<FF03>frutos de larga vida!<FFFD><11FF><F500>   Lo que dices es razonable",
+  "shortened": true
+ },
+ "talk_kosiki_00023": {
+  "t": "<FFF5>Veo, podras parecer joven, mas tu<FF03>has soportado muchas pruebas! Tus palabras<FF03>tienen peso!<FFFD><12FF><F500>  No digas sandeces.<FFF5>   Hablas de cosas tan extranas",
+  "shortened": false
+ },
+ "talk_kosiki_00024": {
+  "t": "<FF03>Es esta tu intencion.?<FFFD><13FF><F500> Que razon tienes para hablar de tales<FF03>asuntos. Te intereso yo",
+  "shortened": false
+ },
+ "talk_kosiki_00025": {
+  "t": "<FFF5> Que quieres decir. Deseas mi<FF03>poder.?<FFFD><14FF><F500>Vista tu capacidad, es<FF03>natural!<FFF5> Te malentendi! No di a tu<FF03>juicio la fe que merece!<FFFD><15FF><F500>  Detesto tal adulacion.<FFF5>  Crees que soy ciega a tus<FF03>intenciones.? No te burles mas.<FFF5>Entonces jurame tu lealtad.<FF03>Jaja.<FFF5>   Conoces mi poder. Creo que quienes<FF03>tal don portamos somos a menudo robados de los<FF03>frutos de una larga vida!<FFFD><16FF><F500>   Eres muy excentrico! Mas yo<FF03>no me ofendo!<FFF5> Creo que sere agasajada con te!<FFFD><17FF><F500>  Los ninos son bribones.<FFF5>   Patan, obras con prisa. El<FF03>debido proceder no se puede ignorar.<FFFD><18FF><F500> DUMMY1<FFF5> DUMMY2<FFF5> Jaja, estoy prometida a otro!<FF03>Te ruego me perdones!<FFF5>O, la angustia",
+  "shortened": false
+ },
+ "talk_kosiki_00026": {
+  "t": "<FFFD><19FF><F500>Deseas tanto mis atenciones. Eres<FF03>muy gracioso!<FFF5>Tu historia es pueril, mas veo por que<FF03>haces de bufon!<FFF5>Que desagradables son tus palabras a mi<FF03>oido!<FFF5>  Menos arte y mas asunto! Que quieres<FF03>decir.?<FFFD><1AFF><F500>  Creo que hay corriente de aire",
+  "shortened": true
+ },
+ "talk_kosiki_00027": {
+  "t": " Tiemblo!<FFF5> Esto huele a sospecha!<FF03>Eres un hombre traicionero",
+  "shortened": false
+ },
+ "talk_kosiki_00028": {
+  "t": "<FFFD><1BFF><F500>  O, que alegria! Mis ojos rebosan de<FF03>dulces lagrimas de jubilo!<FFF5> Jaja, que divertido. Mas no tanto como tu<FF03>rostro",
+  "shortened": false
+ },
+ "talk_kosiki_00030": {
+  "t": " El mundo humano no cede ni por<FF03>sus propios habitantes!<FFF5>Sigue tu relato!<FFFD><1DFF><F500>   Tales cuentos son hijos de mentes<FF03>ociosas. No tienes un relato mas<FF03>digno.?<FFF5>   Mal momento es este para charlar.<FF03>Estas demasiado sereno.<FFFD><1EFF><F500>Luego te contare una<FF03>historia de interes!<FFF5>Sea cual sea la era, las mujeres siempre se sienten<FF03>atraidas por escandalos, y los escandalos por ellas",
+  "shortened": false
+ },
+ "talk_kosiki_00031": {
+  "t": "<FFFD><1FFF><F500>Deseas tanto mis atenciones. Eres<FF03>muy gracioso!<FFF5>Creo que no te oi!<FFFD><20FF><F500>   Qu-Que.? Seria locura asustarme<FF03>asi otra vez.<FFF5>  Que haces, bellaco.?<FFFD><21FF><F500> Eeeeek. Que locura es esta.?<FFF5> No hare nada",
+  "shortened": false
+ },
+ "talk_kosiki_00032": {
+  "t": " Calma tus<FF03>males",
+  "shortened": true
+ },
+ "talk_kosiki_00033": {
+  "t": "<FFFD><22FF><F500> Un regalo para mi. Loable empeno<FF03>en verdad!<FFF5>  Llega tu riqueza mas alla del fondo<FF03>de tu bolsa. Querria mas!<FFFD><23FF><F500> Osas tentarme con minucias.<FF03>No me dejare seducir por ellas!<FFF5>   Habria preferido algo de<FF03>mayor importancia",
+  "shortened": false
+ },
+ "talk_kosiki_00034": {
+  "t": "<FFFD><24FF><F500> Jamas en mi vida he recibido tal<FF03>regalo.<FFF5>  Es grato recibir tales favores.<FFFD><25FF><F500>   Lo que dices es razonable",
+  "shortened": false
+ },
+ "talk_kosiki_00035": {
+  "t": "<FFF5>Veo, podras parecer joven, mas tu<FF03>has soportado muchas pruebas! Tus palabras<FF03>tienen peso!<FFFD><26FF><F500>  No digas sandeces.<FFF5>   Hablas de cosas tan extranas",
+  "shortened": false
+ },
+ "talk_kosiki_00036": {
+  "t": "<FF03>Es esta tu intencion.?<FFFD><27FF><F500> Que razon tienes para hablar de tales<FF03>asuntos. Te intereso yo",
+  "shortened": false
+ },
+ "talk_kosiki_00037": {
+  "t": "<FFF5> Que quieres decir. Deseas mi<FF03>poder.?<FFFD><28FF><F500>Tienes confianza! Un duelo contigo<FF03>seria muy placentero!<FFF5>  Confias en tu fuerza",
+  "shortened": false
+ },
+ "talk_kosiki_00038": {
+  "t": "<FF03>Que harias conmigo.?<FFFD><29FF><F500>  He de ser tu rival.?<FFF5> Tu lengua teje un gran tapiz, mas<FF03>callara si no tienes el<FF03>temple de respaldar tus palabras",
+  "shortened": false
+ },
+ "talk_kosiki_00039": {
+  "t": "<FFFD><2AFF><F500>  Eres un extorsionador, bellaco. No tengo<FF03>moneda para ti!<FFF5>  Eh. Ese ceno",
+  "shortened": false
+ },
+ "talk_kosiki_00040": {
+  "t": "<FFFD><2BFF><F500>Tu habla se adentra hondo en lo<FF03>absurdo",
+  "shortened": true
+ },
+ "talk_kosiki_00041": {
+  "t": " Mas te perdono!<FFF5>   Si deseas longevidad, seria<FF03>prudente que aprendieses cortesia!<FFFD><2CFF><F500>Jaja, me rio de la idea. Un nino<FF03>como tu cree poder oponerse a mi.?<FFF5>   Bellaco, he vivido muchos siglos mas<FF03>que tu. Refrena tu lengua.<FFFD><2DFF><F500>  Recibir tal halago me alegra!<FFF5>Eres muy diestro",
+  "shortened": false
+ },
+ "talk_kosiki_00042": {
+  "t": "<FFFD><2EFF><F500>  Yo tambien soy diestra en la danza. Mas es<FF03>quiza demasiado hechizante para ojos de<FF03>quienes son tan jovenes!<FFF5>Si aprendiese de ti, podria<FF03>ejecutar tales proezas de danza.?<FFFD><2FFF><F500>   Es inimaginable que tu<FF03>mostrases danza tan tosca.<FF03>Hallo tu empeno muy escaso.<FFF5><0056>cough<0056> El retrete esta por aqui",
+  "shortened": false
+ },
+ "talk_kosiki_00043": {
+  "t": "<FFFD><30FF><F500>  Que elegancia. Permite que me una a ti.<FFF5>  Que nuestro jubilo y alegria duren hasta<FF03>que brille el sol matinal.<FFFD><31FF><F500> Tienes confianza! Un duelo contigo<FF03>seria muy placentero!<FFF5>  Confias en tu fuerza",
+  "shortened": false
+ },
+ "talk_kosiki_00044": {
+  "t": "<FF03>Que harias conmigo.?<FFFD><32FF><F500>  He de ser tu rival.?<FFF5> Tu lengua teje un gran tapiz, mas<FF03>callara si no tienes el<FF03>temple de respaldar tus palabras",
+  "shortened": false
+ },
+ "talk_kosiki_00045": {
+  "t": "<FFFD><33FF><F500>  Eres un extorsionador, bellaco. No tengo<FF03>moneda para ti!<FFF5>  Eh. Ese ceno",
+  "shortened": false
+ },
+ "talk_kosiki_00046": {
+  "t": "<FFFD><34FF><F500>Has visto algo en mi rostro.?<FFF5>  Es tu intencion atravesarme con<FF03>tu mirada fija.?<FFFD><35FF><F500> Por que me fulminas. Esto no me<FF03>gusta",
+  "shortened": false
+ },
+ "talk_kosiki_00047": {
+  "t": "<FFF5>Que miras.? No tienes<FF03>modales, villano.?<FFFD><36FF><F500>   Te fascino, no es asi.?<FF03>Lo comprendo, mas",
+  "shortened": false
+ },
+ "talk_kosiki_00048": {
+  "t": "<FFF5>  Que te aqueja. Soy la primera<FF03>bella doncella que tus ojos<FF03>han visto.?<FFFD><37FF><F500>Lo que dices es razonable",
+  "shortened": false
+ },
+ "talk_kosiki_00049": {
+  "t": "<FFF5>Veo, podras parecer joven, mas tu<FF03>has soportado muchas pruebas! Tus palabras<FF03>tienen peso!<FFFD><38FF><F500>  No digas sandeces.<FFF5>   Hablas de cosas tan extranas",
+  "shortened": false
+ },
+ "talk_kosiki_00050": {
+  "t": "<FF03>Es esta tu intencion.?<FFFD><39FF><F500> Que razon tienes para hablar de tales<FF03>asuntos. Te intereso yo",
+  "shortened": false
+ },
+ "talk_kosiki_00051": {
+  "t": "<FFF5> Que quieres decir. Deseas mi<FF03>poder.?<FFFD><3AFF><F500>Eres irracional al dar credito a<FF03>tales nociones pueriles!<FFF5> Me crees no distinta de tales<FF03>bestias.?<FFFD><3BFF><F500> O, que terror",
+  "shortened": false
+ },
+ "talk_kosiki_00052": {
+  "t": " P-Por favor, ya",
+  "shortened": true
+ },
+ "talk_kosiki_00053": {
+  "t": "<FFF5> Dicen, <0028>Hablando del rey de Roma",
+  "shortened": false
+ },
+ "talk_kosiki_00054": {
+  "t": "<FF03>Que esperas lograr con<FF03>tan viles criaturas en derredor.?<FFFD><3CFF><F500> Los relatos de mis camaradas inspiran<FF03>mayor terror. Pues al fin, son<FF03>reales.<FFF5> Pareces muy versado en este<FF03>tema! No querras intercambiar mas<FF03>relatos espeluznantes conmigo manana.?<FFFD><3DFF><F500>  Una fina voz, si",
+  "shortened": false
+ },
+ "talk_kosiki_00055": {
+  "t": " Eres habil,<FF03>jovencita!<FFF5>   Debo confesar que yo tambien soy diestra en<FF03>el arte del canto! Que dices a<FF03>un duo conmigo.?<FFFD><3EFF><F500>   Una fina voz, si",
+  "shortened": false
+ },
+ "talk_kosiki_00056": {
+  "t": " Mas cambiemos<FF03>la melodia",
+  "shortened": false
+ },
+ "talk_kosiki_00057": {
+  "t": " Tendre tus gritos.<FFF5> Osas retar a la portadora<FF03>de la voz mas dulce del inframundo.?<FF03>Considera lanzado el guante.<FFFD><3FFF><F500>Jaja",
+  "shortened": false
+ },
+ "talk_kosiki_00058": {
+  "t": " No me igualas, mas<FF03>basta con ello!<FFF5>  Mmmm",
+  "shortened": false
+ },
+ "talk_kosiki_00059": {
+  "t": "<FFFD><40FF><F500>  Jaja, que es esto. Es algo<FF03>delicioso.<FFF5> Jaja, de verdad parezco tan joven. No<FF03>se desprecia",
+  "shortened": false
+ },
+ "talk_kosiki_00060": {
+  "t": "<FFFD><41FF><F500>  Envidias mi belleza. Las mujeres<FF03>pueden ser viles y pecaminosas criaturas!<FFF5> Rufian insolente. No tienes rango<FF03>para hablarme de tal modo.<FFFD><42FF><F500>   Me recuerda dias muy lejanos",
+  "shortened": false
+ },
+ "talk_kosiki_00061": {
+  "t": "<FFF5> Jaja, que divertido.<FFFD><43FF><F500> Lo que dices es razonable",
+  "shortened": false
+ },
+ "talk_kosiki_00062": {
+  "t": "<FFF5>Muestras buen juicio al buscar mi<FF03>cortejo! Eres en verdad uno<FF03>que conoce el mundo!<FFFD><44FF><F500>  No digas sandeces.<FFF5>   Hablas de cosas tan extranas",
+  "shortened": false
+ },
+ "talk_kosiki_00063": {
+  "t": "<FF03>Es esta tu intencion.?<FFFD><45FF><F500> Que razon tienes para hablar de tales<FF03>asuntos. Te intereso yo",
+  "shortened": false
+ },
+ "talk_kosiki_00064": {
+  "t": "<FFF5> Que quieres decir. Deseas mi<FF03>poder.?<FFFD><46FF><F500>Tu habla se adentra hondo en el reino<FF03>del absurdo",
+  "shortened": false
+ },
+ "talk_kosiki_00065": {
+  "t": " Mas te perdono!<FFF5>   Si deseas longevidad, seria<FF03>prudente que aprendieses cortesia!<FFFD><47FF><F500>Envidias mi belleza. Las mujeres<FF03>pueden ser viles y pecaminosas criaturas!<FFF5> Rufian insolente. No tienes rango<FF03>para hablarme de tal modo.<FFFD><48FF><F500>   Eso es",
+  "shortened": false
+ },
+ "talk_kosiki_00066": {
+  "t": " cruel! Ay de mi",
+  "shortened": true
+ },
+ "talk_kosiki_00067": {
+  "t": "<FFF5>Qu-Que.? Jamas he sido sometida<FF03>a un acto de tal crueldad",
+  "shortened": false
+ },
+ "talk_kosiki_00068": {
+  "t": "<FFFD><49FF><F500>   Eres muy excentrico! Mas yo<FF03>no me ofendo!<FFF5> Creo que sere agasajada con te!<FFFD><4AFF><F500>  Los ninos son bribones.<FFF5>   Patan, obras con prisa. El<FF03>debido proceder no se puede ignorar.<FFFD><4BFF><F500> Jaja, estoy prometida a otro!<FF03>Te ruego me perdones!<FFF5>O, la angustia",
+  "shortened": false
+ },
+ "talk_kosiki_00069": {
+  "t": "<FFFD><4CFF><F500>Has pasado tiempos dificiles",
+  "shortened": true
+ },
+ "talk_kosiki_00070": {
+  "t": "<FFF5>   Que pena! Animo!<FFFD><4DFF><F500> Hmph! No me tomes por tonta. Tus<FF03>lagrimas no tienen la sal de lo autentico.<FFF5> Ahora veo por que te llaman<FF03><FFF9>, el Cocodrilo Lloron entre los<FF03>demonios!<FFFD><4EFF><F500>Por favor, deja tus lagrimas! El mundo<FF03>humano es uno de muchos terrores",
+  "shortened": true
+ },
+ "talk_kosiki_00071": {
+  "t": "<FFF5>No necesitas tus lagrimas",
+  "shortened": false
+ },
+ "talk_kosiki_00072": {
+  "t": "<FFFD><4FFF><F500> Tienes confianza! Un duelo contigo<FF03>seria muy placentero!<FFF5>  Confias en tu fuerza",
+  "shortened": false
+ },
+ "talk_kosiki_00073": {
+  "t": "<FF03>Que harias conmigo.?<FFFD><50FF><F500>  He de ser tu rival.?<FFF5> Tu lengua teje un gran tapiz, mas<FF03>callara si no tienes el<FF03>temple de respaldar tus palabras",
+  "shortened": false
+ },
+ "talk_kosiki_00074": {
+  "t": "<FFFD><51FF><F500>  Eres un extorsionador, bellaco. No tengo<FF03>moneda para ti!<FFF5>  Eh. Ese ceno",
+  "shortened": false
+ },
+ "talk_kosiki_00075": {
+  "t": "<FFFD><52FF><F500>Envidias mi belleza. Las mujeres<FF03>pueden ser viles y pecaminosas criaturas!<FFF5> Rufian insolente. No tienes rango<FF03>para hablarme de tal modo.<FFFD><53FF><F500>   Te pido perdon",
+  "shortened": false
+ },
+ "talk_kosiki_00076": {
+  "t": "<FFF5>Esto es muy cruel. Dime, en que<FF03>te he ofendido.?<FFFD><54FF><F500>   Por favor, ten piedad",
+  "shortened": false
+ },
+ "talk_kosiki_00077": {
+  "t": "<FFF5>  Confieso, es mi secreto deseo<FF03>ser atormentada asi. Por favor",
+  "shortened": true
+ },
+ "talk_kosiki_00078": {
+  "t": " haz como<FF03>gustes!<FFFD><55FF><F500>   Lo que dices es razonable",
+  "shortened": false
+ },
+ "talk_kosiki_00079": {
+  "t": "<FFF5>Veo, podras parecer joven, mas tu<FF03>has soportado muchas pruebas! Tus palabras<FF03>tienen peso!<FFFD><56FF><F500>  No digas sandeces.<FFF5>   Hablas de cosas tan extranas",
+  "shortened": false
+ },
+ "talk_kosiki_00080": {
+  "t": "<FF03>Es esta tu intencion.?<FFFD><57FF><F500> Que razon tienes para hablar de tales<FF03>asuntos. Te intereso yo",
+  "shortened": false
+ },
+ "talk_kosiki_00081": {
+  "t": "<FFF5> Que quieres decir. Deseas mi<FF03>poder.?<FFFD><58FF><F500>Envidias mi belleza. Las mujeres<FF03>pueden ser viles y pecaminosas criaturas!<FFF5> Rufian insolente. No tienes rango<FF03>para hablarme de tal modo.<FFFD><59FF><F500>   Te pido perdon",
+  "shortened": false
+ },
+ "talk_kosiki_00082": {
+  "t": "<FFF5>Esto es muy cruel. Dime, en que<FF03>te he ofendido.?<FFFD><5AFF><F500>   Jaja",
+  "shortened": false
+ },
+ "talk_kosiki_00083": {
+  "t": " Eres una mujer audaz!<FFF5>Confieso, es mi mas secreto deseo<FF03>ser atormentada asi. Por favor",
+  "shortened": false
+ },
+ "talk_kosiki_00084": {
+  "t": " haz como<FF03>gustes!<FFFD><5BFF><F500>   Tienes confianza de sobra",
+  "shortened": false
+ },
+ "talk_kosiki_00085": {
+  "t": " mas<FF03>no puedo dejar de pensar cuan facil<FF03>se quiebra",
+  "shortened": false
+ },
+ "talk_kosiki_00086": {
+  "t": "<FFF5>  Que. No tienes asunto conmigo.?<FFFD><5CFF><F500> Tu confianza rebosa",
+  "shortened": false
+ },
+ "talk_kosiki_00087": {
+  "t": " Mas tu<FF03>has elegido al rival errado.<FFF5>No me oyes. Entonces me has<FF03>subestimado.<FFFD><5DFF><F500>   ",
+  "shortened": false
+ },
+ "talk_kosiki_00088": {
+  "t": "No he cometido falta",
+  "shortened": true
+ },
+ "talk_kosiki_00089": {
+  "t": "<FF03>Al menos, no creo haberla hecho",
+  "shortened": true
+ },
+ "talk_kosiki_00090": {
+  "t": "<FFF5>  Disculpa, o caminante",
+  "shortened": false
+ },
+ "talk_kosiki_00091": {
+  "t": "<FFFD><5EFF><F500> Tienes confianza de sobra",
+  "shortened": false
+ },
+ "talk_kosiki_00092": {
+  "t": " mas<FF03>no puedo dejar de pensar cuan facil<FF03>se quiebra",
+  "shortened": false
+ },
+ "talk_kosiki_00093": {
+  "t": "<FFF5>  Que. No tienes asunto conmigo.?<FFFD><5FFF><F500> Tu confianza rebosa",
+  "shortened": false
+ },
+ "talk_kosiki_00094": {
+  "t": " Mas tu<FF03>has elegido al rival errado.<FFF5>No me oyes. Entonces me has<FF03>subestimado.<FFFD><60FF><F500>   ",
+  "shortened": false
+ },
+ "talk_kosiki_00095": {
+  "t": "No he cometido falta",
+  "shortened": true
+ },
+ "talk_kosiki_00096": {
+  "t": "<FF03>Al menos, no creo haberla hecho",
+  "shortened": true
+ },
+ "talk_kosiki_00097": {
+  "t": "<FFF5>  Disculpa, o caminante",
+  "shortened": false
+ },
+ "talk_kosiki_00098": {
+  "t": "<FFFD><61FF><F500> Tienes confianza! Un duelo contigo<FF03>seria muy placentero!<FFF5>  Confias en tu fuerza",
+  "shortened": false
+ },
+ "talk_kosiki_00099": {
+  "t": "<FF03>Que harias conmigo.?<FFFD><62FF><F500>  He de ser tu rival.?<FFF5> Tu lengua teje un gran tapiz, mas<FF03>callara si no tienes el<FF03>temple de respaldar tus palabras",
+  "shortened": false
+ },
+ "talk_kosiki_00100": {
+  "t": "<FFFD><63FF><F500>  Eres un extorsionador, bellaco. No tengo<FF03>moneda para ti!<FFF5>  Eh. Ese ceno",
+  "shortened": false
+ },
+ "talk_kosiki_00101": {
+  "t": "<FFFD><64FF><F500>Qu-Que.? Me sobresalte",
+  "shortened": false
+ },
+ "talk_kosiki_00102": {
+  "t": "<FFF5>Que haces, bellaco.?<FFFD><65FF><F500> Eeeeek. Que locura es esta.?<FFF5> No hare nada",
+  "shortened": false
+ },
+ "talk_kosiki_00103": {
+  "t": " Calma tus<FF03>males",
+  "shortened": true
+ },
+ "talk_kosiki_00104": {
+  "t": "<FFFD><66FF><F500> Eres muy excentrico! Mas yo<FF03>no me ofendo!<FFF5> No eres un tipo ordinario",
+  "shortened": false
+ },
+ "talk_kosiki_00105": {
+  "t": " Quiza<FF03>eres mi tipo",
+  "shortened": false
+ },
+ "talk_kosiki_00106": {
+  "t": "<FFFD><67FF><F500>   Deseas tanto mis atenciones. Eres<FF03>muy gracioso!<FFF5>Eres practicante de las artes<FF03>oscuras. Pedire una ilusion de agua<FF03>de ti!<FFFD><68FF><F500>  Que extranos poderes dominas",
+  "shortened": false
+ },
+ "talk_kosiki_00107": {
+  "t": "<FFF5> Osas herirme con tus<FF03>fuerzas arcanas.?<FFFD><69FF><F500>   Puedes conjurar objetos. Deseo<FF03>una joya",
+  "shortened": false
+ },
+ "talk_kosiki_00108": {
+  "t": "<FFF5>  Compararia tu destreza a la del<FF03>famoso mago de tu mundo",
+  "shortened": false
+ },
+ "talk_kosiki_00109": {
+  "t": " Houdini,<FF03>no es asi.?<FFFD><6AFF><F500> Jaja, tu historia inspira risa!<FFF5>   Menos arte y mas asunto!<FFF5> Conversar contigo es muy placentero,<FF03>mas tienes algo mayor que ofrecer.?<FFF1><FFF5>  Te oire. No querria<FF03>llevar pesar a quien tan cerca esta<FF03>de dejar la mortal vida!<FFF5>   No me interesa lo mas minimo.<FFF5> Si deseas una audiencia conmigo,<FF03>hay algo que hacer primero.<FFF1><FFF5>",
+  "shortened": false
+ },
+ "talk_kosiki_00110": {
+  "t": "Hablas cual si estuvieras<FF03>poseido",
+  "shortened": true
+ },
+ "talk_kosiki_00111": {
+  "t": "<FFF5> Entiendo tus palabras, mas por<FF03>circunstancias que no podrias percibir,<FF03>debo declinar",
+  "shortened": false
+ },
+ "talk_kosiki_00112": {
+  "t": "<FFF5>  Tus historias son interesantes! Ha<FF03>pasado eras desde que unas palabras me<FF03>animaran asi!<FFF5>   Jaja, una treta asi para ganar<FF03>mi atencion. Que divertido",
+  "shortened": true
+ },
+ "talk_kosiki_00113": {
+  "t": "<FFF5> Jaja, estoy muy divertida",
+  "shortened": false
+ },
+ "talk_kosiki_00114": {
+  "t": " Deseo<FF03>hablar contigo mas",
+  "shortened": false
+ },
+ "talk_kosiki_00115": {
+  "t": "<FFF5>Veo tus intenciones como<FF03>un charco de agua clara",
+  "shortened": true
+ },
+ "talk_kosiki_00116": {
+  "t": " Tu estas<FF03>interesado en mi, no es asi.?<FFF5>   Eres astuto al notar mi<FF03>poder.<FFF5>Soy propensa a ceder a tus deseos, mas<FF03>primero",
+  "shortened": false
+ },
+ "talk_kosiki_00117": {
+  "t": " Tienes algo que ofrecerme.?<FFF1><FFF5>  Eres un simple plebeyo. Conoce tu lugar.<FFF5>   Me conoces.? Soy la todopoderosa<FF03><FFF3> la <FFF0>.<FF02><FF04>No tengo intencion de negociar<FF03>con humanos.<FFF5>   Que presuncion. Son mis ordenes las<FF03>que se siguen, no las tuyas.<FFF1><FFF5>  Podria prestarte poder, mas por<FF03>circunstancias que no podrias percibir,<FF03>debo declinar",
+  "shortened": false
+ },
+ "talk_kosiki_00118": {
+  "t": "<FFF5> Veo tus intenciones como<FF03>un charco de agua clara",
+  "shortened": true
+ },
+ "talk_kosiki_00119": {
+  "t": " Deseas<FF03>mi fortuna",
+  "shortened": false
+ },
+ "talk_kosiki_00120": {
+  "t": "<FFF5>Es mi decision no prestarte mi<FF03>fuerza",
+  "shortened": false
+ },
+ "talk_kosiki_00121": {
+  "t": "<FFF5>   Me deseas. Que adorable. Podria<FF03>tragarte de un bocado.<FFF5> Jaja",
+  "shortened": false
+ },
+ "talk_kosiki_00122": {
+  "t": " Sigue asi!<FFF5>Jaja",
+  "shortened": false
+ },
+ "talk_kosiki_00123": {
+  "t": " Parece que mis encantos no han<FF03>caido ante el tiempo.<FFF5>   Es tu intencion despertar mi ira.?<FF03>Quiza tienes razon que no logro<FF03>comprender",
+  "shortened": true
+ },
+ "talk_kosiki_00124": {
+  "t": "<FFF5>   No fue accion digna de un demonio<FF03>negociador! Refrena tu furia!<FFF5>Que juego de ninos",
+  "shortened": false
+ },
+ "talk_kosiki_00125": {
+  "t": "<FF02><FF04>Si deseas mis favores, hay solo<FF03>un modo",
+  "shortened": false
+ },
+ "talk_kosiki_00126": {
+  "t": " Lo sabes, si.?<FFF1><FFF5>   Castigare a los necios<FF03>impudentes como tu.<FFF5> Por ser un bellaco insolente,<FF03>puedo herirte sin reservas.<FFF5>  Que grosero. Soy propensa a castigar tal<FF03>impudente necedad.<FF02><FF04>Si te asusta la idea,<FF03>aplacame con tesoro.<FFF1><FFF5>  Que actos tan vulgares eliges<FF03>mostrar en mi presencia",
+  "shortened": false
+ },
+ "talk_kosiki_00127": {
+  "t": "<FFF5>Que grosero",
+  "shortened": false
+ },
+ "talk_kosiki_00128": {
+  "t": " Ay de mi, has<FF03>despertado mi <0056>hic<0056> cronico <0056>hic<0056> hipo",
+  "shortened": false
+ },
+ "talk_kosiki_00129": {
+  "t": "<FFF5>   Bellaco vil",
+  "shortened": true
+ },
+ "talk_kosiki_00130": {
+  "t": "<FFF5>  Engreido, mas algo adorable",
+  "shortened": false
+ },
+ "talk_kosiki_00131": {
+  "t": "<FFF5>  Excelente. Es mejor hacer lo que<FF03>te place mientras eres joven!<FFF5>  Jaja, bravo. Los ninos deben criarse<FF03>en tal ambiente!<FFF5> El telon de la inexperiencia pende sobre<FF03>tu acto! Con esfuerzo lo dominaras!<FF03>No pierdas tu fe!<FFF5>   Querria verlo otra vez cuando<FF03>hayas mejorado",
+  "shortened": false
+ },
+ "talk_kosiki_00132": {
+  "t": "<FFF5>  Mucho has de aprender",
+  "shortened": true
+ },
+ "talk_kosiki_00133": {
+  "t": " Si<FF03>quieres mis lecciones, requerire<FF03>el debido pago!<FFF1><FFF5>   No me divierto",
+  "shortened": false
+ },
+ "talk_kosiki_00135": {
+  "t": "<FFF5>   Pensabas cobrar por<FF03>eso.? Soy yo quien merece cobrar.<FFF1><FFF5>  No comprendo",
+  "shortened": false
+ },
+ "talk_kosiki_00136": {
+  "t": "<FFF5> Es eso alguna especie de hechiceria.?<FFF5> Estas muy versado en tu arte",
+  "shortened": false
+ },
+ "talk_kosiki_00137": {
+  "t": "<FF03>Estoy impresionada!<FFF5>   Quiza soy yo quien deberia pedir<FF03>lecciones de ti!<FFF5> Ah. Otra vez.<FFF5> Dicen que nada bueno viene de los<FF03>humanos, mas",
+  "shortened": true
+ },
+ "talk_kosiki_00138": {
+  "t": " Me hallo intrigada!<FFF5> Deseas llevarme contigo.?<FF03>Crees tener la<FF03>confianza para encadenarme.?<FFF5>  Si quieres mi confianza,<FF03>harias bien en producir algo<FF03>que deslumbre mis ojos!<FFF1><FFF5> Quienes osen burlarse de mi pagaran<FF03>con sus vidas.<FFF5>Querrias que clavase el<FF03>punal en la espalda de mis hermanas<FF03>por eso.? Jamas.<FFF5>   Que seria de ti si mis<FF03>hermanos oyeran de esto.? Si tu<FF03>deseo es callarme, entonces",
+  "shortened": false
+ },
+ "talk_kosiki_00139": {
+  "t": "<FFF1><FFF5>  Qu-Que haces. Yo",
+  "shortened": false
+ },
+ "talk_kosiki_00140": {
+  "t": " Me<FF03>disculpare, pues",
+  "shortened": true
+ },
+ "talk_kosiki_00141": {
+  "t": "<FFF5>  Que harias conmigo despues<FF03>de eso",
+  "shortened": false
+ },
+ "talk_kosiki_00142": {
+  "t": " Alguien, ayuda",
+  "shortened": true
+ },
+ "talk_kosiki_00143": {
+  "t": "<FFF5>   Por que me tratas asi",
+  "shortened": false
+ },
+ "talk_kosiki_00145": {
+  "t": "<FFF5>  Ah, tu resolucion es admirable",
+  "shortened": false
+ },
+ "talk_kosiki_00146": {
+  "t": "<FFF5> Se que esa no es tu real<FF03>intencion",
+  "shortened": true
+ },
+ "talk_kosiki_00147": {
+  "t": " quiza es mi<FF03>deseo ser enganada por ti",
+  "shortened": false
+ },
+ "talk_kosiki_00148": {
+  "t": "<FFF5>  No se tus deseos, mas no eres<FF03>tan debil para recurrir a esto",
+  "shortened": true
+ },
+ "talk_kosiki_00149": {
+  "t": " bajas<FF03>estrategias!<FFF5> Bien! Favorezco a quienes conocen su<FF03>lugar!<FFF5> Bueno, no eras rival para mi desde<FF03>el inicio.<FFF5>  Soy de noble linaje",
+  "shortened": false
+ },
+ "talk_kosiki_00150": {
+  "t": " No puedes<FF03>esperar enganarme con tales tretas.<FFF5> No quieres despertar mi furia, no es<FF03>asi. Entonces escucha bien.<FFF1><FFF5>   Que te ha sobrevenido. ",
+  "shortened": true
+ },
+ "talk_kosiki_00151": {
+  "t": "Algo<FF03>anda mal",
+  "shortened": false
+ },
+ "talk_kosiki_00152": {
+  "t": "<FFF5> Estas en verdad enojado, no es asi.?<FF03>Entonces habla asi",
+  "shortened": false
+ },
+ "talk_kosiki_00153": {
+  "t": "<FFF5> Jaja. Los humanos son esclavos de demonios.<FFF5>   Jajajaja. Ruega clemencia.<FFF1><FFF5>  Asi que rumores de mi llegan al oido de<FF03>hasta los viles humanos",
+  "shortened": true
+ },
+ "talk_kosiki_00154": {
+  "t": " Deberias<FF03>ofrecerme algo!<FFF1><FFF5>Tienes mi carta de hechizo, ya veo! Guardala<FF03>bien!<FFEF>  Toma esto!<FFEF> Oh, dices verdad.?<FFEF>   Por desgracia, nuestros gustos<FF03>no concuerdan!<FFEF>  ",
+  "shortened": false
+ },
+ "talk_kosiki_00155": {
+  "t": "Me cansa tu arrogancia!<FF03>",
+  "shortened": false
+ },
+ "talk_kosiki_00156": {
+  "t": "Eres muy debil!<FFEF>   Entonces al menos",
+  "shortened": true
+ },
+ "talk_kosiki_00157": {
+  "t": "<FFEF>   Hasta que nos veamos otra vez!<FFEF>   Toma mas.<FFEF> Debo seguir mi camino!<FFEF>   Si me haces una Persona,<FF03>otorgame fuerza y belleza!<FFEF>  No lo soporto. Te dare esto<FF03>a ti! Por favor perdoname.<FFEF>  Si negociar contigo no tiene<FF03>valor, entonces partire!<FFEF>  Toma esto y vete.<FFEF>  Que vil hedor has de tener",
+  "shortened": false
+ },
+ "talk_kosiki_00159": {
+  "t": "<FFEF> Me cansa el pensar. Te dare<FF03>mi carta de hechizo y acabaremos con esto.<FFEF> No hay lazos mas fuertes que el destino",
+  "shortened": false
+ },
+ "talk_kosiki_00160": {
+  "t": "<FF03>Seras mi amo por siempre",
+  "shortened": false
+ },
+ "talk_kosiki_00161": {
+  "t": "<FFF5>Es mi carta de hechizo",
+  "shortened": true
+ },
+ "talk_kosiki_00162": {
+  "t": " Ruego que<FF03>sirva a tu fin",
+  "shortened": true
+ },
+ "talk_kosiki_00163": {
+  "t": "<FFEF>  Pelear contigo seria un acto de<FF03>traicion al destino mismo.<FFEF>  Toma esto, y guardalo como<FF03>recuerdo de nuestro encuentro",
+  "shortened": true
+ },
+ "talk_kosiki_00164": {
+  "t": " Debo hallar como vivir",
+  "shortened": true
+ },
+ "talk_kosiki_00165": {
+  "t": "Lo se. Te dare mi<FF03>carta de hechizo, con la esperanza de calmar tu<FF03>ira",
+  "shortened": false
+ },
+ "talk_kosiki_00166": {
+  "t": "<FFEF>  Jaja",
+  "shortened": false
+ },
+ "talk_kosiki_00167": {
+  "t": " Que trae a un humano<FF03>aqui.?<FFFD><6BFF><F500>  Jaja, los humanos visten ropas<FF03>tan excentricas",
+  "shortened": true
+ },
+ "talk_kosiki_00168": {
+  "t": "<FFF5>   Eres el primer humano que he visto",
+  "shortened": false
+ },
+ "talk_kosiki_00169": {
+  "t": "<FF03>Querras honrarme con un recuerdo.?<FFF1><FFF5> Eres un estorbo en mi camino.<FF03>Apartate, ahora.<FFFD><6CFF><F500> Estoy llena de colera este dia! Haz<FF03>un mal movimiento, y arrancare tu<FF03>garganta de debajo de tu cabeza.<FFF5> Estoy ante ti, mas tu no haces<FF03>nada. Ni siquiera puedes<FF03>obsequiarme un regalo.?<FFF1><FFF5>  Toma nota, mas alla de donde estas<FF03>es mi territorio",
+  "shortened": false
+ },
+ "talk_kosiki_00170": {
+  "t": "<FFFD><6DFF><F500>  Vaya, como se tuerce tu rostro",
+  "shortened": true
+ },
+ "talk_kosiki_00171": {
+  "t": " Te<FF03>ves enfermo, y no te otorgare<FF03>favores",
+  "shortened": false
+ },
+ "talk_kosiki_00172": {
+  "t": "<FFF5>   Tu rostro es digno de odio",
+  "shortened": true
+ },
+ "talk_kosiki_00173": {
+  "t": "<FF03>No oso usar el retrete sola esta<FF03>noche",
+  "shortened": false
+ },
+ "talk_kosiki_00174": {
+  "t": "<FFF5>Jaja, una bella luna redonda brilla<FF03>esta noche! Mas dejando los ciclos lunares, como<FF03>te va.?<FFFD><6EFF><F500>   Jaja, alegraria mi corazon<FF03>beber buen hidromiel y ver una danza.<FFF5>   Si un grato mozo me ofreciera<FF03>un regalo, estaria muy alegre.<FFF1><FFF5><FFED>Pensar que responderias a mi<FF03>pregunta. Que deseas. Si no es<FF03>nada, me marchare.<FFFD><70FF><F500>  <FFED>Si tienes asunto conmigo, tu<FF03>deberias darlo a conocer.<FFF5> <FFED>",
+  "shortened": false
+ },
+ "talk_kosiki_00175": {
+  "t": "Eres del todo incompatible con<FF03>migo. Un humano holgazan, eres.<FF02><FF04>Sea pues",
+  "shortened": false
+ },
+ "talk_kosiki_00176": {
+  "t": " Si me ofreces un<FF03>regalo, podria persuadirme a entrar<FF03>en negociaciones contigo!<FFF1><FFF5><FFEC>Disculpa, mas si la conversacion ha<FF03>seguido su curso, puedo marcharme.?<FFFD><71FF><F500><FFEE>",
+  "shortened": false
+ },
+ "talk_kosiki_00177": {
+  "t": "Otro humano salvaje",
+  "shortened": false
+ },
+ "talk_kosiki_00178": {
+  "t": " Que<FF03>hare. La suerte me abandona en<FF03>estas noches sin luna",
+  "shortened": false
+ },
+ "talk_kosiki_00179": {
+  "t": "<FFF5>  <FFEC>La violencia es mala respuesta, y solo<FF03>los de mente turbia recurren al acero!<FFF5><FFEB>Jaja, deseo abandonar mi puesto<FF03>e ir contigo",
+  "shortened": false
+ },
+ "talk_kosiki_00180": {
+  "t": " Si dijese eso,<FF03>que harias.?<FFFD><72FF><F500>  <FFEE>Jaja, hasta los encuentros casuales son<FF03>guiados por el destino!<FFF5> <FFEB>Si es tu deseo, te oire<FF03>mas! Eso es, con un debido regalo",
+  "shortened": false
+ },
+ "talk_kosiki_00181": {
+  "t": "<FFF1><FFF5>   <FFEC>Monstruo. No te acerques m-mas.<FFFD><73FF><F500>  <FFEC>Que oscuridad diviso que se reune<FF03>tras de ti. N-No, mantenla a raya.<FFF5> <FFED>Para vivir, debo tomar vidas.<FF03>No debes culparme",
+  "shortened": false
+ },
+ "talk_kosiki_00182": {
+  "t": "<FFF5>  <FFEB>Tu y yo somos como el dia y la noche! Un<FF03>mundo de diferencia hay entre nosotros.<FF03>Comprendes.?<FFFD><74FF><F500>   <FFED>No sabes el modo correcto de<FF03>hablar a una dama! Esta escrito en tu<FF03>rostro como un lunar.<FFF5><FFEB>Mi pregunta es respondida",
+  "shortened": true
+ },
+ "talk_kosiki_00183": {
+  "t": " Y veo<FF03>que has traido un simbolo de<FF03>rendicion.<FFF1><FFF5>   <FFEC>Tu mirada es aguda como agujas",
+  "shortened": false
+ },
+ "talk_kosiki_00184": {
+  "t": " Que<FF03>planeas hacer conmigo.?<FFFD><75FF><F500>  <FFEB>Aunque cierre los ojos, tu imagen<FF03>queda clara como el dia! Por que",
+  "shortened": false
+ },
+ "talk_kosiki_00185": {
+  "t": "<FFF5>   <FFEB>O, que haces",
+  "shortened": false
+ },
+ "talk_kosiki_00186": {
+  "t": " No me<FF03>importa lo que hagas conmigo",
+  "shortened": false
+ },
+ "talk_kosiki_00187": {
+  "t": "<FFF5>Eres un humano interesante. Muy bien,<FF03>concedere tus deseos<0007> solo<FF03>has de pedirlos!<FFEF>  Hm, parece que negociar con humanos<FF03>es perder el tiempo! Desgarrare tu<FF03>cuerpo en pedazos.<FFEF>  Que espanto",
+  "shortened": false
+ },
+ "talk_kosiki_00188": {
+  "t": " Es aqui donde mis<FF03>cenizas seran esparcidas.?<FFEF>   Que gran momento hemos compartido. Has<FF03>robado mi corazon",
+  "shortened": false
+ },
+ "talk_kosiki_00189": {
+  "t": "<FFF5> No tengo tiempo que darte, asi que ten<FF03>tus negociaciones breves. Si tienes<FF03>asunto, dilo asi.<FFEF> Eres de la peor calana",
+  "shortened": false
+ },
+ "talk_kosiki_00190": {
+  "t": " No dije<FF03>que te oiria",
+  "shortened": false
+ },
+ "talk_kosiki_00191": {
+  "t": "<FF02><FF04>Dime tus deseos!<FFEF>   El momento que acaba de pasar tuvo<FF03>mas sentido que dos semanas. Por<FF03>ti, con gusto accedere!<FFEF>  Que maldad es esta. Mi piel tirita<FF03>como si fuese hielo, mas mis ojos<FF03>hierven de colera.<FF02><FF04>Que ha sido de mi. Sere asesinada<FF03>por ti aqui mismo, mi tumba marcada<FF03>solo por las flores silvestres.?<FFEF>   ",
+  "shortened": false
+ },
+ "talk_kosiki_00192": {
+  "t": "Hmm, me cansa jugar con<FF03>tigo! Has agotado tu utilidad.<FFF5>  ",
+  "shortened": false
+ },
+ "talk_kosiki_00193": {
+  "t": "Comprendo! Fue el<FF03>destino",
+  "shortened": true
+ },
+ "talk_kosiki_00194": {
+  "t": "<FFEF>Entonces tomare <004F><FFF8>!<FFEF>  Te agradezco",
+  "shortened": false
+ },
+ "talk_kosiki_00195": {
+  "t": "<FFF5>No soy tan necia como para regatear con<FF03>mendigos y pobres.<FFF5> Que patetico",
+  "shortened": false
+ },
+ "talk_kosiki_00196": {
+  "t": "<FFF5>Hmph. Parece que me han tomado por<FF03>la tonta bufona sobre un escenario.<FFF5>  Por honda que sea tu bolsa, tu<FF03>fortuna no te seguira mas alla de<FF03>la tumba!<FFF5>  Creo que querria una piedra de vida!<FFEF>Apreciare esto!<FFF5>  Que.? Osarias negociar sin<FF03>una sola piedra de vida.? Esta<FF03>ofensa me hiere hondo.<FFF5> Que.? Osarias negociar con<FF03>demonios sin una sola piedra de<FF03>vida.? Eres un humano necio.<FFF5> Las piedras de vida se malgastan en ti como<FF03>el buen vino en los perros.<FFF5> Un humano codicioso",
+  "shortened": false
+ },
+ "talk_kosiki_00197": {
+  "t": " Mas, la supervivencia<FF03>dicta necesidad! Quiza es<FF03>natural volverse como tu eres",
+  "shortened": false
+ },
+ "talk_kosiki_00198": {
+  "t": "<FFF5>Entonces tendre una <FFF4>.<FFEF> Piedra diabolica que hechiza a<FF03>demonios",
+  "shortened": true
+ },
+ "talk_kosiki_00200": {
+  "t": " La proxima vez no acabara asi<FF03>como esto!<FFF5>  Insinuas que soy indigna<FF03>de ella.? Maldito seas, humano.<FFF5>   Insinuas que soy indigna<FF03>de ella. Hmph",
+  "shortened": false
+ },
+ "talk_kosiki_00202": {
+  "t": "<FFF5>   Dame algo de tu vida",
+  "shortened": false
+ },
+ "talk_kosiki_00203": {
+  "t": "<FFEF>   Jaja, amo a humanos sumisos",
+  "shortened": true
+ },
+ "talk_kosiki_00204": {
+  "t": "<FFF5>   Es una lastima, mas no cedere.<FFF5> Es una lastima",
+  "shortened": false
+ },
+ "talk_kosiki_00205": {
+  "t": "<FFF5>Hmph. Esa no es tu verdadera intencion.<FFF5>  Eso te hace tan adorable!<FFF5>  Conoces la frase, <0028>cuanto<FF03>menos se diga, mejor<0028>.?<FFF5>  Entonces todo esta bien!<FFF5>  Entonces esto no se zanjara sin<FF03>un debido regalo!<FFF1><FFF5> Confio en ti como en una serpiente<FF03>dormida.<FFF5>Entendido.<FFF5>Oh, es esa la verdad. ",
+  "shortened": false
+ },
+ "talk_kosiki_00206": {
+  "t": "Vil<FF03>humano.<FFF5>  Ya veo",
+  "shortened": true
+ },
+ "talk_kosiki_00207": {
+  "t": " No necesitas esto",
+  "shortened": false
+ },
+ "talk_kosiki_00208": {
+  "t": "<FFF5>   Hablas asi tras lanzar tales<FF03>amenazas. Eres un ser irritante!<FFF5>   Ja. Estas tan confiado.?<FFF5> Ja, no te falta confianza!<FFF5>Asi es! Debes afinar tu<FF03>devocion a diario!<FFF5>Jaja",
+  "shortened": false
+ },
+ "talk_kosiki_00209": {
+  "t": " El ser real se revela<FF03>a su tiempo!<FFF5>   Hmph",
+  "shortened": true
+ },
+ "talk_kosiki_00210": {
+  "t": " Los verdaderos colores se revelan<FF03>a su debido tiempo!<FFF5>  Tu bondad me ha tomado por sorpresa!<FFF5> Bellaco engreido. El castigo divino<FF03>te fulminara.<FFF5>   Bellaco engreido. El castigo divino<FF03>te derribara",
+  "shortened": false
+ },
+ "talk_kosiki_00212": {
+  "t": " Es esta tu verdadera intencion.?<FFF5>   Eso te hace algo adorable!<FFF5>  Eso es muy desconcertante",
+  "shortened": false
+ },
+ "talk_kosiki_00213": {
+  "t": " Mas te lo<FF03>dire! Busco regalos!<FFF1><FFF5> Entonces todo esta bien!<FFF5>  Entonces esto no se zanjara sin<FF03>un debido regalo!<FFF1><FFF5> Confio en ti como en una serpiente<FF03>dormida.<FFF5>Jamas vi un villano tan<FF03>honesto",
+  "shortened": false
+ },
+ "talk_kosiki_00214": {
+  "t": "<FFF5>Jamas vi un villano tan<FF03>honesto! Eres uno interesante.<FFF5> Mas sospechoso aun",
+  "shortened": false
+ },
+ "talk_kosiki_00215": {
+  "t": " No te falta<FF03>confianza",
+  "shortened": false
+ },
+ "talk_kosiki_00216": {
+  "t": "<FFF5>  Jaja, mi espiritu se eleva.<FFF5>   Ja. Como hablas tan descaradamente<FF03>si esa era tu verdadera intencion.<FFF5>  Este",
+  "shortened": true
+ },
+ "talk_kosiki_00217": {
+  "t": " No eres humano",
+  "shortened": false
+ },
+ "talk_kosiki_00218": {
+  "t": "<FFF5>   Oh, es esa la verdad.?<FF03>La adaptacion puede ser terrible!<FFF5>  Hmph. A diferencia de ti, no me he<FF03>acostumbrado.<FFF5>  Por que paraste. Suena tus<FF03>melodias vocales otra vez, por mi!<FFF5>Si comiese tu lengua, quiza yo tambien,<FF03>cantaria como el ruisenor",
+  "shortened": false
+ },
+ "talk_kosiki_00219": {
+  "t": "<FFF5>  Jaja, ojala cantase como tu<FF03>lo haces",
+  "shortened": true
+ },
+ "talk_kosiki_00221": {
+  "t": " Es esta tu verdadera intencion.?<FFF5>   Eso te hace algo adorable!<FFF5>  Eso es muy desconcertante",
+  "shortened": false
+ },
+ "talk_kosiki_00222": {
+  "t": " Mas te lo<FF03>dire! Busco regalos!<FFF1><FFF5> Entonces todo esta bien!<FFF5>  Entonces esto no se zanjara sin<FF03>un debido regalo!<FFF1><FFF5> Confio en ti como en una serpiente<FF03>dormida.<FFF5>Entendido.<FFF5>Oh, es esa la verdad. ",
+  "shortened": false
+ },
+ "talk_kosiki_00223": {
+  "t": "Vil<FF03>humano.<FFF5>  Ya veo",
+  "shortened": true
+ },
+ "talk_kosiki_00224": {
+  "t": " No necesitas esto",
+  "shortened": false
+ },
+ "talk_kosiki_00225": {
+  "t": "<FFF5>   Jaja. Parece que me han tomado por<FF03>la tonta bufona sobre un escenario!<FFF5>  Hmph. Parece que me han tomado por<FF03>la tonta bufona sobre un escenario.<FFF5>  Eres una mujer de gran<FF03>fuerza.<FFF5>  No es verdad",
+  "shortened": false
+ },
+ "talk_kosiki_00226": {
+  "t": "<FFF5>   No conoces las puas del sarcasmo!<FF03>Es la ignorancia tan dichosa, humano.?<FFF5>  No sabes nada de las espinas<FF03>del sarcasmo.?<FFF5>  Jaja, los hombres comunes no comprenden!<FFF5>  Los hombres comunes no comprenden.<FFF5>O, que fuese yo solo una sin nombre<FF03>flor como tu",
+  "shortened": false
+ },
+ "talk_kosiki_00228": {
+  "t": " Es esta tu verdadera intencion.?<FFF5>   Eso te hace algo adorable!<FFF5>  Conoces la frase, <0028>cuanto<FF03>menos se diga, mejor<0028>.?<FFF5>  Entonces todo esta bien!<FFF5>  Entonces esto no se zanjara sin<FF03>un debido regalo!<FFF1><FFF5> Confio en ti como en una serpiente<FF03>dormida.<FFF5>Entendido.<FFF5>Oh, es esa la verdad. ",
+  "shortened": false
+ },
+ "talk_kosiki_00229": {
+  "t": "Vil<FF03>humano.<FFF5>  Ya veo",
+  "shortened": true
+ },
+ "talk_kosiki_00230": {
+  "t": " No necesitas esto",
+  "shortened": false
+ },
+ "talk_kosiki_00231": {
+  "t": "<FFF5>   Ah, tu broma es espantosa!<FFF5> Eres listo en verdad.<FFF5>Me equivoque. No eres mas que un bufon.<FFF5> Jaja, los hombres comunes no comprenden!<FFF5>  Los hombres comunes no comprenden.<FFF5>O, que fuese yo solo una sin nombre<FF03>flor como tu",
+  "shortened": false
+ },
+ "talk_kosiki_00232": {
+  "t": "<FFF5>Solo por te",
+  "shortened": false
+ },
+ "talk_kosiki_00233": {
+  "t": "<FFF5>   Osas humillarme.? Insolente<FF03>granuja.<FFF5>  Tu corazon esta impregnado de cobarde crueldad<FF03>al avergonzarme asi",
+  "shortened": false
+ },
+ "talk_kosiki_00234": {
+  "t": "<FFF5>   Todo tiene un orden! No se debe<FF03>ser negligente!<FFF5>A veces el uso de la fuerza adecuada es<FF03>deseable!<FFF5>  No me creas una mujer vulgar",
+  "shortened": false
+ },
+ "talk_kosiki_00235": {
+  "t": "<FFF5>  Daria mi reino por poder ver tu<FF03>corazon",
+  "shortened": false
+ },
+ "talk_kosiki_00236": {
+  "t": "<FFF5> Tienes razon. Poco se<FF03>gana con cavilar.<FFF5>   Querrias que te dijera que<FF03>esto es fatalmente aburrido.?<FFF5>Jaja, querrias que te dijera<FF03>que esto es fatalmente aburrido.?<FFF5>   Esta vez, es comico.<FFF5>   No",
+  "shortened": false
+ },
+ "talk_kosiki_00237": {
+  "t": " La sospecha pende sobre ti como<FF03>un peso de plomo",
+  "shortened": false
+ },
+ "talk_kosiki_00238": {
+  "t": "<FFF5>  He confiado en ti hasta<FF03>ahora, mas",
+  "shortened": true
+ },
+ "talk_kosiki_00239": {
+  "t": " Sea pues!<FFF5>  Asi que en verdad eres un espia.<FFF5>  Jaja, calma tu genio<0007> es solo una<FF03>broma!<FFF5> Jaja, te falta conocimiento!<FFF5> Creo que el espacio entre tus orejas esta<FF03>vacio! No trato con los ignorantes.<FFF5>   Deberias ser mas cauto!<FFF5>  ",
+  "shortened": false
+ },
+ "talk_kosiki_00240": {
+  "t": "Tenia un asunto que atender",
+  "shortened": false
+ },
+ "talk_kosiki_00241": {
+  "t": " Mas<FF03>cual era.?<FFF5> Ahora que lo pienso, estabamos en<FF03>medio de un duelo.<FFF5>Que cobarde sin remedio!<FFF5>Que idioma hablas.? Un<FF03>mocoso revoltoso, eres!<FFF5>Que idioma hablas. Me suena<FF03>a chino!<FFF5>Que vulgar",
+  "shortened": false
+ },
+ "talk_kosiki_00242": {
+  "t": "<FFF5>  Vaya, que vergonzoso",
+  "shortened": false
+ },
+ "talk_kosiki_00243": {
+  "t": "<FFF5> Hmph. Osarias hacer un villano<FF03>de mi.? El ultraje.<FFF5>Por favor, dime.<FFF5>   Me molesta",
+  "shortened": false
+ },
+ "talk_kosiki_00244": {
+  "t": " Por favor, dime.<FFF5>   Aunque me lo relatases a<FF03>mi",
+  "shortened": false
+ },
+ "talk_kosiki_00245": {
+  "t": "<FFF5>Jaja, no logro comprenderlo.<FFF5>No tienes derecho a llamarme grosera!<FFF5>   Si soy grosera, tu eres un bufon!<FF03>Sea pues, una baratija de ti, bufon!<FFF1><FFF5>  ",
+  "shortened": true
+ },
+ "talk_kosiki_00246": {
+  "t": "Que alivio!<FFF5>Qu-Que",
+  "shortened": true
+ },
+ "talk_kosiki_00247": {
+  "t": "<FFF5>Que pasa.? No malgastare tiempo en<FF03>tontos y patanes.<FFF5>  Eres mi gallina de oro.<FFF5>  Eres mi gallina de oro! Asi que",
+  "shortened": false
+ },
+ "talk_kosiki_00248": {
+  "t": "<FFF1><FFF5>   Hmm, me cuesta admitirlo, mas eres<FF03>de buen temple! Podria contar con<FF03>tigo!<FFF5>  Tienes 100 anos de menos para<FF03>reprenderme.<FFF5>  Ni un alma en los ultimos 100 anos ha<FF03>osado reprenderme",
+  "shortened": false
+ },
+ "talk_kosiki_00250": {
+  "t": " Te agradezco!<FFF5>   Hmph. Es natural que los humanos<FF03>deseen mi corazon.<FFF5> Pues claro!<FFF5> Eso fue sarcasmo, zopenco.<FFF5>Eso te hace algo adorable!<FFF5>  Conoces la frase, <0028>cuanto<FF03>menos se diga, mejor<0028>.?<FFF5>  Entonces todo esta bien!<FFF5>  Confio en ti como en una serpiente<FF03>dormida.<FFF5>Entendido.<FFF5>Oh, es esa la verdad. ",
+  "shortened": false
+ },
+ "talk_kosiki_00251": {
+  "t": "Vil<FF03>humano.<FFF5>  Ya veo",
+  "shortened": true
+ },
+ "talk_kosiki_00252": {
+  "t": " No necesitas esto",
+  "shortened": false
+ },
+ "talk_kosiki_00253": {
+  "t": "<FFF5>   Hablas asi tras lanzar tales<FF03>amenazas. Eres un ser irritante!<FFF5>  Ja. Estas tan confiado.?<FFF5> Ja, no te falta confianza!<FFF5>Asi es! Debes afinar tu<FF03>devocion a diario!<FFF5>Jaja",
+  "shortened": false
+ },
+ "talk_kosiki_00254": {
+  "t": " El ser real se revela<FF03>a su tiempo!<FFF5>   Hmph",
+  "shortened": true
+ },
+ "talk_kosiki_00255": {
+  "t": " Los verdaderos colores se revelan<FF03>a su debido tiempo!<FFF5>  Tu bondad me ha tomado por sorpresa!<FFF5> Bellaco engreido. El castigo divino<FF03>te fulminara.<FFF5>   Bellaco engreido. El castigo divino<FF03>te derribara",
+  "shortened": false
+ },
+ "talk_kosiki_00256": {
+  "t": "<FFF5>   Eres un nino engreido mas honesto!<FFF5> Deberias tener cautela.<FFF5>   ",
+  "shortened": false
+ },
+ "talk_kosiki_00257": {
+  "t": "Oh. Tras una segunda mirada, te hallo<FF03>muy gallardo!<FFF5> Hmph. Casi me dan ganas de arrancar tu<FF03>lengua.<FFF5>Tus halagos son huecos. Has<FF03>caido en tu propia trampa.<FFF5>Tus halagos son huecos! Eres<FF03>victima de tus propias trampas, asi que<FF03>tomare algo como tu castigo!<FFF1><FFF5>   Necio. De quien hablas.?<FFF5>   Jaja, es solo natural cuando uno tiene<FF03>habilidades como las mias!<FFF5> Osas decir que no estoy a la altura.?<FF03>No tienes ojo para juzgar.<FFF5>   No, es muy posible! Podre parecer<FF03>fragil, mas soy capaz<FF03>en labores fisicas cuando se requiere!<FFF5>  Jaja, era broma. Eso es una danza,<FF03>cierto.?<FFF5>  Eso pense, mas era tan<FF03>patetico.<FFF5> Tienes un cuerpo capaz de grandes proezas<FF03>de fuerza! No dire mas al<FF03>respecto",
+  "shortened": false
+ },
+ "talk_kosiki_00258": {
+  "t": "<FFF5>Por que paras. Te lo ruego,<FF03>continua tu danza.<FFF5>   Por que paras.? Hmph. Eres un<FF03>humano sadico.<FFF5>  Hablas asi tras lanzar tales<FF03>amenazas. Eres un ser irritante!<FFF5>  Ja. Estas tan confiado.?<FFF5> Ja, no te falta confianza!<FFF5>Asi es! Debes afinar tu<FF03>devocion a diario!<FFF5>Jaja",
+  "shortened": false
+ },
+ "talk_kosiki_00259": {
+  "t": " El ser real se revela<FF03>a su tiempo!<FFF5>   Hmph",
+  "shortened": true
+ },
+ "talk_kosiki_00260": {
+  "t": " Los verdaderos colores se revelan<FF03>a su debido tiempo!<FFF5>  Tu bondad me ha tomado por sorpresa!<FFF5> Bellaco engreido. El castigo divino<FF03>te fulminara.<FFF5>   Bellaco engreido! El castigo divino<FF03>te derribara",
+  "shortened": false
+ },
+ "talk_kosiki_00261": {
+  "t": "<FFF5>   Dices sandeces. Si un hoyo<FF03>marcara mi rostro, mi belleza se ajaria.<FFF5>  Confio en ti como en una serpiente<FF03>dormida!<FFF5>Jaja, jugaba contigo! Ningun mal<FF03>quise",
+  "shortened": false
+ },
+ "talk_kosiki_00262": {
+  "t": "<FFF5> Jaja, vagas en la oscuridad<FF03>en busca de amor.?<FFF5>  Solo dije lo que era justo",
+  "shortened": false
+ },
+ "talk_kosiki_00263": {
+  "t": "<FFF5>  No eres mas que un maleducado.<FF03>Te ensenare modales.<FFF5>Aun eres un joven! Por favor,<FF03>perdona mi descuido!<FFF5>  Eres un nino que ni siquiera puede lanzar<FF03>un debido reto. Que risible.<FFF5>  Jaja",
+  "shortened": false
+ },
+ "talk_kosiki_00264": {
+  "t": " Parece que te sientes<FF03>incomodo lanzando un reto!<FFF5>   Hmph",
+  "shortened": false
+ },
+ "talk_kosiki_00265": {
+  "t": " Es esta tu verdadera intencion.?<FFF5>   Eso te hace algo adorable!<FFF5>  Conoces la frase, <0028>cuanto<FF03>menos se diga, mejor<0028>.?<FFF5>  Entonces todo esta bien!<FFF5>  Entonces esto no se zanjara sin<FF03>un debido regalo!<FFF1><FFF5> Confio en ti como en una serpiente<FF03>dormida.<FFF5>Entendido.<FFF5>Oh, es esa la verdad. ",
+  "shortened": false
+ },
+ "talk_kosiki_00266": {
+  "t": "Vil<FF03>humano.<FFF5>  Ya veo",
+  "shortened": true
+ },
+ "talk_kosiki_00267": {
+  "t": " No necesitas esto",
+  "shortened": false
+ },
+ "talk_kosiki_00268": {
+  "t": "<FFF5>   Jamas he conocido ser mas insolente<FF03>que tu",
+  "shortened": false
+ },
+ "talk_kosiki_00269": {
+  "t": "<FFF5>Jamas he conocido ser mas insolente<FF03>que tu.<FFF5>  Eso crees. Tienes<FF03>distincion digna de que tome<FF03>algo de ti!<FFF1><FFF5> Puedo protegerme.<FFF5>  Jaja, si tu me proteges, mi<FF03>querida hermana, nada hemos de temer!<FFF5> N-No me dejes atras",
+  "shortened": false
+ },
+ "talk_kosiki_00270": {
+  "t": "<FFF5>Es esa tu real intencion. Estas<FF03>calmado solo porque no conoces<FF03>el terror de los cuentos de fantasmas",
+  "shortened": true
+ },
+ "talk_kosiki_00271": {
+  "t": "<FFF5>Que mujer tan osada eres. Me gustas<FF03>tu!<FFF5>  Dudas. Las mujeres deben ser audaces.<FFF5> O, no conoces tu propia fuerza.?<FF03>Entonces no tengo mas palabras para ti.<FFF5> Jaja, osarias enfrentarme.?<FF03>Es como el raton ante la leona",
+  "shortened": false
+ },
+ "talk_kosiki_00272": {
+  "t": "<FFF5>   Jaja, eso es por tu propio bien!<FFF5>  Mmm",
+  "shortened": false
+ },
+ "talk_kosiki_00273": {
+  "t": " No te falta<FF03>confianza",
+  "shortened": false
+ },
+ "talk_kosiki_00274": {
+  "t": "<FFF5>  Jaja, mi espiritu se eleva.<FFF5>   Ja. Como puedes hablar tan descaradamente<FF03>si esa era tu verdadera intencion.<FFF5>  Por que paraste. Suena tus<FF03>melodias vocales otra vez, por mi!<FFF5>Si comiese tu lengua, quiza yo tambien,<FF03>cantaria como el ruisenor.<FFF5>Jaja, o que pudiese cantar como tu<FF03>lo haces",
+  "shortened": false
+ },
+ "talk_kosiki_00275": {
+  "t": "Eso fue sarcasmo, no es asi.?<FFF5>  Escupes un sarcasmo muy<FF03>venenoso. Eres un humano insolente.<FFF5>   ",
+  "shortened": false
+ },
+ "talk_kosiki_00276": {
+  "t": "Por que ries. No lo<FF03>comprendo",
+  "shortened": false
+ },
+ "talk_kosiki_00277": {
+  "t": "<FFF5> Los ninos de hoy nada saben de<FF03>modales.<FFF5>M-Muy bien",
+  "shortened": false
+ },
+ "talk_kosiki_00278": {
+  "t": " Perdon! Por favor no hables<FF03>mal de mi",
+  "shortened": true
+ },
+ "talk_kosiki_00279": {
+  "t": "<FFF5>   Asi que la raza humana tiene quienes dan<FF03>risa tambien!<FFF5>  Que aburrido!<FFF5>Hmph",
+  "shortened": true
+ },
+ "talk_kosiki_00280": {
+  "t": " Es esta tu verdadera intencion.?<FFF5>   Eso te hace algo adorable!<FFF5>  Eso es muy desconcertante",
+  "shortened": false
+ },
+ "talk_kosiki_00281": {
+  "t": " Mas te lo<FF03>dire! Busco regalos!<FFF1><FFF5> Entonces todo esta bien!<FFF5>  Entonces esto no se zanjara sin<FF03>un debido regalo!<FFF1><FFF5> Confio en ti como en una serpiente<FF03>dormida.<FFF5>Entendido.<FFF5>Oh, es esa la verdad. ",
+  "shortened": false
+ },
+ "talk_kosiki_00282": {
+  "t": "Vil<FF03>humano.<FFF5>  Ya veo",
+  "shortened": true
+ },
+ "talk_kosiki_00283": {
+  "t": " No necesitas esto",
+  "shortened": false
+ },
+ "talk_kosiki_00284": {
+  "t": "<FFF5>   Eres un nino engreido mas honesto!<FFF5> Deberias tener cautela.<FFF5>   Los ninos de hoy nada saben de<FF03>modales.<FFF5>M-Muy bien",
+  "shortened": false
+ },
+ "talk_kosiki_00285": {
+  "t": " Perdon! Por favor no hables<FF03>mal de mi",
+  "shortened": true
+ },
+ "talk_kosiki_00287": {
+  "t": "<FFF5>  Hallarme consolada por un<FF03>ingrato como este",
+  "shortened": false
+ },
+ "talk_kosiki_00288": {
+  "t": "<FFF5>   Solo por te.<FFF5>  Crees demasiado vergonzoso<FF03>tomar te conmigo.? Que egoista<FF03>eres.<FFF5>  Te opones a tomar te conmigo.?<FF03>No logro entender por que",
+  "shortened": false
+ },
+ "talk_kosiki_00289": {
+  "t": "<FFF5> Todo tiene un orden! No se debe<FF03>ser negligente!<FFF5>Eres un nino mimado.<FFF5>   No me creas una mujer vulgar",
+  "shortened": false
+ },
+ "talk_kosiki_00290": {
+  "t": "<FFF5>  Daria mi reino por poder ver tu<FF03>corazon",
+  "shortened": false
+ },
+ "talk_kosiki_00291": {
+  "t": "<FFF5> Tienes razon. Poco se<FF03>gana con cavilar.<FFF5>   Si, ese es el animo!<FFF5>   ",
+  "shortened": false
+ },
+ "talk_kosiki_00292": {
+  "t": "Suxorz. Tu idioma es aspero e<FF03>incomprensible. Deja de usarlo.<FFF5>   El mundo es un lugar de crueldad",
+  "shortened": false
+ },
+ "talk_kosiki_00293": {
+  "t": "<FFF5> Jaja, tienes madera de<FF03>demonio!<FFF5>  Era actuado. No apruebo el<FF03>uso de lagrimas como armas.<FFF5>Asi que tus lagrimas eran ciertas",
+  "shortened": true
+ },
+ "talk_kosiki_00295": {
+  "t": "<FFF5>   Que fastidioso",
+  "shortened": true
+ },
+ "talk_kosiki_00296": {
+  "t": "<FFF5>Vamos, calma tus lagrimas!<FFF5>Hablas asi tras lanzar tales<FF03>amenazas. Eres un ser irritante!<FFF5>  Ja. Estas tan confiado.?<FFF5> Ja, no te falta confianza!<FFF5>Asi es! Debes afinar tu<FF03>devocion a diario!<FFF5>Jaja",
+  "shortened": false
+ },
+ "talk_kosiki_00297": {
+  "t": " El ser real se revela<FF03>a su tiempo!<FFF5>   Hmph",
+  "shortened": true
+ },
+ "talk_kosiki_00298": {
+  "t": " Los verdaderos colores se revelan<FF03>a su debido tiempo!<FFF5>  Tu bondad me ha tomado por sorpresa!<FFF5> Bellaco engreido. El castigo divino<FF03>te fulminara.<FFF5>   Bellaco engreido. El castigo divino<FF03>te derribara",
+  "shortened": false
+ },
+ "talk_kosiki_00299": {
+  "t": "<FFF5>   Los ninos de hoy nada saben de<FF03>modales.<FFF5>M-Muy bien",
+  "shortened": false
+ },
+ "talk_kosiki_00300": {
+  "t": " Perdon! Por favor no hables<FF03>mal de mi",
+  "shortened": true
+ },
+ "talk_kosiki_00301": {
+  "t": "<FFF5>   El ojo de tu mente se ha torcido<FF03>sin remedio",
+  "shortened": true
+ },
+ "talk_kosiki_00302": {
+  "t": "<FFF5> Eres un demonio",
+  "shortened": false
+ },
+ "talk_kosiki_00303": {
+  "t": "<FFF5>Eres un demonio.<FFF5>  Soportare.<FFF5>Seria muy cruel parar ahora.<FFF5>  Es muy cruel",
+  "shortened": false
+ },
+ "talk_kosiki_00305": {
+  "t": "<FFF5>  Fue sarcasmo, zopenco.<FFF5>   Eso te hace algo adorable!<FFF5>  Conoces la frase, <0028>cuanto<FF03>menos se diga, mejor<0028>.?<FFF5>  Entonces todo esta bien!<FFF5>  Confio en ti como en una serpiente<FF03>dormida.<FFF5>Entendido.<FFF5>Oh, es esa la verdad. ",
+  "shortened": false
+ },
+ "talk_kosiki_00306": {
+  "t": "Vil<FF03>humano.<FFF5>  Ya veo",
+  "shortened": true
+ },
+ "talk_kosiki_00307": {
+  "t": " No necesitas esto",
+  "shortened": false
+ },
+ "talk_kosiki_00308": {
+  "t": "<FFF5>   Los ninos de hoy nada saben de<FF03>modales.<FFF5>M-Muy bien",
+  "shortened": false
+ },
+ "talk_kosiki_00309": {
+  "t": " Perdon! Por favor no hables<FF03>mal de mi",
+  "shortened": true
+ },
+ "talk_kosiki_00310": {
+  "t": "<FFF5>   El ojo de tu mente se ha torcido<FF03>sin remedio",
+  "shortened": true
+ },
+ "talk_kosiki_00311": {
+  "t": "<FFF5> Eres un demonio",
+  "shortened": false
+ },
+ "talk_kosiki_00312": {
+  "t": "<FFF5>Eres un demonio.<FFF5>  Soportare.<FFF5>Seria muy cruel parar ahora.<FFF5>  Es muy cruel",
+  "shortened": false
+ },
+ "talk_kosiki_00314": {
+  "t": "<FFF5>  Preguntame por que no me enojo.<FFF5> Eres un cobarde.<FFF5> Jaja, eres un timido!<FFF5>  Comprendo.<FFF5>  Que clase de comentario es ese, nina<FF03>fastidiosa.?<FFF5> Todo esta bien.<FFF5>   Un sabio viajero observa el<FF03>cielo, mientras un necio viajero halla<FF03>una calamidad en las tormentas!<FFF5>  ",
+  "shortened": false
+ },
+ "talk_kosiki_00315": {
+  "t": "Te sientes bien.?<FFF5>No conoces un debido saludo.<FFF5>Preguntame por que no me enojo.<FFF5> Eres un cobarde.<FFF5> Jaja, eres un timido!<FFF5>  Comprendo.<FFF5>  Que clase de comentario es ese, humano<FF03>fastidioso.?<FFF5>Todo esta bien.<FFF5>   Que clase de comentario es ese, humano<FF03>fastidioso.?<FFF5>",
+  "shortened": false
+ },
+ "talk_kosiki_00316": {
+  "t": "Te sientes bien.?<FFF5>No conoces un debido saludo.<FFF5>Hablas asi tras lanzar tales<FF03>amenazas. Eres un ser irritante!<FFF5>  Ja. Estas tan confiado.?<FFF5> Ja, no te falta confianza!<FFF5>Asi es! Debes afinar tu<FF03>devocion a diario!<FFF5>Jaja",
+  "shortened": false
+ },
+ "talk_kosiki_00317": {
+  "t": " El ser real se revela<FF03>a su tiempo!<FFF5>   Hmph",
+  "shortened": true
+ },
+ "talk_kosiki_00318": {
+  "t": " Los verdaderos colores se revelan<FF03>a su debido tiempo!<FFF5>  Tu bondad me ha tomado por sorpresa!<FFF5> Bellaco engreido. El castigo divino<FF03>te fulminara.<FFF5>   Bellaco engreido. El castigo divino<FF03>te derribara",
+  "shortened": false
+ },
+ "talk_kosiki_00319": {
+  "t": "<FFF5>   Ja, no lo comprendo.<FFF5>   Entonces baja la voz.<FFF5>  Pues yo tampoco!<FFF5> ",
+  "shortened": false
+ },
+ "talk_kosiki_00320": {
+  "t": "Que alivio!<FFF5>Qu-Que",
+  "shortened": true
+ },
+ "talk_kosiki_00321": {
+  "t": "<FFF5>Que pasa.? No pierdo tiempo en<FF03>tontos y patanes.<FFF5>  As-Asi que era",
+  "shortened": true
+ },
+ "talk_kosiki_00322": {
+  "t": " algo diferente",
+  "shortened": false
+ },
+ "talk_kosiki_00323": {
+  "t": "<FFF5>   Fue diferente esta vez! Deseo<FF03>que pongas mayor empeno en ello!<FFF5>Estas envuelto en misterio",
+  "shortened": false
+ },
+ "talk_kosiki_00324": {
+  "t": "<FFF5>Que lastima",
+  "shortened": true
+ },
+ "talk_kosiki_00325": {
+  "t": " Practica y vuelve<FF03>aqui otra vez!<FFF5>Rapido. Date prisa y muestrame.<FFF5>Si desaparezco",
+  "shortened": false
+ },
+ "talk_kosiki_00326": {
+  "t": " que sera de<FF03>mi. Cual sera mi destino.?<FFF5> Si desaparezco",
+  "shortened": false
+ },
+ "talk_kosiki_00327": {
+  "t": " que sera de<FF03>mi.?<FFF5> Ah, asi es! No temas<0007> no<FF03>te creo sospechoso!<FFF5> Tenia razon.<FFF5> Oh",
+  "shortened": false
+ },
+ "talk_kosiki_00328": {
+  "t": " Que gracioso.<FFF5>   Es broma, no es asi",
+  "shortened": true
+ },
+ "talk_kosiki_00329": {
+  "t": "<FFF5> Jaja, no sere enganada",
+  "shortened": false
+ },
+ "talk_kosiki_00331": {
+  "t": " Ver la luna en una noche con<FF03>luna alguna! Que buen gusto<FF03>tienes!<FFF5>   Jaja, bien!<FFF5> Ninos en estos tiempos.<FFF5>   Hm. Que dices.? No oigo nada.<FFF5> Hm. Estoy en el camino",
+  "shortened": false
+ },
+ "talk_kosiki_00332": {
+  "t": " Dices que<FF03>yo, <FFF3> estoy en el camino",
+  "shortened": false
+ },
+ "talk_kosiki_00333": {
+  "t": "<FFF5>Un nino razonable!<FFF5>Digo que es mi territorio, y por ello, es<FF03>mio.<FFF5>  Esto es",
+  "shortened": true
+ },
+ "talk_kosiki_00335": {
+  "t": " Tu pregunta es dificil",
+  "shortened": false
+ },
+ "talk_kosiki_00336": {
+  "t": "<FF03>Quiza deberia reconsiderar",
+  "shortened": false
+ },
+ "talk_kosiki_00337": {
+  "t": "<FFF5> Tu temple es tu unico rasgo a<FF03>enorgullecer!<FFF5>  Mmm",
+  "shortened": false
+ },
+ "talk_kosiki_00338": {
+  "t": " Entonces cuida tu corazon!<FFF5>Que",
+  "shortened": false
+ },
+ "talk_kosiki_00339": {
+  "t": " Si estas vomitando, por favor",
+  "shortened": false
+ },
+ "talk_kosiki_00340": {
+  "t": "<FF03>Apartate de mi vista",
+  "shortened": false
+ },
+ "talk_kosiki_00341": {
+  "t": "<FFF5> La pregunta ha cambiado!<FFF5> Oh, es esa la verdad. Entonces<FF03>cumplire mi deber y te matare<FF03>antes de volver a casa.<FFF5>Qu-Que",
+  "shortened": false
+ },
+ "talk_kosiki_00342": {
+  "t": "<FFF5>No te hare dano alguno",
+  "shortened": false
+ },
+ "talk_kosiki_00343": {
+  "t": " De ningun modo<FF03>has de equivocarte",
+  "shortened": false
+ },
+ "talk_kosiki_00344": {
+  "t": "<FFF5>No me ire solo porque tu<FF03>lo ordenes.<FFF5>   Entonces bien! Me ire bastante<FF03>pronto",
+  "shortened": false
+ },
+ "talk_kosiki_00346": {
+  "t": "<FFF5>   Jaja, era en broma!<FFF5> Ya veo",
+  "shortened": false
+ },
+ "talk_kosiki_00347": {
+  "t": "<FFF5>   Hmph. Se que tu deseo es hacer<FF03>me tu Persona.<FFF5>   Bueno",
+  "shortened": false
+ },
+ "talk_kosiki_00348": {
+  "t": " Es imposible!<FFF5>   ",
+  "shortened": false
+ },
+ "talk_kosiki_00349": {
+  "t": "Disculpa, ya estoy bien",
+  "shortened": false
+ },
+ "talk_kosiki_00350": {
+  "t": "<FFF5> E-Eeeeek.<FFF5>  Jajajajaja",
+  "shortened": false
+ },
+ "talk_kosiki_00351": {
+  "t": "<FFF5>  Si comprendes, vete.<FFF5> Jaja",
+  "shortened": false
+ },
+ "talk_kosiki_00352": {
+  "t": " Tienes un diccionario a la<FF03>mano. Quiza deberias abrirlo!<FFF5>   Usa un diccionario si has de saber.<FFF5>Que alegre.<FFF5> Soy una necia por haber creido.<FFF5>  Que sonido tan terrible mas dulce.<FFF5>  Por que ha de guardarse en secreto",
+  "shortened": false
+ },
+ "talk_kosiki_00353": {
+  "t": "<FFF5>Por que ha de ser secreto",
+  "shortened": true
+ },
+ "talk_kosiki_00354": {
+  "t": "<FF03>Te ordeno decirmelo!<FFF5>Por que ha de ser secreto",
+  "shortened": true
+ },
+ "talk_kosiki_00356": {
+  "t": "<FFF5>  No tanto",
+  "shortened": true
+ },
+ "talk_kosiki_00357": {
+  "t": "<FFF5>  Ha sido duro",
+  "shortened": false
+ },
+ "talk_kosiki_00358": {
+  "t": "<FFF5>  Si!<FFF5>   Si!<FFF5>   No!<FFF5>Exacto!<FFF5>   No lo quiero!<FFF5>   No lo quiero!<FFF5>   No hare nada!<FFF5>   Te dare un infierno!<FFF5>Te dare un infierno!<FFF5>Tienes razon!<FFF5>  Yo tambien se hacerlo!<FFF5> Yo tambien se hacerlo!<FFF5> Consolar<FFF5>Burlarse mas<FFF5> Burlarse mas<FFF5> No, en verdad",
+  "shortened": true
+ },
+ "talk_kosiki_00359": {
+  "t": "<FFF5> No, en verdad",
+  "shortened": false
+ },
+ "talk_kosiki_00360": {
+  "t": "<FFF5> No tengo razon!<FFF5>  Si!<FFF5>   Si!<FFF5>   No!<FFF5>Asi es!<FFF5>  Asi es!<FFF5>  No me digas.<FFF5> Te reto!<FFF5>   Te reto!<FFF5>   No quise decir eso!<FFF5>Que tiene de malo.?<FFF5>  Ya me acostumbre!<FFF5>Ya me acostumbre!<FFF5>Parar<FFF5>   Cantar mas<FFF5>  Cantar mas<FFF5>  No es verdad!<FFF5>   No es verdad!<FFF5>   Que es razon.?<FFF5> Si.<FFF5>  Si.<FFF5>  No es eso.<FFF5> Asi es.<FFF5>  No lo necesito!<FFF5>   No lo necesito!<FFF5>   Mmm",
+  "shortened": false
+ },
+ "talk_kosiki_00361": {
+  "t": "<FFF5>  Si, asi es.<FFF5>No es verdad.<FFF5>   Je je je",
+  "shortened": false
+ },
+ "talk_kosiki_00362": {
+  "t": "<FFF5> Je je je",
+  "shortened": false
+ },
+ "talk_kosiki_00363": {
+  "t": "<FFF5> Que dices.?<FFF5>   Que dices.?<FFF5>   Tienes razon!<FFF5>  No es verdad!<FFF5>   No es verdad!<FFF5>   He sufrido.<FFF5> Si.<FFF5>  Si.<FFF5>  No.<FFF5>Asi es.<FFF5>  No lo necesito!<FFF5>   No lo necesito!<FFF5>   Que viste.?<FFF5>   Je je je",
+  "shortened": false
+ },
+ "talk_kosiki_00364": {
+  "t": "<FFF5> Je je je",
+  "shortened": false
+ },
+ "talk_kosiki_00365": {
+  "t": "<FFF5> Que dices.?<FFF5>   Que dices.?<FFF5>   Si, eh!<FFF5> Okay.<FFF5>  Pensandolo bien",
+  "shortened": false
+ },
+ "talk_kosiki_00366": {
+  "t": "<FFF5>   Pensandolo bien",
+  "shortened": false
+ },
+ "talk_kosiki_00368": {
+  "t": "<FFF5>   Asi soy yo.<FFF5> Di, <0028>OK, men.<0028><FFF5>   No hay problema.<FFF5>No hay problema.<FFF5>Es un chiste moderno!<FFF5>Es un chiste moderno!<FFF5>Hyahahaha.<FFF5> No soy sospechoso.<FFF5>No soy sospechoso.<FFF5>Wahahaha.<FFF5>  Deja de fastidiar.<FFF5>   Wahahaha.<FFF5>  Wahahaha.<FFF5>  Claro que si!<FFF5>Ni de chiste!<FFF5>  Ni de chiste!<FFF5>  Me alegra!<FFF5>Ni de chiste!<FFF5>  Ni de chiste!<FFF5>  Que lindo!<FFF5>   Que lindo!<FFF5>   Que tonto!<FFF5> Olvidalo!<FFF5>Olvidalo!<FFF5>Sorpresa.<FFF5>  Soy tonto.<FFF5>Que grosero.<FFF5>   Que grosero!<FFF5>   Okay!<FFF5>  Hyahahaha.<FFF5> Hyahahaha.<FFF5> Muy bien!<FFF5> Muy bien!<FFF5> Me niego!<FFF5>  Que indulgente.<FFF5> Que indulgente.<FFF5> Tomalo despues!<FFF5> Deja de bromear.<FFF5>   Feliz ahora.?<FFF5> Lo se",
+  "shortened": false
+ },
+ "talk_kosiki_00370": {
+  "t": "<FFF5>  Soy aplicado!<FFF5>   Tienes razon!<FFF5>  Te equivocas!<FFF5>  Tienes razon!<FFF5>  No lo necesito!<FFF5>   No lo necesito!<FFF5>   No lo se!<FFF5>  Te tratare bien!<FFF5>   Te tratare bien!<FFF5>   Tienes razon!<FFF5>  Quieres probar.?<FFF5>   Quieres probar.?<FFF5>   No te preocupes!<FFF5>   Que quieres decir.?<FFF5> Que quieres decir.?<FFF5> Tienes razon!<FFF5>  Es asunto mio.<FFF5>  Muy bien!<FFF5> Me niego!<FFF5>  Jmjm",
+  "shortened": false
+ },
+ "talk_kosiki_00372": {
+  "t": "<FFF5>Eres un necio!<FFF5>Ya te adaptaras!<FFF5>Imposible!<FFF5> Imposible!<FFF5> Bueno, gracias",
+  "shortened": true
+ },
+ "talk_kosiki_00373": {
+  "t": "<FFF5>Es una danza.<FFF5>  Sigue bailando<FFF5>   Parar<FFF5>   Parar<FFF5>   La apreciare!<FFF5>   Te ganare!<FFF5> Te ganare!<FFF5> Pues, si!<FFF5>Soy fuerte!<FFF5>Soy fuerte!<FFF5>En fin",
+  "shortened": false
+ },
+ "talk_kosiki_00374": {
+  "t": "<FFF5> Jajajajaja.<FFF5>Jajajajaja.<FFF5>Eres hermosa!<FFF5>  Eres hermosa!<FFF5>  Ni en broma se abrira!<FFF5>   Eres hermosa!<FFF5>  Que, senora.?<FFF5>   Que, senora.?<FFF5>   Es mi primera vez!<FFF5>Linda. Si, claro.<FFF5>Linda. Si, claro.<FFF5>No es verdad!<FFF5>   No es verdad!<FFF5>   Fue duro.<FFF5>  Asi es!<FFF5>  Asi es!<FFF5>  Eh, no!<FFF5>Exacto!<FFF5>   No lo necesito!<FFF5>   No lo necesito!<FFF5>   Es lo mismo!<FFF5> Es lo mismo!<FFF5> Es distinto!<FFF5>Te protegere!<FFF5>  Te protegere!<FFF5>  Yo huiria!<FFF5>   Te parece bien.?<FFF5>   Te parece bien.?<FFF5>   Paso!<FFF5> Te parece bien.?<FFF5>   Te parece bien.?<FFF5>   Paso!<FFF5> Es un reto!<FFF5>  Es un reto!<FFF5>  Eso es",
+  "shortened": false
+ },
+ "talk_kosiki_00375": {
+  "t": "<FFF5>  Parar<FFF5>   Cantar mas<FFF5>  Cantar mas<FFF5>  Eres joven!<FFF5>  <0056>giggle<0056><FFF5>   <0056>giggle<0056><FFF5>   No te enojes",
+  "shortened": false
+ },
+ "talk_kosiki_00376": {
+  "t": "<FFF5>  Hijo de perra!<FFF5>Eres buena nina!<FFF5>Mejor paro",
+  "shortened": false
+ },
+ "talk_kosiki_00377": {
+  "t": "<FFF5>   Oh, nada!<FFF5>   Oh, nada!<FFF5>   No se de razon!<FFF5>   Si<FFF5>Si<FFF5>No.<FFF5>Exacto!<FFF5>   No, esta bien!<FFF5> No, esta bien!<FFF5> Okay!<FFF5>  Es asunto mio!<FFF5>  Entendido!<FFF5>  Oye, que.?<FFF5>Ajajaja.<FFF5> No hare nada!<FFF5>   Que felicidad.<FFF5>   Olvidalo!<FFF5>Olvidalo!<FFF5>Lo siento!<FFF5> Que, no.<FFF5>  Vamos a jugar.<FFF5> Sin problema!<FFF5>Sin problema!<FFF5>Todo bien.<FFF5> Mas suxorz",
+  "shortened": false
+ },
+ "talk_kosiki_00378": {
+  "t": "<FFF5>   Mas suxorz",
+  "shortened": false
+ },
+ "talk_kosiki_00379": {
+  "t": "<FFF5>   Lo lograste.<FFF5>Lo lograste.<FFF5>Buaaaahhh.<FFF5>Buaaaahhh.<FFF5>Olvidalo",
+  "shortened": false
+ },
+ "talk_kosiki_00380": {
+  "t": "<FFF5>  Jugare contigo!<FFF5>Te dare un golpe!<FFF5> Te dare un golpe!<FFF5> Tienes razon!<FFF5>  Lo hare.<FFF5>Lo hare.<FFF5>No tengas miedo!<FFF5>   Eres suxorz!<FFF5>Eres suxorz!<FFF5>Ya veremos!<FFF5> No te metas conmigo.<FFF5>   Porque eres lindo!<FFF5>Porque te odio!<FFF5> Porque te odio!<FFF5> Largo.<FFF5> Que va!<FFF5>Que va!<FFF5>Para",
+  "shortened": false
+ },
+ "talk_kosiki_00382": {
+  "t": " Estoy bien!<FFF5>   Asi es!<FFF5>  Je",
+  "shortened": false
+ },
+ "talk_kosiki_00383": {
+  "t": " Nop!<FFF5>   Si!<FFF5>  No lo necesito!<FFF5> No lo necesito!<FFF5> Ya veremos!<FFF5> No te metas conmigo.<FFF5>   Porque eres lindo!<FFF5>Porque eres asqueroso!<FFF5>   Porque eres asqueroso!<FFF5>   Largo.<FFF5> Que va!<FFF5>Que va!<FFF5>Va a despejar!<FFF5>No es nada!<FFF5>  No es nada!<FFF5>  Va a despejar!<FFF5>Te dire!<FFF5> Te dire!<FFF5> Va a despejar!<FFF5>Quieres algo.?<FFF5> Quieres algo.?<FFF5> ",
+  "shortened": false
+ },
+ "talk_kosiki_00384": {
+  "t": "<FFF5> Dejame en paz",
+  "shortened": false
+ },
+ "talk_kosiki_00385": {
+  "t": "<FFF5>  Dejame en paz",
+  "shortened": false
+ },
+ "talk_kosiki_00386": {
+  "t": "<FFF5> No te oigo!<FFF5>  No te oigo!<FFF5>  Dejame en paz!<FFF5>",
+  "shortened": false
+ },
+ "talk_kosiki_00387": {
+  "t": "<FFF5> Dejame en paz!<FFF5>Te enterrare!<FFF5> Te enterrare!<FFF5> Oooh!<FFF5>  Buscas la muerte.?<FFF5>   Buscas la muerte.?<FFF5>   No te preocupes!<FFF5>   Quieres morir.?<FFF5> Quieres morir.?<FFF5> Soy tonto.<FFF5>Dejame en paz!<FFF5>Dejame en paz!<FFF5>Bien!<FFF5>  Raaaahhhhh.<FFF5>Raaaahhhhh.<FFF5>Raaaahhhhh.<FFF5>Raaaahhhhh.<FFF5>Dejame en paz!<FFF5>No te metas conmigo.<FFF5>Bien!<FFF5> Bien!<FFF5>  Ja",
+  "shortened": true
+ },
+ "talk_kosiki_00388": {
+  "t": "<FFF5>No me incumbe!<FFF5>  Es asunto mio!<FFF5>  Y que.?<FFF5>   No te metas conmigo.<FFF5>   Caza de demonios!<FFF5><FFF5>Te espere!<FFF5>  Ver la luna!<FFF5> Si!<FFF5>Listo   No!<FFF5>Malo!<FFF5>  Estas en el camino!<FFF5> Estas en el camino!<FFF5> No entrare!<FFF5>Listo Como si supiera.<FFF5> Como si supiera.<FFF5> Cuenta en el aire.?<FFF5> Estoy bien!<FFF5>  No tan bien!<FFF5><0A89>   Voy a vomitar",
+  "shortened": false
+ },
+ "talk_kosiki_00389": {
+  "t": "<FFF5>  Tengo cosas!<FFF5>   Vete a casa!<FFF5>   No te vayas!<FFF5>  Tengo cosas!<FFF5>   Vete a casa!<FFF5>   Vete a casa!<FFF5>   No tienes asunto.?<FFF5>   Acepto.<FFF5>  No!<FFF5>Te llevaria, mas",
+  "shortened": true
+ },
+ "talk_kosiki_00390": {
+  "t": "<FFF5>   Te llevaria, mas",
+  "shortened": false
+ },
+ "talk_kosiki_00391": {
+  "t": "<FFF5>   Calmarla<FFF5>  Acercarse<FFF5>Listo Hacerla reir<FFF5> Entendido!<FFF5>  No entiendo!<FFF5>No entiendo!<FFF5>No te metas conmigo.<FFF5>   No hare nada!<FFF5>   Fastidiarte!<FFF5> Es un secreto!<FFF5> Es un secreto!<FFF5> <2001><2101> `",
+  "shortened": false
+ }
+}

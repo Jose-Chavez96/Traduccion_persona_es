@@ -1,0 +1,28 @@
+import sys; sys.path.insert(0,"/home/josechavez/persona_es/scripts")
+from wf_chunk_e1 import put,repl,dump
+put("e1_00169"," Algo salio de mi<FF03>a saludar!<FF02><FF01>  <FF1B>Ayase<FF03>Que rayos fue eso")
+put("e1_00170","<FF02><FF01> <FF1B>Nanjo<FF03>Esas cosas? Decidi llamarlas<FF03>Personas!<FF02><FF01> <FF1B>Elly<FF03>No parecen hostiles<0007> al menos,<FF03>por ahora!<FF02><FF01>   <FF1B>Yukino<FF03>Parece que nuestro grupito se hace<FF03>mas grande!<FF02><FF01> <FF1B>Brown<FF03>Uh")
+put("e1_00171"," grupo?<FF02><FF01>   <FF1B>Ayase<FF03>Eh?<FF02><FF04><FF1B>Ayase<FF03>O sea que tu y <FF07> son como,<FF03>ya sabes")
+put("e1_00172"," y eso?<FF02><FF01>   <FF1B>Nanjo<FF03>No")
+put("e1_00173"," estoy seguro de que quieres<FF03>decir, pero")
+put("e1_00174","<FF02><FF04><FF1B>Nanjo<FF03>Sin duda hay algo en comun<FF03>entre nosotros!<FF02><FF01> <FF1B>Yukino<FF03>Si, tras esos suenos raros,<FF03>podemos invocar")
+put("e1_00175"," Personas, no?<FF02><FF01> <FF1B>Elly<FF03>Por algo, solo quienes sonaron<FF03>con la mariposa ganaron el poder!<FF02><FF04><FF1B>Elly<FF03>Tambien parece ligado a la invasion<FF03>de demonios de algun modo")
+put("e1_00176","<FF02><FF01>  <FF1B>Ayase<FF03>Espera, Toro usaba una Persona,<FF03>no? El tambien tuvo ese sueno?<FF02><FF01>  <FF1B>Nanjo<FF03>Si pudo invocar su Persona, entonces<FF03>se asume que si!<FF02><FF01>   <FF1B>Elly<FF03>Si, esa es la explicacion mas probable!<FF02><FF01><FF1B>Ayase<FF03>Cielos.<FF02><FF04><FF1B>Ayase<FF03>No lo creo. No")
+put("e1_00177"," no, no<FF03>puede ser.<FF02><FF04><FF1B>Ayase<FF03>Esa cosa va a salir de mi pancita,<FF03>y me volvere loca.?<FF02><FF01>  <FF1B>Elly<FF03>Eh")
+put("e1_00178"," No lo creo! Todo esta en como<FF03>lo usas! Toma un cuchillo, por ejemplo!<FF02><FF04><FF1B>Elly<FF03>Puede ser una herramienta en la cocina,<FF03>o un arma en el campo de batalla!<FF02><FF04><FF1B>Elly<FF03>Lo que hace lo decide quien lo usa!<FF02><FF01>  <FF1B>Nanjo<FF03>Lo dudo! El uso del poder<FF03>varia entre cada individuo!<FF02><FF04><FF1B>Nanjo<FF03>La dinamita mata, pero tambien sirve<FF03>para abrir un tunel!<FF02><FF04><FF1B>Nanjo<FF03>En esencia se reduce a como su<FF03>usuario elige aplicarlo!<FF02><FF04><FF1B>Nanjo<FF03>Si usas este poder por interes propio,<FF03>cosecharas lo que siembres!<FF02><FF01>   <FF1B>Brown<FF03>Bien")
+put("e1_00179"," Entonces estare bien!<FF02><FF04><FF1B>Brown<FF03>Oh, claro. Se justo lo que esa<FF03>mariposa quiere que haga.<FF02><FF04><FF1B>Brown<FF03>Me hizo heroe para salvar la<FF03>escuela--y la ciudad.<FF02><FF04><FF1B>Brown<FF03>Haha, bien")
+put("e1_00180"," Si de veras me<FF03>necesitan taaaanto")
+put("e1_00181","<FF02><FF04><FF1B>Brown<FF03>Supongo que ayudo! Siganme.<FF02><FF01> <FF1B>Nanjo<FF03>Que ingenuo")
+put("e1_00182","<FF02><FF01>   <FF1B>Yukino<FF03>Bueno, si quiere venir, por mi bien!<FF02><FF01>  <FF1B>Yukino<FF03>Cierto, <FF07>?<FF02><FF0E> <FF01>   <FF1B>Ayase<FF03><FF07>")
+put("e1_00183"," de veras quieres<FF03>a Hidehiko con ustedes?<FF02><FF0E> <FF01>   <FF1B>Brown<FF03>Como dices.?<FF02><FF04><FF1B>Brown<FF03>Vamos, chicos. Se que todos quieren<FF03>que vaya. No hay que ocultarlo.<FF02><FF01>  <FF1B>Brown<FF03>Vamos, en serio.<FF02><FF04><FF1B>Brown<FF03>La Yukino me rogo que entrara.<FF03>Como decirle que no?<FF02><FF04><FF1B>Brown<FF03>Ademas, oi que es tu culpa que la escuela<FF03>este en este lio!<FF02><FF04><FF1B>Brown<FF03>Conmigo de lider, no podemos perder.<FF03>Confien.<FF02><FF04><FF1B>Brown<FF03>Mwahahahaha")
+repl("e1_00184",
+  ("What are you doing?","Que estas haciendo?"),
+  ("Quit moping around. We're leaving.","Deja de lamentarte. Nos vamos."),
+  ("Y-Yes, Boss.","S-Si, Jefa."))
+put("e1_00188"," esta bien, ho!<FF02><FF04><FF1B>Raiho<FF03>Crees que haremos hee-cien amigos?<FF02><FF04><FF1B>Reiho<FF03>Lo dudo")
+put("e1_00189","<FF02><FF04><FF1B>Raiho<FF03>Hee-huh")
+put("e1_00190","<FF02><FF04><FF1B>Raiho<FF03>Las chicas humanas no son tan frias, ho.<FF02><FF04><FF1B>Reiho<FF03>No? Suena hee-dificil")
+put("e1_00191","<FF02><FF01>  <FF1B>Raiho<FF03>Hee-ho.<FF02><FF04><FF1B>Raiho<FF03>Cada vez que acabas una torre, puerta hee-<FF03>habre en Devil's Peak. No se por que")
+put("e1_00192","<FF02><FF04><FF1B>Reiho<FF03>La montana tambien tiene lios, ho!<FF03>Sabes")
+put("e1_00193"," como crisis de madurez!<FF02><FF04><FF1B>Raiho<FF03>Hee-huh? Bueno, en fin, asi se abren<FF03>las puertas, ho.<FF02><FF01><FF1B>Reiho<FF03>Hee")
+dump("/home/josechavez/persona_es/translated_text/_wfmaps/e1_c06.json")

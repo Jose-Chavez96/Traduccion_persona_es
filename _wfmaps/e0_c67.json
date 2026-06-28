@@ -1,0 +1,90 @@
+{
+ "e0_02315": {
+  "t": "<FF02><FF04><FF1B>Maki<FF03>Muchas gracias",
+  "shortened": true
+ },
+ "e0_02317": {
+  "t": "Yo tambien debo disculparme! Dije<FF03>cosas duras!<FF02><FF01>  <FF1B>Mark<FF03>Nanjo? Oye",
+  "shortened": true
+ },
+ "e0_02318": {
+  "t": " te sonrojas.?<FF03>Jaja, ya entiendo.<FF02><FF04><FF1B>Mark<FF03>Eres tan creido, es la primera vez<FF03>que alguien te agradece.<FF02><FF01>  <FF1B>Nanjo<FF03>S-Silencio, Masao. En serio",
+  "shortened": true
+ },
+ "e0_02319": {
+  "t": "<FF03>Volvamos, <FF07>.<FF02><FF01>   <FF1B>Nanjo<FF03><FF07> tiene razon. Sembraste esto<FF03>y ahora lo cosechas.<FF02><FF04><FF1B>Nanjo<FF03>Si quieres morir, por que te<FF03>quedas lamentandote?<FF02><FF04><FF1B>Nanjo<FF03>No hagas amenazas vacias si no<FF03>tienes el valor de tus convicciones.<FF02><FF01> <FF1B>Maki<FF03>Al fin recobre el sentido!<FF02><FF04><FF1B>Maki<FF03>Aunque sea sueno, ilusion<FF03>o sombra, sigo siendo yo",
+  "shortened": true
+ },
+ "e0_02320": {
+  "t": "<FF02><FF04><FF1B>Maki<FF03>Ademas, los tengo a <FF07> y los<FF03>demas. Eso me basta",
+  "shortened": true
+ },
+ "e0_02321": {
+  "t": "<FF02><FF01><FF1B>Mark<FF03>Supongo que los locos discursos de Nanjo<FF03>sirven a veces!<FF02><FF01> <FF1B>Nanjo<FF03>Hmp! No es raro que me<FF03>agradezcan, te aseguro!<FF02><FF01><FF1B>Reiji<FF03>Escena conmovedora, pero no podemos<FF03>quedarnos aqui para siempre!<FF02><FF01><FF1B>Elly<FF03>Uf, todo salio bien! Pero <FF07>,<FF03>si me hubiera pasado a mi",
+  "shortened": true
+ },
+ "e0_02322": {
+  "t": "<FF02><FF04><FF1B>Elly<FF03>Oh, no deberia actuar raro! Perdon!<FF03><FF05><5800>Seguro vendrias a rescatarme",
+  "shortened": true
+ },
+ "e0_02323": {
+  "t": "<FF02><FF01><FF1B>Elly<FF03>Me alegra que saliera bien! Pero si<FF03>me pasara a mi, <FF07>",
+  "shortened": true
+ },
+ "e0_02324": {
+  "t": "<FF02><FF04><FF1B>Elly<FF03>No! Perdon por actuar raro!<FF03><FF05><5800>Seguro vendrias a ayudarme, <FF07>!<FF02><FF01>  <FF1B>Brown<FF03><0056>sniff<0056> Que conmovedor, hasta yo<FF03>llore un poco",
+  "shortened": true
+ },
+ "e0_02325": {
+  "t": "<FF02><FF01>  <FF1B>Ayase<FF03>Eso fue duro, <FF07>!<FF03>Me preocupaba lo que pasaria!<FF02><FF01>   <FF1B>Ayase<FF03>Eso fue duro, <FF08>!<FF03>Me preocupaba lo que pasaria!<FF02><FF01>   <FF1B>Setsuko Sonomura<FF03>No se como agradecerles",
+  "shortened": true
+ },
+ "e0_02326": {
+  "t": "<FF02><FF04><FF1B>Setsuko Sonomura<FF03>Maki tiene suerte de tantos<FF03>amigos! Gracias de nuevo",
+  "shortened": true
+ },
+ "e0_02370": {
+  "t": "b<0002>`<0001><00FF>   <FF4D><3C00><FF60> <FF67>`<FF55> <7821> <FF68> <FF61> <FF4D><3C00><FF6E><1200><0001>`<FF7B> <FF4D><3C00><FF6C><1000><FF6C><1000><FF6C><1000><FF6C><1000><FF6C><0E00><FF6C><0A00><FF4D><3C00><FF6C><0E00><FF6C><0A00><FF2D><1500><FF21>   <FF1B>Maki<FF03>Es esa mariposa otra vez.<FF02><FF01>` <7821>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               <FFFF><2600><FFFF>",
+  "shortened": true
+ },
+ "e0_02375": {
+  "t": "<FF21>   <FF55> <A828> <FF61> <FF21> <FF21>   <FF26><5901><2822> <FF60> <FF55> <3829> <FF55> <9027> <FF54> <2021> <FF54>`<E021>   <FF60> <FF55> <9029> <FF55> <382A> <FF54> <5022> <FF54>`<D022>   <FF68> <FF61> <FF53><0400><FF53><0500><FF26><2900><8822> <FF26><2800><9822> <FF26><2A00><A822> <FF53><0900><FF4C> <FF22> <B822> <FF53><0600><FF4C> <FF22> <B822> <FF53><0300><FF4C> <FF22> <B822> <FF53><0700><FF4C> <FF22> <B822> <FF60> <FF55> <A82A> <FF61> <FF25><5901><FF21> <FF68> <FF55> <102B> <FF61> <FF21>   <FF26><5901><1023> <FF60> <FF67><0201><FF55> <802F> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF55> <002D> <FF68> <FF61> <FF4D><1E00><FF7C>c<0703> <FF4D><3C00><FF60> <FF67>a<FF55> <982D> <FF68> <FF61> <FF4D><1E00><FF69><0203><FF4D><3C00><FF7A><0200><FF4D><3C00><FF7C><0208><0602> <FF4D><3C00><FF60> <FF67><0201><FF55> <E82D> <FF68> <FF67>a<FF55> <802E> <FF68> <FF67><0201><FF55> <002F> <FF68> <FF26><2900><C823> <FF61> <FF58><0200><E822> <FF58>`<3824> <FF21>   <FF67><0700><FF55> <602F> <FF68> <FF61> <FF58><0200><E822> <FF58>`<3824> <FF21> <FF26><5901><1824> <FF60> <FF67><0301><FF55> <4830> <FF68> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <D02F> <FF68> <FF61> <FF21>   <FF60> <FF67>a<FF55> <E030> <FF68> <FF61> <FF21>   <FF26><2900><B824> <FF26><2800><5025> <FF26><2A00><9825> <FF26><5901><9824> <FF60> <FF67><0801><FF55> <2832> <FF68> <FF61> <FF21>   <FF60> <FF67><0801><FF55> <8831> <FF68> <FF61> <FF21>   <FF26><5901><0825> <FF26><5401><E824> <FF60> <FF67><0701><FF55> <6832> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF55> <E832> <FF68> <FF61> <FF21>   <FF26><5401><3025> <FF60> <FF67><0701><FF55> <7833> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF55> <E833> <FF68> <FF61> <FF21>   <FF26><5901><7825> <FF60> <FF67><0601><FF55> <C834> <FF68> <FF61> <FF21>   <FF60> <FF67><0601><FF55> <7834> <FF68> <FF61> <FF21>   <FF26><5901><E825> <FF26><5501><C825> <FF60> <FF67><0501><FF55> <6035> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF55> <E035> <FF68> <FF61> <FF21>   <FF26><5501><1026> <FF60> <FF67><0501><FF55> <B836> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF55> <6036> <FF68> <FF61> <FF21>   <FF1B>Mariposa misteriosa<FF03>Joven, solo dos pueden entrar a la<FF03>cueva! Estan bien preparados?<FF02><FF04><FF1B>Mariposa misteriosa<FF03>Tienen las armas e items<FF03>que necesitan?<FF02><FF01>  <FF1B>Mariposa misteriosa<FF03>Entraran a la cueva?<FF02><FF0E> <FF01><FF1B>Mariposa misteriosa<FF03>Ya veo! Abrire el camino<FF03>al mar de la conciencia!<FF02><FF01>  <FF1B>Mariposa misteriosa<FF03>Ya veo! Preparense y<FF03>vuelvan aqui!<FF02><FF01> <FF1B>Mariposa misteriosa<FF03>Listos ahora?<FF02><FF01>  <FF1B>Mariposa misteriosa<FF03>Quieren ir a otro lado?<FF03>Reunanse con sus companeros!<FF02><FF01>  <FF1B>Mariposa misteriosa<FF03>Se reuniran con sus companeros?<FF02><FF0E> <FF01><FF1B>Mariposa misteriosa<FF03>Vuelvan cuando esten listos!<FF02><FF01>  <FF1B>Mariposa misteriosa<FF03>Si piensan salir,<FF03>no olviden reunirse con los demas!<FF02><FF01>  <FF1B>Mark<FF03>",
+  "shortened": true
+ },
+ "e0_02376": {
+  "t": "Te encargo a Maki!<FF02><FF01> <FF1B>Nanjo<FF03>Esperaremos aqui! No tomes<FF03>riesgos tontos!<FF02><FF01> <FF1B>Maki<FF03>Entonces nos vamos!<FF03>Vamos, <FF07>.<FF02><FF01> <FF1B>Mark<FF03>Oye, <FF07>. No intentes nada raro<FF03>solo porque estan solos.<FF02><FF01><FF1B>Maki<FF03>De que hablan ustedes dos?<FF02><FF01><FF1B>Mark<FF03>Eh--Eh, nada. Verdad, <FF07>?<FF02><FF04><FF1B>Mark<FF03>Jeje, ya sabes, cosas de hombres!<FF02><FF01>  <FF1B>Maki<FF03>Suena sucio! Pero en fin,<FF03>vamos, <FF07>. Anda.<FF02><FF01>  <FF1B>Mark<FF03>Maki parece",
+  "shortened": true
+ },
+ "e0_02377": {
+  "t": " muy emocionada con esto!<FF02><FF01><FF1B>Elly<FF03>",
+  "shortened": true
+ },
+ "e0_02378": {
+  "t": "<FF02><FF01>  <FF1B>Mark<FF03>Maldicion. Por que vas TU?<FF02><FF01> <FF1B>Nanjo<FF03>Cuidado! No se sabe que<FF03>pasara dentro!<FF02><FF01><FF1B>Nanjo<FF03>A donde vas? No tenemos<FF03>mucho tiempo!<FF02><FF01>   <FF1B>Maki<FF03>Me alegra no estar sola",
+  "shortened": true
+ },
+ "e0_02379": {
+  "t": " Tenerte a ti<FF03>y a los demas aqui conmigo",
+  "shortened": true
+ },
+ "e0_02381": {
+  "t": "No mueras ahi! Aun quiero<FF03>pelear contigo algun dia!<FF02><FF01><FF1B>Reiji<FF03>Aun no vas?<FF02><FF01> <FF1B>Elly<FF03>A donde vas? Ire a donde<FF03>vayas, <FF07>, pero",
+  "shortened": true
+ },
+ "e0_02382": {
+  "t": "<FF02><FF01>  <FF1B>Elly<FF03>A donde vas? Te seguire<FF03>a donde sea, <FF07>, pero",
+  "shortened": true
+ },
+ "e0_02383": {
+  "t": "<FF02><FF01><FF1B>Elly<FF03>Cuidate, <FF07>",
+  "shortened": true
+ },
+ "e0_02384": {
+  "t": "<FF03>Te estare esperando",
+  "shortened": true
+ },
+ "e0_02385": {
+  "t": "<FF02><FF01> <FF1B>Elly<FF03>Por favor cuidate, <FF07>",
+  "shortened": true
+ }
+}

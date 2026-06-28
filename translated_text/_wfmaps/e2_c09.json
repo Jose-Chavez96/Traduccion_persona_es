@@ -1,0 +1,102 @@
+{
+ "e2_00378": {
+  "t": " Que casa<FF03>tan increiblemente pequena!<FF02><FF01><FF1B>Mark<FF03>Bueno, si, cualquier lugar se veria chico<FF03>junto al tuyo.<FF02><FF04><FF1B>Mark<FF03>Tch, por esto no soporto a los<FF03>ricos como tu",
+  "shortened": true
+ },
+ "e2_00379": {
+  "t": "<FF02><FF01>   <FF1B>Yukino<FF03>Creo que aqui vive Yuko Himeno!<FF03>Ya sabes, la amiga de Maki!<FF02><FF04><FF1B>Yukino<FF03>Yo trabajo medio tiempo para mi, pero<FF03>ella lo hace por su familia",
+  "shortened": true
+ },
+ "e2_00381": {
+  "t": " vaya historia triste.<FF02><FF01>  <FF1B>Mark<FF03>Oye Nanjo, por que no trabajas medio<FF03>tiempo para pagar a Yamaoka.?<FF02><FF01>   <FF1B>Yukino<FF03>Parece que Yuko aun no esta en casa!<FF02><FF01><0600> <E011> <6812> <6013> <9014> <E014> <8815>                                                                                                                                                                                                                                                                      <FFFF><1A00><FFFF>",
+  "shortened": true
+ },
+ "e2_00405": {
+  "t": "<FF02><FF01>   <FF1B>Igor<FF03>Que deseas?<FF0E><0C00><FF01> <FF1B>Igor<FF03>Bienvenido a la Sala Aterciopelada",
+  "shortened": true
+ },
+ "e2_00406": {
+  "t": "<FF02><FF0E><1700><FF01> <FF1B>Igor<FF03>Me temo que no tienes suficientes <FF18><0700>cartas<FF03>de hechizo<FF18>  para crear un nuevo Persona!<FF02><FF01><FF1B>Igor<FF03>Ay, no podemos cuidar mas<FF03>Personas!<FF02><FF01>   <FF1B>Igor<FF03>Que te gustaria hacer?<FF02><FF0E><1500><FF01><FF1B>Igor<FF03>Bien entonces",
+  "shortened": true
+ },
+ "e2_00422": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Sugiero gemas para lograr una fusion de<FF03>rango mayor o menor dentro de un orden!<FF02><FF04><FF1B>Igor<FF03>En cuanto a los otros objetos, deberias<FF03>experimentar por ti mismo!<FF02><FF01><0C00> <4052> <005C> <505C> <905C> <E05C> <905D> <005E> <485E> <885E> <9863> <4069> <8074>                                                                                                                                                                                                                                                                                                                                                                                                 <FFFF><1600><FFFF>",
+  "shortened": true
+ },
+ "e2_00424": {
+  "t": "<FF21>   <FF1B>Agastya Tree<FF03>Jovenes",
+  "shortened": true
+ },
+ "e2_00445": {
+  "t": "<FF02><FF01> <FF1B>Mark<FF03>Oye, por que te llama Hiroshi?<FF02><FF01>   <FF1B>Yukino<FF03>Debe ser duro para la enfermera!<FF02><FF01><FF1B>Anciano<FF03>Mira, Akiko, vino Hiroshi de visita!<FF02><FF01>  <FF1B>Enfermera<FF03>Asi es! Hiroshi esta aqui",
+  "shortened": true
+ },
+ "e2_00446": {
+  "t": "<FF02><FF01><FF1B>Anciano<FF03>Gracias por venir, Hiroshi!<FF02><FF01> <0044> Escuchar al anciano?<FF0E><0B00><FF01> <FF1B>Anciano<FF03>Escucha bien, Hiroshi! El alma de un<FF03>hombre es algo complejo!<FF02><FF04><FF1B>Anciano<FF03>Lo que uno muestra al mundo exterior<FF03>no es lo que piensa!<FF02><FF04><FF1B>Anciano<FF03>Hay que escarbar para hallar la<FF03>verdad que ocultan",
+  "shortened": true
+ },
+ "e2_00447": {
+  "t": "<FF02><FF01> <FF1B>Anciano<FF03>Ya veo! Me alegra que disfrutes<FF03>la escuela!<FF02><FF01>  <FF1B>Enfermera<FF03>Hiroshi parece ser su nieto!<FF03>Me confunde con su hija tambien",
+  "shortened": true
+ },
+ "e2_00449": {
+  "t": "<FF21>   <FF1B>Enfermera<FF03>Hm? No eres amigo de Maki?<FF02><FF01> <FF1B>Mark<FF03>Uh",
+  "shortened": true
+ },
+ "e2_00450": {
+  "t": "<FF02><FF01>   <FF1B>Enfermera<FF03>La visitaste la semana pasada tambien?<FF03>Y la anterior",
+  "shortened": true
+ },
+ "e2_00451": {
+  "t": "<FF02><FF01>   <FF1B>Nanjo<FF03>Conque si",
+  "shortened": true
+ },
+ "e2_00455": {
+  "t": " <FFFF><FFFF>  <FF60> <FF67><0301><FF55> <B012> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF55> <F013> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <7014> <FF68> <FF61> <FF21>   <FF60> <FF55> <1015> <FF61> <FF21>   <FF60> <FF55> <5816> <FF61> <FF21>   <FF1B>Nanjo<FF03>No hay muchos en este hospital con<FF03>quien Maki pueda conversar!<FF02><FF04><FF1B>Nanjo<FF03>No es raro que no quiera salir<FF03>de su cuarto, si es asi",
+  "shortened": true
+ },
+ "e2_00456": {
+  "t": "<FF02><FF01>   <FF1B>Mark<FF03>El cuarto de Maki es el segundo,<FF03>derecho desde aqui!<FF02><FF01> <FF1B>Yukino<FF03>Buena idea venir aqui! Seguro<FF03>Maki se alegrara de vernos!<FF02><FF01><FF1B>Paciente<FF03>Una chica de prepa? Hmm",
+  "shortened": true
+ },
+ "e2_00457": {
+  "t": " Nunca<FF03>la he visto, creo!<FF02><FF04><FF1B>Paciente<FF03>Seguro esta encerrada en su cuarto",
+  "shortened": true
+ },
+ "e2_00458": {
+  "t": "<FF03>Le haria bien salir a veces!<FF02><FF01>  <FF1B>Paciente<FF03>Hay una chica en este piso que parecia<FF03>de preparatoria",
+  "shortened": true
+ },
+ "e2_00459": {
+  "t": "<FF02><FF04><FF1B>Paciente<FF03>Pero a veces oigo la voz de una<FF03>nina en su cuarto!<FF02><FF04><FF1B>Paciente<FF03>Solo hay una cama ahi",
+  "shortened": true
+ },
+ "e2_00461": {
+  "t": " <E801><FF60> <FF67><0301><FF55> <6812> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF55> <F812> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <B813> <FF68> <FF61> <FF21>   <FF60> <FF55> <F813> <FF61> <FF21>   <FF60> <FF55> <9015> <FF61> <FF21>   <FF1B>Nanjo<FF03>Por que la mama de Maki trabaja en ESA<FF03>empresa, de entre todas.?<FF02><FF01>  <FF1B>Mark<FF03>Ay, rayos. Crees que debi traer<FF03>flores o algo?<FF02><FF04><FF1B>Mark<FF03>Bueno, ya es tarde.<FF02><FF01>  <FF1B>Yukino<FF03>Vamos, Maki espera!<FF02><FF01><FF1B>Enfermera<FF03>Son amigos de Maki? Que bueno que vinieron!<FF02><FF04><FF1B>Enfermera<FF03>Saben que ha entrado y salido del<FF03>hospital desde nina, verdad?<FF02><FF04><FF1B>Enfermera<FF03>Siempre me preocupo que mantuviera<FF03>sus amistades",
+  "shortened": true
+ },
+ "e2_00462": {
+  "t": "<FF02><FF01>   <FF1B>Enfermera<FF03>No lo creo.<FF02><FF04><FF1B>Enfermera<FF03>Su unica hija esta en el hospital y<FF03>no la ha visitado ni una vez.<FF02><FF04><FF1B>Enfermera<FF03>No importa cuan ocupada este en SEBEC.<FF03>Es un fracaso como madre.<FF02><FF04><FF1B>Enfermera<FF03>Pobre Maki",
+  "shortened": true
+ },
+ "e2_00498": {
+  "t": " <FF05><3000>ojala<FF03>se fuera",
+  "shortened": true
+ },
+ "e2_00499": {
+  "t": "<FF02><FF01>  <FF1B>Mark<FF03>Con este poder, deberiamos poder<FF03>saber por que pasa esto.<FF02><FF01>   <FF1B>Elly<FF03>Que maravilloso",
+  "shortened": true
+ },
+ "e2_00500": {
+  "t": " Me emociono tanto.<FF03>Ay, disculpame",
+  "shortened": true
+ },
+ "e2_00501": {
+  "t": "<FF02><FF01> <FF1B>Yukino<FF03>Que mierda es esta.? Quien sea que<FF03>hace esto va a pagar.<FF02><FF04><FF1B>Yukino<FF03>Volvere este lugar a la normalidad o<FF03>morire intentando.<FF02><FF01> <FF1B>Doctor<FF03>Maldicion, por que no llego a la UCI.?<FF03>Hay un paciente ahi.<FF02><FF04><FF1B>Doctor<FF03>Debo tratar a la chica Sonomura",
+  "shortened": true
+ },
+ "e2_00502": {
+  "t": "<FF02><FF01>   <FF1B>Enfermera<FF03>La tele no sirve, y el telefono<FF03>tambien esta muerto. Que esta pasando.?<FF02><FF01><FF1B>Enfermera<FF03>Curaria tus heridas en la sala de<FF03>examen, pero",
+  "shortened": true
+ }
+}

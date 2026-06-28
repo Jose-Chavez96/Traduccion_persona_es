@@ -1,0 +1,794 @@
+{
+ "talk_etc_00001": {
+  "t": "<FF02><FF04><0044> Karma Orgullo no piensa<FF03>negociar con humanos.<FFF5><FFEB><0056>yawn<0056><FF03>",
+  "shortened": false
+ },
+ "talk_etc_00002": {
+  "t": "<FF02><FF04><0044> Pereza bostezo",
+  "shortened": true
+ },
+ "talk_etc_00003": {
+  "t": " No tiene energia<FF03>para negociar.<FFF5>   <FFEB>Gewah.<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00004": {
+  "t": "<FF02><FF04><0044> Karma Ira prefiere una pelea<FF03>a negociar.<FFF5> <FFEC>Grrrrr",
+  "shortened": false
+ },
+ "talk_etc_00005": {
+  "t": "<FF02><FF04><0044> Karma Envidia tiene envidia,<FF03>en algun lugar",
+  "shortened": true
+ },
+ "talk_etc_00006": {
+  "t": " Negociar es<FF03>imposible.<FFF5>   <FFED>",
+  "shortened": false
+ },
+ "talk_etc_00007": {
+  "t": "<FF02><FF04><0044> Karma Codicia quiere algo,<FF03>pero sea lo que sea, no es una<FF03>negociacion.<FFF5>  <FFEB>",
+  "shortened": false
+ },
+ "talk_etc_00008": {
+  "t": "<FF02><FF04><0044> Karma Lujuria esta perdido en sus<FF03>fantasias. Negociar es imposible.<FFF5>  <FFEB>",
+  "shortened": false
+ },
+ "talk_etc_00009": {
+  "t": "<FF02><FF04><0044> El M!I!B! no quiere negociar.<FFF5> <FFEB>",
+  "shortened": false
+ },
+ "talk_etc_00010": {
+  "t": "<FF02><FF04><0044> El Agente no quiere negociar.<FFF5>  <FFEB>",
+  "shortened": false
+ },
+ "talk_etc_00011": {
+  "t": "<FF02><FF04><0044> La Policia Secreta no quiere<FF03>negociar.<FFF5> <FF1B>Kali<FF03>Huesos del inframundo",
+  "shortened": false
+ },
+ "talk_etc_00012": {
+  "t": " Soy la<FF03>diosa de la muerte y la destruccion!<FF02><FF04><FF1B>Kali<FF03>No me has olvidado, verdad.?<FF02><FF04><FFED><FF1B>Kwancha<FF03>Claro que no.<FF02><FF04><FF1B>Kwancha<FF03>Pero me sorprende verte a ti, entre<FF03>tantas deidades, jugando con humanos!<FFEF>   <FF1B>Kali<FF03>Tranquilo! Tengo mis razones para prestar<FF03>mi poder a este humano!<FF02><FF04><FF1B>Kali<FF03>Por que no te unes.?<FF02><FF04><FFEE><FF1B>Kwancha<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00014": {
+  "t": " Muy bien, humano,<FF03>toma mi carta!<FFEF><FF1B>Kali<FF03>Huesos del inframundo",
+  "shortened": false
+ },
+ "talk_etc_00015": {
+  "t": " Soy la<FF03>diosa de la muerte y la destruccion!<FF02><FF04><FF1B>Kali<FF03>No me has olvidado, verdad.?<FF02><FF04><FFED><FF1B>Kwancha<FF03>Claro que no.<FF02><FF04><FF1B>Kwancha<FF03>Pero me sorprende verte a ti, entre<FF03>tantas deidades, jugando con humanos!<FFEF>   <FF1B>Kali<FF03>Tranquilo! Tengo mis razones para prestar<FF03>mi poder a este humano!<FF02><FF04><FF1B>Kali<FF03>Por que no te unes.?<FF02><FF04><FFEE><FF1B>Kwancha<FF03>Aun con tu peticion, tengo mi orgullo<FF03>que cuidar",
+  "shortened": false
+ },
+ "talk_etc_00016": {
+  "t": "<FFEF>  <FF1B>Kali<FF03>Humano",
+  "shortened": true
+ },
+ "talk_etc_00017": {
+  "t": " Estas tomando una decision<FF03>tonta! No lo reconsideraras.?<FF02><FF04><FFED><FF1B>Kwancha<FF03>No, no, mi senora. Al final, estos<FF03>humanos aprenderan su leccion.<FF02><FF04><FF1B>Kwancha<FF03>Yo",
+  "shortened": false
+ },
+ "talk_etc_00018": {
+  "t": " Debo irme ahora.<FFEF><FFEF>   <FF1B>Kali<FF03>Esta bien",
+  "shortened": false
+ },
+ "talk_etc_00019": {
+  "t": " Esto aligerara mi carga!<FF02><FF04><FFEC><FF1B>Kwancha<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00020": {
+  "t": "Esto es lamentable! Una verguenza para<FF03>el titulo del <0028>Negro",
+  "shortened": false
+ },
+ "talk_etc_00021": {
+  "t": "<FFEF> <FF1B>Durga<FF03>Gdon",
+  "shortened": false
+ },
+ "talk_etc_00022": {
+  "t": " Te has cansado de cargar<FF03>a esta diosa sobre tu espalda.?<FF02><FF04><FFEC><FF1B>Gdon<FF03>NO",
+  "shortened": false
+ },
+ "talk_etc_00023": {
+  "t": " TU MONTURA",
+  "shortened": true
+ },
+ "talk_etc_00024": {
+  "t": " YO NO OLVIDO<FF03>PELEA CON LOS ASURA!<FFEF> <FF1B>Durga<FF03>Eso es el pasado",
+  "shortened": false
+ },
+ "talk_etc_00025": {
+  "t": " Ahora presto mi poder<FF03>a este humano!<FF02><FF04><FF1B>Durga<FF03>Ven, seras mi montura otra vez.?<FF02><FF04><FFEB><FF1B>Gdon<FF03>YO SIEMPRE FELIZ DE AYUDAR. HUMANO,<FF03>TOMA CARTA.<FFEF><FF1B>Durga<FF03>Gdon",
+  "shortened": false
+ },
+ "talk_etc_00026": {
+  "t": " Te has cansado de cargar<FF03>a esta diosa sobre tu espalda.?<FF02><FF04><FFEC><FF1B>Gdon<FF03>NO",
+  "shortened": false
+ },
+ "talk_etc_00027": {
+  "t": " TU MONTURA",
+  "shortened": true
+ },
+ "talk_etc_00028": {
+  "t": " YO NO OLVIDO<FF03>PELEA CON LOS ASURA!<FFEF> <FF1B>Durga<FF03>Eso es el pasado",
+  "shortened": false
+ },
+ "talk_etc_00029": {
+  "t": " Ahora presto mi poder<FF03>a este humano!<FF02><FF04><FF1B>Durga<FF03>Ven, seras mi montura otra vez.?<FF02><FF04><FFEB><FF1B>Gdon<FF03>YO NO GUSTA HUMANO DEBIL",
+  "shortened": true
+ },
+ "talk_etc_00030": {
+  "t": " DOY RESPUESTA<FF03>VAGA",
+  "shortened": true
+ },
+ "talk_etc_00031": {
+  "t": "<FFEF> <FFED><FF1B>Gdon<FF03>GAAAAHHH. TU NO ESTORBES A YO<FF03>AYUDAR.<FF02><FF04><FF1B>Durga<FF03>Gdon, estas ante mi, calmate.<FFEF>  <FFED><FF1B>Gdon<FF03>YO SIGO ENOJADO. YO ME VOY A CASA.<FFEF> <FFEB><FF1B>Gdon<FF03>AWOOOO. YO SOLO PUEDO HACER ESTO!<FF02><FF04><FF1B>Gdon<FF03>HUMANO, CUIDA A MI SENORA.<FFEF><FF1B>Pyro Jack<FF03>Hee-ho, compa Jack. Hee-como te va,<FF03>ho.?<FF02><FF04><FFEE><FF1B>Pyro Jack<FF03>Hee-eh? Por que eres Persona, ho.?<FF03>Que envidia",
+  "shortened": true
+ },
+ "talk_etc_00032": {
+  "t": "<FFEF>   <FF1B>Pyro Jack<FF03>Hee-ho. Dale tu carta a este<FF03>hee-humano, ho.<FF02><FF04><FF1B>Pyro Jack<FF03>Asi podras ser una Persona, ho..<FF02><FF04><FF1B>Pyro Jack<FF03>Hmmmm",
+  "shortened": false
+ },
+ "talk_etc_00033": {
+  "t": "<FF02><FF04><FFEB><FF1B>Pyro Jack<FF03>Bien. Tu, ho. Toma mi carta, hee-ho.<FFEF> <FF1B>Pyro Jack<FF03>Hee-ho, compa Jack. Hee-como te va,<FF03>ho.?<FF02><FF04><FFEE><FF1B>Pyro Jack<FF03>Hee-eh? Por que eres Persona, ho.?<FF03>Que envidia",
+  "shortened": false
+ },
+ "talk_etc_00034": {
+  "t": "<FFEF>   <FF1B>Pyro Jack<FF03>Hee-ho. Dale tu carta a este<FF03>hee-humano, ho.<FF02><FF04><FF1B>Pyro Jack<FF03>Asi podras ser una Persona, ho..<FF02><FF04><FF1B>Pyro Jack<FF03>Hmmmm",
+  "shortened": false
+ },
+ "talk_etc_00035": {
+  "t": "<FF02><FF04><FFEB><FF1B>Pyro Jack<FF03>Pero quiero darsela a un<FF03>hee-humano fuerte, ho.<FFEF><FFEC><FF1B>Pyro Jack<FF03>Awww",
+  "shortened": true
+ },
+ "talk_etc_00037": {
+  "t": "<FFEF> <FFEF>   <FF1B>Pyro Jack<FF03>Hmmm",
+  "shortened": false
+ },
+ "talk_etc_00038": {
+  "t": " Sere yo, o sigo siendo un<FF03>demonio, ho.?<FF02><FF04><FFEB><FF1B>Pyro Jack<FF03>Hmmm",
+  "shortened": true
+ },
+ "talk_etc_00039": {
+  "t": " Sera cosa mia, hee-ho. Nos vemos<FF03>luego, ho. Adios.<FFF5>  <FF1B>Jack Frost<FF03>Hee-ho, compa Jack. Hee-como te va,<FF03>ho.?<FF02><FF04><FFEE><FF1B>Jack Frost<FF03>Hee-eh? Por que eres Persona, ho.?<FF03>Que envidia",
+  "shortened": false
+ },
+ "talk_etc_00040": {
+  "t": "<FFEF> <FF1B>Jack Frost<FF03>Hee-ho. Dale tu carta a este<FF03>hee-humano, ho.<FF02><FF04><FF1B>Jack Frost<FF03>Asi podras ser una Persona, ho..<FF02><FF04><FF1B>Pyro Jack<FF03>Hmmmm",
+  "shortened": false
+ },
+ "talk_etc_00041": {
+  "t": "<FF02><FF04><FFEB><FF1B>Jack Frost<FF03>Bien. Tu, ho. Toma mi carta, hee-ho.<FFEF>  <FF1B>Jack Frost<FF03>Hee-ho, compa Jack. Hee-como te va,<FF03>ho.?<FF02><FF04><FFEE><FF1B>Jack Frost<FF03>Hee-eh? Por que eres Persona, ho.?<FF03>Que envidia",
+  "shortened": false
+ },
+ "talk_etc_00042": {
+  "t": "<FFEF> <FF1B>Jack Frost<FF03>Hee-ho. Dale tu carta a este<FF03>hee-humano, ho.<FF02><FF04><FF1B>Jack Frost<FF03>Asi podras ser una Persona, ho..<FF02><FF04><FF1B>Jack Frost<FF03>Hmmmm",
+  "shortened": false
+ },
+ "talk_etc_00043": {
+  "t": "<FF02><FF04><FFEB><FF1B>Jack Frost<FF03>Pero quiero darsela a un<FF03>hee-humano fuerte, ho.<FFEF><FFEC><FF1B>Jack Frost<FF03>Awww",
+  "shortened": true
+ },
+ "talk_etc_00045": {
+  "t": "<FFEF><FFEF>   <FF1B>Jack Frost<FF03>Hmmm",
+  "shortened": false
+ },
+ "talk_etc_00046": {
+  "t": " Sere yo, o sigo siendo un<FF03>demonio, ho.?<FF02><FF04><FFEB><FF1B>Jack Frost<FF03>Hmmm",
+  "shortened": true
+ },
+ "talk_etc_00047": {
+  "t": " Sera cosa mia, hee-ho. Nos vemos<FF03>luego, ho. Adios.<FFF5><FF1B>Pryo Jack<FF03>Hee-ho, compa Jack. Hee-como te va,<FF03>ho.?<FF02><FF04><FFEE><FF1B>Jack Frost<FF03>Hee-eh? Por que eres Persona, ho.?<FF03>Que envidia",
+  "shortened": false
+ },
+ "talk_etc_00048": {
+  "t": "<FFF5>  <FF1B>Pryo Jack<FF03>Hee-ho. Dale tu carta a este<FF03>hee-humano, ho.<FF02><FF04><FF1B>Pyro Jack<FF03>Asi podras ser una Persona, ho..<FF02><FF04><FF1B>Jack Frost<FF03>Hmmmm",
+  "shortened": false
+ },
+ "talk_etc_00049": {
+  "t": "<FF02><FF04><FFEB><FF1B>Jack Frost<FF03>Bien. Tu, ho. Toma mi carta, hee-ho.<FFEF>   <FF1B>Pryo Jack<FF03>Hee-ho, compa Jack. Hee-como te va,<FF03>ho.?<FF02><FF04><FFEE><FF1B>Jack Frost<FF03>Hee-eh? Por que eres Persona, ho.?<FF03>Que envidia",
+  "shortened": false
+ },
+ "talk_etc_00050": {
+  "t": "<FFF5>  <FF1B>Pryo Jack<FF03>Hee-ho. Dale tu carta a este<FF03>hee-humano, ho.<FF02><FF04><FF1B>Pyro Jack<FF03>Asi podras ser una Persona, ho..<FF02><FF04><FF1B>Jack Frost<FF03>Hmmmm",
+  "shortened": false
+ },
+ "talk_etc_00051": {
+  "t": "<FF02><FF04><FFEB><FF1B>Jack Frost<FF03>Pero quiero darsela a un<FF03>hee-humano fuerte, ho.<FFEF>  <FFEC><FF1B>Jack Frost<FF03>Awww",
+  "shortened": true
+ },
+ "talk_etc_00053": {
+  "t": "<FFEF><FFEF>   <FF1B>Jack Frost<FF03>Hmmm",
+  "shortened": false
+ },
+ "talk_etc_00054": {
+  "t": " Sere yo, o sigo siendo un<FF03>demonio, ho.?<FF02><FF04><FFEB><FF1B>Jack Frost<FF03>Hmmm",
+  "shortened": true
+ },
+ "talk_etc_00055": {
+  "t": " Sera cosa mia, hee-ho. Nos vemos<FF03>luego, ho. Adios.<FFF5><FF1B>Jack Frost<FF03>Hee-ho, compa Jack. Hee-como te va,<FF03>ho.?<FF02><FF04><FFEE><FF1B>Pyro Jack<FF03>Hee-eh? Por que eres Persona, ho.?<FF03>Que envidia",
+  "shortened": false
+ },
+ "talk_etc_00056": {
+  "t": "<FFF5>  <FF1B>Jack Frost<FF03>Hee-ho. Dale tu carta a este<FF03>hee-humano, ho.<FF02><FF04><FF1B>Jack Frost<FF03>Asi podras ser una Persona, ho..<FF02><FF04><FF1B>Pryo Jack<FF03>Hmmmm",
+  "shortened": false
+ },
+ "talk_etc_00057": {
+  "t": "<FF02><FF04><FFEB><FF1B>Pryo Jack<FF03>Bien. Tu, ho. Toma mi carta, hee-ho.<FFEF>   <FF1B>Jack Frost<FF03>Hee-ho, compa Jack. Hee-como te va,<FF03>ho.?<FF02><FF04><FFEE><FF1B>Pyro Jack<FF03>Hee-eh? Por que eres Persona, ho.?<FF03>Que envidia",
+  "shortened": false
+ },
+ "talk_etc_00058": {
+  "t": "<FFF5>  <FF1B>Jack Frost<FF03>Hee-ho. Dale tu carta a este<FF03>hee-humano, ho.<FF02><FF04><FF1B>Jack Frost<FF03>Asi podras ser una Persona, ho..<FF02><FF04><FF1B>Pyro Jack<FF03>Hmmmm",
+  "shortened": false
+ },
+ "talk_etc_00059": {
+  "t": "<FF02><FF04><FFEB><FF1B>Pyro Jack<FF03>Pero quiero darsela a un<FF03>hee-humano fuerte, ho.<FFEF>  <FFEC><FF1B>Pyro Jack<FF03>Awww",
+  "shortened": true
+ },
+ "talk_etc_00061": {
+  "t": "<FFEF> <FFEF>   <FF1B>Pyro Jack<FF03>Hmmm",
+  "shortened": false
+ },
+ "talk_etc_00062": {
+  "t": " Sere yo, o sigo siendo un<FF03>demonio, ho.?<FF02><FF04><FFEB><FF1B>Pyro Jack<FF03>Hmmm",
+  "shortened": true
+ },
+ "talk_etc_00063": {
+  "t": " Sera cosa mia, hee-ho. Nos vemos<FF03>luego, ho. Adios.<FFF5>  <FF1B>Pixie<FF03>Hola, como te va, Pixie.?<FF03>Mira, yo tambien soy Pixie!<FF02><FF04><FFEE><FF1B>Pixie<FF03>No puede ser.<FF02><FF04><FF1B>Pixie<FF03>Jaja. Yo soy grande y",
+  "shortened": true
+ },
+ "talk_etc_00064": {
+  "t": " clara.<FF03>Que onda con eso.?<FFEF><FF1B>Pixie<FF03>Me hicieron una Persona! Ahora salgo<FF03>a pasear con este humano!<FF02><FF04><FFEB><FF1B>Pixie<FF03>Hmm",
+  "shortened": false
+ },
+ "talk_etc_00065": {
+  "t": " Eso suena genial! Oye,<FF03>tu tambien deberias llevar mi carta.<FFEF><FF1B>Pixie<FF03>Hola, como te va, Pixie.?<FF03>Mira, yo tambien soy Pixie!<FF02><FF04><FFEE><FF1B>Pixie<FF03>No puede ser.<FF02><FF04><FF1B>Pixie<FF03>Jajaja. Yo soy grande y",
+  "shortened": false
+ },
+ "talk_etc_00066": {
+  "t": " clara.<FF03>Que onda con eso.?<FFEF><FF1B>Pixie<FF03>Me hicieron una Persona! Ahora salgo<FF03>a pasear con este humano!<FF02><FF04><FFEB><FF1B>Pixie<FF03>Hmm",
+  "shortened": false
+ },
+ "talk_etc_00067": {
+  "t": " Bueno, si fuera tu, que lo soy,<FF03>habria elegido un humano mas fuerte.<FFEF> <FFEC><FF1B>Pixie<FF03>Buaaaah. No es justo. Tienes<FF03>favoritos",
+  "shortened": false
+ },
+ "talk_etc_00068": {
+  "t": "<FFEF> <FFED><FF1B>Pixie<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00069": {
+  "t": "Hmph. Bien. Un dia de estos te<FF03>hare tragar plomo de pixie.<FFEF> <FFEB><FF1B>Pixie<FF03>Yay. Nos vemos luego, gran yo y<FF03>Sr! Humano.<FFEF>  <FF1B>Shiva<FF03>Aun con un solo colmillo, hijo.? Mejor<FF03>deberias rompertelo",
+  "shortened": false
+ },
+ "talk_etc_00070": {
+  "t": "<FF02><FF04><FFEC><FF1B>Ganesha<FF03>Muy bien",
+  "shortened": false
+ },
+ "talk_etc_00071": {
+  "t": " Madre se entristecera, pero<FF03>rompere mi colmillo por tu orden",
+  "shortened": false
+ },
+ "talk_etc_00072": {
+  "t": "<FFEF>  <FF1B>Shiva<FF03>Hmph, basta de bromas! Hijo, te pido<FF03>que prestes tu poder a este humano!<FF02><FF04><FFEB><FF1B>Ganesha<FF03>Como desees, padre! Hombre, toma<FF03>mi carta!<FFEF>  <FF1B>Shiva<FF03>Aun un solo colmillo, hijo.? Mejor<FF03>rompetelo",
+  "shortened": true
+ },
+ "talk_etc_00073": {
+  "t": "<FF02><FF04><FFEC><FF1B>Ganesha<FF03>Muy bien",
+  "shortened": false
+ },
+ "talk_etc_00074": {
+  "t": " Madre se entristecera, pero<FF03>rompere mi colmillo por tu orden",
+  "shortened": false
+ },
+ "talk_etc_00075": {
+  "t": "<FFEF>  <FF1B>Shiva<FF03>Hmph, basta de bromas! Hijo, te pido<FF03>que prestes tu poder a este humano!<FF02><FF04><FFEB><FF1B>Ganesha<FF03>Perdona mi insolencia, padre, soy<FF03>dios! No puedo servir a un hombre",
+  "shortened": true
+ },
+ "talk_etc_00076": {
+  "t": "<FFEF><FF1B>Shiva<FF03>Bobo",
+  "shortened": true
+ },
+ "talk_etc_00077": {
+  "t": " Mi hijo sera desfigurado,<FF03>pero te aseguro que es fuerte!<FF02><FF04><FFED><FF1B>Ganesha<FF03>Padre, esta bien! Tales son los limites<FF03>de la humanidad!<FF02><FF04><FF1B>Ganesha<FF03>Debo retirarme!<FFEF>   <FFEF>   <FFEC><FF1B>Ganesha<FF03>Padre",
+  "shortened": false
+ },
+ "talk_etc_00078": {
+  "t": " Debes hacer mas Amrita<FF03>pronto, o todos quedaremos secos",
+  "shortened": false
+ },
+ "talk_etc_00079": {
+  "t": "<FF02><FF04><FF1B>Shiva<FF03>Lo se. Ve y termina tu composicion.<FFEF>  <FF1B>Shiva<FF03>Huesos del inframundo. Soy el<FF03>gran y supremo destructor.<FF02><FF04><FF1B>Shiva<FF03>No me has olvidado, verdad.?<FF02><FF04><FFED><FF1B>Kwancha<FF03>Claro que no.<FF02><FF04><FF1B>Kwancha<FF03>Pero me sorprende verte a ti, entre<FF03>tantas deidades, jugando con humanos!<FFEF><FF1B>Shiva<FF03>No te preocupes por eso!<FF02><FF04><FF1B>Shiva<FF03>Por circunstancias imprevistas,<FF03>presto mi poder a este humano!<FF02><FF04><FF1B>Shiva<FF03>Tu. Ayudanos tambien.<FF02><FF04><FFEC><FF1B>Kwancha<FF03>Tu deseo es mi orden! ",
+  "shortened": true
+ },
+ "talk_etc_00080": {
+  "t": "Humano, toma<FF03>mi carta!<FFEF> <FF1B>Shiva<FF03>Huesos del inframundo. Soy el<FF03>gran y supremo destructor.<FF02><FF04><FF1B>Shiva<FF03>No me has olvidado, verdad.?<FF02><FF04><FFED><FF1B>Kwancha<FF03>Claro que no.<FF02><FF04><FF1B>Kwancha<FF03>Pero me sorprende verte a ti, entre<FF03>tantas deidades, jugando con humanos!<FFEF><FF1B>Shiva<FF03>No te preocupes por eso!<FF02><FF04><FF1B>Shiva<FF03>Por circunstancias imprevistas,<FF03>presto mi poder a este humano!<FF02><FF04><FF1B>Shiva<FF03>Tu. Ayudanos tambien.<FF02><FF04><FFEC><FF1B>Kwancha<FF03>Aun con tu peticion, tengo mi orgullo<FF03>que cuidar",
+  "shortened": true
+ },
+ "talk_etc_00081": {
+  "t": "<FFEF> <FF1B>Shiva<FF03>Bobo",
+  "shortened": true
+ },
+ "talk_etc_00082": {
+  "t": " Sera demonio de enfermedad,<FF03>pero que mejor modo de alejar el mal.?<FF02><FF04><FFED><FF1B>Kwancha<FF03>",
+  "shortened": true
+ },
+ "talk_etc_00083": {
+  "t": "Maestro Shiva, esta bien! Tengo<FF03>deberes que atender igual",
+  "shortened": true
+ },
+ "talk_etc_00084": {
+  "t": "<FFEF><FFEF>   <FF1B>Shiva<FF03>Excelente! Por fin descanso.<FF02><FF04><FF1B>Kwancha<FF03>",
+  "shortened": true
+ },
+ "talk_etc_00085": {
+  "t": "Que lamentable! Una deshonra al<FF03>titulo de <0028>Gran Destructor",
+  "shortened": true
+ },
+ "talk_etc_00086": {
+  "t": "<FFEF><FF1B>Otohime<FF03>Oh, hola, Otohime! Ese es mi nombre tambien!<FF02><FF04><FFEE><FF1B>Otohime<FF03>De veras? Pero si fuera tan alta como tu,<FF03>no le quedaria bien a Taro!<FFEF>  <FF1B>Otohime<FF03>Me hice una Persona! Nado los mares<FF03>con este humano!<FF02><FF04><FFEE><FF1B>Otohime<FF03>Oooh, que envidia!<FF02><FF04><FF1B>Otohime<FF03>Oye, tu tambien lleva mi carta contigo.<FFEF><FF1B>Otohime<FF03>Oh, hola, Otohime! Ese es mi nombre tambien!<FF02><FF04><FFEE><FF1B>Otohime<FF03>De veras? Pero si fuera tan alta como tu,<FF03>no le quedaria bien a Taro!<FFEF>  <FF1B>Otohime<FF03>Me hice una Persona! Nado los mares<FF03>con este humano!<FF02><FF04><FFEE><FF1B>Otohime<FF03>No se",
+  "shortened": true
+ },
+ "talk_etc_00087": {
+  "t": "<FF02><FF04><FF1B>Otohime<FF03>Tal vez te gusten los humanos debiles,<FF03>pero prefiero a mi novio.<FFEF>   <FFEC><FF1B>Otohime<FF03>Ni hablar",
+  "shortened": true
+ },
+ "talk_etc_00088": {
+  "t": " Estoy sonando? No puedo<FF03>creerlo. Ughhhh.<FFEF>   <FFEF>   <FFEB><FF1B>Otohime<FF03>Yay. Nos vemos luego, gran yo y<FF03>Sr! Humano.<FFEF><FF1B>Cerberus<FF03>AWOOOOOO. YO TU HERMANO. TU ESTAS<FF03>BIEN.?<FF02><FF04><FFEB><FF1B>Orthrus<FF03>AWOOOO. YO BIEN! PERO HERMANO, QUE<FF03>HAY DE GUARDAR EL HADES.?<FFEF>   <FF1B>Ceberus<FF03>YO TOMO VACACION",
+  "shortened": false
+ },
+ "talk_etc_00089": {
+  "t": " PERO BASTA DE ESO!<FF03>PRESTAS PODER A ESTE HUMANO.?<FF02><FF04><FFEE><FF1B>Orthrus<FF03>HMMM",
+  "shortened": true
+ },
+ "talk_etc_00090": {
+  "t": " PETICION DE HERMANO! YO NO PUEDO<FF03>RECHAZAR! HUMANO, TOMA CARTA!<FFEF> <FF1B>Cerberus<FF03>AWOOOOOO. YO TU HERMANO. TU ESTAS<FF03>BIEN.?<FF02><FF04><FFEB><FF1B>Orthrus<FF03>AWOOOO. YO BIEN! PERO HERMANO, QUE<FF03>HAY DE GUARDAR EL HADES.?<FFEF>   <FF1B>Ceberus<FF03>YO VACACION",
+  "shortened": true
+ },
+ "talk_etc_00091": {
+  "t": " PERO BASTA DE ESO!<FF03>PRESTAS PODER A ESTE HUMANO.?<FF02><FF04><FFEE><FF1B>Orthrus<FF03>HRRMMM",
+  "shortened": true
+ },
+ "talk_etc_00092": {
+  "t": " EL SE VE MUY DEBIL!<FF03><FFED>YO VUELVO A TRABAJO! TU TAMBIEN!<FFEF> <FFED><FF1B>Orthus<FF03>GAAAAAH. ESTE HUMANO",
+  "shortened": false
+ },
+ "talk_etc_00093": {
+  "t": " TONTO, HERMANO.<FF03>TU DEBES VOLVER A TRABAJO.<FFEF> <FFEF>   <FFEB><FF1B>Orthrus<FF03>ESTO BIEN? ENTONCES YO VUELVO AL HADES!<FF02><FF04><FF1B>Orthrus<FF03>HERMANO, TU VEN TAMBIEN!<FF02><FF04><FF1B>Cerberus<FF03>NO! YO TENGO RESPONSABILIDAD! TU VE<FF03>ADELANTE!<FF02><FF04><FF1B>Cerberus<FF03>GANADO ROJO TE ESPERA!<FFEF> <FF1B>Barbatos<FF03>Vaya. Sigues vivo? Pense<FF03>que ya habias estirado la pata!<FF02><FF04><FFEB><FF1B>Barbatos<FF03>De que hablas, tonto? Sigo<FF03>vivito y coleando, obvio.<FFEF> <FF1B>Barbatos<FF03>Ya veo. Y que tal si le<FF03>prestas tu poder a este humano",
+  "shortened": true
+ },
+ "talk_etc_00094": {
+  "t": "<FF02><FF04><FFEB><FF1B>Barbatos<FF03>Dalo por hecho!<FF02><FF04><FF1B>Barbatos<FF03>Bien humano, estoy por darte<FF03>una carta tremenda!<FFEF>  <FF1B>Barbatos<FF03>Vaya. Sigues vivo? Pense<FF03>que ya habias estirado la pata!<FF02><FF04><FFEB><FF1B>Barbatos<FF03>De que hablas, tonto? Sigo<FF03>vivito y coleando, obvio.<FFEF> <FF1B>Barbatos<FF03>Ya veo. Y que tal si le<FF03>prestas tu poder a este humano",
+  "shortened": true
+ },
+ "talk_etc_00095": {
+  "t": "<FF02><FF04><FFED><FF1B>Barbatos<FF03>Lo siento, pero no puedo!<FF02><FF04><FF1B>Barbatos<FF03>No me gustan los debiles! Ve a molestar<FF03>a alguien mas!<FFEF>   <FFED><FF1B>Barbatos<FF03>Como que no necesitas mi carta.?<FF02><FF04><FFED><FF1B>Barbatos<FF03>Y encima, eres un ingrato por<FF03>rechazar mi oferta.<FFEF>   <FF1B>Barbatos<FF03>Es solo un capricho malvado! Lo se!<FF02><FF04><FFED><FF1B>Barbatos<FF03>No importa. Me voy a casa.<FFEF>  <FFEE><FF1B>Barbatos<FF03>Cuando me hagas Persona, devuelveme<FF03>mi juventud, si.? Ya me voy!<FFEF> <FF1B>Loki<FF03>Oye, que rayos? TU eres mi hijo.?<FF03>Es esto una especie de broma.?<FF02><FF04><FF1B>Loki<FF03>Por que todos mis hijos terminan como<FF03>serpientes, caballos o lobos, men.?<FF02><FF04><FFED><FF1B>Fenrir<FF03>GAAHHH. LOS DIOSES ME ATARON, Y AUN<FF03>ASI, PADRE ME IGNORA. QUE CRUEL.<FFEF>   <FF1B>Loki<FF03>Uhh",
+  "shortened": true
+ },
+ "talk_etc_00096": {
+  "t": " Dejemos lo pasado en el pasado,<FF03>de acuerdo.?<FF02><FF04><FF1B>Loki<FF03>Bien. Aun te quedan cartas,<FF03>verdad? Le das una a este humano.?<FFED><FF1B>Fenrir<FF03>GRRR",
+  "shortened": false
+ },
+ "talk_etc_00097": {
+  "t": " SI NO FUERAS PAPA, YO TE COMO<FF03>ENTERO. ",
+  "shortened": true
+ },
+ "talk_etc_00098": {
+  "t": "HUMANO, TOMA CARTA.<FFEF>  <FF1B>Loki<FF03>Oye, que rayos? TU mi hijo.?<FF03>Es una especie de broma.?<FF02><FF04><FF1B>Loki<FF03>Por que mis hijos terminan como<FF03>serpientes, caballos o lobos, men.?<FF02><FF04><FFED><FF1B>Fenrir<FF03>GAAHHH. LOS DIOSES ME ATARON, Y AUN<FF03>ASI, PADRE ME IGNORA. QUE CRUEL.<FFEF>   <FF1B>Loki<FF03>Uhh",
+  "shortened": true
+ },
+ "talk_etc_00099": {
+  "t": " Dejemos lo pasado en el pasado,<FF03>de acuerdo.?<FF02><FF04><FF1B>Loki<FF03>Bien. Aun te quedan cartas,<FF03>verdad? Le das una a este humano.?<FF02><FF04><FFED><FF1B>Fenrir<FF03>GAAAAAAH. YO NO QUIERO.<FFEF>  <FF1B>Loki<FF03>Cual es tu problema, humano? No quieres<FF03>al lobo mas fuerte del mundo contigo.?<FF02><FF04><FFEE><FF1B>Fenrir<FF03>HMMM",
+  "shortened": false
+ },
+ "talk_etc_00100": {
+  "t": " LA PROXIMA QUE NOS VEAMOS, TE COMO<FF03>ENTERO!<FFEF>  <FFEF>   <FF1B>Loki<FF03>Bien, gracias! Ya terminamos<FF03>contigo, asi que largate!<FF02><FF04><FFED><FF1B>Fenrir<FF03>PADRE",
+  "shortened": true
+ },
+ "talk_etc_00101": {
+  "t": " YO TE COMO UN DIA",
+  "shortened": true
+ },
+ "talk_etc_00102": {
+  "t": "<FFEF><FF1B>Succubus<FF03>Oh, que coincidencia! Has chupado<FF03>buenas almas ultimamente.?<FF02><FF04><FFEC><FF1B>Succubus<FF03>Ha estado seco, la verdad",
+  "shortened": true
+ },
+ "talk_etc_00103": {
+  "t": "<FF02><FF04><FF1B>Succubus<FF03>Debo dejar a los cristianos<FF03>listos",
+  "shortened": false
+ },
+ "talk_etc_00104": {
+  "t": "<FFEF>  <FF1B>Succubus<FF03>Hmm, si, esos son los dificiles!<FF03>Olvidalos y ven con nosotros!<FF02><FF04><FFEE><FF1B>Succubus<FF03>Tal vez haga eso",
+  "shortened": false
+ },
+ "talk_etc_00105": {
+  "t": "<FF02><FF04><FF1B>Succubus<FF03>Me alegra conocerte! Por que no<FF03>tomas mi carta, humanos.?<FFEF> <FF1B>Succubus<FF03>Oh, que coincidencia! Has chupado<FF03>buenas almas hoy.?<FF02><FF04><FFEC><FF1B>Succubus<FF03>Ha estado seco, la verdad",
+  "shortened": true
+ },
+ "talk_etc_00106": {
+  "t": "<FF02><FF04><FF1B>Succubus<FF03>Debo dejar a los cristianos<FF03>listos",
+  "shortened": false
+ },
+ "talk_etc_00107": {
+  "t": "<FFEF>  <FF1B>Succubus<FF03>Hmm, si, esos son los dificiles!<FF03>Olvidalos y ven con nosotros!<FF02><FF04><FFED><FF1B>Succubus<FF03>No, no me rindo todavia!<FF03>Probare unos europeos mas.<FFEF>  <FFEC><FF1B>Succubus<FF03>Hmmm",
+  "shortened": false
+ },
+ "talk_etc_00108": {
+  "t": "<FF02><FF04><FF1B>Succubus<FF03>Bueno, ya tienes mi Persona!<FF03>Debo volver con mi presa",
+  "shortened": false
+ },
+ "talk_etc_00109": {
+  "t": "<FFEF> <FFEF>   <FFEB><FF1B>Succubus<FF03>Gracias por todo! Adios, ahora!<FFEF><FF1B>Lilim<FF03>Oye, como te va, Lilim? Chupando<FF03>la vida de los inocentes.?<FF02><FF04><FFEB><FF1B>Lilim<FF03>Claro que si.<FF02><FF04><FF1B>Lilim<FF03>Y tu, mi Persona? Te diviertes<FF03>con esos humanos.?<FFEF>   <FF1B>Lilim<FF03>Dificil decirlo",
+  "shortened": false
+ },
+ "talk_etc_00110": {
+  "t": " No es nada<FF03>aburrido, pero peleo mucho!<FF02><FF04><FFEE><FF1B>Lilim<FF03>Hmmm, en serio.?<FF02><FF04><FF1B>Lilim<FF03>Suena interesante! Por que no tomas<FF03>mi carta contigo.?<FFEF><FF1B>Lilim<FF03>Oye, como te va, Lilim? Chupando<FF03>la vida de los inocentes.?<FF02><FF04><FFEB><FF1B>Lilim<FF03>Claro que si.<FF02><FF04><FF1B>Lilim<FF03>Y tu, mi Persona? Te diviertes<FF03>con esos humanos.?<FFEF>   <FF1B>Lilim<FF03>Dificil decirlo",
+  "shortened": false
+ },
+ "talk_etc_00111": {
+  "t": " No es nada<FF03>aburrido, pero peleo mucho!<FF02><FF04><FFEE><FF1B>Lilim<FF03>Hmm, ya veo! Tal vez busque humanos<FF03>mas fuertes entonces.<FFEF> <FFED><FF1B>Lilim<FF03>Ah si? Bien, pues. Hay muchas<FF03>almas en el mar.<FFEF>  <FFEF>   <FFEB><FF1B>Lilim<FF03>Ajaja. Tengo mandados que hacer, pero<FF03>recuerda hacerme una Persona.<FFEF>   <FF1B>Garuda<FF03>Tu. Encarcelaste a mi madre y me<FF03>forzaste a robar. No lo he olvidado.<FF02><FF04><FFEB><FF1B>Naga<FF03>Y ahora cazas el mal del mundo,<FF03>siendo tan impuro? Que risa.<FFEF><FF1B>Garuda<FF03>Como te atreves",
+  "shortened": true
+ },
+ "talk_etc_00112": {
+  "t": "<FF02><FF04><FF1B>Garuda<FF03>Humanos, protegidos por mi poder.<FF03>Derriben a esta serpiente malvada.<FF02><FF04><FFED><FF1B>Naga<FF03>Jajaja. Clasico, pajaro. Solo lograste<FF03>tu rango amenazando a los dioses.<FFEF>   <FF1B>Airgetlam<FF03>Serpiente de oscuridad, llego la hora<FF03>de mi venganza.<FF02><FF04><FF1B>Airgetlam<FF03>Te derribare con mi espada<FF03>de luz.<FF02><FF04><FFED><FF1B>Cromm Cruach<FF03>Hmph. Quieres que te trague otra vez.?<FF03>Ustedes Tuatha De son tan tontos.<FFEF> <FFEB><FF1B>Cromm Cruach<FF03>",
+  "shortened": true
+ },
+ "talk_etc_00113": {
+  "t": "No es que tu brazo de plata sea<FF03>facil de digerir. Gahahahaha.<FF02><FF04><FF1B>Airgetlam<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00114": {
+  "t": "Maestro. A este portador de muerte,<FF03>muerte.<FF02><FF04><FF1B>Airgetlam<FF03>Vengame.<FF02><FF04><FF1B>Cromm Cruach<FF03>Es inutil.<FFEF> <FF1B>Marduk<FF03>Las serpientes aun existen",
+  "shortened": true
+ },
+ "talk_etc_00115": {
+  "t": "<FF03>Debo corregir mi error",
+  "shortened": false
+ },
+ "talk_etc_00116": {
+  "t": "<FF02><FF04><FFED><FF1B>Mushus<FF03>GAAAAAAAH. YO VENGO A DIOSA. YO LISTO<FF03>A MORIR.<FFEF> <FF1B>Marduk<FF03>Necio",
+  "shortened": true
+ },
+ "talk_etc_00117": {
+  "t": "<FF02><FF04><FF1B>Marduk<FF03>Humanos, en quienes doy vida. Venzan<FF03>lo y restauren el orden.<FF02><FF04><FFED><FF1B>Mushus<FF03>GAAAAH. MAESTRA TIAMAT. DAME PODER.<FFEF> <FF1B>Tyr<FF03>Hijo de Loki.<FF02><FF04><FF1B>Tyr<FF03>Pagaras por tomar mi mano.<FF02><FF04><FFED><FF1B>Fenrir<FF03>GAAAH. TU ME ENGANASTE. MERECES NO<FF03>TENER MANO. TU NO ERES VARONIL.<FFEF>  <FF1B>Tyr<FF03>Vencerte es evitar el Ragnarok.<FF03>Te matare donde estes.<FF02><FF04><FFED><FF1B>Fenrir<FF03>GAAAAAH. YO NO TE TEMO! TU NO TIENES<FF03>ATADURA MAGICA AQUI.<FFEF>   <FF1B>Fuhedi Mergane<FF03>No crei que aun caminaras este<FF03>mundo, bestia.<FF02><FF04><FF1B>Fuhedi Mergane<FF03>El alma de Abai no te<FF03>sacio",
+  "shortened": true
+ },
+ "talk_etc_00118": {
+  "t": "<FF02><FF04><FF1B>Fuhedi Mergane<FF03>Prueba la furia de mi rayo.<FFEF> <FFED><FF1B>Mangadhai<FF03>GAAAAAAAH. YO TUVE MUCHOS ENCUENTROS<FF03>CON TUS HIJOS!<FF02><FF04><FF1B>Mangadhai<FF03>AHORA ES HORA DE DEVOLVER EL FAVOR!<FF03>YO DEVORO TU ALMA.<FFEF>   <FF1B>Pallas Athena<FF03>Es desagradable estar en presencia<FF03>de una mujer-arana! Largate.<FF02><FF04><FFEC><FF1B>Arachne<FF03>",
+  "shortened": true
+ },
+ "talk_etc_00119": {
+  "t": "Tu eres quien me hizo esto!<FF03>No tienes nada mas que decir.?<FFEF> <FF1B>Pallas Athena<FF03>Tus palabras caen en oidos sordos! Hilaras<FF03>hebra por toda la eternidad.<FF02><FF04><FFED><FF1B>Arachne<FF03>Solo estas molesta porque soy mejor que<FF03>tu. Y te llamas diosa.?<FFEF> <FF1B>Michael<FF03>Querubin",
+  "shortened": true
+ },
+ "talk_etc_00120": {
+  "t": " El jardin del Eden esta a salvo,<FF03>supongo.?<FF02><FF04><FF1B>Cherub<FF03>Guardamos la puerta del arbol de vida!<FF03>Infiltrarse seria impensable!<FFEF> <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": true
+ },
+ "talk_etc_00121": {
+  "t": "<FF03>Quiero que prestes poder a este humano!<FF02><FF04><FFEB><FF1B>Cherub<FF03>Si es tu voluntad, como negarme?<FF03>Por favor, toma la carta!<FFEF> <FF1B>Michael<FF03>Querubin",
+  "shortened": true
+ },
+ "talk_etc_00122": {
+  "t": " El jardin del Eden esta a salvo,<FF03>supongo.?<FF02><FF04><FF1B>Cherub<FF03>Guardamos la puerta del arbol de vida!<FF03>Infiltrarse seria impensable!<FFEF> <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": true
+ },
+ "talk_etc_00123": {
+  "t": "<FF03>Quiero que prestes poder a este humano!<FF02><FF04><FFEC><FF1B>Cherub<FF03>Perdona, arcangel, mis poderes son<FF03>para el Eden",
+  "shortened": true
+ },
+ "talk_etc_00124": {
+  "t": " No puedo gastarlos",
+  "shortened": true
+ },
+ "talk_etc_00125": {
+  "t": "<FFEF>  <FF1B>Michael<FF03>Esto me preocupa, humano! Rechazas el<FF03>poder de un arbitro.?<FF02><FF04><FF1B>Michael<FF03>Querubin, me disculpo",
+  "shortened": false
+ },
+ "talk_etc_00126": {
+  "t": "<FF02><FF04><FFED><FF1B>Cherub<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00127": {
+  "t": "No hace falta, senor. Es la<FF03>ceguera de ojos humanos",
+  "shortened": true
+ },
+ "talk_etc_00128": {
+  "t": "<FFEF> <FFEE><FF1B>Cherub<FF03>Debo volver a mis deberes, Maestro!<FF03>Guia tu rebano al paraiso!<FFEF>  <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Querubin. Dejo la puerta del Eden<FF03>en tus capaces manos!<FF02><FF04><FFEB><FF1B>Cherub<FF03>Como desees, Maestro",
+  "shortened": false
+ },
+ "talk_etc_00129": {
+  "t": "<FFEF>   <FF1B>Michael<FF03>Trono",
+  "shortened": false
+ },
+ "talk_etc_00130": {
+  "t": " Asumo que cumples<FF03>tu deber como su porta-carro.?<FF02><FF04><FFEC><FF1B>Throne<FF03>Existimos solo para ese fin",
+  "shortened": false
+ },
+ "talk_etc_00131": {
+  "t": " No<FF03>deshonramos nuestro rango de angeles!<FFEF> <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": true
+ },
+ "talk_etc_00132": {
+  "t": "<FF03>Quiero que prestes poder a este humano!<FF02><FF04><FFEB><FF1B>Throne<FF03>Si es tu voluntad, como negarme?<FF03>Por favor, toma esta carta!<FFEF>  <FF1B>Michael<FF03>Trono",
+  "shortened": false
+ },
+ "talk_etc_00133": {
+  "t": " Asumo que cumples<FF03>tu deber como su porta-carro.?<FF02><FF04><FFEC><FF1B>Throne<FF03>Existimos solo para ese fin",
+  "shortened": false
+ },
+ "talk_etc_00134": {
+  "t": " No<FF03>deshonramos nuestro rango de angeles!<FFEF> <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": true
+ },
+ "talk_etc_00135": {
+  "t": "<FF03>Quiero que prestes poder a este humano!<FF02><FF04><FFEC><FF1B>Throne<FF03>Perdona, arcangel, pero mis poderes son<FF03>para el carro",
+  "shortened": false
+ },
+ "talk_etc_00136": {
+  "t": " No puedo gastarlos",
+  "shortened": true
+ },
+ "talk_etc_00137": {
+  "t": "<FFEF>  <FF1B>Michael<FF03>Esto me preocupa, humano! Rechazas el<FF03>poder de un angel de rango.?<FF02><FF04><FF1B>Michael<FF03>Trono, me disculpo",
+  "shortened": false
+ },
+ "talk_etc_00138": {
+  "t": "<FF02><FF04><FFED><FF1B>Throne<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00139": {
+  "t": "No hace falta, senor. Es la<FF03>ceguera de ojos humanos",
+  "shortened": true
+ },
+ "talk_etc_00140": {
+  "t": "<FFEF>   <FFEE><FF1B>Throne<FF03>Debo volver a mis deberes, Maestro!<FF03>Guia tu rebano al paraiso!<FFEF>  <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Trono. Dejo su carro en tus manos!<FF02><FF04><FFEB><FF1B>Throne<FF03>Como desees, Maestro",
+  "shortened": false
+ },
+ "talk_etc_00141": {
+  "t": "<FFEF>   <FF1B>Michael<FF03>Dominio",
+  "shortened": false
+ },
+ "talk_etc_00142": {
+  "t": " Confio en que diriges<FF03>bien a los angeles comunes.?<FF02><FF04><FFED><FF1B>Dominion<FF03>Los Dominios no deshonramos el rango<FF03>de cuartos entre angeles!<FFEF><FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": true
+ },
+ "talk_etc_00143": {
+  "t": "<FF03>Quiero que prestes poder a este humano!<FF02><FF04><FFEB><FF1B>Dominion<FF03>Como desees, Maestro! Acepta la<FF03>carta de los Dominios, humano!<FFEF> <FF1B>Michael<FF03>Dominio",
+  "shortened": false
+ },
+ "talk_etc_00144": {
+  "t": " Confio en que diriges<FF03>bien a los angeles comunes.?<FF02><FF04><FFED><FF1B>Dominion<FF03>Los Dominios no deshonramos el rango<FF03>de cuartos entre angeles!<FFEF><FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": true
+ },
+ "talk_etc_00145": {
+  "t": "<FF03>Quiero que prestes poder a este humano!<FF02><FF04><FFEC><FF1B>Dominion<FF03>Arcangel, debemos unir sus fuerzas!<FF03>No podemos malgastar este poder",
+  "shortened": false
+ },
+ "talk_etc_00146": {
+  "t": "<FFEF> <FF1B>Michael<FF03>Esto me preocupa, humano! Rechazas el<FF03>poder de dominacion.?<FF02><FF04><FF1B>Michael<FF03>Dominio, me disculpo",
+  "shortened": false
+ },
+ "talk_etc_00147": {
+  "t": "<FF02><FF04><FFED><FF1B>Dominion<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00148": {
+  "t": "No hace falta, senor. Es la<FF03>ceguera de ojos humanos",
+  "shortened": true
+ },
+ "talk_etc_00149": {
+  "t": "<FFEF><FFEE><FF1B>Dominion<FF03>Debo volver a mis deberes, Maestro!<FF03>Guia tu rebano al paraiso!<FFEF><FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Dominio. Dejo la regulacion del<FF03>Cielo a ti!<FF02><FF04><FFEB><FF1B>Dominion<FF03>Como desees, Maestro",
+  "shortened": false
+ },
+ "talk_etc_00150": {
+  "t": "<FFEF>   <FF1B>Michael<FF03>Virtud",
+  "shortened": false
+ },
+ "talk_etc_00151": {
+  "t": " Portador de milagros y poder<FF03>a la humanidad, como van tus deberes.?<FF02><FF04><FFEC><FF1B>Virtue<FF03>No deshonramos el nombre de<FF03>Virtud!<FFEF> <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": false
+ },
+ "talk_etc_00152": {
+  "t": "<FF03>Quiero que prestes poder a este humano!<FF02><FF04><FFEB><FF1B>Virtue<FF03>Como desees, Maestro! Acepta la<FF03>carta de las Virtudes, humano!<FFEF> <FF1B>Michael<FF03>Virtud",
+  "shortened": false
+ },
+ "talk_etc_00153": {
+  "t": " Portador de milagros y poder<FF03>a la humanidad, como van tus deberes.?<FF02><FF04><FFEC><FF1B>Virtue<FF03>No deshonramos el nombre de<FF03>Virtud!<FFEF>   <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": false
+ },
+ "talk_etc_00154": {
+  "t": "<FF03>Quiero que prestes poder a este humano!<FF02><FF04><FFEC><FF1B>Virtue<FF03>Debo negarme, Maestro!<FFEF> <FF1B>Michael<FF03>Esto me preocupa, humano! Rechazas el<FF03>poder de la virtud.?<FF02><FF04><FF1B>Michael<FF03>Virtud, perdon",
+  "shortened": true
+ },
+ "talk_etc_00155": {
+  "t": "<FF02><FF04><FFED><FF1B>Virtue<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00156": {
+  "t": "No hace falta, senor. Es la<FF03>ceguera de ojos humanos",
+  "shortened": true
+ },
+ "talk_etc_00157": {
+  "t": "<FFEF><FFEE><FF1B>Virtue<FF03>Debo volver a mis deberes, Maestro!<FF03>Guia tu rebano al paraiso!<FFEF>  <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Virtud. Vuelve a tus deberes,<FF03>y trae esperanza a la humanidad!<FF02><FF04><FFEB><FF1B>Virtue<FF03>Como desees, Maestro",
+  "shortened": false
+ },
+ "talk_etc_00158": {
+  "t": "<FFEF>   <FF1B>Michael<FF03>Potestad? Como va tu patrulla de los<FF03>cielos.?<FF02><FF04><FFEB><FF1B>Power<FF03>No hay de que preocuparse!<FF02><FF04><FF1B>Power<FF03>Ni los caidos tienen chance<FF03>contra las Potestades!<FFEF>   <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": true
+ },
+ "talk_etc_00159": {
+  "t": "<FF03>Quiero que prestes fuerza a este humano!<FF02><FF04><FFEB><FF1B>Power<FF03>Si es tu voluntad, como negarme?<FF03>Por favor, toma esta carta!<FFEF><FF1B>Michael<FF03>Potestad? Como va tu patrulla de los<FF03>cielos.?<FF02><FF04><FFEB><FF1B>Power<FF03>No hay de que preocuparse!<FF02><FF04><FF1B>Power<FF03>Ni los caidos tienen chance<FF03>contra las Potestades!<FFEF>   <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": true
+ },
+ "talk_etc_00160": {
+  "t": "<FF03>Quiero que prestes fuerza a este humano!<FF02><FF04><FFEC><FF1B>Power<FF03>Debo negarme, Maestro!<FFEF>   <FF1B>Michael<FF03>Esto me preocupa, humano! Rechazas la<FF03>fuerza de los guardianes celestes.?<FF02><FF04><FF1B>Michael<FF03>Potestad, me disculpo",
+  "shortened": false
+ },
+ "talk_etc_00161": {
+  "t": "<FF02><FF04><FFED><FF1B>Power<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00162": {
+  "t": "No hace falta, senor. Es la<FF03>ceguera de ojos humanos",
+  "shortened": true
+ },
+ "talk_etc_00163": {
+  "t": "<FFEF>   <FFEE><FF1B>Power<FF03>Debo volver a mis deberes, Maestro!<FF03>Guia tu rebano al paraiso!<FFEF>   <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Potestad. Dejo los cielos en<FF03>tus capaces manos!<FF02><FF04><FFEB><FF1B>Power<FF03>Como desees, Maestro",
+  "shortened": false
+ },
+ "talk_etc_00164": {
+  "t": "<FFEF>  <FF1B>Michael<FF03>Principado",
+  "shortened": false
+ },
+ "talk_etc_00165": {
+  "t": " Como te ha ido en<FF03>proteger nuestro credo.?<FF02><FF04><FFEB><FF1B>Principality<FF03>Me complace informarte,<FF03>arcangel!<FF02><FF04><FF1B>Principality<FF03>Los lideres de nuestra fe no estan<FF03>preocupados en nada!<FFEF><FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": false
+ },
+ "talk_etc_00166": {
+  "t": "<FF03>Quiero que prestes poder a este humano!<FF02><FF04><FFEB><FF1B>Principality<FF03>Como desees, Maestro! Acepta la<FF03>carta de los Principados, humano!<FFEF><FF1B>Michael<FF03>Principado",
+  "shortened": false
+ },
+ "talk_etc_00167": {
+  "t": " Como te ha ido en<FF03>proteger nuestro credo.?<FF02><FF04><FFEB><FF1B>Principality<FF03>Me complace informarte,<FF03>arcangel!<FF02><FF04><FF1B>Principality<FF03>Los lideres de nuestra fe no estan<FF03>preocupados en nada!<FFEF><FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": false
+ },
+ "talk_etc_00168": {
+  "t": "<FF03>Quiero que prestes poder a este humano!<FF02><FF04><FFEC><FF1B>Principality<FF03>Debo negarme, Maestro!<FFEF>   <FF1B>Michael<FF03>Esto me preocupa, humano! Rechazas los<FF03>protectores de la fe.?<FF02><FF04><FF1B>Michael<FF03>Principado, me disculpo",
+  "shortened": false
+ },
+ "talk_etc_00169": {
+  "t": "<FF02><FF04><FFED><FF1B>Principality<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00170": {
+  "t": "No hace falta, senor. Es la<FF03>ceguera de ojos humanos",
+  "shortened": true
+ },
+ "talk_etc_00171": {
+  "t": "<FFEF><FFEE><FF1B>Principality<FF03>Debo volver a mis deberes, Maestro!<FF03>Guia tu rebano al paraiso!<FFEF><FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Principado. Dejo la<FF03>proteccion de la fe a ti!<FF02><FF04><FFEB><FF1B>Principality<FF03>Como desees, Maestro",
+  "shortened": false
+ },
+ "talk_etc_00172": {
+  "t": "<FFEF>   <FF1B>Michael<FF03>Arcangel",
+  "shortened": false
+ },
+ "talk_etc_00173": {
+  "t": " Cumples tus<FF03>deberes como su mensajero.?<FF02><FF04><FFEC><FF1B>Archangel<FF03>Con tu ejemplo, no deshonramos<FF03>el nombre de Arcangel!<FFEF>   <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": false
+ },
+ "talk_etc_00174": {
+  "t": "<FF03>Quiero que prestes poder a este humano!<FF02><FF04><FFEB><FF1B>Archangel<FF03>Como desees, Maestro! Acepta la<FF03>carta de los Arcangeles, humano!<FFEF>   <FF1B>Michael<FF03>Arcangel",
+  "shortened": false
+ },
+ "talk_etc_00175": {
+  "t": " Cumples tus<FF03>deberes como su mensajero.?<FF02><FF04><FFEC><FF1B>Archangel<FF03>Con tu ejemplo, no deshonramos<FF03>el nombre de Arcangel!<FFEF>   <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Entonces tengo un favor que pedirte",
+  "shortened": false
+ },
+ "talk_etc_00176": {
+  "t": "<FF03>Quiero que prestes poder a este humano!<FF02><FF04><FFEC><FF1B>Archangel<FF03>Debo negarme, Maestro!<FFEF>  <FF1B>Michael<FF03>Esto me preocupa, humano! Rechazas el<FF03>poder de mi sucesor.?<FF02><FF04><FF1B>Michael<FF03>Arcangel, me disculpo",
+  "shortened": false
+ },
+ "talk_etc_00177": {
+  "t": "<FF02><FF04><FFED><FF1B>Archangel<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00178": {
+  "t": "No hace falta, senor. Es la<FF03>ceguera de ojos humanos",
+  "shortened": true
+ },
+ "talk_etc_00179": {
+  "t": "<FFEF><FFEE><FF1B>Archangel<FF03>Debo volver a mis deberes, Maestro!<FF03>Guia tu rebano al paraiso!<FFEF>   <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Arcangel. Dejo la difusion de<FF03>su palabra a ti!<FF02><FF04><FFEB><FF1B>Archangel<FF03>Como desees, Maestro",
+  "shortened": false
+ },
+ "talk_etc_00180": {
+  "t": "<FFEF>  <FF1B>Michael<FF03>Angel",
+  "shortened": false
+ },
+ "talk_etc_00181": {
+  "t": " Es mi orden que des<FF03>tu carta a este humano!<FFEF>   <FF1B>Angel<FF03>Como desees, alto senor",
+  "shortened": false
+ },
+ "talk_etc_00182": {
+  "t": "<FF03><FFEE>Humano, toma mi carta!<FFEF>   <FF1B>Michael<FF03>Angel",
+  "shortened": true
+ },
+ "talk_etc_00183": {
+  "t": " Es mi orden que des<FF03>tu carta a este humano!<FFEF>   <FFED><FF1B>Angel<FF03>Aunque me duele, debo negarme,<FF03>oh alto senor!<FFEF> <FF1B>Angel<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00184": {
+  "t": "<FF02><FF04><FFED><FF1B>Angel<FF03>Debo atender mis deberes!<FF03>Me ire ahora.<FFEF>  <FFEF>   <FF1B>Michael<FF03>Muy bien!<FF02><FF04><FF1B>Michael<FF03>Angel. Vuelve a usar tus poderes por<FF03>el bien de la humanidad.<FF02><FF04><FFEB><FF1B>Angel<FF03>Por la eternidad, su gracia!<FFEF>   <FF1B>Azrael<FF03>Soy Azrael!<FF02><FF04><FF1B>Azrael<FF03>Soy el angel que registra nacimiento y<FF03>muerte!<FF02><FF04><FFEE><FF1B>Virtue<FF03>Soy Virtud!<FF02><FF04><FF1B>Virtue<FF03>Sirvo bajo Raphael para guiar humanos<FF03>hacia la virtud!<FFEF><FF1B>Azrael<FF03>Oiras mi peticion como subordinado<FF03>de un angel companero.?<FF02><FF04><FF1B>Azrael<FF03>Te pido que des tu carta a este<FF03>humano!<FF02><FF04><FFEB><FF1B>Virtue<FF03>Muy bien! Mi carta es tuya, humano!<FFEF><FF1B>Azrael<FF03>Soy Azrael!<FF02><FF04><FF1B>Azrael<FF03>Soy el angel que registra nacimiento<FF03>y muerte!<FF02><FF04><FFEE><FF1B>Virtue<FF03>Soy Virtud!<FF02><FF04><FF1B>Virtue<FF03>Sirvo bajo Raphael para guiar humanos<FF03>hacia la virtud!<FFEF><FF1B>Azrael<FF03>Oiras mi peticion como subordinado<FF03>de un angel companero.?<FF02><FF04><FF1B>Azrael<FF03>Te pido que des tu carta a este<FF03>humano!<FF02><FF04><FFEB><FF1B>Virtue<FF03>Me niego! Este humano no tiene virtud!<FFEF><FFED><FF1B>Virtue<FF03>",
+  "shortened": false
+ },
+ "talk_etc_00185": {
+  "t": "Eso es todo! No tengo asuntos con<FF03>los que no tienen redencion.<FFEF>  <FFEF>  <FF1B>Azrael<FF03>Bien",
+  "shortened": true
+ },
+ "talk_etc_00186": {
+  "t": " Te agradezco tu<FF03>cooperacion, Virtud!<FFEF>  <FF1B>Nike<FF03>Mi",
+  "shortened": false
+ },
+ "talk_etc_00189": {
+  "t": " Angel ajeno",
+  "shortened": true
+ },
+ "talk_etc_00193": {
+  "t": "<FF02><FF04><FFEB><FF1B>Angel<FF03>Muy bien!<FF02><FF04><FF1B>Angel<FF03>Eres una diosa de la victoria, cierto.?<FF03>Cual es el secreto de tu exito.?<FFEF><FF1B>Nike<FF03>Siempre",
+  "shortened": false
+ },
+ "talk_etc_00197": {
+  "t": " tu carta",
+  "shortened": false
+ },
+ "talk_etc_00198": {
+  "t": " por humanos",
+  "shortened": true
+ },
+ "talk_etc_00199": {
+  "t": "<FF02><FF04><FFEE><FF1B>Angel<FF03>Te entiendo! Toma, humano! Toma mi<FF03>carta!<FFEF>   <FF1B>Nike<FF03>Mi",
+  "shortened": false
+ },
+ "talk_etc_00202": {
+  "t": " Angel ajeno",
+  "shortened": true
+ },
+ "talk_etc_00206": {
+  "t": "<FF02><FF04><FFEB><FF1B>Angel<FF03>Muy bien!<FF02><FF04><FF1B>Angel<FF03>Eres una diosa de la victoria, cierto.?<FF03>Cual es el secreto de tu exito.?<FFEF><FF1B>Nike<FF03>Siempre",
+  "shortened": false
+ },
+ "talk_etc_00210": {
+  "t": " tu carta",
+  "shortened": false
+ },
+ "talk_etc_00211": {
+  "t": " por humanos",
+  "shortened": true
+ },
+ "talk_etc_00212": {
+  "t": "<FF02><FF04><FFED><FF1B>Angel<FF03>Entiendo, pero en este mundo, mucho<FF03>poder es innecesario",
+  "shortened": false
+ },
+ "talk_etc_00213": {
+  "t": "<FFEF>  <FFED><FF1B>Angel<FF03>Guardas a un humano tonto",
+  "shortened": true
+ },
+ "talk_etc_00214": {
+  "t": "<FF03>Estoy molesto.<FFEF><FFEF>   <FFEB><FF1B>Angel<FF03>Debo irme",
+  "shortened": false
+ },
+ "talk_etc_00215": {
+  "t": " Adios, mi camarada<FF03>griego!<FFEF> <FFEB>Hee hee hee",
+  "shortened": false
+ },
+ "talk_etc_00217": {
+  "t": "<FF02><FF04><0044> Alice tiene sonrisa audaz en su<FF03>cara",
+  "shortened": true
+ },
+ "talk_etc_00218": {
+  "t": " No tiene intencion de<FF03>negociar.<FFF5>   <FFEB>Hee hee hee",
+  "shortened": false
+ },
+ "talk_etc_00220": {
+  "t": "<FF02><FF04><0044> Alice tiene sonrisa audaz en su<FF03>cara",
+  "shortened": true
+ },
+ "talk_etc_00221": {
+  "t": " No tiene intencion de<FF03>negociar.<FFF5>",
+  "shortened": false
+ }
+}

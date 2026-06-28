@@ -1,0 +1,200 @@
+id,archivo_origen,offset_inicio,offset_fin,longitud_original_bytes,texto_original,texto_traducido,notas,estado
+talk_kokuri_00000,talk/kokuri.bin,8374,8388,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00001,talk/kokuri.bin,8418,8434,16, C-R-A-P,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00002,talk/kokuri.bin,8550,8564,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00003,talk/kokuri.bin,8598,8616,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00004,talk/kokuri.bin,8782,8796,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00005,talk/kokuri.bin,8942,8956,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00006,talk/kokuri.bin,9070,9084,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00007,talk/kokuri.bin,9198,9212,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00008,talk/kokuri.bin,9242,9258,16, C-R-A-P,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00009,talk/kokuri.bin,9358,9372,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00010,talk/kokuri.bin,9402,9418,16, C-R-A-P,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00011,talk/kokuri.bin,9518,9532,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00012,talk/kokuri.bin,9654,9668,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00013,talk/kokuri.bin,9686,9704,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00014,talk/kokuri.bin,9758,9772,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00015,talk/kokuri.bin,9894,9908,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00016,talk/kokuri.bin,10022,10036,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00017,talk/kokuri.bin,10054,10072,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00018,talk/kokuri.bin,10126,10140,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00019,talk/kokuri.bin,10262,10278,16, S-U-C-K,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00020,talk/kokuri.bin,10374,10388,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00021,talk/kokuri.bin,10406,10424,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00022,talk/kokuri.bin,10478,10492,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00023,talk/kokuri.bin,10598,10612,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00024,talk/kokuri.bin,10686,10700,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00025,talk/kokuri.bin,10746,10762,16, C-R-A-P,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00026,talk/kokuri.bin,10878,10894,16, S-U-C-K,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00027,talk/kokuri.bin,10990,11004,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00028,talk/kokuri.bin,11238,11252,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00029,talk/kokuri.bin,11270,11288,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00030,talk/kokuri.bin,11342,11356,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00031,talk/kokuri.bin,11478,11492,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00032,talk/kokuri.bin,11526,11544,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00033,talk/kokuri.bin,11598,11612,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00034,talk/kokuri.bin,11630,11648,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00035,talk/kokuri.bin,11662,11676,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00036,talk/kokuri.bin,11694,11712,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00037,talk/kokuri.bin,11878,11892,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00038,talk/kokuri.bin,12046,12060,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00039,talk/kokuri.bin,12078,12096,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00040,talk/kokuri.bin,12150,12164,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00041,talk/kokuri.bin,12182,12200,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00042,talk/kokuri.bin,12254,12268,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00043,talk/kokuri.bin,12286,12304,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00044,talk/kokuri.bin,12318,12332,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00045,talk/kokuri.bin,12378,12394,16, C-R-A-P,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00046,talk/kokuri.bin,12646,12660,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00047,talk/kokuri.bin,12680,12696,16, G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00048,talk/kokuri.bin,12716,12752,36,<FF03>S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00049,talk/kokuri.bin,12774,12788,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00050,talk/kokuri.bin,12808,12824,16, G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00051,talk/kokuri.bin,12844,12880,36,<FF03>S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00052,talk/kokuri.bin,13142,13156,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00053,talk/kokuri.bin,13176,13192,16, G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00054,talk/kokuri.bin,13212,13248,36,<FF03>S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00055,talk/kokuri.bin,13270,13284,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00056,talk/kokuri.bin,13304,13320,16, G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00057,talk/kokuri.bin,13340,13376,36,<FF03>S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00058,talk/kokuri.bin,13398,13416,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00059,talk/kokuri.bin,13430,13448,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00060,talk/kokuri.bin,13638,13652,14,W-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00061,talk/kokuri.bin,13658,13674,16, K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00062,talk/kokuri.bin,13698,13714,16,<FF03>G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00063,talk/kokuri.bin,13734,13770,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00064,talk/kokuri.bin,13790,13804,14,W-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00065,talk/kokuri.bin,13810,13826,16, K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00066,talk/kokuri.bin,13850,13866,16,<FF03>G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00067,talk/kokuri.bin,13886,13922,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00068,talk/kokuri.bin,14190,14210,20, S-T-A-N-D,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00069,talk/kokuri.bin,14216,14236,20, S-I-G-H-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00070,talk/kokuri.bin,14274,14290,16, G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00071,talk/kokuri.bin,14310,14346,36,<FF03>S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00072,talk/kokuri.bin,14390,14410,20, S-T-A-N-D,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00073,talk/kokuri.bin,14416,14436,20, S-I-G-H-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00074,talk/kokuri.bin,14474,14490,16, G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00075,talk/kokuri.bin,14510,14546,36,<FF03>S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00076,talk/kokuri.bin,14566,14584,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00077,talk/kokuri.bin,14598,14616,18,C-R-U-E-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00078,talk/kokuri.bin,14790,14804,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00079,talk/kokuri.bin,14824,14840,16, G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00080,talk/kokuri.bin,14860,14896,36,<FF03>S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00081,talk/kokuri.bin,14918,14932,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00082,talk/kokuri.bin,14952,14968,16, G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00083,talk/kokuri.bin,14988,15024,36,<FF03>S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00084,talk/kokuri.bin,15286,15300,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00085,talk/kokuri.bin,15320,15336,16, G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00086,talk/kokuri.bin,15356,15392,36,<FF03>S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00087,talk/kokuri.bin,15414,15428,14,S-H-U-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00088,talk/kokuri.bin,15448,15464,16, G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00089,talk/kokuri.bin,15484,15520,36,<FF03>S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00090,talk/kokuri.bin,15686,15700,14,H-A-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00091,talk/kokuri.bin,15706,15722,16, C-A-R-D,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00092,talk/kokuri.bin,15742,15756,14,T-H-I-S,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00093,talk/kokuri.bin,15822,15844,22,R-E-A-L-L-Y,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00094,talk/kokuri.bin,15932,15948,16, W-E-A-K,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00095,talk/kokuri.bin,15966,15980,14,T-H-I-S,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00096,talk/kokuri.bin,16046,16060,14,G-O-O-D,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00097,talk/kokuri.bin,16094,16108,14,T-A-K-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00098,talk/kokuri.bin,16114,16130,16, T-H-I-S,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00099,talk/kokuri.bin,16136,16152,16, W-I-T-H,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00100,talk/kokuri.bin,16206,16224,18,H-U-R-R-Y,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00101,talk/kokuri.bin,16262,16286,24,<FF03>C-H-O-O-S-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00102,talk/kokuri.bin,16302,16316,14,T-A-K-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00103,talk/kokuri.bin,16322,16338,16, T-H-I-S,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00104,talk/kokuri.bin,16370,16386,16, H-O-M-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00105,talk/kokuri.bin,16422,16450,28, L-E-A-V-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00106,talk/kokuri.bin,16498,16514,16, G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00107,talk/kokuri.bin,16520,16536,16, T-H-I-S,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00108,talk/kokuri.bin,16566,16586,20, M-O-R-O-N,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00109,talk/kokuri.bin,16602,17272,670,"<FFEF>  ABCDEFGHIJKLMNOPQRSTUVWXYZ<FF02><FF04>Ugh, screw this. I get all irritated<FF03>if I don't talk normally sometimes!<FFEF>   <0056>yip<0056> I'm not in the mood to use the<FF03>board this time, so I'll just give you<FF03>my card!<FFEF>   You seem pretty amazing for a human!<FF03>Let's just talk like normal!<FFEF>  <0056>yip<0056> Not only that, I'll give you my<FF03>card, too! Gracious, aren't I?<FFEF>   ",,,pendiente
+talk_kokuri_00110,talk/kokuri.bin,17278,17292,14,L-I-K-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00111,talk/kokuri.bin,17350,17364,14,T-H-I-S,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00112,talk/kokuri.bin,17420,17478,58,"<FFEF> Alright, I'll talk normally",,,pendiente
+talk_kokuri_00113,talk/kokuri.bin,17484,17542,58, Just stop<FF03>scaring me so much,,,pendiente
+talk_kokuri_00114,talk/kokuri.bin,17548,17720,172,"<FFEF> C'mon, I'll give you my card! You won't<FF03>have any complaints if I do that, right?<FFEF>   ",,,pendiente
+talk_kokuri_00115,talk/kokuri.bin,17726,17740,14,G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00116,talk/kokuri.bin,17760,17796,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00117,talk/kokuri.bin,17814,17828,14,G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00118,talk/kokuri.bin,17848,17884,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00119,talk/kokuri.bin,17902,17920,18,G-I-M-M-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00120,talk/kokuri.bin,17926,17962,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00121,talk/kokuri.bin,17982,17996,14,H-A-N-D,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00122,talk/kokuri.bin,18002,18038,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00123,talk/kokuri.bin,18044,18060,16,<FF03>O-V-E-R,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00124,talk/kokuri.bin,18086,18102,16, W-A-N-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00125,talk/kokuri.bin,18108,18144,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00126,talk/kokuri.bin,18174,18190,16, W-A-N-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00127,talk/kokuri.bin,18196,18232,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00128,talk/kokuri.bin,18238,18488,250,"<FFF1><FFF5>   <0056>yip<0056> A full moon. This is so awesome.<FF02><FF04>Oh crap, I talked normally. Eh, oh well!<FF03><0056>yip<0056><FFF5> <0056>yip<0056> That full moon feels great",,,pendiente
+talk_kokuri_00129,talk/kokuri.bin,18494,18586,92,"<FF03>By the way, human, do you know who I am?<FFFD><00FF><F500> <FFEE>",,,pendiente
+talk_kokuri_00130,talk/kokuri.bin,18592,18606,14,G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00131,talk/kokuri.bin,18626,18662,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00132,talk/kokuri.bin,18680,18694,14,H-A-N-D,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00133,talk/kokuri.bin,18700,18736,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00134,talk/kokuri.bin,18742,18758,16,<FF03>O-V-E-R,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00135,talk/kokuri.bin,18776,18790,14,G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00136,talk/kokuri.bin,18810,18846,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00137,talk/kokuri.bin,18872,18888,16, W-A-N-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00138,talk/kokuri.bin,18894,18930,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00139,talk/kokuri.bin,18952,18966,14,G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00140,talk/kokuri.bin,18986,19022,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00141,talk/kokuri.bin,19040,19054,14,G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00142,talk/kokuri.bin,19074,19110,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00143,talk/kokuri.bin,19128,19142,14,H-A-N-D,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00144,talk/kokuri.bin,19148,19184,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00145,talk/kokuri.bin,19190,19206,16,<FF03>O-V-E-R,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00146,talk/kokuri.bin,19232,19248,16, W-A-N-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00147,talk/kokuri.bin,19254,19290,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00148,talk/kokuri.bin,19312,19326,14,H-A-N-D,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00149,talk/kokuri.bin,19332,19368,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00150,talk/kokuri.bin,19374,19390,16,<FF03>O-V-E-R,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00151,talk/kokuri.bin,19408,19422,14,G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00152,talk/kokuri.bin,19442,19478,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00153,talk/kokuri.bin,19504,19520,16, W-A-N-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00154,talk/kokuri.bin,19526,19562,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00155,talk/kokuri.bin,19584,19598,14,G-I-V-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00156,talk/kokuri.bin,19618,19654,36, S-O-M-E-T-H-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00157,talk/kokuri.bin,19670,19684,14,L-I-K-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00158,talk/kokuri.bin,19708,19724,16, W-H-A-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00159,talk/kokuri.bin,19762,19778,16, W-A-N-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00160,talk/kokuri.bin,19806,19828,22,B-O-R-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00161,talk/kokuri.bin,19882,19902,20, S-C-A-R-Y,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00162,talk/kokuri.bin,19908,19932,24, S-C-A-R-E-D,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00163,talk/kokuri.bin,19962,19978,16, N-I-C-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00164,talk/kokuri.bin,19998,20020,22,B-O-R-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00165,talk/kokuri.bin,20054,20070,16, W-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00166,talk/kokuri.bin,20076,20100,24,<FF03>L-I-S-T-E-N,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00167,talk/kokuri.bin,20120,20136,16, Y-O-U-R,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00168,talk/kokuri.bin,20142,20170,28,<FF03>R-E-Q-U-E-S-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00169,talk/kokuri.bin,20192,20208,16, W-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00170,talk/kokuri.bin,20214,20238,24, L-I-S-T-E-N,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00171,talk/kokuri.bin,20258,20276,18, <FF03>Y-O-U-R,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00172,talk/kokuri.bin,20282,20310,28, R-E-Q-U-E-S-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00173,talk/kokuri.bin,20354,20374,20, F-U-N-N-Y,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00174,talk/kokuri.bin,20380,20396,16, T-E-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00175,talk/kokuri.bin,20416,20432,16, W-H-A-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00176,talk/kokuri.bin,20456,20472,16, W-A-N-T,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00177,talk/kokuri.bin,20486,20504,18,W-E-I-R-D,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00178,talk/kokuri.bin,20510,20530,20, H-U-M-A-N,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00179,talk/kokuri.bin,20550,20564,14,L-A-M-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00180,talk/kokuri.bin,20590,20604,14,Y-O-U-R,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00181,talk/kokuri.bin,20618,20646,28, A-M-A-Z-I-N-G,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00182,talk/kokuri.bin,20670,20688,18,M-O-N-E-Y,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00183,talk/kokuri.bin,20718,20732,14,F-O-O-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00184,talk/kokuri.bin,20750,20780,30,C-O-M-P-L-E-T-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00185,talk/kokuri.bin,20786,20814,28, L-E-T-D-O-W-N,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00186,talk/kokuri.bin,20830,20844,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00187,talk/kokuri.bin,20894,20908,14,L-I-F-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00188,talk/kokuri.bin,20914,20934,20, S-T-O-N-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00189,talk/kokuri.bin,20966,20980,14,F-O-O-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00190,talk/kokuri.bin,20998,21028,30,C-O-M-P-L-E-T-E,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00191,talk/kokuri.bin,21034,21062,28, L-E-T-D-O-W-N,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00192,talk/kokuri.bin,21078,21092,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00193,talk/kokuri.bin,21158,21192,34,<FFEF><0056>yip<0056><FFF5>  <0056>whine<0056><FFF5>,,,pendiente
+talk_kokuri_00194,talk/kokuri.bin,21198,21212,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00195,talk/kokuri.bin,21262,21284,22,E-N-E-R-G-Y,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00196,talk/kokuri.bin,21318,21332,14,K-I-L-L,,sin palabras reconocibles (probable gráfico/opcode),revisar
+talk_kokuri_00197,talk/kokuri.bin,21366,21600,234," ?<FFF5>  No, that's Comet! I like her too,<FF03>you know!<FFF5>No, that's a brokery! Dude, don't mistake<FF03>me for one of those sharks",,,pendiente
+talk_kokuri_00198,talk/kokuri.bin,21606,24054,2448,"<FFF5>That's jiggery-pokery. You got it wrong,<FF03>so I'm gonna curse you.<FFF5>   That's jiggery-pokery. You got it wrong,<FF03>so I'm gonna curse you.<FFF5>   <785D> <905D> <B85D> <FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF>An alien?<FFF5>  An insurance agent?<FFF5>An insurance agent?<FFF5><9E00><9F00>  <0180>``<0180><FFFF><FFFF><FFFF>",,carácter repetido dominante (probable relleno gráfico),revisar

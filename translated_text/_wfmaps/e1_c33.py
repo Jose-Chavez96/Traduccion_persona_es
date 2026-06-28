@@ -1,0 +1,28 @@
+import sys; sys.path.insert(0,"/home/josechavez/persona_es/scripts")
+from wf_chunk_e1 import put,repl,dump
+put("e1_01178"," que dices?<FF02><FF04><FF1B>Brown<FF03>La mascara de la Snow Queen te mato y ahora<FF03>eres la guardiana de esta torre, eh?<FF02><FF04><FF1B>Brown<FF03>Bueno, si ya estas muerta, supongo que<FF03>no envejeceras, pero")
+put("e1_01179","<FF02><FF04><FF1B>Brown<FF03>Eso no vale tirar nuestras vidas,<FF03>nuestros futuros, en el mundo real!<FF02><FF04><FF1B>Brown<FF03>Perdona, pero voy a pasar de<FF03>esta movida de <0028>belleza eterna<0028>.<FF02><FF01><FF1B>Yuriko<FF03>C-Callate.<FF02><FF04><FF1B>Yuriko<FF03>Ustedes no entienden lo que es<FF03>ser una chica.<FF02><FF04><FF1B>Yuriko<FF03>Y-Y tu? Eres sin duda el mas lindo<FF03>del grupo!<FF02><FF04><FF1B>Yuriko<FF03>Me entiendes, no? Puedes tener<FF03>belleza eterna, aqui mismo.<FF02><FF04><FF1B>Yuriko<FF03>Seguiremos bellos")
+put("e1_01180","<FF02><FF01>  <FF1B>Ayase<FF03>Ni una palabra mas.<FF02><FF04><FF1B>Ayase<FF03>Ni se te ocurra pensar que tu y<FF03>yo somos del mismo tipo.<FF02><FF04><FF1B>Ayase<FF03>De veras, y digo DE VERAS, me<FF03>enfureces.<FF02><FF04><FF1B>Ayase<FF03>Jamas moriria solo por verme linda.<FF02><FF04><FF1B>Ayase<FF03>Sabes que? Renunciaste a morir.<FF02><FF04><FF1B>Ayase<FF03>Y a envejecer.<FF02><FF04><FF1B>Ayase<FF03>Y a vivir tu vida como alguien normal.<FF02><FF04><FF1B>Ayase<FF03>Renunciaste a todo lo que tenias.<FF02><FF04><FF1B>Ayase<FF03>Si, me oiste. Eres una perdedora que<FF03>tiro todas sus responsabilidades.<FF02><FF01><FF1B>Nanjo<FF03>Bien dicho, Yuka!<FF02><FF04><FF1B>Nanjo<FF03><0028>Hasta el gusano se revuelve,<0028> si!<FF02><FF04><FF1B>Nanjo<FF03>Rindete, Yuriko!<FF02><FF04><FF1B>Nanjo<FF03>Yuka es la mas parecida a ti de todos, y<FF03>ya ves que te rechazo del todo!<FF02><FF04><FF1B>Nanjo<FF03>En otras palabras, nadie compra la<FF03>tonteria que intentas vender!<FF02><FF01> <FF1B>Elly<FF03>Exacto. Eso fue genial.<FF02><FF04><FF1B>Elly<FF03>No lo habria dicho mejor,<FF03>Ayase. Me dejaste asombrada.<FF02><FF04><FF1B>Elly<FF03>Ahora bien, Yuriko")
+put("e1_01181","<FF02><FF04><FF1B>Elly<FF03>Ya que Ayase te rechazo, la que<FF03>mas podia identificarse contigo")
+put("e1_01182","<FF02><FF04><FF1B>Elly<FF03>Dudo que alguien aqui te de<FF03>su tiempo. Que haras ahora?<FF02><FF01> <FF1B>Yuriko<FF03>Pero")
+put("e1_01183","<FF02><FF04><FF1B>Yuriko<FF03>Solo trataba de ayudarlos.<FF02><FF04><FF1B>Yuriko<FF03>Solo queria reir un rato con<FF03>todos.<FF02><FF04><FF1B>Yuriko<FF03>Que de eso no entienden.?<FF02><FF04><FF1B>Yuriko<FF03>Ya esta. Se acabo la buena Yuriko.<FF02><FF04><FF1B>Yuriko<FF03>No saben lo fuerte que soy. Rueguen por<FF03>su vida si quieren--no escuchare.<FF02><FF04><FF1B>Yuriko<FF03>Los aplastare hasta que no quede nada.<FF03>Ni su alma.<FF02><FF01>  <FF1B>Yukino<FF03>Heh")
+repl("e1_01185",
+  ("It's the end of the line for you, Yuriko.<FF03>Be a good girl and accept it!","Es tu fin, Yuriko.<FF03>Se buena nina y aceptalo!"),
+  ("Or are you gonna go cry to the nice Snow<FF03>Queen who gave you eternal beauty?","O iras a llorarle a la Snow<FF03>Queen que te dio belleza eterna?"),
+  ("What's it gonna be, huh.?","Que sera, eh.?"))
+put("e1_01188","<FF02><FF04><FF1B>Yuriko<FF03>No me gusta la Snow Queen")
+put("e1_01189","<FF05><1E00><FF03>De veras no!<FF02><FF04><FF1B>Yuriko<FF03>Me alegra")
+put("e1_01190"," que acabara asi")
+put("e1_01191","<FF02><FF04><FF1B>Yuriko<FF03>Me diverti! Pude hablar<FF03>con ustedes")
+put("e1_01192"," una buena pelea")
+put("e1_01193","<FF02><FF04><FF1B>Yuriko<FF03>Y ahora")
+put("e1_01194"," <FF05><1E00>me vencieron")
+put("e1_01195","<FF02><FF04><FF1B>Yuriko<FF03>Es algo bueno! <FF05><1E00>Asi es")
+put("e1_01196"," humana!<FF02><FF04><FF1B>Yuriko<FF03>Y los humanos mueren")
+put("e1_01197","<FF02><FF04><FF1B>Yuriko<FF03>Fui tan tonta")
+put("e1_01198","<FF02><FF04><FF1B>Yuriko<FF03>Por que no entendi algo<FF03>tan facil")
+put("e1_01199","<FF02><FF01><FF1B>Nanjo<FF03>Que? <FF05><1E00>Estas llorando")
+put("e1_01200","<FF02><FF04><FF1B>Nanjo<FF03>Hmp! Basta de farsa! Que tramas<FF03>esta vez?<FF02><FF04><FF1B>Nanjo<FF03>Creiste que nos enganarias<FF03>tan facil?<FF02><FF04><FF1B>Nanjo<FF03>Ya basta de tus burlas!<FF02><FF04><FF1B>Nanjo<FF03>Tu, secuaz de la Snow Queen, dices nada<FF03>menos que no te gusta?<FF02><FF04><FF1B>Nanjo<FF03>Anda, a otro perro con ese hueso!<FF02><FF01><FF1B>Brown<FF03>Huh? Cielos, estas llorando?<FF02><FF04><FF1B>Brown<FF03>Admito que tengo debilidad por una linda<FF03>en llanto, pero se que finges!<FF02><FF04><FF1B>Brown<FF03>De seguro tramas algo otra vez!<FF03>Bueno, esta vez no funcionara.<FF02><FF04><FF1B>Brown<FF03>Claro, quiza enganarias a alguien<FF03>mas")
+put("e1_01201","<FF02><FF04><FF1B>Brown<FF03>Pero a mi no. Nnnno.<FF02><FF04><FF1B>Brown<FF03>Digo, eras toda de la Snow Queen,<FF03>y ahora dices que no te gusta?<FF02><FF04><FF1B>Brown<FF03>Hah. Esa es nueva para mi!<FF02><FF04><FF1B>Brown<FF03>Si vas a mentir, inventa algo<FF03>mejor que eso!<FF02><FF01><FF1B>Ayase<FF03>Idiota. <FF05><1E00>Llora de verdad.<FF02><FF04><FF1B>Ayase<FF03>No lo ves.? Ugh, con razon aun no<FF03>tienes novia.<FF02><FF04><FF1B>Ayase<FF03>No entiendes nada a las chicas.<FF02><FF04><FF1B>Ayase<FF03>Y vamos, Yukino, no seas tan dura<FF03>con ella. Dale una oportunidad!<FF02><FF04><FF1B>Ayase<FF03>No creo que sea tan mala! <FF05><1E00>Yo")
+put("e1_01202","<FF03>No se explicarlo, pero")
+dump("/home/josechavez/persona_es/translated_text/_wfmaps/e1_c33.json")

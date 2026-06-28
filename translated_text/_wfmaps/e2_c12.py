@@ -1,0 +1,21 @@
+import sys; sys.path.insert(0,"/home/josechavez/persona_es/scripts")
+from wf_chunk import put,repl,dump
+put("e2_00623","<FF02><FF04><FF1B>Mozo<FF03>Mi hijo, en cambio, puede irse<FF03>al diablo.<FF02><FF04><FF1B>Mozo<FF03>Hm")
+repl("e2_00624",
+ ("Oh, right, medicine!<FF03>Coming right up.","Oh, cierto, medicina!<FF03>Enseguida."),
+ ("Clerk","Mozo"),
+ ("Hmm? Hey, the counter is over here.","Hmm? Oye, el mostrador esta aqui."))
+put("e2_00628"," Elly es muy popular!<FF02><FF01>   <FF1B>Mark<FF03>Que quede claro<0006> mis fans vienen<FF03>de a montones.<FF02><FF01>  <FF1B>Nanjo<FF03>Que mente tan debil posees!<FF02><FF04><FF1B>Nanjo<FF03>Aunque la verdad envidio que<FF03>puedas estar tan calmado!<FF02><FF01>  <FF1B>Mark<FF03>Me gusta el casino, pero ahora<FF03>solo quiero llegar al templo!<FF02><FF01><FF1B>Mark<FF03>No creen que bloqueen el pasaje<FF03>de la fabrica mientras estamos aqui?<FF02><FF01>  <FF1B>Elly<FF03>Los hombres como el son tediosos")
+put("e2_00629","<FF02><FF01>  <FF1B>Ayase<FF03>Que tonto. Eriko no es ni de cerca<FF03>la debilucha que el cree.<FF02><FF01><FF1B>Yukino<FF03>Me asombra lo intrepida que<FF03>puede ser Eriko!<FF02><FF01>   <FF1B>Galan<FF03>Oye, te buscaba! No puedes<FF03>andar por ahi asi.<FF02><FF04><FF1B>Galan<FF03>No te asustan los demonios<FF03>por ahi? Vamos, dejame protegerte.<FF02><FF01> <FF1B>Elly<FF03>Bueno, que generoso de tu parte!<FF02><FF04><FF1B>Elly<FF03>Pero dado que mi conocimiento de<FF03>demonios es mucho mayor que el tuyo")
+put("e2_00631","Sin mencionar mi habilidad para<FF03>protegerme")
+put("e2_00632"," Molesta a <FF05><1000>alguien <FF05><1000>mas!<FF02><FF01>   <FF1B>Galan<FF03>Eh")
+put("e2_00634","<FF02><FF01><FF1B>Galan<FF03>Esa chica Elly no esta contigo? Aww,<FF03>iba a mostrarle lo rudo que soy")
+put("e2_00635","<FF02><FF01>   <FF1B>Galan<FF03>Bueno, eso fue un fracaso! Pero<FF03>tarde o temprano necesitara proteccion.<FF02><FF04><FF1B>Galan<FF03>Seguire intentando hasta entonces.<FF02><FF01>   <0044> La maquina parece estar averiada!<FF02><FF01>   <FF1B>Mozo<FF03>Holaaa. Que gusto verte.<FF02><FF04><FF1B>Mozo<FF03>Si buscas cambiar dinero por<FF03>fichas, soy tu hombre!<FF02><FF04><FF1B>Mozo<FF03>No quieres comprar fichas? Hmmmm?<FF02><FF0E> <FF01><FF1B>Mozo<FF03>Cambio tus fichas por objetos, si<FF03>es lo que se te antoja")
+put("e2_00651"," es bastante divertido.<FF02><FF01><FF1B>Mark<FF03>Confio mucho en mis dotes de poker!<FF03>Que tal? Me dejas intentar?<FF02><FF01>   <FF1B>Nanjo<FF03>Hay un plan mas profundo tras tus<FF03>acciones, o")
+put("e2_00652","<FF02><FF04><FF1B>Nanjo<FF03>Soy incapaz de entender tus<FF03>motivos para estar aqui!<FF02><FF01><FF1B>Mark<FF03>Lo siento por el resto de los<FF03>Tailors, pero tengo lugares adonde ir!<FF02><FF01>  <FF1B>Elly<FF03>El aire es tan desagradable aqui!<FF02><FF01>   <FF1B>Ayase<FF03>Me gustan las tragamonedas de aqui!<FF03>Son diferentes, sabes?<FF02><FF01><FF1B>Yukino<FF03>El Templo Alaya, chicos! Odio insistir,<FF03>pero no lo olviden!<FF02><FF01><FF1B>Alegre<FF03>Jiji")
+put("e2_00653"," No shon<FF03>demonioh")
+put("e2_00654","<FF02><FF04><FF1B>Alegre<FF03>Quee laastimaa")
+put("e2_00655"," Los habriamos golpeado<FF03>si lo fueran.<FF02><FF04><FF1B>Alegre<FF03>Y luego los habria puesto a<FF03>trabajar para mi. Jiii.<FF02><FF01><FF1B>Rubio<FF03>Ay rayos, que voy a hacer? No sirvo<FF03>para pelear con demonios!<FF02><FF04><FF1B>Rubio<FF03>Y Mark tampoco va a estar!<FF03>Lo digo, tengo miedo!<FF02><FF01>   <FF1B>Mark<FF03>Amigo, no te asustes por<FF03>algo asi!<FF02><FF04><FF1B>Mark<FF03>Te dejo a los Tailors en tus manos<FF03>mientras no estoy!<FF02><FF01>  <FF1B>Mozo<FF03>Holaaa. Que gusto verte.<FF02><FF04><FF1B>Mozo<FF03>Si buscas cambiar dinero por<FF03>fichas, soy tu hombre!<FF02><FF04><FF1B>Mozo<FF03>No quieres comprar fichas? Hmmmm?<FF02><FF0E> <FF01><FF1B>Mozo<FF03>Cambio tus fichas por objetos, si<FF03>es lo que se te antoja")
+put("e2_00669","<FF03>A quien se refieren?<FF02><FF01> <FF1B>Nanjo<FF03>Preferiria evitar ver al<FF03>doctor por un tiempo")
+put("e2_00670","<FF02><FF01>  <FF1B>Mark<FF03>Maki aun no recuerda a su mama,<FF03>verdad?<FF02><FF04><FF1B>Mark<FF03>Si parecia haber algo<FF03>entre ellas")
+dump("/home/josechavez/persona_es/translated_text/_wfmaps/e2_c12.json")

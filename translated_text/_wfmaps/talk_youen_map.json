@@ -1,0 +1,1506 @@
+{
+ "talk_youen_00001": {
+  "t": " no PARECE<FF03>que mientas",
+  "shortened": true
+ },
+ "talk_youen_00002": {
+  "t": "<FFF5> Vaya, que joven",
+  "shortened": true
+ },
+ "talk_youen_00003": {
+  "t": " tienes una cabeza<FF03>bien fria para convencer a un demonio.<FFFD><00FF><F500>   Oye. No digas lo primero que se<FF03>te ocurre.<FFF5>  Algo huele mal",
+  "shortened": true
+ },
+ "talk_youen_00004": {
+  "t": " De verdad<FF03>dices lo que sientes?<FFFD><01FF><F500>Digas lo que digas, igual te intereso,<FF03>no? Con una figura como la mia,<FF03>seguro que si.<FFF5>  Asi que por eso necesitas mi ayuda.<FFFD><02FF><F500>  Ya veo! Tienes tanta confianza en<FF03>ti? Me encantaria ponerlo<FF03>a prueba.<FFF5>Pareces fuerte! Asi que",
+  "shortened": true
+ },
+ "talk_youen_00005": {
+  "t": " que me<FF03>vas a hacer, mmm?<FFFD><03FF><F500>  Oh, ah si? Si prefieres, no me<FF03>molesta pelear contigo sin contenerme.<FFF5>  Bueno, al menos tienes una<FF03>labia de oro! Donde aprendiste a hablar<FF03>asi?<FFFD><04FF><F500>Por que me amenazas",
+  "shortened": true
+ },
+ "talk_youen_00006": {
+  "t": "<FFF5> No pongas caras tan feas",
+  "shortened": true
+ },
+ "talk_youen_00008": {
+  "t": " no PARECE<FF03>que mientas",
+  "shortened": true
+ },
+ "talk_youen_00009": {
+  "t": "<FFF5>   Joven, pero tienes agallas,<FF03>invitando a un demonio a venir!<FFFD><06FF><F500>   Oye. No digas lo primero que se<FF03>te ocurre.<FFF5>  Algo huele mal",
+  "shortened": true
+ },
+ "talk_youen_00010": {
+  "t": " De verdad<FF03>dices lo que sientes?<FFFD><07FF><F500>No me va ese tipo de cosa",
+  "shortened": true
+ },
+ "talk_youen_00011": {
+  "t": "<FFF5> Psh. Solo me endulzas para<FF03>poder secuestrarme.<FFFD><08FF><F500>  Tienes linda voz para ser humano",
+  "shortened": true
+ },
+ "talk_youen_00012": {
+  "t": "<FF03>Oigamos como suena cuando<FF03>gritas.<FFF5> Es un reto a una colega cantante?<FF03>Entonces acepto.<FFFD><09FF><F500>Eres",
+  "shortened": true
+ },
+ "talk_youen_00013": {
+  "t": " mejor que yo",
+  "shortened": true
+ },
+ "talk_youen_00014": {
+  "t": " Que se<FF03>supone que haga?<FFF5> Me matas las neuronas.<FF03>Para, por favor.<FFFD><0AFF><F500> Te falta mucho para alcanzarme<FF03>a mi",
+  "shortened": true
+ },
+ "talk_youen_00015": {
+  "t": " pero eres bastante bueno.<FFF5>  <0056>dreamy sigh<0056><FFFD><0BFF><F500>Me quieres? Hmm",
+  "shortened": true
+ },
+ "talk_youen_00016": {
+  "t": " no PARECE<FF03>que mientas",
+  "shortened": true
+ },
+ "talk_youen_00017": {
+  "t": "<FFF5> Vaya, que joven",
+  "shortened": true
+ },
+ "talk_youen_00018": {
+  "t": " tienes una cabeza<FF03>bien fria para pedir ayuda a un demonio.<FFFD><0CFF><F500> Oye. No digas lo primero que se<FF03>te ocurre.<FFF5>  Algo huele mal",
+  "shortened": true
+ },
+ "talk_youen_00019": {
+  "t": " De verdad<FF03>dices lo que sientes?<FFFD><0DFF><F500>Digas lo que digas, igual te intereso,<FF03>no? Con una figura como la mia,<FF03>seguro que si.<FFF5>  Asi que por eso necesitas mi ayuda.<FFFD><0EFF><F500>  No tienes orgullo? Odio a las chicas<FF03>timidas como tu.<FFF5> Deja de intentar lo obvio. No creas que<FF03>no se lo que de verdad buscas.<FFFD><0FFF><F500>  Oye, basta",
+  "shortened": true
+ },
+ "talk_youen_00020": {
+  "t": " Me das escalofrios",
+  "shortened": true
+ },
+ "talk_youen_00021": {
+  "t": "<FFF5>  Oh, no soy nada comparada con los<FF03>demas! Y te ves tan fuerte<FF03>como siempre, <FFF9>",
+  "shortened": true
+ },
+ "talk_youen_00022": {
+  "t": "<FFFD><10FF><F500> Si. Asi deben ser las cosas.<FF03>Arrodillate ante mi.<FFF5> Ahhh",
+  "shortened": true
+ },
+ "talk_youen_00023": {
+  "t": " Por que soy tan perfecta?<FF03>Mi grandeza me asusta",
+  "shortened": true
+ },
+ "talk_youen_00024": {
+  "t": "<FFFD><11FF><F500>O sea, me quieres? Hmm",
+  "shortened": true
+ },
+ "talk_youen_00025": {
+  "t": "<FF03>no PARECE que mientas",
+  "shortened": true
+ },
+ "talk_youen_00026": {
+  "t": "<FFF5>   Vaya, que joven eres, pero piensas<FF03>en cosas asi, tambien! Bien por ti.<FFFD><12FF><F500>  Oye. No digas lo primero que se<FF03>te ocurre.<FFF5>  Algo huele mal",
+  "shortened": true
+ },
+ "talk_youen_00027": {
+  "t": " De verdad<FF03>dices lo que sientes?<FFFD><13FF><F500>Digas lo que digas, igual te intereso,<FF03>no? Con una figura como la mia,<FF03>seguro que si.<FFF5>  Asi que al final, necesitas<FF03>mi ayuda.<FFFD><14FF><F500>Pareces tener una comprension innata<FF03>de tu verdadera fuerza! Eso es muy<FF03>bueno!<FFF5>  Oh, vaya",
+  "shortened": true
+ },
+ "talk_youen_00028": {
+  "t": " Temia que fueras tonto,<FF03>pero eres muy listo!<FFFD><15FF><F500>No tienes orgullo? Odio a las chicas<FF03>timidas como tu.<FFF5> Deja de intentar lo obvio. No creas que<FF03>no se lo que de verdad buscas.<FFFD><16FF><F500>  Si. Asi deben ser las cosas.<FF03>Arrodillate ante mi.<FFF5> Ahhh",
+  "shortened": true
+ },
+ "talk_youen_00029": {
+  "t": " Por que soy tan perfecta?<FF03>Mi grandeza me asusta",
+  "shortened": true
+ },
+ "talk_youen_00030": {
+  "t": "<FFFD><17FF><F500>Coqueteas a un demonio? Que chico tan<FF03>raro",
+  "shortened": true
+ },
+ "talk_youen_00031": {
+  "t": " Aun asi, eres lindo.<FFF5>Yo",
+  "shortened": true
+ },
+ "talk_youen_00032": {
+  "t": " Supongo que no me molestaria cenar<FF03>contigo",
+  "shortened": true
+ },
+ "talk_youen_00033": {
+  "t": "<FFFD><18FF><F500>   Oye. Estoy fuera de tu liga, nino.<FFF5>  No soy la conquista facil que crees.<FFFD><19FF><F500>  Tengo mieeedo.<FFF5>   Tengo mieeedo.<FFF5>   En seriooo? Awww, ni modo. Pero ya<FF03>tengo novio, asi que",
+  "shortened": true
+ },
+ "talk_youen_00034": {
+  "t": " perdon!<FFF5> Me coqueteas? Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00035": {
+  "t": "<FF03>Que hago",
+  "shortened": true
+ },
+ "talk_youen_00036": {
+  "t": "<FFFD><1AFF><F500> Alguien como tu de hecho es muy listo!<FFF5>   Que fue eso?<FFFD><1BFF><F500>   Ya basta.<FFF5>  Que tiene de interesante eso?<FFFD>",
+  "shortened": true
+ },
+ "talk_youen_00038": {
+  "t": "<FFF5> Que pasa.? De repente soltaste<FF03>un chiste.<FFFD><1DFF><F500>  Eres bien gracioso. No tanto como tu<FF03>cara, igual!<FFF5>Ni modo, eres gracioso. Quieres debutar como<FF03>pro? Sere tu manager!<FFFD><1EFF><F500>  Huh, ah si",
+  "shortened": true
+ },
+ "talk_youen_00039": {
+  "t": " El mundo humano<FF03>suena complicado tambien!<FFF5>No tienes noticias mas interesantes?<FFFD><1FFF><F500>No me importa eso! Si vas a<FF03>contar una historia, que sea mas<FF03>interesante.<FFF5>No es el lugar para charla.<FF03>Tomate esto en serio.<FFFD><20FF><F500>Entonces te cuento una historia interesante<FF03>despues, tambien.<FFF5>   A toda chica le encanta el chisme.<FFFD><21FF><F500>   Todo eso, solo por mi atencion?<FF03>Eres tan nino",
+  "shortened": true
+ },
+ "talk_youen_00040": {
+  "t": "<FFF5> Que fue eso?<FFFD><22FF><F500>   Q-Que diablos.? Cielos. No me sorprendas<FF03>asi.<FFF5> Para que fue eso.? Tarado.<FFFD><23FF><F500>   Eeeeek. Q-Que fue eso?<FFF5>  No hare nada, si? Relajate",
+  "shortened": true
+ },
+ "talk_youen_00041": {
+  "t": "<FFFD><24FF><F500>  Es un regalo para mi? Oooh, apura<FF03>y damelo.<FFF5> Rico, eh? Quiero mas.<FFFD><25FF><F500>  Tratas de convencerme con regalos?<FF03>Hah. No me ganas asi.<FFF5> Si debes darme un regalo, que sea<FF03>mejor que ese.<FFFD><26FF><F500>  Hace tanto que no recibo un<FF03>regalo",
+  "shortened": true
+ },
+ "talk_youen_00042": {
+  "t": " Que gran dia.<FFF5>  Se siente genial recibir regalos.<FFFD><27FF><F500> O sea, me quieres? Hmm",
+  "shortened": true
+ },
+ "talk_youen_00043": {
+  "t": "<FF03>no PARECE que mientas",
+  "shortened": true
+ },
+ "talk_youen_00044": {
+  "t": "<FFF5> Vaya, que joven",
+  "shortened": true
+ },
+ "talk_youen_00045": {
+  "t": " pero pareces bien<FF03>confiable! Impresionante.<FFFD><28FF><F500>   Oye. No digas lo primero que se<FF03>te ocurre.<FFF5>  Algo huele mal",
+  "shortened": true
+ },
+ "talk_youen_00046": {
+  "t": " De verdad<FF03>dices lo que sientes?<FFFD><29FF><F500>Digas lo que digas, igual te intereso,<FF03>no? Con una figura como la mia,<FF03>seguro que si.<FFF5>  Asi que por eso necesitas mi ayuda.<FFFD><2AFF><F500>  Ya veo! Tienes tanta confianza en<FF03>ti? Me encantaria ponerlo<FF03>a prueba.<FFF5>Pareces fuerte! Asi que",
+  "shortened": true
+ },
+ "talk_youen_00047": {
+  "t": " que me<FF03>vas a hacer, mmm?<FFFD><2BFF><F500>  Oh, ah si? Bueno, no me molesta<FF03>pelear contigo.<FFF5>Bueno, al menos tienes una<FF03>labia de oro! Donde aprendiste a hablar<FF03>asi?<FFFD><2CFF><F500>No tienes que amenazarme asi",
+  "shortened": true
+ },
+ "talk_youen_00048": {
+  "t": "<FFF5> No pongas caras tan feas",
+  "shortened": true
+ },
+ "talk_youen_00049": {
+  "t": "<FFFD><2DFF><F500>   Tienes una bocota para ser mocoso",
+  "shortened": true
+ },
+ "talk_youen_00050": {
+  "t": "<FF03>Bueno, te perdono esta vez!<FFF5>   Si no aprendes al menos unos<FF03>modales, no viviras mucho!<FFFD><2EFF><F500> Actuas de adulto, pero te falta<FF03>mucho de como tratar a las mujeres.<FFF5>He vivido mucho mas que tu.<FF03>Cuida como me hablas.<FFFD><2FFF><F500> Me sonrojare si sigues elogiandome<FF03>tanto.<FFF5> Jeje",
+  "shortened": true
+ },
+ "talk_youen_00051": {
+  "t": " eres listo.<FFFD><30FF><F500>  No mal, nada mal. Soy buena<FF03>bailando sexy tambien, sabes.<FFF5>  Eres bueno. Ensename esa tambien cuando<FF03>nos veamos de nuevo.<FFFD><31FF><F500>   No estas listo para el estrellato aun!<FF03>Vuelve cuando practiques mas.<FFF5> Oye, que haces.? Necesitas<FF03>usar el bano?<FFFD><32FF><F500>Oh, que maravilla. Voy a<FF03>bailar, tambien.<FFF5>Estoy tan emocionada, podria bailar la<FF03>noche entera.<FFFD><33FF><F500>Ya veo! Tienes tanta confianza en<FF03>ti? Me encantaria ponerlo<FF03>a prueba.<FFF5>Pareces fuerte! Asi que",
+  "shortened": true
+ },
+ "talk_youen_00052": {
+  "t": " que me<FF03>vas a hacer, mmm?<FFFD><34FF><F500>  Oh, ah si? Bueno, no me molesta<FF03>pelear contigo.<FFF5>Bueno, al menos tienes una<FF03>labia de oro! Donde aprendiste a hablar<FF03>asi?<FFFD><35FF><F500>No tienes que amenazarme asi",
+  "shortened": true
+ },
+ "talk_youen_00053": {
+  "t": "<FFF5> No pongas caras tan feas",
+  "shortened": true
+ },
+ "talk_youen_00054": {
+  "t": "<FFFD><36FF><F500>   Tengo mal el maquillaje?<FFF5>Si sigues asi, me haras un hoyo<FF03>de tanto mirar.<FFFD><37FF><F500>   Que es esa mirada? No me gusta.<FFF5>   Que miras.?<FFFD><38FF><F500> Mirate, mirandome tan embelesado",
+  "shortened": true
+ },
+ "talk_youen_00055": {
+  "t": "<FF03>Bien dicho que la belleza es pecado!<FFF5>  Que pasa? Nunca viste<FF03>a alguien tan radiante como yo?<FFFD><39FF><F500>  Fue mentira? Nah",
+  "shortened": true
+ },
+ "talk_youen_00056": {
+  "t": " no<FF03>parecia",
+  "shortened": true
+ },
+ "talk_youen_00057": {
+  "t": "<FFF5>  Vaya, ese es el tipo de vida que has llevado?<FF03>Has pasado por mucho, no?<FFFD><3AFF><F500>Oye. No digas lo primero que se<FF03>te ocurre.<FFF5>  Algo huele mal",
+  "shortened": true
+ },
+ "talk_youen_00058": {
+  "t": " De verdad<FF03>dices lo que sientes?<FFFD><3BFF><F500>Digas lo que digas, igual te intereso,<FF03>no? Con una figura como la mia,<FF03>seguro que si.<FFF5>  No lo entiendo bien, pero veo que<FF03>necesitas mi ayuda.<FFFD><3CFF><F500>   Esa historia es tonteria. Hoy todo<FF03>se puede probar con ciencia.<FFF5>Tengo una historia asi tambien. En serio,<FF03>no crees que es muy grosero?<FFFD><3DFF><F500>N-No",
+  "shortened": true
+ },
+ "talk_youen_00059": {
+  "t": " basta. Por que fuiste a contar<FF03>una historia asi.?<FFF5> No soporto historias asi.<FF03>Por favor para.<FFFD><3EFF><F500>   Se una mucho mas terror! Quieres oir?<FFFD><3FFF><F500> Conoces muchas historias asi?<FF03>Entonces conoces buenos lugares embrujados<FF03>para retar a la gente a entrar?<FFFD><40FF><F500>Vaya, que voz tan asombrosa! De verdad<FF03>puedes hacer de todo.<FFF5>  Hagamos un duo la proxima. Yo canto<FF03>la parte de Corin.<FFFD><41FF><F500>  Tienes linda voz para ser humano",
+  "shortened": true
+ },
+ "talk_youen_00060": {
+  "t": "<FF03>Oigamos como suena cuando<FF03>gritas.<FFF5> Es un reto a una colega cantante?<FF03>Entonces acepto.<FFFD><42FF><F500>Te falta mucho para alcanzarme<FF03>a mi",
+  "shortened": true
+ },
+ "talk_youen_00061": {
+  "t": " pero eres bastante bueno.<FFF5>   <0056>dreamy sigh<0056><FFFD><43FF><F500>Este si es enfoque interesante.<FF03>Que es lo que planeas, Mami?<FFF5>   Jeje",
+  "shortened": true
+ },
+ "talk_youen_00062": {
+  "t": " Parezco asi de joven?<FFFD><44FF><F500>  Crees que sabes tanto, eh?<FF03>Vuelve a verme en cien anos.<FFF5>  Que grosero. Ni muestras modales<FF03>al negociar.<FFFD><45FF><F500>  Que raro",
+  "shortened": true
+ },
+ "talk_youen_00063": {
+  "t": " Por algo me siento<FF03>nostalgica!<FFF5>   Squiii. Esto es divertido.<FFFD><46FF><F500> Me quieres? Hmm",
+  "shortened": true
+ },
+ "talk_youen_00064": {
+  "t": " no PARECE<FF03>que mientas",
+  "shortened": true
+ },
+ "talk_youen_00065": {
+  "t": "<FFF5>   Joven, pero tienes agallas,<FF03>invitando a un demonio a venir!<FFFD><47FF><F500>   Oye. No digas lo primero que se<FF03>te ocurre.<FFF5>  Algo huele mal",
+  "shortened": true
+ },
+ "talk_youen_00066": {
+  "t": " De verdad<FF03>dices lo que sientes?<FFFD><48FF><F500>Digas lo que digas, igual te intereso,<FF03>no? Con una figura como la mia,<FF03>seguro que si.<FFF5>  Asi que por eso necesitas mi ayuda.<FFFD><49FF><F500>  Tienes una bocota para ser mocoso",
+  "shortened": true
+ },
+ "talk_youen_00067": {
+  "t": "<FF03>Bueno, te perdono esta vez!<FFF5>   Si no aprendes al menos unos<FF03>modales, no viviras mucho!<FFFD><4AFF><F500> Crees que sabes tanto, eh?<FF03>Vuelve a verme en cien anos.<FFF5>  Que grosero. No tienes modales.<FFFD><4BFF><F500>E-Eso no es cierto",
+  "shortened": true
+ },
+ "talk_youen_00068": {
+  "t": " <0056>sniff<0056><FFF5>  Q-Que pasa aqui.? Solo porque<FF03>eres joven y linda",
+  "shortened": true
+ },
+ "talk_youen_00069": {
+  "t": " Grrrr. Oooh,<FF03>que envidia.<FFFD><4CFF><F500> Eres una chica rara! Linda, igual.<FFF5> Yo",
+  "shortened": true
+ },
+ "talk_youen_00070": {
+  "t": " Supongo que no me molestaria salir<FF03>a cenar contigo",
+  "shortened": true
+ },
+ "talk_youen_00071": {
+  "t": "<FFFD><4DFF><F500> Perdon, pero solo me interesan los hombres.<FFF5> Entonces ven aca. Te mostrare amor,<FF03>estilo <FFF3>.<FFFD><4EFF><F500>Oooh, en serio? Nos vemos luego, pues.<FFF5> Seguro? Te tomare la<FF03>palabra, sabes",
+  "shortened": true
+ },
+ "talk_youen_00072": {
+  "t": "<FFFD><4FFF><F500>Pobrecito",
+  "shortened": true
+ },
+ "talk_youen_00073": {
+  "t": " tienes que aguantar.<FFF5> Mi",
+  "shortened": true
+ },
+ "talk_youen_00074": {
+  "t": " pasas por mucho para<FF03>alguien de tu edad!<FFFD><50FF><F500>   Las chicas como tu siempre usan las<FF03>tacticas mas trilladas. Por que no intentas<FF03>algo original para variar?<FFF5> Oh, todo demonio te conoce",
+  "shortened": true
+ },
+ "talk_youen_00075": {
+  "t": " Ayase,<FF03>la Pseudo-Llorona.<FFFD><51FF><F500>   Oye, no llores. Haces que parezca<FF03>que te molesto.<FFF5>Huh? Anda, no tienes que llorar",
+  "shortened": true
+ },
+ "talk_youen_00076": {
+  "t": "<FFFD><52FF><F500> Ya veo! Tienes tanta confianza en<FF03>ti? Me encantaria ponerlo<FF03>a prueba.<FFF5>Pareces fuerte! Asi que",
+  "shortened": true
+ },
+ "talk_youen_00077": {
+  "t": " que me<FF03>vas a hacer, mmm?<FFFD><53FF><F500>  Oh, ah si? Bueno, no me molesta<FF03>pelear contigo.<FFF5>Bueno, al menos tienes una<FF03>labia de oro! Donde aprendiste a hablar<FF03>asi?<FFFD><54FF><F500>No tienes que amenazarme asi",
+  "shortened": true
+ },
+ "talk_youen_00078": {
+  "t": "<FFF5> No pongas caras tan feas",
+  "shortened": true
+ },
+ "talk_youen_00079": {
+  "t": "<FFFD><55FF><F500>   Crees que sabes tanto, eh?<FF03>Vuelve a verme en cien anos.<FFF5>  Que grosero. Ni muestras modales<FF03>al negociar.<FFFD><56FF><F500>  U-Um, lo siento",
+  "shortened": true
+ },
+ "talk_youen_00080": {
+  "t": "<FFF5> No hice nada",
+  "shortened": true
+ },
+ "talk_youen_00081": {
+  "t": " Por que me<FF03>tratas asi.?<FFFD><57FF><F500>  Esta es una experiencia nueva para mi",
+  "shortened": true
+ },
+ "talk_youen_00082": {
+  "t": "<FF03>Me gusta, igual.<FFF5>  Lo siento, Ama",
+  "shortened": true
+ },
+ "talk_youen_00083": {
+  "t": " Molestame mas.<FFFD><58FF><F500>No parece que lo estes solo<FF03>inventando",
+  "shortened": true
+ },
+ "talk_youen_00084": {
+  "t": "<FFF5> Vaya, que joven",
+  "shortened": true
+ },
+ "talk_youen_00085": {
+  "t": " pero tienes una<FF03>cabeza bien fria! Bien por ti.<FFFD><59FF><F500> Oye. No digas lo primero que se<FF03>te ocurre.<FFF5>  Algo huele mal",
+  "shortened": true
+ },
+ "talk_youen_00086": {
+  "t": " De verdad<FF03>dices lo que sientes?<FFFD><5AFF><F500>Digas lo que digas, igual te intereso,<FF03>no? Con una figura como la mia,<FF03>seguro que si.<FFF5>  Asi que basicamente, por eso necesitas<FF03>mi ayuda.<FFFD><5BFF><F500>   Crees que sabes tanto, eh?<FF03>Vuelve a verme en cien anos.<FFF5>  Que grosero. No tienes modales.<FFFD><5CFF><F500>U-Um, lo siento",
+  "shortened": true
+ },
+ "talk_youen_00087": {
+  "t": "<FFF5> No hice nada",
+  "shortened": true
+ },
+ "talk_youen_00088": {
+  "t": " Por que me<FF03>tratas asi.?<FFFD><5DFF><F500>  Jeje. Eres una chica bien revoltosa!<FFF5>  Lo siento, Ama",
+  "shortened": true
+ },
+ "talk_youen_00089": {
+  "t": " Molestame mas.<FFFD><5EFF><F500>Tienes agallas! Si eso es real,<FF03>entonces es bien asombroso!<FFF5> Oh? No vas a negociar<FF03>conmigo?<FFFD><5FFF><F500>   Tienes agallas, pero esa no es<FF03>el tipo de actitud que deberias<FF03>mostrarme.<FFF5> Tratas de ignorarme? Como osas<FF03>burlarte de mi.<FFFD><60FF><F500> ",
+  "shortened": true
+ },
+ "talk_youen_00090": {
+  "t": "No hice nada, verdad?<FFF5>Um",
+  "shortened": true
+ },
+ "talk_youen_00091": {
+  "t": " Um, perdon por eso",
+  "shortened": true
+ },
+ "talk_youen_00092": {
+  "t": "<FFFD><61FF><F500>Tienes agallas! Si eso es real,<FF03>entonces es bien asombroso!<FFF5> Oh? No vas a negociar<FF03>conmigo?<FFFD><62FF><F500>   Tienes agallas, pero esa no es<FF03>el tipo de actitud que deberias<FF03>mostrarme.<FFF5> Tratas de ignorarme? Como osas<FF03>burlarte de mi.<FFFD><63FF><F500> ",
+  "shortened": true
+ },
+ "talk_youen_00093": {
+  "t": "No hice nada, verdad?<FFF5>Um",
+  "shortened": true
+ },
+ "talk_youen_00094": {
+  "t": " Um, perdon por eso",
+  "shortened": true
+ },
+ "talk_youen_00095": {
+  "t": "<FFFD><64FF><F500>Ya veo! Tienes tanta confianza en<FF03>ti? Me encantaria ponerlo<FF03>a prueba.<FFF5>Pareces fuerte! Asi que",
+  "shortened": true
+ },
+ "talk_youen_00096": {
+  "t": " que me<FF03>vas a hacer, mmm?<FFFD><65FF><F500>  Oh, ah si? Bueno, no me molesta<FF03>pelear contigo.<FFF5>Bueno, al menos tienes una<FF03>labia de oro! Donde aprendiste a hablar<FF03>asi?<FFFD><66FF><F500>No tienes que amenazarme asi",
+  "shortened": true
+ },
+ "talk_youen_00097": {
+  "t": "<FFF5> No pongas caras tan feas",
+  "shortened": true
+ },
+ "talk_youen_00098": {
+  "t": "<FFFD><67FF><F500>   Q-Que diablos.? Cielos. No me sorprendas<FF03>asi.<FFF5> Para que fue eso.? Tarado.<FFFD><68FF><F500>   Eeeeek. Q-Que fue eso?<FFF5>  No hare nada, si? Relajate",
+  "shortened": true
+ },
+ "talk_youen_00099": {
+  "t": "<FFFD><69FF><F500>Que chico raro",
+  "shortened": true
+ },
+ "talk_youen_00100": {
+  "t": " Aun asi, eres<FF03>lindo.<FFF5>   Eres peligroso. Pero eso me gusta en<FF03>un hombre.<FFFD><6AFF><F500>  Todo eso, solo por mi atencion?<FF03>Eres tan nino",
+  "shortened": true
+ },
+ "talk_youen_00101": {
+  "t": "<FFF5> Wooooow. Sabes hechizos.?<FFFD><6BFF><F500>No lo puedo creer",
+  "shortened": true
+ },
+ "talk_youen_00102": {
+  "t": "humano,<FF03>con hechizos",
+  "shortened": true
+ },
+ "talk_youen_00103": {
+  "t": "<FFF5> No hice nada, verdad",
+  "shortened": true
+ },
+ "talk_youen_00104": {
+  "t": " No me<FF03>haras desaparecer ni nada?<FFFD><6CFF><F500>  Wooooow. Puedes sacar algo de<FF03>ahi? Creo que me saque el premio gordo<FF03>con esta negociacion.<FFF5>  No seras ese mago famoso, verdad?<FF03>Ummm",
+  "shortened": true
+ },
+ "talk_youen_00105": {
+  "t": " Hu-dini?<FFFD><6DFF><F500>  Es una historia interesante. Oye, cuentame<FF03>mas.<FFF5>Has de estar muy interesado en mi si<FF03>dices todo eso.<FFF5> No me molesta oirte, pero<FF03>tienes que hacer algo por mi primero.<FFF1><FFF5>  Esto no es divertido",
+  "shortened": true
+ },
+ "talk_youen_00106": {
+  "t": " Que decepcion!<FFF5>  Deja de seguir y seguir con esa<FF03>tonta porqueria.<FFF5>   Te callas ya.? Me estas haciendo<FF03>enojar. Dame algo o si no.<FFF1><FFF5>   Pones esa mirada de miedo cuando<FF03>me hablas",
+  "shortened": true
+ },
+ "talk_youen_00107": {
+  "t": "Estas bajo el control de<FF03>alguien",
+  "shortened": true
+ },
+ "talk_youen_00108": {
+  "t": "<FFF5>Si eso es lo que quieres hablar,<FF03>creo que alguien mas lo entenderia<FF03>mejor que yo",
+  "shortened": true
+ },
+ "talk_youen_00110": {
+  "t": " Hace rato que no me sentia tan<FF03>bien!<FFF5> Jeje",
+  "shortened": true
+ },
+ "talk_youen_00111": {
+  "t": " Dices cosas tan lindas.<FFF5>Eres bueno para charlar",
+  "shortened": true
+ },
+ "talk_youen_00112": {
+  "t": "<FF03>Quisiera charlar un poco mas!<FFF5>Me quieres? Jeje",
+  "shortened": true
+ },
+ "talk_youen_00113": {
+  "t": "Que<FF03>hago",
+  "shortened": true
+ },
+ "talk_youen_00114": {
+  "t": "<FFF5>Me gusta como empezaste esto! Si me das<FF03>algo, quizas de verdad oiga<FF03>lo que tengas que decir!<FFF1><FFF5> Prestarte mi poder",
+  "shortened": true
+ },
+ "talk_youen_00115": {
+  "t": " Pero aun eres<FF03>solo un nino",
+  "shortened": true
+ },
+ "talk_youen_00116": {
+  "t": " Dejame pensarlo!<FFF5>No me interesan los ninos como tu en<FF03>lo mas minimo!<FFF5>  Aburrido. Si quieres negociar, haz<FF03>algo mas interesante.<FFF5>   Hmph. Eso fue penoso",
+  "shortened": true
+ },
+ "talk_youen_00117": {
+  "t": " Quien<FF03>crees que soy? Soy <FFF0> <FFF3>.<FF02><FF04>Si de verdad quieres mi ayuda, escucha<FF03>lo que tengo que decir.<FFF1><FFF5>  Siento que hay algo mas<FF03>en juego aqui",
+  "shortened": true
+ },
+ "talk_youen_00118": {
+  "t": "<FFF5> No eres humano",
+  "shortened": true
+ },
+ "talk_youen_00119": {
+  "t": " No deberias<FF03>pedir ayuda a demonios!<FFF5>Si tienes peticion, prueba con otro<FF03>demonio--no conmigo!<FFF5>   Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00122": {
+  "t": " Es tan lindo oir que me<FF03>necesitas.<FFF5>Simplemente amo que me pidan favores",
+  "shortened": true
+ },
+ "talk_youen_00123": {
+  "t": "<FF03>Pideme otro.<FF02><FF04>",
+  "shortened": true
+ },
+ "talk_youen_00124": {
+  "t": "Espera un segundo. Creo que merezco<FF03>algo de ti primero!<FFF1><FFF5>Que actitud es esa? Tratas<FF03>de hacerme enojar a proposito? Algo<FF03>anda raro en esto",
+  "shortened": true
+ },
+ "talk_youen_00125": {
+  "t": "<FFF5> Es inutil tratar de hacerme enojar!<FF03>No mal intento, igual!<FFF5>   No sirve hacer eso! Hay mejores<FF03>modos de captar el interes de tu rival!<FFF1><FFF5>Como osas burlarte de mi. Espero<FF03>que estes listo para las consecuencias.<FFF5>  De verdad me haces enojar. Pero, si<FF03>no",
+  "shortened": true
+ },
+ "talk_youen_00126": {
+  "t": " no valdrias la pena matar.<FFF5>  Como osas hacerme tonta.?<FF03>Ahora si estoy enojada. No me<FF03>voy a calmar a menos que me des algo.<FFF1><FFF5> Te burlas de mi",
+  "shortened": true
+ },
+ "talk_youen_00127": {
+  "t": "<FF03>Eres tan cruel",
+  "shortened": true
+ },
+ "talk_youen_00128": {
+  "t": "<FFF5> Asi no va una negociacion normal",
+  "shortened": true
+ },
+ "talk_youen_00130": {
+  "t": " No logro entender que<FF03>tratas de lograr",
+  "shortened": true
+ },
+ "talk_youen_00131": {
+  "t": "<FFF5> Vaya, esa actitud",
+  "shortened": true
+ },
+ "talk_youen_00132": {
+  "t": " Has de tener bien<FF03>confianza. Me gusta eso.<FFF5>  Dejare pasar un par de groserias aqui<FF03>y alla! Los ninos deben ser agresivos.<FFF5> Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00133": {
+  "t": " Tratas de descubrir que<FF03>me gusta",
+  "shortened": true
+ },
+ "talk_youen_00134": {
+  "t": " Que lindo.<FFF5>Hm? Eres artista en ciernes?<FF03>Acuerdate de darme credito cuando<FF03>seas famoso!<FFF5>No necesitas practica? Probemos<FF03>esto de nuevo cuando pulas tus<FF03>destrezas! Lo espero con ganas.<FFF5>   Siento que falta algo",
+  "shortened": true
+ },
+ "talk_youen_00135": {
+  "t": "<FF03>Te doy consejo, pero esperare<FF03>pago por el.<FFF1><FFF5> Que fue eso? Fue tan necio<FF03>que siento que deberias morir.<FFF5>  Apestas. Sal del escenario.<FFF5>   Quieres dinero por ESO? Ha. Que chiste.<FF03>Creo que tomare TU dinero en cambio.<FFF1><FFF5>   Que es eso",
+  "shortened": true
+ },
+ "talk_youen_00136": {
+  "t": " No entiendo.<FFF5>   Es algun ritual prohibido de magia<FF03>negra? No tiene nada que ver<FF03>conmigo, no",
+  "shortened": true
+ },
+ "talk_youen_00138": {
+  "t": " Bien hecho! Quisiera oir<FF03>eso de nuevo.<FFF5> Maravilloso. Me pregunto si yo<FF03>tambien deberia aprender algo!<FFF5> Bravisimo. Otra, otra.<FFF5>Humanos, eh",
+  "shortened": true
+ },
+ "talk_youen_00139": {
+  "t": " Quizas buen modo<FF03>de matar tiempo!<FFF5>  Jeje",
+  "shortened": true
+ },
+ "talk_youen_00140": {
+  "t": " Hablaras un rato con una<FF03>vieja como yo, tambien?<FFF5> Asi que me quieres? No me molesta que<FF03>trates de enganarme, pero prefiero los<FF03>generosos.<FFF1><FFF5>   Te burlas de mi?<FFF5>  No soy demonio tan tonto para traicionar<FF03>a mis camaradas por algo asi.<FFF5>  Que haces? Espera",
+  "shortened": true
+ },
+ "talk_youen_00141": {
+  "t": " no estaras<FF03>tratando de seducirme, verdad.?<FF02><FF04>Los otros demonios te haran trizas si<FF03>saben que me sedujiste. Cuanto<FF03>quieres que guarde el secreto",
+  "shortened": true
+ },
+ "talk_youen_00142": {
+  "t": "<FFF1><FFF5> Espera",
+  "shortened": true
+ },
+ "talk_youen_00143": {
+  "t": " N-No sabria que<FF03>hacer aunque me dijeras algo<FF03>asi",
+  "shortened": true
+ },
+ "talk_youen_00144": {
+  "t": "<FFF5> Espera",
+  "shortened": true
+ },
+ "talk_youen_00145": {
+  "t": " N-No sabria que<FF03>hacer aunque me dijeras algo<FF03>asi",
+  "shortened": true
+ },
+ "talk_youen_00146": {
+  "t": "<FFF5> Espera",
+  "shortened": true
+ },
+ "talk_youen_00147": {
+  "t": " N-No sabria que<FF03>hacer aunque me dijeras algo<FF03>asi",
+  "shortened": true
+ },
+ "talk_youen_00150": {
+  "t": " Siento que me enamoro de ti.<FFF5>  Eso es un cumplido.?<FF03>No eres tan debil de verdad, o si",
+  "shortened": true
+ },
+ "talk_youen_00151": {
+  "t": "<FFF5> Asi es. Entiendes justo lo<FF03>temible que soy!<FF02><FF04>O sea que me daras algo,<FF03>no.?<FFF1><FFF5>   No te molestes en decir lo obvio.<FF03>Ni te comparas a mi.<FFF5>Hmph. Te espera otra cosa si<FF03>crees que te perdonare con eso.<FFF5> Si es asi, no me molesta hacerte<FF03>mi esclavo.<FF02><FF04>Pero primero, debes hacer que te desee.<FFF1><FFF5>   Tramas algo, verdad",
+  "shortened": true
+ },
+ "talk_youen_00152": {
+  "t": "<FFF5> De verdad enojada",
+  "shortened": true
+ },
+ "talk_youen_00153": {
+  "t": " Oye, de verdad<FF03>estas enojada, no? Awww",
+  "shortened": true
+ },
+ "talk_youen_00154": {
+  "t": "<FFF5> Ohohohoho. Los humanos no son mas que esclavos<FF03>para los demonios.<FFF5>   Ohohohoho. Ahora ruega por tu vida.<FF03>O te hare trizas.<FFF1><FFF5> Ohohohoho. Asi que hasta los humanos captan<FF03>mi grandeza.<FFF5>  Ya tienes mi carta de hechizo, no?<FF03>Hazme una Persona bella.<FFEF>   Entonces te dare esto!<FFEF>   Oh, ah si?<FFEF>Es una pena, pero parece que nuestros<FF03>intereses son muy distintos!<FFEF>   Oye, no eres algo creido para<FF03>un novato?<FF02><FF04>Es inutil negociar a menos que seas<FF03>maduro para manejarlo.<FFF5>   En fin, te dare esto para<FF03>conmemorar nuestro encuentro!<FFEF>Bueno, ojala nos veamos de nuevo.<FFEF>Esto no es mucho",
+  "shortened": true
+ },
+ "talk_youen_00155": {
+  "t": " pero tenlo,<FF03>tambien!<FFF5> Bueno, ando ocupada, asi que",
+  "shortened": true
+ },
+ "talk_youen_00156": {
+  "t": "<FFEF>   Aqui mi carta de hechizo! Hazme una<FF03>Persona con belleza y fuerza.<FFEF>Te dare esto, solo perdoname.<FFEF>   Me canse de negociar contigo!<FF03>No hay profundidad en tu tecnica.<FFEF> Me canse de negociar contigo!<FF03>Los ninos que ni saben negociar<FF03>deberian tomar esto y largarse.<FFEF>  Me irrita ser tan tonta que ni<FF03>se negociar con humanos.<FFEF>   Me rindo. Te dare mi carta de hechizo.<FFEF>Es mi primera vez negociando con<FF03>alguien tan fuerte y gracioso como tu",
+  "shortened": true
+ },
+ "talk_youen_00157": {
+  "t": "<FFEF>   Toma, un regalito de mi",
+  "shortened": true
+ },
+ "talk_youen_00158": {
+  "t": " Ojala<FF03>ayude!<FFEF>No peleo contigo",
+  "shortened": true
+ },
+ "talk_youen_00159": {
+  "t": "<FFEF>   Te dare esto! Por favor cuidalo<FF03>bien!<FFEF>   ",
+  "shortened": true
+ },
+ "talk_youen_00160": {
+  "t": "Aunque si te doy mi carta, podria<FF03>ser util",
+  "shortened": true
+ },
+ "talk_youen_00161": {
+  "t": "<FFEF>Te dare mi carta de hechizo",
+  "shortened": true
+ },
+ "talk_youen_00162": {
+  "t": " porfa,<FF03>perdoname.<FFEF>Oooh, que hombre fino",
+  "shortened": true
+ },
+ "talk_youen_00163": {
+  "t": " Hola!<FF03>Que te trae aqui?<FFFD><6EFF><F500>  No trato de ser grosera al decir<FF03>esto",
+  "shortened": true
+ },
+ "talk_youen_00164": {
+  "t": " pero usas ropa rara!<FFF5>   Es mi primera vez viendo un humano!<FF03>Me das algo para marcar la<FF03>ocasion?<FFF1><FFF5>  Oye. Tu ahi. Me estorbas.<FF03>Te corres un poquito?<FFFD><6FFF><F500>   No empieces conmigo hoy. Si<FF03>intentas algo raro, te dare una<FF03>paliza. Captas.?<FFF5>Apuesto que soy la unica demonia negociando<FF03>con humanos con una luna llena<FF03>tan bella. En serio.<FF02><FF04>Y, trajiste regalos para mi?<FF03>Ugh, eres tan desconsiderado. Dame<FF03>algo.<FFF1><FFF5>  Eres humano, no",
+  "shortened": true
+ },
+ "talk_youen_00165": {
+  "t": " No deberias<FF03>pasar esta linea",
+  "shortened": true
+ },
+ "talk_youen_00166": {
+  "t": "Esa cara da miedo",
+  "shortened": true
+ },
+ "talk_youen_00167": {
+  "t": "<FFF5>Esa cara da miedo",
+  "shortened": true
+ },
+ "talk_youen_00168": {
+  "t": " Seguro no<FF03>duermo nada esta noche",
+  "shortened": true
+ },
+ "talk_youen_00169": {
+  "t": "<FFF5> Vaya, un humano. Las cosas mas raras me han<FF03>pasado ultimamente! Como estas?<FFFD><71FF><F500>  Oooh, que hombre tan fino",
+  "shortened": true
+ },
+ "talk_youen_00170": {
+  "t": " Oye, no tienes<FF03>nada contra las chicas demonio, eh",
+  "shortened": true
+ },
+ "talk_youen_00172": {
+  "t": "<FFF5>   <FFED>Sabes, si no tienes asunto<FF03>conmigo, tengo otras cosas que hacer!<FFFD><72FF><F500><FFED>De verdad ojala me hubieras hablado<FF03>primero, sabes. Eres un cobarde!<FFF5><FFEE>Que cara tan ordinaria",
+  "shortened": true
+ },
+ "talk_youen_00173": {
+  "t": " Estoy algo<FF03>decepcionada",
+  "shortened": true
+ },
+ "talk_youen_00174": {
+  "t": "<FF02><FF04>Bueno, lo dejo pasar! Te oire<FF03>igual si me das algo!<FFF1><FFF5>   <FFEE>Um",
+  "shortened": true
+ },
+ "talk_youen_00175": {
+  "t": " Si no hay nada que quieras,<FF03>me voy a ir!<FFFD><73FF><F500>  <FFEC>T-Tu",
+  "shortened": true
+ },
+ "talk_youen_00176": {
+  "t": "hueles a sangre",
+  "shortened": true
+ },
+ "talk_youen_00177": {
+  "t": " Cielos, como<FF03>siempre atraigo a los raros",
+  "shortened": true
+ },
+ "talk_youen_00178": {
+  "t": "<FFF5><FFEC>En fin, hablemos! Guarda esa arma,<FF03>si?<FFF5> <FFEE>Si dijera que quiero ir contigo,<FF03>que harias?<FFFD><74FF><F500>   <FFEB>Tu",
+  "shortened": true
+ },
+ "talk_youen_00179": {
+  "t": " debia pasar.<FF03>Ahora, negociemos.<FFF5><FFEE>Oooh, que hombre tan fino",
+  "shortened": true
+ },
+ "talk_youen_00180": {
+  "t": " Es mi<FF03>gran chance. Ahora, negociemos.<FFF5> <FFEC>Uy, un humano. Eeeek. Eeeeeek.<FF03>EEEEEEEEEEK.<FFFD><75FF><F500><FFEC>Oye",
+  "shortened": true
+ },
+ "talk_youen_00181": {
+  "t": " que es eso flotando sobre ti",
+  "shortened": true
+ },
+ "talk_youen_00182": {
+  "t": "<FF03>Uy. No me mires.<FFF5><FFED>S-Si me matas, maldecire las proximas<FF03>ocho generaciones de tu familia.<FFF5>   <FFED>Oye. Cual es la idea, responder<FF03>mi llamado.?<FF02><FF04>No me digas que crees que TU eres<FF03>suficiente para mi.<FFFD><76FF><F500>   <FFED>No siento que negociar<FF03>contigo sea muy emocionante",
+  "shortened": true
+ },
+ "talk_youen_00183": {
+  "t": " pero<FF03>te dare una chance igual.<FFF5> <FFEB>Por que respondiste? Oh, ya entiendo.<FF03>Viniste a darme un regalo, no?<FFF1><FFF5><FFEC>Tienes ojos de miedo",
+  "shortened": true
+ },
+ "talk_youen_00184": {
+  "t": " que me vas<FF03>a hacer",
+  "shortened": true
+ },
+ "talk_youen_00185": {
+  "t": "<FFFD><77FF><F500>  <FFEB>Ando del humor mas raro ahora.<FF03>Ya ni me importa",
+  "shortened": true
+ },
+ "talk_youen_00186": {
+  "t": " Haz lo que<FF03>quieras conmigo.<FFF5> Me d-das miedo",
+  "shortened": true
+ },
+ "talk_youen_00187": {
+  "t": " pero tambien<FF03>espero algo! Que me<FF03>paso",
+  "shortened": true
+ },
+ "talk_youen_00188": {
+  "t": "<FFF5>Eres interesante. Asi que, que quieres?<FF03>Tengo ganas de oir!<FFEF>   No gano nada pasando mas<FF03>tiempo contigo! De hecho siento que<FF03>perdi mi tiempo.<FFEF>M-Me da miedo",
+  "shortened": true
+ },
+ "talk_youen_00189": {
+  "t": " parece que mi suerte<FF03>se acabo",
+  "shortened": true
+ },
+ "talk_youen_00190": {
+  "t": "<FFF5> Aaaahahaha. Sabes como tener feliz<FF03>a un demonio!<FFEF>  No puedo pasar todo el dia negociando<FF03>contigo. Dime que quieres.<FFEF> Escuchare",
+  "shortened": true
+ },
+ "talk_youen_00191": {
+  "t": " solo no hagas nada<FF03>cruel, si?<FFEF> Ahahah",
+  "shortened": true
+ },
+ "talk_youen_00192": {
+  "t": " Me alegra haberte conocido!<FF03>Concedere cualquier deseo que tengas.<FFEF>  Ugh. Molesta Y con un escalofrio<FF03>en la espalda. Oye, Amo.<FF02><FF04>Castiga a estos--oye, a donde fue.?<FFF5>Bueno, es hora de poner fin<FF03>a esto! No puedo jugar contigo<FF03>todo el dia!<FFF5>Disfruto esto, pero da miedo, tambien",
+  "shortened": true
+ },
+ "talk_youen_00193": {
+  "t": "<FF03>Supongo que sere buen demonio y obedecere!<FFEF> Veamos, tomare <FFF8> yen!<FFEF>Jeje",
+  "shortened": true
+ },
+ "talk_youen_00194": {
+  "t": " gracias!<FFF5>  Que.? Ni siquiera tienes tanto?<FF03>Malditos pobres.<FFF5>   Que.? Ni siquiera tienes tanto?<FF03>Cielos. No lo puedo creer.<FFF5>No sirve ahorrar tanto dinero!<FF03>Todo sera mio al final.<FFF5>",
+  "shortened": true
+ },
+ "talk_youen_00195": {
+  "t": "Si no querias negociar, debiste<FF03>decirlo desde el inicio",
+  "shortened": true
+ },
+ "talk_youen_00196": {
+  "t": "<FFF5>Quiero piedra de vida!<FFEF>Jeje",
+  "shortened": true
+ },
+ "talk_youen_00197": {
+  "t": " gracias!<FFF5>  Que, negociabas sin ninguna<FF03>piedra de vida? Uggggh, eres lo peor.<FFF5>  Ni modo. Es de sentido comun cargar<FF03>piedras de vida contigo.<FFF5>  Que.? No mereces ninguna piedra de vida.<FFF5>  Has estado negociando sin piedras de<FF03>vida? Tienes que estar bromeando",
+  "shortened": true
+ },
+ "talk_youen_00198": {
+  "t": "<FF03>Es en serio",
+  "shortened": true
+ },
+ "talk_youen_00200": {
+  "t": " Tienes un <FFF4>,<FF03>no? Eso es lo que quiero!<FFEF> Ese brillo",
+  "shortened": true
+ },
+ "talk_youen_00201": {
+  "t": " Nunca deja de ser<FF03>maravilloso, no importa cuantas veces<FF03>lo mire",
+  "shortened": true
+ },
+ "talk_youen_00202": {
+  "t": "<FFF5> Oye. No hay algo mal aqui?<FFF5> Oh, ah si? Pues tendre que<FF03>tomarlo por la fuerza.<FFF5>   Ni hablar. Ni aunque yo lo pida?<FF03>No aprecias la belleza, verdad?<FFF5>  Quiero tu vida",
+  "shortened": true
+ },
+ "talk_youen_00203": {
+  "t": " Bueno, solo un<FF03>poco, en serio! Un sorbito basta!<FFEF>  Jeje",
+  "shortened": true
+ },
+ "talk_youen_00204": {
+  "t": " tu energia vital se ve<FF03>deliciosa.<FFF5>Oh",
+  "shortened": true
+ },
+ "talk_youen_00205": {
+  "t": " Me tienes miedo? Doy mas<FF03>miedo a los ninos que no oyen lo que<FF03>les digo.<FFF5>Oh, ah si? No quiero tomar nada<FF03>si no quieres darlo",
+  "shortened": true
+ },
+ "talk_youen_00206": {
+  "t": " Bueno,<FF03>lo dejo pasar esta vez!<FFF5>  Oh, ah si?<FFF5>Me parece lindo cuando haces eso!<FFF5>Aun si es cierto, no debes<FF03>decirlo tu mismo.<FFF5>   Ah si? Esta bien, pues!<FFF5>   Ah si? Esta bien, pues!<FFF5>   No te puedo creer.<FFF5> Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00207": {
+  "t": " Ahora entiendo muy bien!<FF03>No eres nada malo!<FFF5>Ah si.<FFF5>Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00208": {
+  "t": " Te ves tan lindo cuando estas<FF03>avergonzado!<FFF5>   Eso es lo que dices despues<FF03>de burlarte de mi? Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00209": {
+  "t": " tienes<FF03>una labia de oro!<FFF5> Como que algo malo.?<FF03>A ver, intentalo.<FFF5>   N-Ni hablar",
+  "shortened": true
+ },
+ "talk_youen_00211": {
+  "t": "<FFF5>  Eso pense. La estructura de la<FF03>oracion esta mal! Eres todo<FF03>un tonto.<FFF5>   Eso pense. La estructura de la<FF03>oracion esta mal!<FFF5> Huh? En serio? Que les ensenan<FF03>en las escuelas hoy",
+  "shortened": true
+ },
+ "talk_youen_00213": {
+  "t": " amable de ti.<FFF5>No te creas.<FFF5> Por que",
+  "shortened": true
+ },
+ "talk_youen_00214": {
+  "t": "solo soy demonia debil",
+  "shortened": true
+ },
+ "talk_youen_00215": {
+  "t": "<FFF5>Oh, ah si?<FFF5>Me parece lindo cuando haces eso!<FFF5>Aun si es cierto, no debes<FF03>decirlo tu mismo.<FFF5>   Ah si? Esta bien, pues!<FFF5>   Ah si? Esta bien, pues!<FFF5>   No te puedo creer.<FFF5> Uh-oh",
+  "shortened": true
+ },
+ "talk_youen_00217": {
+  "t": " eres honesto del modo mas<FF03>raro.<FFF5>  Ahora sospecho aun mas",
+  "shortened": true
+ },
+ "talk_youen_00218": {
+  "t": "<FFF5>   Bueno, dale. No respondo<FF03>si pierdes la voz.<FFF5> Hm, te ves bien confiado!<FF03>",
+  "shortened": true
+ },
+ "talk_youen_00219": {
+  "t": "Dejemoslo por ahora.<FFF5>   Jejeje, has de haberte asustado!<FF03>No me sorprende.<FFF5>  <0056>gasp<0056> <0056>gasp<0056> Nunca me habian tratado<FF03>tan cruel antes",
+  "shortened": true
+ },
+ "talk_youen_00220": {
+  "t": "<FFF5> Ya basta.<FFF5>  Ahhh",
+  "shortened": true
+ },
+ "talk_youen_00221": {
+  "t": "eso fue maravilloso",
+  "shortened": true
+ },
+ "talk_youen_00222": {
+  "t": "<FFF5>  Esa voz",
+  "shortened": true
+ },
+ "talk_youen_00223": {
+  "t": " No creo que venga<FF03>de un humano. Que eres tu",
+  "shortened": true
+ },
+ "talk_youen_00224": {
+  "t": "<FFF5>   Esa voz",
+  "shortened": true
+ },
+ "talk_youen_00225": {
+  "t": " No creo que venga<FF03>de un humano.<FFF5>De que estas tan avergonzado?<FFF5> Me parece lindo cuando haces eso!<FFF5>Aun si es cierto, no debes<FF03>decirlo tu mismo.<FFF5>   Ah si? Esta bien, pues!<FFF5>   Ah si? Esta bien, pues!<FFF5>   No te puedo creer.<FFF5> Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00226": {
+  "t": " Ahora entiendo muy bien!<FF03>No eres nada malo!<FFF5>Ah si.<FFF5>Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00227": {
+  "t": " Sabes que me deseas, pero es<FF03>lindo que te de tanta verguenza!<FFF5>  Asi que vas a seguir fingiendo que<FF03>no sabes?<FFF5> Eres una chica testaruda. Je",
+  "shortened": true
+ },
+ "talk_youen_00228": {
+  "t": " es<FF03>un reto bienvenido!<FFF5> No me vengas con eso. No caigo<FF03>en tu labia de oro.<FFF5>   Vaya, que modesto.<FFF5> Sabes",
+  "shortened": true
+ },
+ "talk_youen_00229": {
+  "t": " que seas tan modesto me<FF03>pone ansiosa",
+  "shortened": true
+ },
+ "talk_youen_00230": {
+  "t": "<FFF5>Anda, solo te estaba adulando.<FFF5>  Eso no fue chiste, sabes.<FFF5>   A-Anda",
+  "shortened": true
+ },
+ "talk_youen_00231": {
+  "t": " siempre quise<FF03>decir eso.<FFF5>Tu tambien crees? Ah",
+  "shortened": true
+ },
+ "talk_youen_00232": {
+  "t": " Soy una<FF03>mujer tan pecadora.<FFF5>  De que estas avergonzado?<FFF5> Me parece lindo cuando haces eso!<FFF5>Aun si es cierto, no debes<FF03>decirlo tu mismo.<FFF5>   Ah si? Esta bien, pues!<FFF5>   Ah si? Esta bien, pues!<FFF5>   No te puedo creer.<FFF5> Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00233": {
+  "t": " Ahora entiendo muy bien!<FF03>No eres nada malo!<FFF5>Ah si.<FFF5>Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00234": {
+  "t": " Sabes que me deseas, pero es<FF03>lindo que te de tanta verguenza!<FFF5>  Que.? Tienes un problema.?<FFF5> Ay, lo siento!<FFF5>  Eso pense",
+  "shortened": true
+ },
+ "talk_youen_00235": {
+  "t": "<FFF5>   Asi que vas a seguir fingiendo que<FF03>no sabes?<FFF5> Eres una chica testaruda. Je",
+  "shortened": true
+ },
+ "talk_youen_00236": {
+  "t": " es<FF03>un reto bienvenido!<FFF5> No me vengas con eso. No caigo<FF03>en tu labia de oro.<FFF5>   Eso no fue chiste, sabes.<FFF5>   A-Anda",
+  "shortened": true
+ },
+ "talk_youen_00237": {
+  "t": " siempre quise<FF03>decir eso.<FFF5>Tu tambien crees? Ah",
+  "shortened": true
+ },
+ "talk_youen_00238": {
+  "t": " Soy una<FF03>mujer tan pecadora.<FFF5>  Esa risa de <0028>mwahahaha<0028> de verdad<FF03>me da asco, sabes.<FFF5>Um",
+  "shortened": true
+ },
+ "talk_youen_00239": {
+  "t": " sera solo una cena, si",
+  "shortened": true
+ },
+ "talk_youen_00240": {
+  "t": "<FFF5>   Eres timido. Pero esta bien",
+  "shortened": true
+ },
+ "talk_youen_00241": {
+  "t": "<FF03>Entiendo.<FFF5>Si entiendes, lo dejo pasar!<FFF5>  Que, no me crees? Es verdad.<FF03>Ash, me molestas.<FFF5> Asi es. Fue mentira.<FFF5>Huh? Pero",
+  "shortened": true
+ },
+ "talk_youen_00242": {
+  "t": "recien nos vimos",
+  "shortened": true
+ },
+ "talk_youen_00243": {
+  "t": "<FF03>Despues de todo voy a pasar!<FFF5>   Te puedo confiar? Estoy algo nerviosa",
+  "shortened": true
+ },
+ "talk_youen_00244": {
+  "t": "<FFF5>   Tienes razon",
+  "shortened": true
+ },
+ "talk_youen_00245": {
+  "t": " quizas sea bueno<FF03>relajarse de vez en cuando",
+  "shortened": true
+ },
+ "talk_youen_00246": {
+  "t": "<FFF5>   Oye. Dime.<FFF5>  Por que no me dices? Ohhh, ya entiendo.<FF03>Es tu plan para captar mi atencion, eh?<FFF5>  Huh? Eso fue chiste",
+  "shortened": true
+ },
+ "talk_youen_00247": {
+  "t": "<FF03><0029>Que hago",
+  "shortened": true
+ },
+ "talk_youen_00248": {
+  "t": "<FFF5>Explicalo cuanto quieras, no hara<FF03>lo aburrido menos aburrido.<FFF5>   Le das un descanso.? No tienes<FF03>ni un hueso talentoso en el cuerpo.<FFF5> Esta vez es interesante.<FFF5>Ah si? Tienes un plan oculto,<FF03>no",
+  "shortened": true
+ },
+ "talk_youen_00250": {
+  "t": " Ah si?<FFF5>   Te ves peligroso",
+  "shortened": true
+ },
+ "talk_youen_00252": {
+  "t": " Lo siento! Solo bromeaba!<FFF5> Uf",
+  "shortened": true
+ },
+ "talk_youen_00253": {
+  "t": " Eso fue solo chiste.<FFF5>  Fue mentira! No lo tomes tan en serio!<FFF5>  Huh? En serio.? Quiero oir eso.<FFF5>  Hmph, bien. Los humanos no han de tener<FF03>nada que valga saber igual.<FFF5> Awwww, que aburrido.<FFF5>   Cielos",
+  "shortened": true
+ },
+ "talk_youen_00254": {
+  "t": " No oyes lo que los demas<FF03>tienen que decir para nada",
+  "shortened": true
+ },
+ "talk_youen_00255": {
+  "t": "<FFF5>  No dije que tomaras esto en serio.?<FFF5> Ah si? Pues haz lo que quieras.<FFF5> No me gusta tu actitud! Parece<FF03>que te burlas de mi",
+  "shortened": true
+ },
+ "talk_youen_00257": {
+  "t": " burlandote de mi asi",
+  "shortened": true
+ },
+ "talk_youen_00258": {
+  "t": "<FFF5>   Pues, PERDON.<FFF5>   Oye. Dime.<FFF5>  Por que no me dices? Ohhh, ya entiendo.<FF03>Es tu plan para captar mi atencion, eh?<FFF5>  Huh? Ah si? No entiendo que<FF03>tratas de hacer, igual",
+  "shortened": true
+ },
+ "talk_youen_00259": {
+  "t": "<FFF5>No puedo seguirte el ritmo!<FFF5> Si mueres, apuesto que todos<FF03>se reiran.<FFF5>L-Lo siento",
+  "shortened": true
+ },
+ "talk_youen_00261": {
+  "t": " Al menos sabes escuchar",
+  "shortened": true
+ },
+ "talk_youen_00262": {
+  "t": "<FFF5> Que te pasa? Das asco.<FFF5>Ay",
+  "shortened": true
+ },
+ "talk_youen_00263": {
+  "t": " que te pasa",
+  "shortened": true
+ },
+ "talk_youen_00264": {
+  "t": "<FFF5>   Hombres caen facil por cara bonita",
+  "shortened": true
+ },
+ "talk_youen_00265": {
+  "t": "<FF03>Parece que no eres distinto!<FFF5>Solo pestaneo, y ya te tengo<FF03>en la palma de mi mano. Eres tan<FF03>facil de manipular!<FFF5>   Malo.<FFF5>Tienes razon, eso fue vulgar",
+  "shortened": true
+ },
+ "talk_youen_00266": {
+  "t": "<FF03>Lo siento!<FFF5>Que es ese tono de voz.?<FF03>No te hagas el santurron.<FFF5>   <FFF5>Eres tan buena onda! Jeje",
+  "shortened": true
+ },
+ "talk_youen_00267": {
+  "t": " Fue un modo lindo de decirlo",
+  "shortened": true
+ },
+ "talk_youen_00268": {
+  "t": "<FFF5>Si, estoy feliz. Asi que dame mas.<FFF5>   Que, no se me permite estar feliz.?<FF03>No me gusta mucho como lo dices.<FFF5>   Jejeje, eh",
+  "shortened": true
+ },
+ "talk_youen_00270": {
+  "t": " Me parece lindo cuando<FF03>haces eso!<FFF5>   Aun si es cierto, no debes<FF03>decirlo tu mismo.<FFF5>   Ah si? Esta bien, pues!<FFF5>   Ah si? Esta bien, pues!<FFF5>   No te puedo creer.<FFF5> Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00271": {
+  "t": " Ahora entiendo muy bien!<FF03>No eres nada malo!<FFF5>Ah si.<FFF5>Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00272": {
+  "t": " Te ves tan lindo cuando estas<FF03>avergonzado!<FFF5>   Eso es lo que dices despues<FF03>de gritarme? Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00273": {
+  "t": " tienes<FF03>una labia de oro!<FFF5>   Como que vas a atormentarme.?<FF03>A ver, intentalo.<FFF5>  N-Ni hablar",
+  "shortened": true
+ },
+ "talk_youen_00275": {
+  "t": "<FFF5>  No me sorprende. Aunque no quisiera,<FF03>se nota por lo creido que eres.<FFF5>Huh? En serio? Que les ensenan<FF03>en las escuelas hoy",
+  "shortened": true
+ },
+ "talk_youen_00277": {
+  "t": " amable de ti.<FFF5>No te creas.<FFF5> Por que",
+  "shortened": true
+ },
+ "talk_youen_00278": {
+  "t": "solo soy demonia debil",
+  "shortened": true
+ },
+ "talk_youen_00279": {
+  "t": "<FFF5>Creido, pero honesto, lo admito!<FFF5>Te lo dije amable, igual.<FFF5>Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00280": {
+  "t": " Eres muy honesto!<FF03>Sabes, ahora que te miro,<FF03>eres bien lindo!<FFF5>   Oh, ah si. Con esa enorme cara<FF03>tuya, apuesto que pintarias un cuadro<FF03>con la sangre que perderas.<FFF5>  No reconoces el sarcasmo al oirlo?<FF03>Los humanos si son tontos!<FFF5> De que te pones tan solemne?<FF03>Eres tan egocentrico.<FFF5> Uh-oh",
+  "shortened": true
+ },
+ "talk_youen_00281": {
+  "t": " Tramas algo,<FF03>verdad",
+  "shortened": true
+ },
+ "talk_youen_00282": {
+  "t": "<FFF5> Estoy tan feliz.<FFF5>  Huh, en verdad eres bien tacano!<FFF5>Jeje, solo bromeo. Estas bailando,<FF03>verdad?<FFF5>Eso lo se. No sabes que apestas?<FFF5>  Que estamina tan asombrosa",
+  "shortened": true
+ },
+ "talk_youen_00283": {
+  "t": " De verdad<FF03>pareces que vas a bailar toda<FF03>la noche",
+  "shortened": true
+ },
+ "talk_youen_00284": {
+  "t": "<FFF5> Que, vas a parar? No, por favor<FF03>sigue.<FFF5> Eso es lo que dices despues<FF03>de burlarte de mi? Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00285": {
+  "t": " tienes<FF03>una labia de oro!<FFF5> Oh, ah si.? A ver, intentalo.<FFF5>N-Ni hablar",
+  "shortened": true
+ },
+ "talk_youen_00287": {
+  "t": "<FFF5>  Eso pense. Eso de hecho no<FF03>significa nada! Eres todo<FF03>un tonto.<FFF5>  Eso pense. Eso de hecho no<FF03>significa nada!<FFF5>Huh? En serio? Que les ensenan<FF03>en las escuelas hoy",
+  "shortened": true
+ },
+ "talk_youen_00289": {
+  "t": " amable de ti.<FFF5>No te creas.<FFF5> Por que",
+  "shortened": true
+ },
+ "talk_youen_00290": {
+  "t": "solo soy demonia debil",
+  "shortened": true
+ },
+ "talk_youen_00292": {
+  "t": " no se que decir",
+  "shortened": true
+ },
+ "talk_youen_00294": {
+  "t": " Entonces por que miras?<FF03>Ah, soy una mujer tan pecadora!<FFF5>   Que te pasa, mocoso.?<FFF5> Ha. Es tan obvio.<FFF5>   Que pasa con eso.? Entonces que quieres<FF03>TU de mi.?<FFF5>  Eres lindo. Jugare contigo luego",
+  "shortened": true
+ },
+ "talk_youen_00295": {
+  "t": "<FF03>Jejejeje!<FFF5>Jeje",
+  "shortened": true
+ },
+ "talk_youen_00296": {
+  "t": " Estas tan avergonzado que<FF03>dices cosas que no sientes!<FF03>Lo noto!<FFF5>  Ay",
+  "shortened": true
+ },
+ "talk_youen_00297": {
+  "t": " no tienes sentido del humor?<FFF5>  De que estas avergonzado?<FFF5>  Awww, tratas de hacerte el modesto!<FF03>Me parece lindo cuando haces eso!<FFF5> Aun si es cierto, no debes<FF03>decirlo tu mismo.<FFF5>   Ah si? Esta bien, pues!<FFF5>   Ah si? Esta bien, pues!<FFF5>   No te puedo creer.<FFF5> Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00298": {
+  "t": " Ahora entiendo muy bien!<FF03>No eres nada malo!<FFF5>Ah si.<FFF5>Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00299": {
+  "t": " Sabes que me deseas, pero es<FF03>lindo que te de tanta verguenza!<FFF5>  Lo se, verdad? Me da tanto coraje!<FFF5>   Lo se, verdad? Ojala hicieran algo<FF03>al respecto!<FFF5>Oye. Crees que esto no tiene nada<FF03>que ver contigo, eh.?<FFF5>  Escucha. NUNCA vuelvas a hablar de algo<FF03>asi otra vez.<FFF5>  Cielos, no me cuentes mas historias<FF03>asi",
+  "shortened": true
+ },
+ "talk_youen_00300": {
+  "t": " De verdad no me gustan!<FFF5> Dije que pares.<FFF5>Eep. Por favor para.<FFF5> Esta es historia de una chica que tonta<FF03>trato de negociar con demonio",
+  "shortened": true
+ },
+ "talk_youen_00301": {
+  "t": "<FF02><FF04>Arruino el bello humor de la demonia,<FF03>y termino comiendola. Fin.<FFF5>Que aburrido",
+  "shortened": true
+ },
+ "talk_youen_00302": {
+  "t": "<FFF5>Eso es lo que gusta, eh",
+  "shortened": true
+ },
+ "talk_youen_00303": {
+  "t": "<FFF5>  Eres amable! Creo que podriamos ser<FF03>buenos amigos.<FFF5> Te lo vas a quedar todo para ti,<FF03>verdad? Odio esa avaricia!<FFF5> Okay.<FFF5>  Bueno, esta bien! Deja que lo tengas",
+  "shortened": true
+ },
+ "talk_youen_00304": {
+  "t": "<FFF5>   No.<FFF5>Bueno, dale. No respondo<FF03>si pierdes la voz.<FFF5> Hm, te ves bien confiado!<FF03>",
+  "shortened": true
+ },
+ "talk_youen_00305": {
+  "t": "Dejemoslo por ahora.<FFF5>   Jejeje, has de haberte asustado!<FF03>No me sorprende.<FFF5>  Asombroso. Eso fue totalmente increible.<FFF5> Que tono tan asombroso",
+  "shortened": true
+ },
+ "talk_youen_00306": {
+  "t": " Oye, de verdad<FF03>eres humano?<FFF5>   Que voz tienes",
+  "shortened": true
+ },
+ "talk_youen_00307": {
+  "t": " De verdad no puedo<FF03>creer que seas un humano!<FFF5>   ",
+  "shortened": true
+ },
+ "talk_youen_00308": {
+  "t": "Eso fue sarcasmo? Eres una<FF03>chica horrible.<FFF5>",
+  "shortened": true
+ },
+ "talk_youen_00309": {
+  "t": "No me sorprende!<FFF5>  Entonces lo hiciste a proposito. Si me<FF03>subestimas, te arrepentiras luego.<FFF5>   Si no sabes, ni modo",
+  "shortened": true
+ },
+ "talk_youen_00310": {
+  "t": "<FFF5>Parece que humanos no dan tanto miedo<FF03>como siempre pense",
+  "shortened": true
+ },
+ "talk_youen_00311": {
+  "t": "<FFF5> Cielos, y me estaba divirtiendo tanto.<FF03>Eres tan soso.<FFF5> Oh, ah si?<FFF5>Me parece lindo cuando haces eso!<FFF5>Aun si es cierto, no debes<FF03>decirlo tu mismo.<FFF5>   Ah si? Esta bien, pues!<FFF5>   Ah si? Esta bien, pues!<FFF5>   No te puedo creer.<FFF5> Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00312": {
+  "t": " Ahora entiendo muy bien!<FF03>No eres nada malo!<FFF5>Ah si.<FFF5>No hay por que contenerse, sabes!<FF03>En el fondo, sabes que me deseas",
+  "shortened": true
+ },
+ "talk_youen_00313": {
+  "t": " De hecho eres bien obediente!<FFF5>Te lo dije con amabilidad, igual.<FFF5>Entonces lo hiciste a proposito. Si me<FF03>subestimas, te arrepentiras luego.<FFF5>   Si no sabes, ni modo",
+  "shortened": true
+ },
+ "talk_youen_00314": {
+  "t": "<FFF5>  Grrrrrr.<FFF5>   No puedo creer que deje que este",
+  "shortened": true
+ },
+ "talk_youen_00315": {
+  "t": "<FF03>humano vil",
+  "shortened": true
+ },
+ "talk_youen_00316": {
+  "t": " me consuele!<FFF5> Ese <0028>totally<0028> de verdad molesta,<FF03>sabes.<FFF5>   Um",
+  "shortened": true
+ },
+ "talk_youen_00317": {
+  "t": " sera solo una cena, si",
+  "shortened": true
+ },
+ "talk_youen_00318": {
+  "t": "<FFF5>   Una salida a cenar no te basta?<FF03>De hecho eres bien avaro",
+  "shortened": true
+ },
+ "talk_youen_00319": {
+  "t": "<FFF5>Te apuras a decidirte ya.?<FF03>Pierdo la paciencia.<FFF5>  Huh",
+  "shortened": true
+ },
+ "talk_youen_00320": {
+  "t": " Me sorprende lo listo que<FF03>en verdad eres!<FFF5>  Huh",
+  "shortened": true
+ },
+ "talk_youen_00321": {
+  "t": " Me sorprende lo listo que<FF03>en verdad eres! Aunque algo molesta!<FFF5>Es una pena, igual",
+  "shortened": true
+ },
+ "talk_youen_00322": {
+  "t": " Las cosas habrian<FF03>ido mejor si fueras un demonio!<FFF5>   Oh, ahora tienes miedo? Bueno, ya que<FF03>es conmigo con quien tratas, eso no<FF03>sorprende!<FFF5> Te echas para atras ahora",
+  "shortened": true
+ },
+ "talk_youen_00323": {
+  "t": " Eres tan<FF03>cobarde.<FFF5>   Aun seras un nino, pero hay<FF03>algo admirable en ti!<FF03>Me impresionas!<FFF5>Oh, ah si",
+  "shortened": true
+ },
+ "talk_youen_00324": {
+  "t": "<FFF5>  De verdad es <0028>totally<0028>? Tengo mis dudas!<FFF5>  Honestamente, esa labia de oro tuya",
+  "shortened": true
+ },
+ "talk_youen_00325": {
+  "t": "<FF03>Eres una chica bien mala!<FFF5> Oh, era verdad? Lo siento, no siempre<FF03>puedo leer las emociones humanas!<FFF5>Aun te haces el tonto? No hay<FF03>modo de que me enganes.<FFF5> Estoy en un aprieto",
+  "shortened": true
+ },
+ "talk_youen_00326": {
+  "t": "<FFF5>   Menos mal",
+  "shortened": true
+ },
+ "talk_youen_00327": {
+  "t": " No lidio bien con<FF03>gente que llora!<FFF5>Eso es lo que dices despues<FF03>de amenazarme? Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00328": {
+  "t": " tienes<FF03>una labia de oro!<FFF5>  Oh, ah si.? A ver, intentalo.<FFF5>N-Ni hablar",
+  "shortened": true
+ },
+ "talk_youen_00330": {
+  "t": "<FFF5>  Eso pense. La estructura de la<FF03>oracion esta mal! Eres todo<FF03>un tonto.<FFF5>   Jeje",
+  "shortened": true
+ },
+ "talk_youen_00331": {
+  "t": " la estructura de la<FF03>oracion esta mal!<FFF5>  Huh? En serio? Que les ensenan<FF03>en las escuelas hoy",
+  "shortened": true
+ },
+ "talk_youen_00333": {
+  "t": " eso de hecho es amable.<FFF5> No te creas tanto, brujita.<FFF5> Por que",
+  "shortened": true
+ },
+ "talk_youen_00334": {
+  "t": "solo soy demonia debil",
+  "shortened": true
+ },
+ "talk_youen_00335": {
+  "t": "<FFF5>Que pasa con esa actitud",
+  "shortened": true
+ },
+ "talk_youen_00336": {
+  "t": " Quien<FF03>crees que eres?<FFF5>Que pasa con esa actitud.? Si me<FF03>subestimas, te arrepentiras luego.<FFF5>   Si no sabes, ni modo",
+  "shortened": true
+ },
+ "talk_youen_00337": {
+  "t": "<FFF5> Sera esto tambien forma de amor",
+  "shortened": true
+ },
+ "talk_youen_00338": {
+  "t": "<FFF5>  Que cruel",
+  "shortened": true
+ },
+ "talk_youen_00339": {
+  "t": " pense que eramos amigos",
+  "shortened": true
+ },
+ "talk_youen_00340": {
+  "t": "<FFF5>  T-Tu fiera. Eso es tan cruel.<FF03>Nunca te perdonare por eso.<FFF5> Ahaha.<FFF5> Como pudiste parar justo cuando se<FF03>ponia bueno.? Eres tan cruel.<FFF5>Ah, un nuevo modo de molestar. Pero<FF03>aun prefiero el estilo tradicional!<FFF5>   Oh, ah si?<FFF5>Me parece lindo cuando haces eso!<FFF5>Aun si es cierto, no debes<FF03>decirlo tu mismo.<FFF5>   Ah si? Esta bien, pues!<FFF5>   Ah si? Esta bien, pues!<FFF5>   No te puedo creer.<FFF5> Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00341": {
+  "t": " Ahora entiendo muy bien!<FF03>No eres nada malo!<FFF5>Si puedes reganar a otros asi,<FF03>eres independiente despues de todo! Humanos como<FF03>tu me interesan",
+  "shortened": true
+ },
+ "talk_youen_00342": {
+  "t": "<FFF5>  Oh, ah si. Hablas muy grande, pero<FF03>tu juicio apesta cuando se trata<FF03>de demonios.<FFF5>   Que pasa con esa actitud",
+  "shortened": true
+ },
+ "talk_youen_00343": {
+  "t": " Quien<FF03>crees que eres?<FFF5>Que pasa con esa actitud.? Si me<FF03>subestimas, te arrepentiras luego.<FFF5>   Si no sabes, ni modo",
+  "shortened": true
+ },
+ "talk_youen_00344": {
+  "t": "<FFF5> Sera esto tambien forma de amor",
+  "shortened": true
+ },
+ "talk_youen_00345": {
+  "t": "<FFF5>  Que cruel",
+  "shortened": true
+ },
+ "talk_youen_00346": {
+  "t": " pense que eramos amigos",
+  "shortened": true
+ },
+ "talk_youen_00347": {
+  "t": "<FFF5>  T-Tu fiera. Eso es tan cruel.<FF03>Nunca te perdonare por eso.<FFF5> Ahaha.<FFF5> Como pudiste parar justo cuando se<FF03>ponia bueno.? Eres tan cruel.<FFF5>Ah, un nuevo modo de molestar. Pero<FF03>aun prefiero el estilo tradicional!<FFF5>   Ash, que es? Eso de verdad me<FF03>incomoda, sabes.<FFF5> Hmph. Si me vas a ignorar, puedes<FF03>ignorarme hasta el final.<FFF5> Oh, hablaste",
+  "shortened": true
+ },
+ "talk_youen_00348": {
+  "t": " De verdad no tienes<FF03>mucha fuerza de voluntad, hm?<FFF5>Sabes, ya basta.<FFF5> Esta mal.<FFF5>  Asi es, solo tenias que decir<FF03>algo!<FFF5>",
+  "shortened": true
+ },
+ "talk_youen_00349": {
+  "t": "De verdad quieres negociar?<FFF5>  Menos mal que hablaste",
+  "shortened": true
+ },
+ "talk_youen_00350": {
+  "t": "<FFF5>   Como que, <0028>Que quieres",
+  "shortened": true
+ },
+ "talk_youen_00351": {
+  "t": "<FF03>Estamos a mitad de negociar aqui.<FFF5>Ash, que es? Eso de verdad me<FF03>incomoda, sabes.<FFF5> Hmph. Si me vas a ignorar, puedes<FF03>ignorarme hasta el final.<FFF5> Oh, hablaste",
+  "shortened": true
+ },
+ "talk_youen_00352": {
+  "t": " De verdad no tienes<FF03>mucha fuerza de voluntad, hm?<FFF5>Sabes, ya basta.<FFF5> Esta mal.<FFF5>  Asi es, solo tenias que decir<FF03>algo!<FFF5>",
+  "shortened": true
+ },
+ "talk_youen_00353": {
+  "t": "De verdad quieres negociar?<FFF5>  Menos mal que hablaste",
+  "shortened": true
+ },
+ "talk_youen_00354": {
+  "t": "<FFF5>   Como que, <0028>Que quieres",
+  "shortened": true
+ },
+ "talk_youen_00355": {
+  "t": "<FF03>Estamos a mitad de negociar aqui.<FFF5>Eso es lo que dices despues<FF03>de amenazarme? Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00356": {
+  "t": " tienes<FF03>una labia de oro!<FFF5>  Oh, ah si.? A ver, intentalo.<FFF5>N-Ni hablar",
+  "shortened": true
+ },
+ "talk_youen_00358": {
+  "t": "<FFF5>  Que pasa con esa actitud.? Y pensar,<FF03>que te puse atencion especial.<FFF5> Jeje",
+  "shortened": true
+ },
+ "talk_youen_00359": {
+  "t": " Eres timido.<FFF5>Que te pasa",
+  "shortened": true
+ },
+ "talk_youen_00360": {
+  "t": "<FFF5>Gracias, que amable.<FFF5>No te creas tanto.<FFF5>   N-Ni hablar",
+  "shortened": true
+ },
+ "talk_youen_00361": {
+  "t": "<FFF5>De que presumes.? Ya no<FF03>te soporto.<FFF5>   L-Lo siento",
+  "shortened": true
+ },
+ "talk_youen_00362": {
+  "t": "<FFF5> Asi es, calmate!<FFF5>   Das tanto asco",
+  "shortened": true
+ },
+ "talk_youen_00363": {
+  "t": "<FFF5>Das tanto asco. Que te<FF03>pasa.? Vete.<FFF5> Tontito, estaba mintiendo.<FFF5>No quieres que me caigas bien.?<FFF5>Huh",
+  "shortened": true
+ },
+ "talk_youen_00364": {
+  "t": " No quieres que me caigas bien?<FFF5> Si, me sorprende! No sabia que habia<FF03>hechiceros humanos.<FFF5>  Lo se. No lo tomes tan en serio.<FFF5>Huh? Entonces que es",
+  "shortened": true
+ },
+ "talk_youen_00365": {
+  "t": "<FFF5>   Tienes razon! O sea, quieres<FF03>negociar, asi que no tendrias razon para<FF03>intentar algo raro!<FFF5>Tratas de amenazarme",
+  "shortened": true
+ },
+ "talk_youen_00366": {
+  "t": "<FFF5>  <0028>Je,<0028> mis polainas. Que es ese <0028>je<0028><FF03>tuyo.?<FFF5>   Lo sabia. Solo lo sabia.<FFF5> No voy a hacer nada en<FF03>particular!<FFF5>Me enganaste. Esto es fraude de negociacion.<FFF5> Oye",
+  "shortened": true
+ },
+ "talk_youen_00367": {
+  "t": " Anda, bromeas, verdad?<FFF5>No piensas eso para nada. Deja de jugar<FF03>conmigo.<FFF5> Ni hablar. Aventurando? En esta epoca?<FF03>Eres un ave rara.<FFF5>  Huh",
+  "shortened": true
+ },
+ "talk_youen_00368": {
+  "t": " Bueno, eres honesto!<FFF5>Oye. Se supone que seas cortes con<FF03>una dama.<FFF5>   Que dijiste.? Creo que ya casi<FF03>me harto.<FFF5> Esta bien. Okay!<FFF5>   No tienes sentido del humor?<FF03>Que triste por ti",
+  "shortened": true
+ },
+ "talk_youen_00369": {
+  "t": "<FFF5>Ninguno. Eres muy astuto.<FFF5>  Ninguno!<FFF5>  El cuerpo es la posesion mas<FF03>preciada de uno, despues de todo.<FFF5>   Ya veo! Estas bien?<FFF5>  N-No te acerques, si",
+  "shortened": true
+ },
+ "talk_youen_00370": {
+  "t": " Que hago?<FFF5>   Ah si.<FFF5>Que humano tan raro",
+  "shortened": true
+ },
+ "talk_youen_00371": {
+  "t": "<FFF5>  No haras nada doloroso, verdad",
+  "shortened": true
+ },
+ "talk_youen_00372": {
+  "t": "<FFF5> Huh? Eso es cierto",
+  "shortened": true
+ },
+ "talk_youen_00373": {
+  "t": "<FFF5> Huh? Yo? Bueno, quien sabe?<FFF5> Hmmm",
+  "shortened": true
+ },
+ "talk_youen_00374": {
+  "t": " Siento que hay algo<FF03>mas en juego aqui",
+  "shortened": true
+ },
+ "talk_youen_00375": {
+  "t": "<FFF5> Hmph. Yo tambien te odio.<FFF5>Hay un obstaculo en nuestro<FF03>amor? Ahaha",
+  "shortened": true
+ },
+ "talk_youen_00376": {
+  "t": " siempre quise<FF03>decir eso.<FFF5>  Oh, lo siento",
+  "shortened": true
+ },
+ "talk_youen_00377": {
+  "t": "Estoy bien!<FFF5> Nooooo. Tengo mieeedo.<FFF5> A-Ahahaha",
+  "shortened": true
+ },
+ "talk_youen_00378": {
+  "t": "<FFF5>  De donde sale esa confianza?<FF03>Aunque, mejor eso que un hombre<FF03>sin nada de confianza!<FFF5> Tu tambien crees? Entiendes.<FFF5>  Cielos. No tienes que enojarte tanto.<FFF5>Oye. Me diste esperanzas.<FFF5>  Ay. Que hago?<FFF5>  U-Un secreto",
+  "shortened": true
+ },
+ "talk_youen_00379": {
+  "t": " Tengo un muy mal<FF03>presentimiento de esto",
+  "shortened": true
+ },
+ "talk_youen_00381": {
+  "t": " Tengo un muy mal<FF03>presentimiento de esto",
+  "shortened": true
+ },
+ "talk_youen_00383": {
+  "t": "<FFF5>  Para<FFF5>   Sigue cantando<FFF5>   Para<FFF5>   Sigue cantando<FFF5>   Sigue cantando<FFF5>   Jejeje!<FFF5> Jejeje!<FFF5> Ha sido duro para mi!<FFF5> Aja.<FFF5>Aja.<FFF5>No es eso!<FFF5> Jeje, asi es!<FFF5>   No lo quiero!<FFF5>   No lo quiero!<FFF5>   No, no es eso.<FFF5> Ooh, lo notaste?<FFF5>Ooh, lo notaste?<FFF5>No es cierto!<FFF5>   No es cierto!<FFF5>   Tu tambien crees?<FFF5>  Tu tambien crees?<FFF5>  Es un chiste?<FFF5>Wooooow.<FFF5>   Jejeje!<FFF5> Jejeje!<FFF5> Ha sido duro para mi!<FFF5> Aja.<FFF5>Aja.<FFF5>No es eso!<FFF5> Jeje, asi es!<FFF5>   No lo quiero!<FFF5>   No lo quiero!<FFF5>   Que dijiste.?<FFF5> Que dijiste.?<FFF5> Jejeje!<FFF5> No, no es eso.<FFF5> Ooh, lo notaste?<FFF5>Ooh, lo notaste?<FFF5>Es un chiste?<FFF5>Es un chiste?<FFF5>Wooooow.<FFF5>   Mwahahaha, okay.<FFF5>   Mwahahaha, okay.<FFF5>   Eh, no importa",
+  "shortened": true
+ },
+ "talk_youen_00385": {
+  "t": "<FFF5>   Es mentira.<FFF5>  Es mentira.<FFF5>  Diras que si?<FFF5>Sin problema!<FFF5>Sin problema!<FFF5>Nada",
+  "shortened": true
+ },
+ "talk_youen_00387": {
+  "t": "<FFF5> Es solo un chiste.<FFF5>  Explica en detalle<FFF5>  Hazla reir otra vez<FFF5>Hazla reir otra vez<FFF5>Queria que sonrieras!<FFF5> Queria que sonrieras!<FFF5> Me lo ordenaron!<FFF5>  Jejeje.<FFF5> Jejeje.<FFF5> Que hago?<FFF5>  Si!<FFF5>  No te puedo decir",
+  "shortened": true
+ },
+ "talk_youen_00388": {
+  "t": "<FFF5>No puedo decir",
+  "shortened": true
+ },
+ "talk_youen_00389": {
+  "t": "<FFF5>Entendido.<FFF5>Entendido.<FFF5>NI. HABLAR.<FFF5>   Eso es bien lindo!<FFF5>Eso es bien lindo!<FFF5>Que soso",
+  "shortened": true
+ },
+ "talk_youen_00390": {
+  "t": "<FFF5> No importa",
+  "shortened": true
+ },
+ "talk_youen_00391": {
+  "t": "<FFF5>  No importa",
+  "shortened": true
+ },
+ "talk_youen_00392": {
+  "t": "<FFF5>  Te iba a sorprender!<FFF5>  Mwahahahaha.<FFF5>   Mwahahahaha.<FFF5>   No bromees conmigo.<FFF5>Entendido!<FFF5>Jejeje!<FFF5> Jejeje!<FFF5> Esta bien!<FFF5> Esta bien!<FFF5> Me niego.<FFF5>  Pides demasiado.<FFF5>  Otra cosa esta bien?<FFF5>   Otra cosa esta bien?<FFF5>   No te emociones!<FFF5> Hmph! Estas feliz?<FFF5>   Hmph! Estas feliz?<FFF5>   Hmhm",
+  "shortened": true
+ },
+ "talk_youen_00394": {
+  "t": "<FFF5>Ha sido duro para mi!<FFF5> Claro!<FFF5> Claro!<FFF5> Hmhm",
+  "shortened": true
+ },
+ "talk_youen_00395": {
+  "t": "<FFF5>Asi es!<FFF5>  No lo quiero.<FFF5>   No lo quiero.<FFF5>   Nunca oi de eso!<FFF5> Atormenta<FFF5>Atormenta<FFF5>Aprendi solo!<FFF5>   Aprendi en la escuela!<FFF5>   Consuelala<FFF5> Grita otra vez<FFF5> Grita otra vez<FFF5> Lo se!<FFF5>Te puedes callar.?<FFF5>Tienes razon!<FFF5>  Hmph! Me niego!<FFF5>Claro!<FFF5> Eres un tonto.<FFF5> Bueno, esta bien!<FFF5>   Bueno, esta bien!<FFF5>   No bromees conmigo!<FFF5>Tengo que ir al bano.<FFF5>Eso no es!<FFF5> Sigue bailando<FFF5>   Para<FFF5>   No hago nada!<FFF5> Voy a molestarte.<FFF5>   Voy a molestarte.<FFF5>   Es mi poder!<FFF5> Es mi poder!<FFF5> En la escuela!<FFF5> Consuelala<FFF5> Burlate aun mas<FFF5> Burlate aun mas<FFF5> Porque eres lindo!<FFF5>  No me malinterpretes!<FFF5>No me malinterpretes!<FFF5>Porque eres lindo!<FFF5>  Que quieres.?<FFF5>Ah si.<FFF5>   Que tonto!<FFF5>Que tonto!<FFF5>No es cierto!<FFF5>   No es cierto!<FFF5>   Lo notaste?<FFF5>Si, en serio!<FFF5> Si, en serio!<FFF5> Quizas no!<FFF5> Lo notaste?<FFF5>No lo quiero!<FFF5>   No lo quiero!<FFF5>   Que grosero!<FFF5>   Que grosero!<FFF5>   <0056>chuckle<0056><FFF5>  Para<FFF5>   Para<FFF5>   Sigue<FFF5>   Sigue<FFF5>   Si!<FFF5>   No!<FFF5>Yo te guio!<FFF5>Yo te guio!<FFF5>Es un secreto!<FFF5>   Entonces sere Carrie!<FFF5>   Hago la de Corin.<FFF5> Hago la de Corin.<FFF5> No voy a perder.<FFF5>  No voy a perder.<FFF5>  Que hago",
+  "shortened": true
+ },
+ "talk_youen_00396": {
+  "t": "<FFF5>   Para<FFF5>   Sigue cantando<FFF5>   Sigue cantando<FFF5>   Si, lo veo!<FFF5> No lo veo!<FFF5>Lo se!<FFF5>No lo se!<FFF5>  Sigue calmando<FFF5>  Actua serio<FFF5>No es tan genial",
+  "shortened": true
+ },
+ "talk_youen_00397": {
+  "t": "<FFF5> No es tan genial",
+  "shortened": true
+ },
+ "talk_youen_00398": {
+  "t": "<FFF5> Ha sido duro para mi!<FFF5> Si!<FFF5>   Si!<FFF5>   Quien sabe",
+  "shortened": true
+ },
+ "talk_youen_00399": {
+  "t": "<FFF5>  Si!<FFF5>   No!<FFF5>No!<FFF5>O-kay.<FFF5> Entiendo.<FFF5>  Lo se!<FFF5>No lo se!<FFF5>  Ahahahaha.<FFF5> Esta bien!<FFF5> Estoy totalmente feliz.<FFF5> Estoy totalmente feliz.<FFF5> Queee.? No.<FFF5>   Que hago?<FFF5>  Queee.? No.<FFF5>   Queee.? No.<FFF5>   Ama.<FFF5>  En serio",
+  "shortened": true
+ },
+ "talk_youen_00401": {
+  "t": "<FFF5>  Estoy bien!<FFF5>  Totalmente duele!<FFF5>  Totalmente duele!<FFF5>  Lo descubriste!<FFF5>Pero eso es malo",
+  "shortened": true
+ },
+ "talk_youen_00402": {
+  "t": "<FFF5>Pero eso es malo",
+  "shortened": true
+ },
+ "talk_youen_00403": {
+  "t": "<FFF5> Sigue llorando<FFF5>Para<FFF5>   No hare nada!<FFF5>   Voy a molestarte!<FFF5>   Voy a molestarte!<FFF5>   Aprendi solo!<FFF5>   Aprendi solo!<FFF5>   Aprendi en la escuela!<FFF5>   Consuelala<FFF5> Sigue amenazando<FFF5>   Sigue amenazando<FFF5>   Quien sabe?<FFF5> Quien sabe?<FFF5> No lo se!<FFF5>  Porque tengo curiosidad!<FFF5>   Porque te odio!<FFF5>Porque te odio!<FFF5>Ni de chiste.<FFF5>   Pare!<FFF5> Pare!<FFF5> Para ya",
+  "shortened": true
+ },
+ "talk_youen_00405": {
+  "t": "<FFF5> Ha sido duro para mi!<FFF5> En serio!<FFF5>   En serio!<FFF5>   Quien sabe?<FFF5> Tienes razon!<FFF5>  No lo quiero!<FFF5>   No lo quiero!<FFF5>   Quien sabe?<FFF5> Quien sabe?<FFF5> No lo se!<FFF5>  Porque tengo curiosidad!<FFF5>   Porque te odio!<FFF5>Porque te odio!<FFF5>Ni de chiste.<FFF5>   Pare!<FFF5> Pare!<FFF5> ",
+  "shortened": true
+ },
+ "talk_youen_00406": {
+  "t": "<FFF5> Nada especial!<FFF5>   Nada especial!<FFF5>   ",
+  "shortened": true
+ },
+ "talk_youen_00408": {
+  "t": "<FFF5> Que quieres?<FFF5><0A89> Que quieres?<FFF5><0A89> ",
+  "shortened": true
+ },
+ "talk_youen_00409": {
+  "t": "<FFF5> No lo oigo!<FFF5>   No lo oigo!<FFF5>   ",
+  "shortened": true
+ },
+ "talk_youen_00411": {
+  "t": "<FFF5> Que quieres?<FFF5><0A89> Que quieres?<FFF5><0A89> No hare nada!<FFF5><0127><FFF5> Voy a molestarte!<FFF5>Voy a molestarte!<FFF5>Dejame en paz!<FFF5>Dejame en paz!<FFF5>Callate! Largate!<FFF5> Consuelala<FFF5> Sigue amenazando<FFF5>   Sigue amenazando<FFF5>   Soy una tonta!<FFF5>Quieres morir, eh.?<FFF5>   Calmate<FFF5>  Sonrie<FFF5>  Sonrie<FFF5>  Ruge otra vez<FFF5> Actua serio<FFF5>Actua serio<FFF5>Te sorprendiste?<FFF5>No es un hechizo!<FFF5>  No es un hechizo!<FFF5>  No estoy segura!<FFF5>No estoy segura!<FFF5>Je",
+  "shortened": true
+ },
+ "talk_youen_00412": {
+  "t": "<FFF5> Y que?<FFF5>   Y que?<FFF5>   Soy Reiji!<FFF5> Cazando demonios!<FFF5>Esperandote!<FFF5>   En una aventura!<FFF5>   Si!<FFF5>   No!<FFF5>Estas en MI camino!<FFF5>  No entres!<FFF5>   Como si me importara.<FFF5>Que tal el cielo?<FFF5> Que tal el cielo?<FFF5> Estoy bien!<FFF5>Podria estar mejor!<FFF5> Voy a vomitar!<FFF5> Tenemos asunto!<FFF5>   Largate de aqui!<FFF5>Oye, no te vayas.<FFF5>  Tenemos asunto!<FFF5>   Largate de aqui!<FFF5>Necesitas algo?<FFF5>Mi puerta esta abierta!<FFF5>No te acerques!<FFF5>Quiero, pero",
+  "shortened": true
+ },
+ "talk_youen_00413": {
+  "t": "<FFF5>  Calmala<FFF5>   Asustala<FFF5>   Hazla reir<FFF5>  Claro!<FFF5> No doy la talla!<FFF5>No bromees conmigo!<FFF5>No hagas nada<FFF5> Adorala<FFF5>   Adorala<FFF5>   <2001><2101> `",
+  "shortened": true
+ }
+}

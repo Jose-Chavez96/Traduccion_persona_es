@@ -1,0 +1,94 @@
+{
+  "_meta": "Glosario central OBLIGATORIO para toda la traduccion de Persona PSP -> ES latino. Todos los agentes usan EXACTAMENTE estos terminos. Sin acentos (fuente base no los soporta todavia).",
+
+  "nombres_propios_personajes": {
+    "Mark": "Mark",
+    "Brown": "Brown",
+    "Yukino": "Yukino",
+    "Maki": "Maki",
+    "Nanjo": "Nanjo",
+    "Elly": "Elly",
+    "Reiji": "Reiji",
+    "Kandori": "Kandori",
+    "Philemon": "Philemon",
+    "Igor": "Igor",
+    "Hypnos": "Hypnos",
+    "Comet": "Comet"
+  },
+
+  "lugares": {
+    "Velvet Room": "Sala Aterciopelada",
+    "Mikage-cho": "Mikage-cho",
+    "St. Hermelin": "Preparatoria St. Hermelin",
+    "SEBEC": "SEBEC"
+  },
+
+  "terminos_sistema": {
+    "Persona": "Persona",
+    "spell card": "carta de hechizo",
+    "card": "carta",
+    "demon": "demonio",
+    "negotiate": "negociar",
+    "negotiation": "negociacion",
+    "life stone": "piedra de vida",
+    "gem": "gema",
+    "yen": "yen",
+    "human": "humano",
+    "soul": "alma",
+    "full moon": "luna llena",
+    "incense": "incienso",
+    "rank": "rango",
+    "Arcana": "Arcana"
+  },
+
+  "tipos_demonio_se_mantienen": [
+    "preta", "slime", "yaksa", "gaki", "kodama", "zombie", "poltergeist"
+  ],
+
+  "arcanas": {
+    "Fool": "El Loco", "Magician": "El Mago", "Priestess": "La Sacerdotisa",
+    "Empress": "La Emperatriz", "Emperor": "El Emperador", "Hierophant": "El Hierofante",
+    "Lovers": "Los Enamorados", "Chariot": "El Carro", "Justice": "La Justicia",
+    "Hermit": "El Ermitano", "Fortune": "La Fortuna", "Strength": "La Fuerza",
+    "Hanged Man": "El Colgado", "Death": "La Muerte", "Temperance": "La Templanza",
+    "Devil": "El Diablo", "Tower": "La Torre", "Star": "La Estrella",
+    "Moon": "La Luna", "Sun": "El Sol", "Judgement": "El Juicio", "World": "El Mundo"
+  },
+
+  "estados": {
+    "Poison": "Veneno", "Sleep": "Sueno", "Paralyze": "Paralisis", "Paralysis": "Paralisis",
+    "Charm": "Encanto", "Fear": "Miedo", "Stone": "Petrificado", "Close": "Sellado",
+    "Down": "Caido", "Bind": "Atado", "Confuse": "Confusion"
+  },
+
+  "estados_animo_negociacion": {
+    "Happy / Eager": "Feliz", "Angry": "Enojado", "Scared / Afraid": "Asustado",
+    "Interested": "Interesado", "Calm": "Tranquilo"
+  },
+
+  "habilidades_se_mantienen_japones": [
+    "Agi", "Agilao", "Agidyne", "Bufu", "Bufula", "Bufudyne",
+    "Zio", "Zionga", "Ziodyne", "Garu", "Garula", "Garudyne",
+    "Dia", "Diarama", "Mediarama", "Tarukaja", "Rakukaja", "Sukukaja",
+    "Mudo", "Hama", "Maragi", "Mabufu", "Magaru", "Mazio"
+  ],
+
+  "muletillas_y_onomatopeyas_se_mantienen": [
+    "Gyahahaha", "Heeheehee", "Eeeeeee", "yip", "ring", "crackle",
+    "whine", "splat", "sniff", "whistle", "Tch", "Hmph"
+  ],
+
+  "frases_recurrentes_negociacion": {
+    "Give me something": "Dame algo",
+    "I want X": "Quiero X",
+    "What do you want": "Que quieres",
+    "Let's negotiate": "Negociemos",
+    "I'll give you my card": "Te dare mi carta",
+    "Take this": "Toma esto",
+    "What was that, lameass?": "Que fue eso, tarado.?",
+    "bro": "compa",
+    "sister / girl / chick": "nena",
+    "dude / man": "men",
+    "Gah": "Bah"
+  }
+}

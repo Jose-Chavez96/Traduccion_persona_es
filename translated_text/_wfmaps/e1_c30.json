@@ -1,0 +1,90 @@
+{
+ "e1_01013": {
+  "t": "<FF02><FF04><FF1B>Elly<FF03>Y atraparnos en sus trampas!<FF02><FF04><FF1B>Elly<FF03>Es como dice Yukino",
+  "shortened": true
+ },
+ "e1_01014": {
+  "t": " esto no sera facil!<FF02><FF01> <0044> Soplar la vela?<FF02><FF0E> <FF01>  <FF1B>Yukino<FF03>Eh.? Q-Que pasa",
+  "shortened": true
+ },
+ "e1_01015": {
+  "t": "<FF05><1E00><FF03>A-Algo me esta siendo arrancado",
+  "shortened": true
+ },
+ "e1_01016": {
+  "t": "<FF02><FF04><FF1B>Yukino<FF03>Aagh. AAAAAAAAHHHHHHHH.<FF02><FF01>  <FF1B>Yuriko<FF03>Teeheehee. Te tengo.<FF02><FF04><FF1B>Yuriko<FF03>Teeheeheeheeheehee.<FF02><FF04><FF1B>Yuriko<FF03>De veras creyeron que pasarian de<FF03>aqui gratis? Tontitos.<FF02><FF04><FF1B>Yuriko<FF03>Toma y daca, asi es el juego.<FF02><FF04><FF1B>Yuriko<FF03>Si quieren algo en esta torre,<FF03>deben dar algo a cambio.<FF02><FF04><FF1B>Yuriko<FF03>La vida es dura, eh?<FF02><FF04><FF1B>Yuriko<FF03>Bueno, me llevo tu otra vida",
+  "shortened": true
+ },
+ "e1_01017": {
+  "t": "<FF05><1E00><FF03>Per-<FF05><1E00>so-<FF05><1E00>na.<FF02><FF04><FF1B>Yuriko<FF03>Gracias. Teeheeheeheehee. Adios.<FF02><FF01>   <FF1B>Yukino<FF03>Maldicion. Que le pasa a esa boba.?<FF02><FF04><FF1B>Yukino<FF03>De que iba todo eso? <0028>Me llevo<FF03>tu otra vida<0028>?<FF02><FF04><FF1B>Yukino<FF03>Que quiso decir?<FF02><FF01><0044> Soplar la vela?<FF02><FF0E> <FF01>  <FF1B>Yuriko<FF03>Teeheehee. Te tengo.<FF02><FF04><FF1B>Yuriko<FF03>Teeheeheeheeheehee.<FF02><FF04><FF1B>Yuriko<FF03>De veras creyeron que pasarian de<FF03>aqui gratis? Tontitos.<FF02><FF04><FF1B>Yuriko<FF03>Toma y daca, asi es el juego.<FF02><FF04><FF1B>Yuriko<FF03>Si quieren algo en esta torre,<FF03>deben dar algo a cambio.<FF02><FF04><FF1B>Yuriko<FF03>La vida es dura, eh?<FF02><FF04><FF1B>Yuriko<FF03>Bueno, me llevo tu otra vida",
+  "shortened": true
+ },
+ "e1_01018": {
+  "t": "<FF05><1E00><FF03>Per-<FF05><1E00>so-<FF05><1E00>na.<FF02><FF04><FF1B>Yuriko<FF03>Gracias. Teeheeheeheehee. Adios.<FF02><FF01>   <0044> Decides no soplar la vela!<FF02><FF01>  <0044> La vela esta apagada!<FF02><FF01><0044> La vela esta encendida!<FF02><FF01>  <0044> Parece que debes apagar una de<FF03>las velas para abrir la puerta!<FF02><FF01> <0044> La puerta parece abierta ahora",
+  "shortened": true
+ },
+ "e1_01019": {
+  "t": "<FF02><FF01><0044> Abrir puerta?<FF02><FF0E> <FF01><1C00> <0818> <A018> <601A> <F01B> <081D> <B81D> <481F> <7020> <4021> <7024> <8825> <2826> <E826> <3828> <9029> <E829> <982B> <D02B> <B82C> <E02F> <0831> <4031> <6834> <C034> <F034> <2035> <B035> <0036>                                                                                                                                                                                   <FFFF><1600><FFFF>",
+  "shortened": true
+ },
+ "e1_01026": {
+  "t": "<FF4D><3C00><FF60> <FF67><0500><FF55> <E835> <FF68> <FF61> <FF58><0200><8017> <FF21>   <FF26><6301><001E> <FF60> <FF67><0001><FF55> <E836> <FF54> <A81B> <FF54>`<E81D> <FF61> <FF21> <FF26><D300><181E> <FF65><1383><0403>`<8000> <FF4D><1E00><FF65><1385><0403>`<8000> <FF4D><1E00><FF68> <FF24><6301><FF67><0501><FF55> <1837> <FF68> <FF61> <FF81><6800><FF64><0601><0501>a<1101> <FF4D><1E00><FF6C><1000><FF73><0600><FF76><0601><FF4D><4000><FF74><0600><FF4D><1E00><FF7C>c<0600> <FF7C><0307><0500> <FF7C><0403><0400> <FF7C><0509><0700> <FF4D><1E00><FF60> <FF67><3102><FF55> <1038> <FF68> <FF61> <FF81><6A00><FF64><0601><0501>a<1100><6000><FF4D><1E00><FF6C><1000><FF73><0600><FF77><0601><FF4D><4000><FF66><0600><FF4D><1E00><FF7C>c<0603> <FF7C><0307><0502> <FF7C><0403><0403> <FF7C><0509><0702> <FF4D><1E00><FF26><AD00><B81C> <FF24><AD00><FF22> <C01D> <FF26><AE00><D01C> <FF24><AE00><FF22> <C01D>   <FF26><AF00><E81C> <FF24><AF00><FF22> <C01D>   <FF26><B000><001D> <FF24><B000><FF22> <C01D>   <FF26><B100><181D> <FF24><B100><FF22> <C01D>   <FF26><B200><301D> <FF24><B200><FF22> <C01D>   <FF26><B300><481D> <FF24><B300><FF22> <C01D>   <FF26><B400><601D> <FF24><B400><FF22> <C01D>   <FF26><B500><781D> <FF24><B500><FF22> <C01D>   <FF26><B600><901D> <FF24><B600><FF22> <C01D>   <FF26><B700><A81D> <FF24><B700><FF22> <C01D>   <FF26><B800><C01D> <FF24><B800><FF22> <C01D>   <FF61> <FF2D>,<FF81><7D00><FF60> <FF55> <083A> <FF3C><6A00>` <FF61> <FF21> <FF68> <FF55> <503A> <FF61> <FF21>   <FF60> <FF55> <A03A> <FF61> <FF21>   <FF68> <FF55> <D03A> <FF61> <FF21>   <FF1B>Yukino<FF03>Esto es trampa, sin duda! Dos<FF03>cofres al fondo, y nada mas!<FF02><FF04><FF1B>Yukino<FF03>Es mala senal, como esa sala de<FF03>las velas!<FF02><FF04><FF1B>Yukino<FF03>Como dicen, mejor no menear el<FF03>avispero! Dejemoslos asi!<FF02><FF01>   <FF1B>Yuriko<FF03>Awww, que mala eres!<FF02><FF04><FF1B>Yuriko<FF03>Arme un regalo solo porque se<FF03>estaban esforzando tantooo!<FF02><FF04><FF1B>Yuriko<FF03>Y se van a ir asi<FF03>nomas? Voy a llorar",
+  "shortened": true
+ },
+ "e1_01028": {
+  "t": "<FF02><FF01><FF1B>Nanjo<FF03>Hmph, como si cayeramos! Sabemos<FF03>de todas tus tretas!<FF02><FF04><FF1B>Nanjo<FF03>Solo ignorala, Yukino!<FF02><FF01>   <FF1B>Brown<FF03>Un regalo.? T-Tomemoslo, Yukino.<FF02><FF04><FF1B>Brown<FF03>Nadie tan linda puede ser ladrona!<FF03>Es un hecho.<FF02><FF04><FF1B>Brown<FF03>Vamos, podemos confiar en Yuriko.<FF02><FF01> <FF1B>Ayase<FF03>Huh! Si, parece trampa, pero<FF03>suena algo divertido.<FF02><FF04><FF1B>Ayase<FF03>No quiero acobardarme",
+  "shortened": true
+ },
+ "e1_01029": {
+  "t": " Bien, dinos<FF03>de que se trata.<FF02><FF01>   <FF1B>Yuriko<FF03>Woo-hoo.<FF02><FF04><FF1B>Yuriko<FF03>Sabia que aceptarian. Creo que tu y yo<FF03>podriamos ser mejores amigas por siempre.<FF02><FF04><FF1B>Yuriko<FF03>Oh, soy tan feliz.<FF02><FF01>   <FF1B>Nanjo<FF03>Deja de parlotear y ve al grano!<FF03>Tus modos me dan migrana!<FF02><FF01>  <FF1B>Elly<FF03>Seguro tramas algo malo con este<FF03>llamado <0028>regalo!<0028> Es perder el tiempo!<FF02><FF01> <FF1B>Yuriko<FF03>Awww, por que no son mas positivos?<FF03>Se que estan emocionados.<FF02><FF04><FF1B>Yuriko<FF03>En fin, explicare el<FF03>regalo. Pongan atencion.<FF02><FF04><FF1B>Yuriko<FF03>Uno de estos cofres tiene un Mirror<FF03>Shard. A todos nos gustan, no?<FF02><FF04><FF1B>Yuriko<FF03>Y hoy me siento super generosa,<FF03>asi que prueben suerte gratis.<FF02><FF04><FF1B>Yuriko<FF03>Pero. Solo tienen un intento.<FF02><FF04><FF1B>Yuriko<FF03>Y claro, algo malo pasara<FF03>si abren el equivocado! Uh-oh.<FF02><FF04><FF1B>Yuriko<FF03>Whee. Suena divertido, no?<FF02><FF04><FF1B>Yuriko<FF03>Suerte. Teeheeheehee.<FF02><FF01><FF1B>Ayase<FF03>Oh, entonces SI es trampa?<FF02><FF04><FF1B>Ayase<FF03>Hmm",
+  "shortened": true
+ },
+ "e1_01030": {
+  "t": " bueno, igual es buena chance.<FF03>Deberiamos intentarlo.<FF02><FF04><FF1B>Ayase<FF03>Tengo la sensacion de que no miente!<FF02><FF04><FF1B>Ayase<FF03>Vamos, no es para tanto, no?<FF02><FF04><FF1B>Ayase<FF03>Asumo toda la culpa si algo<FF03>pasa. Asi que abramos uno.<FF02><FF01>   <FF1B>Yukino<FF03>Yuriko juega con nuestras vidas y disfruta<FF03>cada minuto.<FF02><FF04><FF1B>Yukino<FF03><0056>sigh<0056> La odio con toda mi alma!<FF02><FF01>   <FF1B>Ayase<FF03>No se por que, pero parece que Yuriko se<FF03>obliga a ser asi!<FF02><FF04><FF1B>Ayase<FF03>Asi me parece a mi!<FF02><FF01>  <FF1B>Ayase<FF03>Gahhh. Esa Yuriko es una traidora.<FF03>Estoy SUPER furiosa ahora.<FF02><FF01>   <FF1B>Nanjo<FF03>Hay dos clases de trampas!<FF02><FF04><FF1B>Nanjo<FF03>Una busca matar a su objetivo!<FF02><FF04><FF1B>Nanjo<FF03>La otra le instila miedo poco a poco!<FF02><FF04><FF1B>Nanjo<FF03>Las trampas de Yuriko son sin duda de la<FF03>segunda clase",
+  "shortened": true
+ },
+ "e1_01031": {
+  "t": "<FF02><FF01><FF1B>Brown<FF03>Men, las trampas aqui son malvadas.<FF02><FF04><FF1B>Brown<FF03>Esta torre rebosa peligro para un<FF03>tipo honesto como yo. En serio!<FF02><FF01><FF1B>Elly<FF03>Estas trampas en la torre",
+  "shortened": true
+ },
+ "e1_01032": {
+  "t": " Todo es<FF03>un juego para ella!<FF02><FF04><FF1B>Elly<FF03>Cada vez que avanzamos, nos atormenta<FF03>lo justo para no matar a nadie!<FF02><FF04><FF1B>Elly<FF03>Hasta preparo un regalo para atraernos!<FF02><FF04><FF1B>Elly<FF03>Todo fue planeado con esmero",
+  "shortened": true
+ },
+ "e1_01034": {
+  "t": "para matarnos ella misma al<FF03>final!<FF02><FF01> <0044> Abrir este cofre?<FF02><FF0E> <FF01>  <FF1B>Ayase<FF03>Yeeeeek. A-Algo sale de mi.<FF02><FF01>   <FF1B>Yuriko<FF03>Teeheeheehee. Que pena.<FF02><FF04><FF1B>Yuriko<FF03>Me llevo tu otro yo como prenda.<FF02><FF04><FF1B>Yuriko<FF03>Okey. Adios.<FF02><FF01><FF1B>Ayase<FF03>Gaaah. No puedo creer a esa tramposa.<FF02><FF04><FF1B>Ayase<FF03>Argh",
+  "shortened": true
+ },
+ "e1_01035": {
+  "t": " Ya no puedo usar mi Persona.<FF02><FF04><FF1B>Ayase<FF03>Que voy a hacer.?<FF02><FF01> <0044> Abrir este cofre?<FF02><FF0E> <FF01>  <FF1B>Ayase<FF03>Bingo. Era el correcto. Esto es genial.<FF02><FF04><FF1B>Ayase<FF03>Ven? Les dije que abrieramos uno.<FF03>Tengo razon o no?<FF02><FF01>   <FF1B>Yuriko<FF03>Huh",
+  "shortened": true
+ },
+ "e1_01036": {
+  "t": " Parece que la suerte esta<FF03>de tu lado!<FF02><FF04><FF1B>Yuriko<FF03>Okey. Ganan este juego.<FF03>Felicidades.<FF02><FF04><FF1B>Yuriko<FF03>Falta poco para mi sala,<FF03>asi que no se rindan, si?<FF02><FF04><FF1B>Yuriko<FF03>Les dare a cada uno la mejor muerte<FF03>de todas. Los esperare.<FF02><FF01> <0044> Obtuviste un <FF19><0300><FF18><0500>Mirror Shard<FF18> !<FF02><FF01>  <0044> Decides no abrir el cofre!<FF02><FF01>   <0044> El cofre esta vacio!<FF02><FF01> <0044> Una fuerza extrana te impide<FF03>abrir el cofre!<FF02><FF01> <FF1B>Yuriko<FF03>Heheh",
+  "shortened": true
+ },
+ "e1_01037": {
+  "t": " Pena! Tiempo agotado",
+  "shortened": true
+ },
+ "e1_01038": {
+  "t": "<FF02><FF04><FF1B>Yuriko<FF03>Sus esfuerzos desesperados fueron perfectos<FF03>para celebrar la Noche Eterna",
+  "shortened": true
+ },
+ "e1_01039": {
+  "t": "<FF02><FF04><FF1B>Yuriko<FF03>Pero la obra acaba aqui!<FF02><FF04><FF1B>Yuriko<FF03>Ahora, vean",
+  "shortened": true
+ },
+ "e1_01040": {
+  "t": " la Noche Eterna!<FF02><FF01><FF1B>Yukino<FF03>Q-Que.? Que pasa.? Oh, no<FF03>me digas",
+  "shortened": true
+ },
+ "e1_01041": {
+  "t": "<FF02><FF04><FF1B>Yukino<FF03>Yuriko nos acorto el limite de tiempo<FF03>de la torre como castigo?<FF02><FF04><FF1B>Yukino<FF03>Que rayos, Yuka.?<FF02><FF04><FF1B>Yukino<FF03>Dijiste que asumirias toda la culpa,<FF03>no.? Cuando abrimos el cofre.?<FF02><FF04><FF1B>Yukino<FF03>Asi que que vas a hacer ahora, eh.?<FF02><FF04><FF1B>Yukino<FF03>Te dije desde el inicio que dejaramos<FF03>esos cofres en paz.<FF02><FF01>   <FF1B>Ayase<FF03>Que, es mi culpa?<FF02><FF04><FF1B>Ayase<FF03>No no no no. Espera.<FF02><FF04><FF1B>Ayase<FF03>Yo, uh",
+  "shortened": true
+ },
+ "e1_01042": {
+  "t": " No pense que iba a<FF03>terminar asi",
+  "shortened": true
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "e2_00123": {
+  "t": "<FF02><FF01> <FF1B>Chica<FF03>Quieres saber de eso?<FF0E> <FF01><FF1B>Chica<FF03>Ocurre en una sala azul!<FF02><FF04><FF1B>Chica<FF03>Oigo un piano y un canto, y<FF03>hay un viejo raro sentado",
+  "shortened": true
+ },
+ "e2_00124": {
+  "t": "<FF02><FF04><FF1B>Chica<FF03>Que crees que significa?<FF02><FF01> <FF1B>Chica<FF03>Fue un sueno muy extrano",
+  "shortened": true
+ },
+ "e2_00126": {
+  "t": " <EF01><FF60> <FF67><0301><FF55> <5014> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF55> <F814> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <A815> <FF68> <FF61> <FF21>   <FF1B>Nanjo<FF03>Husmear esta bien,<FF03>pero no olvidemos el hospital!<FF02><FF01>   <FF1B>Mark<FF03>Parece que la directora no esta!<FF03>Quiza este en el patio otra vez",
+  "shortened": true
+ },
+ "e2_00127": {
+  "t": "<FF02><FF01>   <FF1B>Yukino<FF03>Vaya, que flores tan bellas",
+  "shortened": true
+ },
+ "e2_00130": {
+  "t": "                                                                                                                                                                                                                                                                <0700>   <0A01>` <1802>`<FF00>  b<0400> <1002><0300><FF00>  c<0400> <1002><0300><FF00>  d<0400> <1002><0300><FF00>  l<0400> <1002><0400><FF00>  m<0400> <1002><0400><FF00>  n<0400> <1002><0400><FF00>  <FF60> <FF67><0301><FF55> <0012> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF55> <3013> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <E013> <FF68> <FF61> <FF21>   <FF26><1400><E811> <FF60> <FF55> <9014> <FF61> <FF21>   <FF60> <FF55> <3817> <FF61> <FF21>   <FF1B>Nanjo<FF03>Comparado con cuando di el discurso<FF03>de bienvenida a los nuevos",
+  "shortened": true
+ },
+ "e2_00131": {
+  "t": "<FF02><FF04><FF1B>Nanjo<FF03>Cierto, las salas aqui<FF03>son mucho mejores ahora!<FF02><FF01>  <FF1B>Mark<FF03>Ojala este lugar fuera mas grande",
+  "shortened": true
+ },
+ "e2_00132": {
+  "t": "<FF03>El escenario es muy chico para mi.<FF02><FF01>  <FF1B>Yukino<FF03>Que hacemos aqui? No ibamos<FF03>a examinarnos?<FF02><FF01>  <FF1B>Teatro<FF03>Mucho ha pasado en este viejo escenario!<FF02><FF04><FF1B>Teatro<FF03>Su larga historia vio incontables<FF03>lagrimas, sangre y sudor!<FF02><FF04><FF1B>Teatro<FF03>Aunque el escenario ya no este, la pasion<FF03>de quienes lo pisaron no se apagara",
+  "shortened": true
+ },
+ "e2_00133": {
+  "t": "<FF02><FF04><FF1B>Teatro<FF03>Que tal? Es un discurso dificil, me<FF03>tomo un rato memorizarlo!<FF02><FF01> <FF1B>Teatro<FF03>Al fin ha llegado la hora",
+  "shortened": true
+ },
+ "e2_00137": {
+  "t": " Debes aprovechar<FF03>el momento, como yo.<FF02><FF04><FF1B>Nanjo<FF03>Por algo dicen que la juventud<FF03>pasa rapido!<FF02><FF01>  <FF1B>Nanjo<FF03>Si, si, que ES, <FF07>.? Si<FF03>no tienes nada que decir, vete.<FF02><FF01>   <FF1B>Mark<FF03>Ese Nanjo me saca de quicio",
+  "shortened": true
+ },
+ "e2_00138": {
+  "t": "<FF03>Algun dia hallare su punto debil!<FF02><FF01>  <FF1B>Mark<FF03><0028>Joven amo<0028>. Ja. Oiste eso?<FF03>Es un joven amo.<FF02><FF04><FF1B>Mark<FF03>Jijiji",
+  "shortened": true
+ },
+ "e2_00139": {
+  "t": " Esto es perfecto.<FF02><FF01>   <FF1B>Yukino<FF03>Masao y Kei son tan ninos!<FF02><FF01> <FF1B>Yukino<FF03>Ese Yamaoka de verdad adora a Nanjo!<FF02><FF01>  <FF1B>Joven<FF03>Habia un viejo raro esperando junto a<FF03>las puertas hace rato! Que escalofriante",
+  "shortened": true
+ },
+ "e2_00140": {
+  "t": "<FF02><FF01>   <FF1B>Chica<FF03>Oye, no da miedo Nanjo? Paso de<FF03>ser <0028>genial<0028> a ser <0028>helado!<0028><FF02><FF01><FF1B>Joven<FF03>Eh, <FF07>. Oi que te desmayaste.<FF02><FF04><FF1B>Joven<FF03>Estudias demasiado?<FF03>Jaja, como si pasara",
+  "shortened": true
+ },
+ "e2_00142": {
+  "t": "                                                                                                                                                                                                                                                                                                                                                                                      <0600>   h<0200> <1002><0200><FF00>  <0208><0200> <1002><0200><FF00>  <0308><0200> <1002><0200><FF00>  <0708><0200> <1602> <FF00>  <0808><0200> <1602> <FF00>  <0908><0200> <1602> <FF00>  <FF60> <FF67><0301><FF55> <B811> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF55> <1812> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <5812> <FF68> <FF61> <FF21>   <FF1B>Nanjo<FF03>No hay nada interesante aqui!<FF02><FF01> <FF1B>Mark<FF03>Esta colchoneta es comoda!<FF02><FF01><FF1B>Yukino<FF03>Esta polvorienta y sudada",
+  "shortened": true
+ },
+ "e2_00143": {
+  "t": " Como puede<FF03>la gente dormir aqui?<FF02><FF01><0300> <B811> <1812> <5812>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <FFFF><1600><FFFF>",
+  "shortened": true
+ },
+ "e2_00166": {
+  "t": "<FF78>`<FF69>`<FF4D><1500><FF7A>`<FF6E>`<0001>`<FF7B> <FF60> <FF67><0300><FF55> <D015> <FF68> <FF61> <FF6C><0500><FF78><0400><FF7C><0408><0902> <FF7C>g<0903> <FF6C><0200><FF60> <FF67><2702><FF55> <F815> <FF55> <B01E> <FF24><FF00><FF68> <FF67><0300><FF55> <D816> <FF68> <FF67><2702><FF55> <7817> <FF68> <FF67><0300><FF55> <B818> <FF68> <FF61> <FF69><0500><FF4D><1000><FF7A><0500><FF60> <FF67><2902><FF55> <6819> <FF68> <FF67><2702><FF55> <9819> <FF68> <FF67><0200><FF55> <181B> <FF68> <FF67><2902><FF55> <B01B> <FF68> <FF67><2702><FF55> <101C> <FF68> <FF67><0201><FF55> <E81C> <FF68> <FF61> <FF24><0700><FF24><0001><FF24><FF00><FF29> <9578><0200><FF21>   <FF60> <FF55> <201D> <FF61> <FF29> <9578><0200><FF21>   <FF1B>Severo<FF03>Que quieren, ninos?<FF02><FF04><FF1B>Severo<FF03>Esto no es patio de juegos para<FF03>mocosos! Oye, echa a estos ninos.<FF02><FF01>   <FF1B>Voz<FF03>Takeda? Que es este alboroto?<FF02><FF01>   <FF1B>Nanjo<FF03>Kandori",
+  "shortened": true
+ },
+ "e2_00167": {
+  "t": "<FF02><FF01><FF1B>Kandori<FF03>Vaya, que raro placer!<FF02><FF04><FF1B>Kandori<FF03>Que asunto trae al heredero de la<FF03>familia Nanjo con nosotros?<FF02><FF01>   <FF1B>Nanjo<FF03>No vine por ti! Solo<FF03>acompano a esta gente!<FF02><FF01>  <FF1B>Kandori<FF03>Aja",
+  "shortened": true
+ },
+ "e2_00168": {
+  "t": " Entonces deben ser amigos del<FF03>joven amo!<FF02><FF04><FF1B>Kandori<FF03>Los acompanaste a un lugar tan sordido?<FF03>Vaya amistad",
+  "shortened": true
+ },
+ "e2_00169": {
+  "t": "<FF02><FF01><FF1B>Nanjo<FF03>Deja de llamarme <0028>joven amo!<0028> Nunca<FF03>te di permiso de usar ese nombre!<FF02><FF01> <FF1B>Takeda<FF03>Mocoso",
+  "shortened": true
+ },
+ "e2_00170": {
+  "t": "<FF02><FF01> <FF1B>Kandori<FF03>Calma, Takeda! Parece que a los<FF03>Nanjo les falta disciplina",
+  "shortened": true
+ },
+ "e2_00171": {
+  "t": "<FF02><FF04><FF1B>Kandori<FF03>Bien, lo permitire!<FF02><FF04><FF1B>Kandori<FF03>Pero Nanjo",
+  "shortened": true
+ },
+ "e2_00172": {
+  "t": " Te ensenare la forma correcta<FF03>de dirigirte a tus superiores!<FF02><FF01> <FF1B>Mark<FF03>Nanjo es un idiota insufrible, pero tu<FF03>eres mucho peor",
+  "shortened": true
+ },
+ "e2_00174": {
+  "t": " Ya casi es hora, Sr! Kandori!<FF02><FF01> <FF1B>Kandori<FF03>Si, ya voy!<FF02><FF04><FF1B>Kandori<FF03>Bien, ha llegado la hora de<FF03>pedirles que se vayan!<FF02><FF01>  <FF1B>Mark<FF03>Je. Vamos, <FF07>!<FF02><FF01>   <FF1B>Hombre<FF03>Disculpe, tiene cita?<FF02><FF04><FF1B>Hombre<FF03>Lo siento, pero si no tiene,<FF03>debo pedirle que se vaya!<FF02><FF01>  <FF18><0200><0044> Takeda<FF03>La mano derecha de Kandori que hace<FF03>las operaciones ilegales de SEBEC!<FF18> <FF02><FF01> <FF18><0200><0044> Takahisa Kandori<FF03>El ambicioso presidente de SEBEC!<FF03>Circulan rumores siniestros sobre el",
+  "shortened": true
+ },
+ "e2_00176": {
+  "t": " <EB01><FF26><1400><F812> <FF60> <FF67><2502><FF55> <7013> <FF26><0301><9012> <FF55> <1814> <FF24><0301><FF22> <A012> <FF21> <FF22> <A012> <FF21>   <FF68> <FF67><0300><FF55> <D014> <FF68> <FF67><0400><FF55> <C016> <FF68> <FF67><0201><FF55> <5017> <FF68> <FF67><2502><FF55> <C817> <FF68> <FF61> <FF24><0300><FF29> <2B8F><0200><FF21> <FF60> <FF67><2502><FF55> <A018> <FF26><0301><2813> <FF55> <1814> <FF24><0301><FF22> <3813> <FF21> <FF22> <3813> <FF21>   <FF68> <FF67><0700><FF55> <281A> <FF68> <FF67><2502><FF55> <B01A> <FF68> <FF61> <FF29> <2B8F><0200><FF21>   <FF1B>Kaneda<FF03>Que quieren USTEDES, ninos? Mas les<FF03>vale no venir por mi tesoro.<FF02><FF01> <FF18><0300><0044> Katsue Kaneda<FF03>Residente de Mikage-cho que parece<FF03>darse la gran vida ultimamente!<FF18> <FF02><FF01> <FF1B>Nanjo<FF03>Que tonteria.<FF02><FF04><FF1B>Nanjo<FF03>Para mi, el supuesto <0028>tesoro<0028> de<FF03>esta vieja no es mas que basura!<FF02><FF04><FF1B>Nanjo<FF03>Dice ser coleccionista de antiguedades",
+  "shortened": true
+ },
+ "e2_00179": {
+  "t": "<FF02><FF04><FF1B>Nanjo<FF03>Aunque no parece estar muy<FF03>feliz de verlos!<FF02><FF01> <FF1B>Mark<FF03>Si, bueno",
+  "shortened": true
+ },
+ "e2_00181": {
+  "t": "<FF02><FF01>  <FF1B>Mark<FF03>Cielos, <FF07>. Para que me<FF03>trajiste a la comisaria.?<FF02><FF01>  <FF1B>Yukino<FF03>Ja, esa cara de Mark",
+  "shortened": true
+ }
+}

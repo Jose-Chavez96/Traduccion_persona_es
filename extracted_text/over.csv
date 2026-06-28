@@ -1,0 +1,19 @@
+id,archivo_origen,offset_inicio,offset_fin,longitud_original_bytes,texto_original,texto_traducido,notas,estado
+over_00000,over.bin,100,144,44,  <3000> <4000> <40FE>`  ``<0300>`<4000>       ,,sin palabras reconocibles (probable gráfico/opcode),revisar
+over_00001,over.bin,3752,3760,8,aaaa,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00002,over.bin,3862,3874,12,aaaaab,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00003,over.bin,3880,3962,82,aaaa<0202>aaaaaaa<0202><0201>aaaaaa<0201>aaaaabaaaaaab<0201><0202>aaaaa,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00004,over.bin,3970,3980,10,aaaab,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00005,over.bin,7698,7710,12,aaaaaa,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00006,over.bin,7718,7728,10,aaaab,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00007,over.bin,7734,7744,10,aaaab,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00008,over.bin,7750,7760,10,aaaba,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00009,over.bin,123118,123126,8,caab,,baja densidad de texto (posible mezcla con datos),revisar
+over_00010,over.bin,126880,126888,8,aaab,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00011,over.bin,126896,126904,8,aaaa,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00012,over.bin,126912,126922,10,aaaab,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00013,over.bin,126928,126938,10,aaaab,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00014,over.bin,126944,126954,10,aaaaa,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00015,over.bin,126960,126968,8,aaaa,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00016,over.bin,126976,126986,10,aaaab,,carácter repetido dominante (probable relleno gráfico),revisar
+over_00017,over.bin,130706,130786,80, <5004> <5004> <1000> <3000> <0300> <0001>`<2000><1000>`<0200>  <3000> <4000> <4004>   <0200>`<0300>`<4000>        ,,sin palabras reconocibles (probable gráfico/opcode),revisar

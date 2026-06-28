@@ -1,0 +1,102 @@
+{
+ "e2_00302": {
+  "t": "<FF03>interesante como siempre!<FF02><FF01> <FF1B>Doctor<FF03>Bien, en que te ayudo?<FF02><FF0E><1100><FF01> <FF1B>Doctor<FF03>Bien",
+  "shortened": true
+ },
+ "e2_00303": {
+  "t": " Para todos ustedes",
+  "shortened": true
+ },
+ "e2_00304": {
+  "t": "<FF02><FF01> <FF1B>Doctor<FF03>Cobro 800 yenes! Bien?<FF02><FF0E> <FF01><FF1B>Doctor<FF03>Hm! Entonces a curarte!<FF02><FF01><FF1B>Doctor<FF03>Listo, con eso basta!<FF02><FF01><FF1B>Doctor<FF03>Necesitas algo mas?<FF03><FF0E> <FF01>  <FF1B>Doctor<FF03>No atiendo a quien no puede<FF03>pagar! Vuelve cuando tengas el dinero!<FF02><FF01>  <FF1B>Doctor<FF03>Espero que no tengas problemas luego<FF03>por ahorrarte el tratamiento!<FF02><FF01> <FF1B>Doctor<FF03>Bien! Si surge algo mas,<FF03>te recomiendo verme de inmediato!<FF02><FF01> <FF1B>Doctor<FF03>Mi tiempo vale! Si no tienes<FF03>nada que hacer aqui, largate!<FF02><FF01><1400> <5812> <0013> <8813> <1814> <B014> <4815> <C015> <7016> <A017> <7019> <901D> <201E> <701E> <D01E> <181F> <701F> <0020> <B020> <6021> <0822>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <FFFF><FFFF><FFFF>",
+  "shortened": true
+ },
+ "e2_00306": {
+  "t": "`<0300><FF00>  <FF60> <FF67><0301><FF26><1400><5011> <FF55> <3812> <FF68> <FF61> <FF21>   <FF55> <D812> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF26><1400><9011> <FF55> <8013> <FF68> <FF61> <FF21>   <FF55> <3814> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF55> <B815> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF26><1400><F011> <FF55> <B814> <FF68> <FF61> <FF21>   <FF55> <3015> <FF68> <FF61> <FF21>   <FF60> <FF26><1400><2812> <FF55> <4816> <FF61> <FF21>   <FF55> <F016> <FF61> <FF21> <FF1B>Nanjo<FF03>No puedo hablar de lo que paso en la<FF03>mansion embrujada<0007> nunca fui!<FF02><FF01> <FF1B>Nanjo<FF03>Seria genial si algun dia pudiera curar<FF03>mis heridas solo con voluntad!<FF02><FF01><FF1B>Mark<FF03>La <0028>mansion embrujada<0028> era un viejo<FF03>basurero! Solo nos gustaba ahi!<FF02><FF01> <FF1B>Mark<FF03>Hay tanto silencio aqui",
+  "shortened": true
+ },
+ "e2_00307": {
+  "t": " Como si<FF03>nunca hubiera pasado nada!<FF02><FF01><FF1B>Yukino<FF03>Yo tambien jugaba en la<FF03>mansion embrujada!<FF02><FF01>  <FF1B>Yukino<FF03>Lo que sea que haya alla afuera",
+  "shortened": true
+ },
+ "e2_00308": {
+  "t": "<FF05><1000><FF03>No es un oso?<FF02><FF01> <FF1B>Elly<FF03>Me pregunto",
+  "shortened": true
+ },
+ "e2_00309": {
+  "t": " que provoco la repentina<FF03>aparicion de estos demonios?<FF02><FF01><FF1B>Enfermera<FF03>Jugabas en la mansion embrujada de<FF03>pequeno? Muchos ninos lo hacian!<FF02><FF01><FF1B>Enfermera<FF03>Oi que aparecio un oso! Era cafe?<FF03>Blanco? Gordo y peludo?<FF02><FF01> <FF60> <FF26><1400><A817> <FF67><3F01><FF55> <F81A> <FF68> <FF61> <FF21>   <FF67><3F01><FF55> <401B> <FF68> <FF67><0001><FF55> <A01B> <FF54> <D817> <FF54>`<D81A> <FF21> <FF68> <FF67><3F01><FF55> <F01B> <FF68> <FF67><0001><FF55> <501C> <FF54> <1018> <FF54>`<601A> <FF21>   <FF68> <FF3E> <E803> <801A> <FF67><3F01><FF55> <A01C> <FF68> <FF61> <FF6C><0500><FF81><2E00><FF4D><3000><FF6C><0200><FF44>`<5818> <FF22> <5818>   <FF45>`<6818> <FF22> <6818> <FF47>`<7818> <FF22> <7818> <FF30><0200><B018> <FF44><0200><9018> <FF22> <9018> <FF45><0200><A018> <FF22> <A018> <FF47><0200><B018> <FF22> <B018> <FF30><0300><E818> <FF44><0300><C818> <FF22> <C818> <FF45><0300><D818> <FF22> <D818> <FF47><0300><E818> <FF22> <E818> <FF30><0400><2019> <FF44><0400><0019> <FF22> <0019> <FF45><0400><1019> <FF22> <1019> <FF47><0400><2019> <FF22> <2019> <FF30><0500><5819> <FF44><0500><3819> <FF22> <3819> <FF45><0500><4819> <FF22> <4819> <FF47><0500><5819> <FF22> <5819> <FF30><0600><9019> <FF44><0600><7019> <FF22> <7019> <FF45><0600><8019> <FF22> <8019> <FF47><0600><9019> <FF22> <9019> <FF30><0700><C819> <FF44><0700><A819> <FF22> <A819> <FF45><0700><B819> <FF22> <B819> <FF47><0700><C819> <FF22> <C819> <FF30><0800><001A> <FF44><0800><E019> <FF22> <E019> <FF45><0800><F019> <FF22> <F019> <FF47><0800><001A> <FF22> <001A> <FF30><0900><381A> <FF44><0900><181A> <FF22> <181A> <FF45><0900><281A> <FF22> <281A> <FF47><0900><381A> <FF22> <381A> <FF3F>`<E803> <FF60> <FF67><3F01><FF55> <F81C> <FF68> <FF61> <FF21>   <FF68> <FF67><3F01><FF55> <381E> <FF68> <FF61> <FF21>   <FF67><3F01><FF55> <881D> <FF68> <FF61> <FF21> <FF55> <A01B> <FF54> <D817> <FF54>`<B81A> <FF21>   <FF68> <FF67><3F01><FF55> <E81E> <FF68> <FF61> <FF21>   <FF68> <FF67><3F01><FF55> <901F> <FF68> <FF61> <FF21>   <FF1B>Doctor<FF03>Otro buen dia afuera!<FF02><FF01><FF1B>Doctor<FF03>Aparecen osos hasta en este pueblo",
+  "shortened": true
+ },
+ "e2_00310": {
+  "t": "<FF02><FF01> <FF1B>Doctor<FF03>Bien, en que te ayudo?<FF02><FF0E><1100><FF01> <FF1B>Doctor<FF03>Bien",
+  "shortened": true
+ },
+ "e2_00311": {
+  "t": " Para todos ustedes",
+  "shortened": true
+ },
+ "e2_00312": {
+  "t": "<FF02><FF01> <FF1B>Doctor<FF03>Cobro 1,000 yenes! Bien?<FF02><FF0E> <FF01>  <FF1B>Doctor<FF03>Hm! Entonces a curarte!<FF02><FF01><FF1B>Doctor<FF03>Listo, con eso basta!<FF02><FF01><FF1B>Doctor<FF03>Necesitas algo mas?<FF0E> <FF01>   <FF1B>Doctor<FF03>No atiendo a quien no puede<FF03>pagar! Vuelve cuando tengas el dinero!<FF02><FF01>  <FF1B>Doctor<FF03>Espero que no tengas problemas luego<FF03>por ahorrarte el tratamiento!<FF02><FF01> <FF1B>Doctor<FF03>Bien! Si surge algo mas,<FF03>te recomiendo verme de inmediato!<FF02><FF01> <FF1B>Doctor<FF03>Mi tiempo vale! Si no tienes<FF03>nada que hacer aqui, largate!<FF02><FF01><1400> <3812> <D812> <8013> <3814> <B814> <3015> <B815> <4816> <F016> <F81A> <401B> <A01B> <F01B> <501C> <A01C> <F81C> <881D> <381E> <E81E> <901F>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <FFFF><FFFF><FFFF><FFFF><FFFF><0700><FFFF><FFFF><FFFF><FFFF><4700><FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><0300><FFFF><4418> <D810> <F010> <E010> <F010> <E810> <F010> <0011> <0811> <D80C> <0200><100B>` <FFFF><FFFF> `",
+  "shortened": true
+ },
+ "e2_00314": {
+  "t": " <EF01><FF60> <FF67><0301><FF55> <4814> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF55> <E814> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <9815> <FF68> <FF61> <FF21>   <FF60> <FF67><3601><FF55> <A016> <FF68> <FF61> <FF21>   <FF1B>Nanjo<FF03>La unica ropa que necesito es este<FF03>uniforme",
+  "shortened": true
+ },
+ "e2_00315": {
+  "t": " y mi bufanda, claro!<FF02><FF01><FF1B>Mark<FF03>Hablando de ropa, que onda con la<FF03>bufanda de Nanjo? Siempre la trae!<FF02><FF01> <FF1B>Yukino<FF03>Tch, Yuka te pidio que fueras de<FF03>compras por ella?<FF02><FF04><FF1B>Yukino<FF03>Bueno, cuando termines aqui, iremos<FF03>directo al hospital.<FF02><FF01> <FF1B>Mozo<FF03>La gente de este pueblo tiene muy mal<FF03>gusto para la moda.<FF02><FF04><FF1B>Mozo<FF03>El unico con algo de gusto es<FF03>un chico castano que veo a veces",
+  "shortened": true
+ },
+ "e2_00320": {
+  "t": "<FF02><FF04><FF1B>Nanjo<FF03>Mientras el hospital este en nuestros<FF03>planes en algun momento!<FF02><FF01> <FF1B>Nanjo<FF03>Asi que se niega a cerrar su negocio aun<FF03>con los demonios",
+  "shortened": true
+ },
+ "e2_00321": {
+  "t": "<FF02><FF04><FF1B>Nanjo<FF03>La gente comun puede tener mas voluntad<FF03>de la que yo creia!<FF02><FF01>   <FF1B>Mark<FF03>Musica",
+  "shortened": true
+ },
+ "e2_00322": {
+  "t": " Tipo pianos y canto?<FF02><FF04><FF1B>Mark<FF03>Eh? Creo que oi algo asi<FF03>en algun lado tambien",
+  "shortened": true
+ },
+ "e2_00323": {
+  "t": "<FF02><FF01> <FF1B>Mark<FF03>Esta bien que estas tiendas esten abiertas?<FF02><FF04><FF1B>Mark<FF03>No me hago responsable si los demonios<FF03>las destrozan.<FF02><FF01><FF1B>Elly<FF03>Eso me recuerda, alguien en la escuela<FF03>decia algo parecido!<FF02><FF01>   <FF1B>Yukino<FF03>Una tienda rara? Que crees<FF03>que hay dentro",
+  "shortened": true
+ },
+ "e2_00324": {
+  "t": "<FF02><FF01>  <FF1B>Yukino<FF03>No has tenido suficiente diversion?<FF03>Podemos ir al Templo Alaya ahora?<FF02><FF01><FF1B>Mozo<FF03>Vaya, gracias por venir hasta aqui!<FF03>Bueno, mira con confianza!<FF02><FF01><FF1B>Mozo<FF03>Vaya, gracias por venir hasta aqui!<FF03>Debe ser dificil para ustedes!<FF02><FF01><FF1B>Cliente<FF03>Hay una tienda rara en este<FF03>centro comercial",
+  "shortened": true
+ },
+ "e2_00325": {
+  "t": "<FF02><FF04><FF1B>Cliente<FF03>Cada vez que voy a mirar, esta cerrada,<FF03>y nunca vi a nadie entrar o salir!<FF02><FF04><FF1B>Cliente<FF03>Pero de vez en cuando, se oye<FF03>musica adentro",
+  "shortened": true
+ },
+ "e2_00326": {
+  "t": "<FF02><FF04><FF1B>Cliente<FF03>Es un mundo curioso, no?<FF02><FF01>   <FF1B>Cliente<FF03>Esa tienda rara del centro al parecer<FF03>abrira pronto!<FF02><FF04><FF1B>Cliente<FF03>Pero no me preguntes cuando!<FF02><FF01><0B00> <6816> <7817> <C018> <A019> <701A> <101B> <801B> <281C> <C81C> <701D> <981F>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <FFFF><1600><FFFF>",
+  "shortened": true
+ },
+ "e2_00329": {
+  "t": " Tu presencia es bienvenida!<FF02><FF01> <FF1B>Atastya Tree<FF03>Inscribiras tu historia en mi?<FF02><FF0E> <FF01>   <FF1B>Atastya Tree<FF03>Cuidate en tu viaje, joven",
+  "shortened": true
+ },
+ "e2_00334": {
+  "t": "cuando te sientas mal, entonces<FF03>toma un Dis-Sick",
+  "shortened": true
+ },
+ "e2_00335": {
+  "t": "<FF02><FF04><FF1B>Nanjo<FF03>Gah, esta cancion insidiosa. Me estan<FF03>lavando el cerebro.<FF02><FF01>  <FF1B>Nanjo<FF03>Solo se puede confiar en la propia fuerza!<FF03>Es el unico modo!<FF02><FF01><FF1B>Mark<FF03>Esta es la tienda del tio de Tadashi!<FF03>Dijo que vive en la del Sun Mall?<FF02><FF01>   <FF1B>Mark<FF03>Los chicos de hoy si saben",
+  "shortened": true
+ },
+ "e2_00336": {
+  "t": "<FF02><FF01><FF1B>Yukino<FF03>Me intriga este arbol que no<FF03>estaba antes!<FF02><FF01> <FF1B>Yukino<FF03>Me sorprende que la mama de Maki llegara<FF03>al templo!<FF02><FF04><FF1B>Yukino<FF03>Si se hubiera desmayado antes",
+  "shortened": true
+ },
+ "e2_00337": {
+  "t": " No quiero<FF03>pensar que habria pasado!<FF02><FF01>  <FF1B>Elly<FF03>Yo tambien pienso en<FF03>el misterio!<FF02><FF04><FF1B>Elly<FF03>Es mi oportunidad de poner en practica<FF03>lo que he estudiado todo este tiempo!<FF02><FF01><FF1B>Mozo<FF03>Son amigos de mi sobrino? Entonces les<FF03>dare un servicio muy especial.<FF02><FF01>  <FF1B>Mozo<FF03>No le tengo nada de miedo a los demonios!<FF02><FF04><FF1B>Mozo<FF03>Seguro fue un truco, o quiza<FF03>vi visiones!<FF02><FF01><FF1B>Cliente<FF03>Fui al parque y vi un arbol que no<FF03>estaba antes! Deberias ir a ver!<FF02><FF01> <FF1B>Mozo<FF03>No puedes entrar ahi. Es privado.<FF02><FF01>   <FF1B>Cliente<FF03>La tele y la radio no sirven, y mis<FF03>padres se esconden bajo sus futones!<FF02><FF04><FF1B>Cliente<FF03>Supongo que al final, uno debe<FF03>tomar las riendas!<FF02><FF01><0C00> <2814> <2015> <A815> <5016> <B016> <3017> <5818> <7019> <181A> <001B> <B81B> <181C>                                                                                                                                                                                                                                                                                                                        <FFFF><1A00><FFFF>",
+  "shortened": true
+ },
+ "e2_00377": {
+  "t": "<FF60> <FF67><0200><FF55> <E014> <FF68> <FF61> <FF24><0900><FF29> <5CBD><0200><FF21> <FF60> <FF67><0400><FF55> <8815> <FF68> <FF61> <FF29> <5CBD><0200><FF21>   <FF1B>Nanjo<FF03>No hay nadie? Hmm",
+  "shortened": true
+ }
+}

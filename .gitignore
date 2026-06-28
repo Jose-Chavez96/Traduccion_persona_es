@@ -1,0 +1,28 @@
+# --- NUNCA subir datos originales del juego (copyright Atlus/SEGA) ---
+*.iso
+*.ISO
+*.bin
+*.BIN
+*.elf
+*.ELF
+backups/
+rebuilt/
+_eboot/*.elf
+_tex/sys.bin
+_tex/*.bin
+
+# El parche SÍ se publica (son solo diferencias, no datos originales)
+!patches/persona_es_full.xdelta
+
+# Python
+__pycache__/
+*.pyc
+
+# Binarios de herramientas (que cada quien instale los suyos)
+pspdecrypt
+xdelta3
+
+# Temporales
+*.tmp
+*.log
+*.bak

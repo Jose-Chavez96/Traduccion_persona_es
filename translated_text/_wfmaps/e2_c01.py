@@ -1,0 +1,20 @@
+import json
+m={
+"e2_00024":{"t":"<FF7C><0709><0403> <FF60> <FF67><1501><FF55> <3819> <FF26><FC00><9812> <FF55> <6818> <FF68> <FF61> <FF24><FC00><FF7C><0709><0402> <FF27><0300><FF21> <FF1B>Nanjo<FF03>Que pasa? Las puertas de la<FF03>escuela estan cerradas?<FF02><FF04><FF1B>Nanjo<FF03>Si no nos apuramos, la hora de<FF03>visita del hospital terminara!<FF02><FF01>   <FF1B>Mark<FF03>Ugh, es Hamya! Odio a ese tipo","shortened":True},
+"e2_00025":{"t":"<FF02><FF04><FF1B>Mark<FF03>Corre, <FF07>.<FF02><FF01><FF1B>Yukino<FF03>Tch","shortened":True},
+"e2_00027":{"t":"<FF21>   <FF1B>Timida<FF03>Um","shortened":True},
+"e2_00028":{"t":" <FF07>? Vas al<FF03>hospital, verdad","shortened":True},
+"e2_00029":{"t":"<FF02><FF01>   <FF18><0300><0044> Yuko Himeno<FF03>Amiga de Maki! Trabaja medio tiempo<FF03>para mantener a su familia!<FF02><FF01> <FF1B>Yuko<FF03>Um, odio pedirlo, pero","shortened":True},
+"e2_00030":{"t":"<FF02><FF04><FF1B>Yuko<FF03>Dile a Maki que le devolvere ese<FF03>libro la proxima vez que la visite","shortened":True},
+"e2_00031":{"t":"<FF02><FF0E>`<FF01><FF1B>Yuko<FF03>G-Gracias! Perdon por pedirte<FF03>que te tomes la molestia","shortened":True},
+"e2_00033":{"t":" Um, olvidalo","shortened":True},
+"e2_00034":{"t":" Esta bien,<FF03>no te preocupes","shortened":True},
+"e2_00035":{"t":"<FF02><FF01><FF1B>Yukino<FF03><FF07>. No seas tan idiota.<FF02><FF01>  <FF1B>Yuko<FF03>Era un libro muy bueno, queria<FF03>leerlo otra vez antes de devolverlo","shortened":True},
+"e2_00036":{"t":"<FF02><FF01>   <FF1B>Mark<FF03>Tan bueno? Como se llama?<FF02><FF01>   <FF1B>Yuko<FF03>U-Um, <0028>Puerta al Paraiso","shortened":True},
+"e2_00037":{"t":"<FF02><FF01> <FF1B>Mark<FF03>Vaya, que profundo. No sabia que a<FF03>Maki le gustara eso","shortened":True},
+"e2_00038":{"t":"<FF02><FF01>  <FF1B>Nanjo<FF03>Si tanto te gusto, por que no<FF03>compras tu propia copia?<FF02><FF01> <FF1B>Yuko<FF03>B-Bueno","shortened":True},
+"e2_00039":{"t":" Es algo caro","shortened":True},
+"e2_00040":{"t":" y<FF03>mis hermanos necesitan ropa nueva!<FF02><FF01>   <FF1B>Yukino<FF03>Nanjo, tonto. No sabes que ella<FF03>trabaja medio tiempo por su familia?<FF02><FF01>  <FF1B>Mark<FF03>Bien, tenemos que irnos, pero<FF03>le pasaremos tu mensaje.<FF02><FF01>   <FF1B>Yuko<FF03>U-Um","shortened":True},
+}
+json.dump(m,open("/home/josechavez/persona_es/translated_text/_wfmaps/e2_c01.json","w",encoding="utf-8"),ensure_ascii=False,indent=1)
+print("wrote",len(m))

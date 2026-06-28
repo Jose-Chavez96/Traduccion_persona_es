@@ -1,0 +1,28 @@
+import sys; sys.path.insert(0,"/home/josechavez/persona_es/scripts")
+from wf_chunk import put,repl,dump
+put("e2_01238","<FF02><FF04><FF1B>Mozo<FF03>Quieres ver lo que tengo?<FF02><FF0E> <FF01>   <FF1B>Cliente<FF03>No traes lunares! Acabas de<FF03>llegar?<FF02><FF04><FF1B>Cliente<FF03>La moda ahora es seguir el ejemplo<FF03>de la Reina con muchos lunares!<FF02><FF01>  <FF1B>Cliente<FF03>Ups, olvide quitarme los lunares!<FF03>Vaya, esas cosas eran feas.<FF02><FF01>   <FF1B>Cliente<FF03>A veces veo a una ninita de negro<FF03>en este mercado!<FF02><FF04><FF1B>Cliente<FF03>Odio pensar en una pobre nina<FF03>atrapada aqui tambien")
+repl("e2_01291",
+ ("I suggest gems for obtaining a higher-<FF03>or lower-ranked fusion within an order!","Sugiero gemas para lograr una fusion de<FF03>rango mayor o menor dentro de un orden!"),
+ ("As for the other items' effects, you<FF03>should experiment for yourself!","En cuanto a los otros objetos, deberias<FF03>experimentar por ti mismo!"))
+put("e2_01295","Que le paso a Chisato?<FF02><FF01>  <FF1B>Maki<FF03>Siento que todos andan con pies de<FF03>plomo conmigo! Estoy bien, en serio!<FF02><FF01>  <FF1B>Nanjo<FF03>Yamaoka siempre me dijo que estuviera<FF03>orgulloso de mi!<FF02><FF04><FF1B>Nanjo<FF03>Tambien dijo que nunca adulara a<FF03>los mas fuertes que tu!<FF02><FF01>  <FF1B>Nanjo<FF03>Primero desaparece, luego Aki la<FF03>secuestra")
+put("e2_01296"," y ahora es la Reina del Haren!<FF02><FF01>   <FF1B>Nanjo<FF03>No es facil entender los sentimientos<FF03>de una mujer, verdad?<FF02><FF01> <FF1B>Mark<FF03>Cuando lleguemos a esta Reina, ella<FF03>caera.<FF02><FF01><FF1B>Mark<FF03>No puedo creer que este aqui jugando<FF03>a la dictadora! Que le decimos a Yosuke?<FF02><FF01><FF1B>Mark<FF03>Me pregunto si Maki olvido a Yosuke!<FF02><FF04><FF1B>Mark<FF03>O quiza ahora le gusta otro")
+put("e2_01297","<FF03>Jeje, como si eso pasara!<FF02><FF01> <FF1B>Elly<FF03>Esta Reina debe tener un gusto muy<FF03>particular en hombres!<FF02><FF01>  <FF1B>Elly<FF03>Usar gente como decoracion")
+put("e2_01298"," Suena<FF03>como una novela policiaca que lei!<FF02><FF04><FF1B>Elly<FF03><0056>suspiro sonador<0056> Oh")
+put("e2_01299"," disculpa!<FF02><FF01>   <FF1B>Elly<FF03>El corazon de la gente es lo mas<FF03>dificil de entender!<FF02><FF01><FF1B>Mark<FF03>Oye, quien crees que se ve mejor?<FF03>Ese tipo de alla o yo?<FF02><FF04><FF1B>Mark<FF03>Soy yo, verdad? Verdad?<FF02><FF01>   <FF1B>Mark<FF03>Vaya, tenia una cantidad ridicula<FF03>de lunares")
+put("e2_01300","<FF02><FF01>   <FF1B>Mark<FF03>Hasta Chisato tenia sus problemas!<FF02><FF04><FF1B>Mark<FF03>Yo? Para nada, soy perfecto. No tengo<FF03>nada de eso.<FF02><FF01> <FF1B>Ayase<FF03>Me pregunto si la Reina tiene afro tambien")
+put("e2_01301","<FF03>Ahora si tengo curiosidad!<FF02><FF01>   <FF1B>Ayase<FF03>Como consiguio todos esos lunares")
+put("e2_01302","<FF02><FF04><FF1B>Ayase<FF03>Esto demuestra que hay que cuidarse<FF03>de los rayos UV.<FF02><FF01>   <FF1B>Ayase<FF03>Que injusto. Ella se divirtio tanto<FF03>y aun asi volvio con Yosuke!<FF02><FF01> <FF1B>Reiji<FF03>Necesitas algo de mi?<FF02><FF01><FF1B>Reiji<FF03>Mejor que lo supiera ahora en vez de<FF03>seguir creyendo que eran amigos!<FF02><FF01>   <FF1B>Reiji<FF03>Que porqueria")
+put("e2_01303"," No puedo seguir<FF03>este drama de preparatoria!<FF02><FF01>  <FF1B>Joven<FF03>Esta es la pintura de la Reina del Haren!<FF03>No es increible?<FF02><FF04><FF1B>Joven<FF03>Nuestra Reina es talentosa y hermosa.<FF02><FF04><FF1B>Joven<FF03>Le han salido mas lunares")
+put("e2_01304","<FF03>Oh, pero sigue siendo hermosa.<FF02><FF01><FF1B>Joven<FF03>Esta pintura no vale nada. No tiene<FF03>ni una pizca de talento artistico.<FF02><FF04><FF1B>Joven<FF03>Deberia avergonzarse de llamarse<FF03>Reina, haciendo algo asi.<FF02><FF01>   <0044> Es la obra que supuestamente<FF03>pinto la Reina! Sientes que has visto<FF03>este estilo en algun lado")
+put("e2_01306"," Conozco esta pintura.<FF03>Es de Chisato")
+put("e2_01307","<FF02><FF01> <FF1B>Mark<FF03>Que, de Chisato Kasai? Crei que<FF03>dijeron que desaparecio!<FF02><FF04><FF1B>Mark<FF03>Espera")
+put("e2_01308"," La pintura de Chisato esta aqui,<FF03>y dicen que es de la Reina")
+put("e2_01309","<FF02><FF01> <FF1B>Maki<FF03>Pero por que?<FF02><FF04><FF1B>Maki<FF03>Esto significa")
+repl("e2_01310",
+ ("Chisato is being held<FF03>captive by the Harem Queen?","Chisato esta cautiva<FF03>de la Reina del Haren?"))
+put("e2_01314","<FF02><FF01> <FF1B>Maki<FF03>Siento que veo una pesadilla!<FF02><FF01>   <FF1B>Maki<FF03>Espero que todo salga bien entre Chisato<FF03>y Yosuke!<FF02><FF04><FF1B>Maki<FF03>No soy mala perdedora, solo digo")
+put("e2_01315","<FF03>Bueno, es porque yo")
+put("e2_01316","<FF02><FF01><FF1B>Nanjo<FF03>Nos provoca atrapandonos aqui?<FF03>O gana tiempo?<FF02><FF04><FF1B>Nanjo<FF03>Si tan solo pudiera deducir sus intenciones")
+put("e2_01317","<FF02><FF01><FF1B>Nanjo<FF03>Mas le vale tener una conversacion<FF03>decente esta vez!<FF02><FF01> <FF1B>Nanjo<FF03>Quienes reprimen sus emociones al final<FF03>descubren que estallan!<FF02><FF04><FF1B>Nanjo<FF03>Aunque dudo que debamos preocuparnos<FF03>de que eso te pase a ti.<FF02><FF01><FF1B>Mark<FF03>Tampoco tenemos tiempo que perder.<FF02><FF01><FF1B>Mark<FF03>Maldicion")
+put("e2_01318"," Toda esta tonteria del palacio<FF03>y eso no es graciosa.<FF02><FF01>  <FF1B>Mark<FF03>Que tramaba esa mocosa, usando a una<FF03>chica como Chisato?<FF02><FF01><FF1B>Elly<FF03>Me pregunto si confia tanto en sus<FF03>propias pinturas!<FF02><FF01>  <FF1B>Elly<FF03>No parece mas corto el camino ahora<FF03>que ya lo recorrimos una vez?<FF02><FF04><FF1B>Elly<FF03>")
+dump("/home/josechavez/persona_es/translated_text/_wfmaps/e2_c27.json")

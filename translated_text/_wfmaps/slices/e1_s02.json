@@ -1,0 +1,397 @@
+[
+ {
+  "id": "e1_00256",
+  "bytes": 290,
+  "orig": " That's one Persona<FF03>I'd as soon not assume!<FF02><FF01>   <FF1B>Brown<FF03>Wow, it's FREEZING here. I think it's<FF03>even colder than the other classrooms.<FF02><FF01>   <FF1B>Brown<FF03>Ah"
+ },
+ {
+  "id": "e1_00257",
+  "bytes": 148,
+  "orig": " ACHOO. Argh. We really need<FF03>to get rid of all this stupid ice.<FF02><FF01> <FF1B>Elly<FF03>Hm"
+ },
+ {
+  "id": "e1_00258",
+  "bytes": 30,
+  "orig": " Thanatos Tower"
+ },
+ {
+  "id": "e1_00259",
+  "bytes": 156,
+  "orig": "<FF02><FF04><FF1B>Elly<FF03>Thanatos is the Greek god of death!<FF03>Not someone you'd want as a friend"
+ },
+ {
+  "id": "e1_00260",
+  "bytes": 76,
+  "orig": "<FF02><FF01><FF1B>Elly<FF03>The desire to remain beautiful"
+ },
+ {
+  "id": "e1_00261",
+  "bytes": 248,
+  "orig": " I can<FF03>somewhat understand how Yuriko felt!<FF02><FF01><1000> <181B> <F020> <4824> <5828> <F028> <6829> <A029> <482A> <C02A> <282B> <A02B> <F82B> <882C> <382D> <E02D> <C02E>                                           <FFFF><1600><FFFF>"
+ },
+ {
+  "id": "e1_00321",
+  "bytes": 304,
+  "orig": " Who's that on the floor?<FF02><FF04><FF1B>Yukino<FF03>Tadashi and Tamaki.? And Nurse Natsumi.<FF02><FF04><FF1B>Yukino<FF03>What are they doing here? Weren't they<FF03>back at school? <0056>gasp<0056> No way"
+ },
+ {
+  "id": "e1_00322",
+  "bytes": 160,
+  "orig": "<FF02><FF01>   <FF1B>Nanjo<FF03>It took some time, but regular students<FF03>are being claimed as victims"
+ },
+ {
+  "id": "e1_00323",
+  "bytes": 176,
+  "orig": "<FF02><FF04><FF1B>Nanjo<FF03>I pity them, but there isn't time to<FF03>waste! We could be next!<FF02><FF01>  <FF1B>Brown<FF03>Tadashi"
+ },
+ {
+  "id": "e1_00325",
+  "bytes": 28,
+  "orig": " Nurse Natsumi"
+ },
+ {
+  "id": "e1_00326",
+  "bytes": 60,
+  "orig": "<FF02><FF04><FF1B>Brown<FF03>How could this happen"
+ },
+ {
+  "id": "e1_00327",
+  "bytes": 220,
+  "orig": "<FF02><FF04><FF1B>Brown<FF03>Damn that Snow Queen.<FF02><FF04><FF1B>Brown<FF03>I'll avenge their deaths if it's the<FF03>last thing I do.<FF02><FF01>   <FF1B>Tadashi<FF03>Zzzz"
+ },
+ {
+  "id": "e1_00331",
+  "bytes": 128,
+  "orig": "<FF02><FF01>  <FF1B>Yukino<FF03>T-Tamaki.? Is he talking in his sleep?<FF02><FF04><FF1B>Yukino<FF03>Wait"
+ },
+ {
+  "id": "e1_00332",
+  "bytes": 82,
+  "orig": " they're all just sleeping.?<FF02><FF04><FF1B>Yukino<FF03>Tch"
+ },
+ {
+  "id": "e1_00333",
+  "bytes": 526,
+  "orig": " well, that was a lot of panic<FF03>over nothing!<FF02><FF01>   <FF1B>Nanjo<FF03>Hold it, Yukino!<FF02><FF04><FF1B>Nanjo<FF03>Even if they are only sleeping, it's odd<FF03>they should be here and not at school!<FF02><FF04><FF1B>Nanjo<FF03>It could be a trap of the Snow Queen's!<FF03>I advise keeping your guard up!<FF02><FF01>   <FF1B>Elly<FF03>Hypnos Tower"
+ },
+ {
+  "id": "e1_00334",
+  "bytes": 68,
+  "orig": "<FF02><FF04><FF1B>Elly<FF03>Hypnos is the god of sleep"
+ },
+ {
+  "id": "e1_00335",
+  "bytes": 226,
+  "orig": "<FF02><FF04><FF1B>Elly<FF03>Careful, everyone.<FF02><FF04><FF1B>Elly<FF03>These three may have been forced into<FF03>sleep by the Snow Queen.<FF02><FF01>   <FF1B>Tamaki<FF03>Zzzz"
+ },
+ {
+  "id": "e1_00339",
+  "bytes": 76,
+  "orig": "<FF02><FF01>  <FF1B>Ayase<FF03>Look at those faces, though"
+ },
+ {
+  "id": "e1_00340",
+  "bytes": 228,
+  "orig": " they seem<FF03>so happy.<FF02><FF04><FF1B>Ayase<FF03>I dunno if the Snow Queen really has<FF03>anything to do with this!<FF02><FF01>  <FF1B>Nurse Natsumi<FF03>Zzzz"
+ },
+ {
+  "id": "e1_00342",
+  "bytes": 40,
+  "orig": " <FF05><1E00>Now be a good boy"
+ },
+ {
+  "id": "e1_00343",
+  "bytes": 38,
+  "orig": "<FF05><1E00><FF03>Clean your plate"
+ },
+ {
+  "id": "e1_00344",
+  "bytes": 26,
+  "orig": "<FF02><FF01> <FF1B>Ayase<FF03>Ugh"
+ },
+ {
+  "id": "e1_00345",
+  "bytes": 844,
+  "orig": " like, what's she dreaming about?<FF03>It makes me wanna pinch her nose!<FF02><FF01>  <FF1B>Yukino<FF03>Even if they are just sleeping, we can't<FF03>leave them here surrounded by monsters!<FF02><FF04><FF1B>Yukino<FF03>Let's wake them up before we move on!<FF02><FF01>   <FF1B>Yukino<FF03>I dunno what to say about Nurse Natsumi!<FF03>She might as well still be sleeping!<FF02><FF01> <FF1B>Ayase<FF03>Y'know what?<FF02><FF04><FF1B>Ayase<FF03>Tadashi acts up a lot, but he's not that<FF03>bad-looking when he's asleep!<FF02><FF01><FF1B>Ayase<FF03><0056>yawn<0056> I'm tired"
+ },
+ {
+  "id": "e1_00346",
+  "bytes": 352,
+  "orig": " I'm getting sleepy!<FF02><FF01><FF1B>Nanjo<FF03>If they're not in mortal peril, it should<FF03>be fine to leave them! We don't have time!<FF02><FF04><FF1B>Nanjo<FF03>Time is money, as they say! Let's proceed!<FF02><FF01><FF1B>Nanjo<FF03>!!<FF05>"
+ },
+ {
+  "id": "e1_00347",
+  "bytes": 24,
+  "orig": "<FF02><FF04><FF1B>Nanjo<FF03>Ugh"
+ },
+ {
+  "id": "e1_00348",
+  "bytes": 402,
+  "orig": " I have to make a conscious effort<FF03>to avoid falling asleep!<FF02><FF04><FF1B>Nanjo<FF03>I'd like it if we could spend as little<FF03>time here as possible!<FF02><FF01><FF1B>Brown<FF03>What, so they're just sleeping? I got<FF03>all anxious over nothing"
+ },
+ {
+  "id": "e1_00349",
+  "bytes": 196,
+  "orig": "<FF02><FF04><FF1B>Brown<FF03>Then again, I suspected from the start<FF03>that was what was happening! Really!<FF02><FF01>  <FF1B>Brown<FF03>!!<FF05>"
+ },
+ {
+  "id": "e1_00350",
+  "bytes": 364,
+  "orig": "<FF05><1E00>Guh.?<FF02><FF04><FF1B>Brown<FF03>What.? What is it.? I-I wasn't sleeping!<FF03>Nope, not me!<FF02><FF04><FF1B>Brown<FF03>I was subconsciously coming up with<FF03>a plan.<FF02><FF01><FF1B>Elly<FF03>If Hypnos is, in fact, tied to their<FF03>strange slumber"
+ },
+ {
+  "id": "e1_00351",
+  "bytes": 384,
+  "orig": "<FF02><FF04><FF1B>Elly<FF03>I doubt they'll wake up no matter how<FF03>long we wait here!<FF02><FF01> <FF1B>Elly<FF03>Have a firm grip on yourself and don't<FF03>fall asleep!<FF02><FF04><FF1B>Elly<FF03>That's the key to conquering<FF03>Hypnos Tower!<FF02><FF01>   <FF1B>Tadashi<FF03>Zzzz"
+ },
+ {
+  "id": "e1_00353",
+  "bytes": 70,
+  "orig": " <FF05><1E00>I'll always hold you<FF03>close to me"
+ },
+ {
+  "id": "e1_00355",
+  "bytes": 52,
+  "orig": " <FF05><1E00>I'll always be with you"
+ },
+ {
+  "id": "e1_00356",
+  "bytes": 46,
+  "orig": "<FF02><FF01>  <FF1B>Nurse Natsumi<FF03>Zzzz"
+ },
+ {
+  "id": "e1_00358",
+  "bytes": 58,
+  "orig": " <FF05><1E00>You won't escape this<FF03>time"
+ },
+ {
+  "id": "e1_00360",
+  "bytes": 40,
+  "orig": "<FF02><FF01><FF1B>Nurse Natsumi<FF03>!!<FF05>"
+ },
+ {
+  "id": "e1_00363",
+  "bytes": 84,
+  "orig": "<FF02><FF04><FF1B>Nurse Natsumi<FF03>I have low blood pressure"
+ },
+ {
+  "id": "e1_00364",
+  "bytes": 64,
+  "orig": " Just let<FF03>me sleep a little more"
+ },
+ {
+  "id": "e1_00365",
+  "bytes": 34,
+  "orig": "<FF02><FF04><FF1B>Nurse Natsumi<FF03>"
+ },
+ {
+  "id": "e1_00366",
+  "bytes": 52,
+  "orig": "<FF05><1E00>Anyway, be careful, guys"
+ },
+ {
+  "id": "e1_00370",
+  "bytes": 106,
+  "orig": " Wait a sec.<FF02><FF04><FF1B>Yukino<FF03>It's the principal and VP. Geez"
+ },
+ {
+  "id": "e1_00371",
+  "bytes": 770,
+  "orig": "<FF03>Not setting a very good example!<FF02><FF01><FF1B>Nanjo<FF03>Hmm! The situation is more serious than<FF03>I had thought!<FF02><FF04><FF1B>Nanjo<FF03>It's clear now that something is causing<FF03>people in the school to fall asleep!<FF02><FF04><FF1B>Nanjo<FF03>We must locate the cause!<FF02><FF01> <FF1B>Brown<FF03>This is deplorable.<FF02><FF04><FF1B>Brown<FF03>I work my ass off as a student, and what<FF03>do the teachers do? Lie back and doze off.<FF02><FF04><FF1B>Brown<FF03>Get real.<FF02><FF01>  <FF1B>Vice-Principal Hanya<FF03>Zzzz"
+ },
+ {
+  "id": "e1_00372",
+  "bytes": 28,
+  "orig": " <FF05><1E00>Heh heh heh"
+ },
+ {
+  "id": "e1_00374",
+  "bytes": 94,
+  "orig": "<FF02><FF01>   <FF1B>Ayase<FF03>Ewww. Baldy's sneering in his sleep"
+ },
+ {
+  "id": "e1_00375",
+  "bytes": 70,
+  "orig": "<FF03>Gross.<FF02><FF01>  <FF1B>Nanjo<FF03>This is repulsive"
+ },
+ {
+  "id": "e1_00376",
+  "bytes": 178,
+  "orig": " I can't bear to<FF03>look for another moment!<FF02><FF04><FF1B>Nanjo<FF03>That sort of man in a teaching position"
+ },
+ {
+  "id": "e1_00377",
+  "bytes": 404,
+  "orig": "<FF03>What is this world coming to?<FF02><FF04><FF1B>Nanjo<FF03>Is the principal all right, though?<FF03>She seems to be in distress!<FF02><FF01><FF1B>Elly<FF03>Oh no, Ms! Ooishi. She must be having<FF03>a nightmare!<FF02><FF04><FF1B>Elly<FF03>Look, she's sweating so profusely"
+ },
+ {
+  "id": "e1_00378",
+  "bytes": 116,
+  "orig": "<FF03>Did the Snow Queen cause this?<FF02><FF01>   <FF1B>Principal Ooishi<FF03>Zzzz"
+ },
+ {
+  "id": "e1_00380",
+  "bytes": 606,
+  "orig": "<FF02><FF01>   <FF1B>Yukino<FF03>They're just like the people in the<FF03>other room!<FF02><FF04><FF1B>Yukino<FF03>None of them show any signs of waking<FF03>up anytime soon! What should we do?<FF02><FF01><FF1B>Yukino<FF03>We're not just gonna leave 'em here,<FF03>are we?<FF02><FF01>  <FF1B>Ayase<FF03>Hey, like, now's our chance. Let's draw<FF03>stuff on Baldy's head.<FF02><FF01> <FF1B>Nanjo<FF03>Oh, for crying out loud"
+ },
+ {
+  "id": "e1_00381",
+  "bytes": 86,
+  "orig": "<FF02><FF04><FF1B>Nanjo<FF03>Remind me why we entered the tower"
+ },
+ {
+  "id": "e1_00382",
+  "bytes": 366,
+  "orig": "<FF03>To escape the school, correct?<FF02><FF04><FF1B>Nanjo<FF03>Then we should ignore any distractions<FF03>from that end.<FF02><FF04><FF1B>Nanjo<FF03>You people allow yourselves too many<FF03>unnecessary diversions!<FF02><FF01><FF1B>Brown<FF03>Hmm<FF05><1E00>m<FF05><1E00>m<FF05><1E00>m"
+ },
+ {
+  "id": "e1_00383",
+  "bytes": 162,
+  "orig": " <FF05><1E00>Alright. Listen to your<FF03>leader's decision.<FF02><FF04><FF1B>Brown<FF03>We're moving on. <FF05><1E00>Although"
+ },
+ {
+  "id": "e1_00384",
+  "bytes": 290,
+  "orig": "<FF05><1E00><FF03>Wait a minute!<FF02><FF04><FF1B>Brown<FF03>If we save them, they'll owe us one!<FF03>Whaddaya think?<FF02><FF01>  <FF1B>Elly<FF03>We're letting precious time go to waste<FF03>in our indecision"
+ },
+ {
+  "id": "e1_00385",
+  "bytes": 224,
+  "orig": "<FF02><FF04><FF1B>Elly<FF03>Whether we awaken the sleepers or climb<FF03>the tower, we must make a choice!<FF02><FF01>   <FF1B>Vice-Principal Hanya<FF03>Zzzz"
+ },
+ {
+  "id": "e1_00387",
+  "bytes": 32,
+  "orig": " <FF05><1E00>for dictation"
+ },
+ {
+  "id": "e1_00391",
+  "bytes": 54,
+  "orig": "<FF02><FF01>   <FF1B>Principal Ooishi<FF03>Zzzz"
+ },
+ {
+  "id": "e1_00411",
+  "bytes": 120,
+  "orig": " the drowsiness is practically<FF03>palpable! Almost overpowering"
+ },
+ {
+  "id": "e1_00412",
+  "bytes": 40,
+  "orig": "<FF02><FF01> <FF1B>Brown<FF03>Huh? Ahhhh"
+ },
+ {
+  "id": "e1_00413",
+  "bytes": 614,
+  "orig": " I get it. The boss has<FF03>to be around here.<FF02><FF04><FF1B>Brown<FF03>Stay on your toes, guys. Oooh, I always<FF03>wanted to say that!<FF02><FF01><FF1B>Ayase<FF03>Hey, uh, this door is kinda weird-looking!<FF03>Wanna go in?<FF02><FF01><FF1B>Nanjo<FF03>A blatantly suspicious door like that?<FF03>It would be madness to go near it!<FF02><FF04><FF1B>Nanjo<FF03>Though idle speculation won't help,<FF03>either"
+ },
+ {
+  "id": "e1_00414",
+  "bytes": 968,
+  "orig": " What should we do?<FF02><FF01> <FF1B>Elly<FF03>The door does look suspicious, but I<FF03>don't get the sense that it's dangerous!<FF02><FF04><FF1B>Elly<FF03>Perhaps we should consider Ayase's<FF03>suggestion and go through!<FF02><FF01>  <FF1B>Yukino<FF03>Alright. No use talking and talking<FF03>without doing anything!<FF02><FF04><FF1B>Yukino<FF03>Let's see what's on the other side.<FF02><FF01>  <FF1B>Mysterious butterfly<FF03>Hahaha, still energetic, I see!<FF02><FF01> <0044> A cloying breeze is blowing from<FF03>beyond the door!<FF02><FF01>   <0044> Go to the Dream World?<FF02><FF0E> <FF01><FF1B>Yukino<FF03>I feel icky, watching someone else's<FF03>dream"
+ },
+ {
+  "id": "e1_00415",
+  "bytes": 478,
+  "orig": " Like I'm some Peeping Tom!<FF02><FF01>  <FF1B>Ayase<FF03>I wonder if I end up in the Dream World<FF03>when I go to sleep, too!<FF02><FF01>   <FF1B>Nanjo<FF03>We have no business here! Let's press on!<FF02><FF01>  <FF1B>Brown<FF03>I'm interested in other people's dreams!<FF03>Looks like fun, huh? Heh heh heh"
+ },
+ {
+  "id": "e1_00416",
+  "bytes": 52,
+  "orig": "<FF02><FF01>   <FF1B>Elly<FF03>The Dream World"
+ },
+ {
+  "id": "e1_00417",
+  "bytes": 116,
+  "orig": "<FF02><FF04><FF1B>Elly<FF03>Does that make me Elly in Slumberland,<FF03>then? Hahah"
+ },
+ {
+  "id": "e1_00442",
+  "bytes": 82,
+  "orig": " in the principal's office?<FF03>What the hell"
+ },
+ {
+  "id": "e1_00443",
+  "bytes": 736,
+  "orig": "<FF02><FF01><FF1B>Principal Hanya<FF03>Vice-Principal Ooishi!<FF02><FF04><FF1B>Principal Hanya<FF03>You presume to tell your principal that his<FF03>educational policies are wrong?<FF02><FF04><FF1B>Principal Hanya<FF03>Is that what you're getting at, Ooishi?<FF02><FF01>   <FF1B>Vice-Principal Ooishi<FF03>No, Mr! Hanya, I didn't mean it that way!<FF02><FF04><FF1B>Vice-Principal Ooishi<FF03>I just think punishing students for being<FF03>tardy three times with either expulsion"
+ },
+ {
+  "id": "e1_00444",
+  "bytes": 50,
+  "orig": "<FF02><FF04><FF1B>Vice-Principal Ooishi<FF03>"
+ },
+ {
+  "id": "e1_00445",
+  "bytes": 132,
+  "orig": "or having to shine the principal's<FF03>shoes until graduation is a bit"
+ },
+ {
+  "id": "e1_00446",
+  "bytes": 270,
+  "orig": " harsh!<FF02><FF01> <FF1B>Nanjo<FF03>It seems we're witnessing a shared dream<FF03>of the principal and vice-principal!<FF02><FF04><FF1B>Nanjo<FF03>But here, the roles are reversed"
+ },
+ {
+  "id": "e1_00447",
+  "bytes": 214,
+  "orig": "<FF02><FF04><FF1B>Nanjo<FF03>I'd wager our principal was dragged into<FF03>that arrogant vice-principal's dream!<FF02><FF01>   <FF1B>Brown<FF03>What the"
+ },
+ {
+  "id": "e1_00448",
+  "bytes": 174,
+  "orig": " Hanya is the principal and<FF03>Ooishi is the vice-principal.?<FF02><FF04><FF1B>Brown<FF03>What's going on here"
+ },
+ {
+  "id": "e1_00449",
+  "bytes": 548,
+  "orig": " Ohhh, I get it.<FF03>This is what they're dreaming!<FF02><FF01>  <FF1B>Ayase<FF03>Whaaaaat.? Baldy's our principal here?<FF03>That's like, SUPER wrong.<FF02><FF01>   <FF1B>Principal Hanya<FF03>Excuse me, Ooishi.?<FF02><FF04><FF1B>Principal Hanya<FF03>Did I just hear you criticize the<FF03>eminently fair rules I came up with?<FF02><FF04><FF1B>Principal Hanya<FF03>Hmm"
+ },
+ {
+  "id": "e1_00450",
+  "bytes": 380,
+  "orig": " I think this calls for a new rule!<FF02><FF04><FF1B>Principal Hanya<FF03>Anyone who criticizes the principal's<FF03>decisions is fired.<FF02><FF04><FF1B>Principal Hanya<FF03>Do you hear me? Fired.<FF02><FF01><FF1B>Vice-Principal Ooishi<FF03><0028>Came up with"
+ },
+ {
+  "id": "e1_00451",
+  "bytes": 604,
+  "orig": "<FF02><FF04><FF1B>Vice-Principal Ooishi<FF03>Do you often <0028>come up<0028> with regulations<FF03>without putting any thought into them.?<FF02><FF01>   <FF1B>Nanjo<FF03>This is utterly ridiculous! I can't<FF03>bear to watch anymore!<FF02><FF04><FF1B>Nanjo<FF03>Should a real educator be saying this<FF03>sort of thing?<FF02><FF01><FF1B>Elly<FF03>Vice-Principal Hanya's desire for power<FF03>must be very strong"
+ },
+ {
+  "id": "e1_00452",
+  "bytes": 138,
+  "orig": "<FF02><FF04><FF1B>Elly<FF03>Not only does his dream reflect them,<FF03>it pulled in Ms! Ooishi"
+ },
+ {
+  "id": "e1_00453",
+  "bytes": 750,
+  "orig": "<FF02><FF01>  <FF1B>Principal Hanya<FF03>S-Silence. What's wrong with coming up<FF03>with school rules.?<FF02><FF04><FF1B>Principal Hanya<FF03>I'm the most important person in this<FF03>school. Why, I'm essentially a god.<FF02><FF04><FF1B>Principal Hanya<FF03>My word is god's word, the will of the<FF03>universe. Don't you see.?<FF02><FF01><FF1B>Vice-Principal Ooishi<FF03>Mr! Hanya. What do you think the purpose<FF03>of education is.?<FF02><FF04><FF1B>Vice-Principal Ooishi<FF03>To begin with"
+ },
+ {
+  "id": "e1_00454",
+  "bytes": 476,
+  "orig": "<FF02><FF01><FF1B>Yukino<FF03>Let's hurry and wake 'em up! I can't<FF03>stand listening to this!<FF02><FF01> <FF1B>Yukino<FF03>I gotta say, this is a realistic-looking<FF03>principal's office!<FF02><FF04><FF1B>Yukino<FF03>If you hadn't told me I was in a dream,<FF03>I wouldn'tve suspected a thing!<FF02><FF01> <FF1B>Ayase<FF03><0056>sigh"
+ },
+ {
+  "id": "e1_00455",
+  "bytes": 264,
+  "orig": " Let's get back to school!<FF03>I'm soooo tired.<FF02><FF01>   <FF1B>Nanjo<FF03>Perhaps I shouldn't say this, since we're<FF03>encroaching on the dreams of others"
+ },
+ {
+  "id": "e1_00456",
+  "bytes": 322,
+  "orig": "<FF02><FF04><FF1B>Nanjo<FF03>But I find that seeing a person's naked<FF03>desires leaves a bad taste in my mouth!<FF02><FF01>   <FF1B>Brown<FF03>Whoa, nice couch. Wanna take a little<FF03>breather?<FF02><FF04><FF1B>Brown<FF03>Heheh"
+ },
+ {
+  "id": "e1_00457",
+  "bytes": 128,
+  "orig": " just kidding!<FF02><FF01> <FF1B>Elly<FF03>I'd thought the Dream World would be<FF03>more"
+ },
+ {
+  "id": "e1_00458",
+  "bytes": 790,
+  "orig": " romantic!<FF02><FF01>  <FF1B>Principal Hanya<FF03>Pipe down. Don't bother me right now.<FF02><FF01><0044> Pinch Principal Hanya?<FF02><FF0E> <FF01><FF1B>Vice-Principal Ooishi<FF03>Not now, please! I must get the principal<FF03>to reconsider!<FF02><FF01>   <0044> Pinch Vice-Principal Ooishi?<FF02><FF0E> <FF01>  <FF1B>Principal Hanya<FF03>Wh-What the.?<FF02><FF01><FF1B>Vice-Principal Ooishi<FF03>Oh.<FF02><FF01><FF1B>Principal Hanya<FF03>Get outta here, or I'll make you shine<FF03>my shoes.<FF02><FF01> <FF1B>Vice-Principal Ooishi<FF03>If you'll please excuse us"
+ },
+ {
+  "id": "e1_00464",
+  "bytes": 70,
+  "orig": " the fencing club room!<FF03>Which means"
+ }
+]

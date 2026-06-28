@@ -1,0 +1,90 @@
+{
+ "e0_01751": {
+  "t": "<FF02><FF04><FF1B>Mark<FF03>Guarda tu arma, <FF07>.<FF02><FF01>   <FF1B>Nanjo<FF03>",
+  "shortened": true
+ },
+ "e0_01752": {
+  "t": "<FF02><FF01> <0044> Que haras?<FF02><FF0E><1200><FF01> <FF1B>Hariti<FF03>Por que me estorbas? Devuelveme<FF03>a mi hija.<FF02><FF01>  <FF1B>Setsuko Sonomura<FF03>Ngh",
+  "shortened": true
+ },
+ "e0_01755": {
+  "t": "<FF02><FF04><FF1B>Setsuko Sonomura<FF03>Oh, es la mansion embrujada! Estaba<FF03>sonando con este lugar",
+  "shortened": true
+ },
+ "e0_01756": {
+  "t": "<FF02><FF01>   <FF1B>Mark<FF03>Ves? La mama de Maki no existe<FF03>aqui, asi que",
+  "shortened": true
+ },
+ "e0_01757": {
+  "t": "<FF02><FF04><FF1B>Mark<FF03>Tiene que ser ella. Pero que<FF03>hace aqui",
+  "shortened": true
+ },
+ "e0_01758": {
+  "t": "<FF02><FF04><FF1B>Mark<FF03>Bien, senora?<FF02><FF01>  <FF1B>Setsuko Sonomura<FF03>Si",
+  "shortened": true
+ },
+ "e0_01760": {
+  "t": "<FF02><FF04><FF1B>Setsuko Sonomura<FF03>Maki se perdia seguido en esta<FF03>mansion de pequena",
+  "shortened": true
+ },
+ "e0_01761": {
+  "t": "<FF02><FF04><FF1B>Setsuko Sonomura<FF03>Estoy acostumbrada a buscarla aqui!<FF02><FF04><FF1B>Setsuko Sonomura<FF03>Sonaba con aquellos dias",
+  "shortened": true
+ },
+ "e0_01762": {
+  "t": "<FF02><FF04><FF1B>Setsuko Sonomura<FF03>La buscaba en esta enorme<FF03>mansion, y oi a Maki llamarme",
+  "shortened": true
+ },
+ "e0_01763": {
+  "t": "<FF02><FF04><FF1B>Setsuko Sonomura<FF03>No recuerdo nada despues de eso!<FF02><FF01>  <FF1B>Maki<FF03>Em, senora? Yo",
+  "shortened": true
+ },
+ "e0_01764": {
+  "t": " no soy tu hija real<FF03>al final",
+  "shortened": true
+ },
+ "e0_01765": {
+  "t": "<FF02><FF01>   <FF1B>Setsuko Sonomura<FF03>Que",
+  "shortened": true
+ },
+ "e0_01766": {
+  "t": "<FF02><FF01><FF1B>Nanjo<FF03>Dejame explicar!<FF02><FF01>   <FF1B>Setsuko Sonomura<FF03>Asi que es eso",
+  "shortened": true
+ },
+ "e0_01767": {
+  "t": " Eres la Maki de<FF03>este mundo!<FF02><FF04><FF1B>Setsuko Sonomura<FF03>Pero por que no existo aqui",
+  "shortened": true
+ },
+ "e0_01768": {
+  "t": "<FF02><FF01><FF1B>Maki<FF03>Oh-oh. El pasaje dimensional<FF03>va a desaparecer",
+  "shortened": true
+ },
+ "e0_01769": {
+  "t": "<FF02><FF01> <FF1B>Mark<FF03>Perdon, senora, pero hay que perseguir<FF03>a Kandori!<FF02><FF01> <FF1B>Setsuko Sonomura<FF03>Bien! Dame un momento.<FF02><FF01>   <FF1B>Setsuko Sonomura<FF03>El pasaje dimensional esta muy<FF03>inestable ahora!<FF02><FF04><FF1B>Setsuko Sonomura<FF03>Alguien debe quedarse a operar<FF03>la maquina!<FF02><FF01> <FF1B>Maki<FF03>Que? No",
+  "shortened": true
+ },
+ "e0_01770": {
+  "t": " No dejamos a nadie aqui.<FF02><FF01><FF1B>Setsuko Sonomura<FF03>Yo lo hare.<FF02><FF04><FF1B>Setsuko Sonomura<FF03>Tranquilos",
+  "shortened": true
+ },
+ "e0_01771": {
+  "t": " Vayan ustedes solos!<FF02><FF04><FF1B>Setsuko Sonomura<FF03>Aunque agradeceria que vinieran por<FF03>mi cuando todo termine!<FF02><FF01> <FF1B>Maki<FF03>Senora",
+  "shortened": true
+ },
+ "e0_01772": {
+  "t": "<FF02><FF01> <FF1B>Setsuko Sonomura<FF03>Si? Habla rapido",
+  "shortened": true
+ },
+ "e0_01773": {
+  "t": " No hay<FF03>mucho tiempo!<FF02><FF01><FF1B>Maki<FF03>I",
+  "shortened": true
+ },
+ "e0_01774": {
+  "t": " no tengo madre",
+  "shortened": true
+ },
+ "e0_01775": {
+  "t": "<FF02><FF04><FF1B>Maki<FF03>Si tuviera",
+  "shortened": true
+ }
+}

@@ -1,0 +1,9 @@
+id,limite_chars,tokens_protegidos,texto_original,texto_traducido,estado,notas
+talk_kokuri_00109,335,<FFEF> <FF02> <FF04> <FF03> <FFEF> <0056> <0056> <FF03> <FF03> <FFEF> <FF03> <FFEF> <0056> <0056> <FF03> <FFEF>,"<FFEF>  ABCDEFGHIJKLMNOPQRSTUVWXYZ<FF02><FF04>Ugh, screw this. I get all irritated<FF03>if I don't talk normally sometimes!<FFEF>   <0056>yip<0056> I'm not in the mood to use the<FF03>board this time, so I'll just give you<FF03>my card!<FFEF>   You seem pretty amazing for a human!<FF03>Let's just talk like normal!<FFEF>  <0056>yip<0056> Not only that, I'll give you my<FF03>card, too! Gracious, aren't I?<FFEF>   ",,por_traducir,
+talk_kokuri_00112,29,<FFEF>,"<FFEF> Alright, I'll talk normally",,por_traducir,
+talk_kokuri_00113,29,<FF03>, Just stop<FF03>scaring me so much,,por_traducir,
+talk_kokuri_00114,86,<FFEF> <FF03> <FFEF>,"<FFEF> C'mon, I'll give you my card! You won't<FF03>have any complaints if I do that, right?<FFEF>   ",,por_traducir,
+talk_kokuri_00128,125,<FFF1> <FFF5> <0056> <0056> <FF02> <FF04> <FF03> <0056> <0056> <FFF5> <0056> <0056>,"<FFF1><FFF5>   <0056>yip<0056> A full moon. This is so awesome.<FF02><FF04>Oh crap, I talked normally. Eh, oh well!<FF03><0056>yip<0056><FFF5> <0056>yip<0056> That full moon feels great",,por_traducir,
+talk_kokuri_00129,46,<FF03> <FFFD> <00FF> <F500> <FFEE>,"<FF03>By the way, human, do you know who I am?<FFFD><00FF><F500> <FFEE>",,por_traducir,
+talk_kokuri_00193,17,<FFEF> <0056> <0056> <FFF5> <0056> <0056> <FFF5>,<FFEF><0056>yip<0056><FFF5>  <0056>whine<0056><FFF5>,,por_traducir,
+talk_kokuri_00197,117,<FFF5> <FF03> <FFF5> <FF03>," ?<FFF5>  No, that's Comet! I like her too,<FF03>you know!<FFF5>No, that's a brokery! Dude, don't mistake<FF03>me for one of those sharks",,por_traducir,

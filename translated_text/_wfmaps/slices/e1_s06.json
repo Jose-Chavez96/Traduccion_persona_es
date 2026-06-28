@@ -1,0 +1,397 @@
+[
+ {
+  "id": "e1_00812",
+  "bytes": 124,
+  "orig": "<FF02><FF04><FF1B>Mr! Devilish<FF03>An automaton made to consume milk.<FF02><FF01><FF1B>Tsutomu<FF03>I"
+ },
+ {
+  "id": "e1_00813",
+  "bytes": 36,
+  "orig": " <0056>pant<0056> can't move"
+ },
+ {
+  "id": "e1_00819",
+  "bytes": 462,
+  "orig": "<FF02><FF01>  <FF1B>Mr! Devilish<FF03>Keep it up, dork. Don't lose it yet.<FF02><FF04><FF1B>Mr! Devilish<FF03>It's Lady Michiko who'll deal with you<FF03>two in the end.<FF02><FF04><FF1B>Mr! Devilish<FF03>If you break now, she'll definitely<FF03>punish me for it.<FF02><FF01> <FF1B>Nanjo<FF03>It seems it's as I suspected"
+ },
+ {
+  "id": "e1_00820",
+  "bytes": 200,
+  "orig": "<FF03>Michiko is behind all this!<FF02><FF04><FF1B>Nanjo<FF03>Though I must say, her methods of torture<FF03>are very well-planned"
+ },
+ {
+  "id": "e1_00821",
+  "bytes": 390,
+  "orig": " very effective!<FF02><FF04><FF1B>Nanjo<FF03>She's exploiting their weaknesses in<FF03>the most efficient manner!<FF02><FF04><FF1B>Nanjo<FF03>As near as I can tell, though, there's<FF03>no purpose to it!<FF02><FF04><FF1B>Nanjo<FF03>Torture simply for the sake of it"
+ },
+ {
+  "id": "e1_00822",
+  "bytes": 380,
+  "orig": "<FF03>frightening indeed!<FF02><FF01>   <FF1B>Elly<FF03>Oh, no. They can't hold out much longer.<FF02><FF04><FF1B>Elly<FF03>We must do something about it now, before<FF03>it becomes too late.<FF02><FF01>  <FF1B>Tsutomu<FF03>Hahaha. Wow. A fairy.<FF02><FF04><FF1B>Tsutomu<FF03>Haha"
+ },
+ {
+  "id": "e1_00824",
+  "bytes": 62,
+  "orig": " I really saw it, Mom.<FF03>Hahahaha"
+ },
+ {
+  "id": "e1_00825",
+  "bytes": 60,
+  "orig": "<FF02><FF01>  <FF1B>Toro<FF03><0056>puke<0056> <0056>cough<0056> <0056>hack"
+ },
+ {
+  "id": "e1_00827",
+  "bytes": 124,
+  "orig": " Y-Yuka. You guys.<FF02><FF04><FF1B>Toro<FF03>P-P-P-Please save me.<FF02><FF01> <FF1B>Ayase<FF03>Uhhhh"
+ },
+ {
+  "id": "e1_00828",
+  "bytes": 42,
+  "orig": " Save these two goons"
+ },
+ {
+  "id": "e1_00829",
+  "bytes": 726,
+  "orig": "<FF02><FF04><FF1B>Ayase<FF03>I wanna say, <0028>No way.<0028><FF02><FF04><FF1B>Ayase<FF03>But like, why's Michiko doing this?<FF02><FF04><FF1B>Ayase<FF03>Is there some point I'm not getting?<FF02><FF01>  <FF1B>Michiko<FF03>Ohohohoho. It's because they're hideous.<FF02><FF04><FF1B>Michiko<FF03>And ugliness is unforgivable.<FF02><FF04><FF1B>Michiko<FF03>Therefore I, the acme of attractiveness,<FF03>am punishing these sinners.<FF02><FF04><FF1B>Michiko<FF03>Do you understand, whelps?<FF02><FF04><FF1B>Michiko<FF03>Ohohohohoho.<FF02><FF01>  <FF1B>Nanjo<FF03>"
+ },
+ {
+  "id": "e1_00830",
+  "bytes": 144,
+  "orig": "Shouldn't you speak for yourself? In<FF03>any event, ugly as you may see them"
+ },
+ {
+  "id": "e1_00831",
+  "bytes": 1124,
+  "orig": "<FF02><FF04><FF1B>Nanjo<FF03>They are my fellow students, and I cannot<FF03>forsake them!<FF02><FF04><FF1B>Nanjo<FF03>Now hand me the key to their chains!<FF02><FF01><FF1B>Brown<FF03>Who the HELL do you think you are.?<FF02><FF04><FF1B>Brown<FF03>You stuck-up bitch. How dare you do this<FF03>to Toro and Devil-Boy.?<FF02><FF04><FF1B>Brown<FF03>Oh, there was a line there, and you just<FF03>crossed it.<FF02><FF04><FF1B>Brown<FF03>Cut this out and get those chains off<FF03>them right now.<FF02><FF01><FF1B>Michiko<FF03>Oh, you care deeply for your friends, mm?<FF02><FF04><FF1B>Michiko<FF03>What a beautiful friendship, yes?<FF02><FF04><FF1B>Michiko<FF03>Ohohohoho. How splendid.<FF02><FF04><FF1B>Michiko<FF03>Hah. <0028>Friendship<0028>.<FF02><FF04><FF1B>Michiko<FF03>Then in honor of your admirable<FF03>friendship"
+ },
+ {
+  "id": "e1_00832",
+  "bytes": 312,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>I'll tell you where the key is so you can<FF03>free these ugly fellows from their chains.<FF02><FF04><FF1B>Michiko<FF03>It can be found on the topmost floor<FF03>of this tower"
+ },
+ {
+  "id": "e1_00833",
+  "bytes": 466,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>That's right--it's in my care. Ohohoho.<FF02><FF04><FF1B>Michiko<FF03>If you wish to save your precious friends,<FF03>come to me without delay.<FF02><FF04><FF1B>Michiko<FF03>Ohohoho.<FF02><FF04><FF1B>Michiko<FF03>Exit the door on your left and follow the<FF03>path to reach my room in no time"
+ },
+ {
+  "id": "e1_00834",
+  "bytes": 58,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>Ohohohoho. However"
+ },
+ {
+  "id": "e1_00835",
+  "bytes": 100,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>Those Mirror Shards you so eagerly seek"
+ },
+ {
+  "id": "e1_00836",
+  "bytes": 234,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>You may find one through the door<FF03>behind me!<FF02><FF04><FF1B>Michiko<FF03>The Mirror Shard is kept within a large<FF03>chest there"
+ },
+ {
+  "id": "e1_00837",
+  "bytes": 858,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>Along with a hint to defeat me!<FF02><FF04><FF1B>Michiko<FF03>Ohohohohohoho. Remember, there's no time<FF03>restriction in this tower.<FF02><FF04><FF1B>Michiko<FF03>Spend as much time as you like searching.<FF02><FF04><FF1B>Michiko<FF03>You only have to ask that your friends<FF03>endure the torture a while longer!<FF02><FF04><FF1B>Michiko<FF03>Ohohohohohoho.<FF02><FF04><FF1B>Michiko<FF03>The choice is yours. I'll see you soon.<FF02><FF04><FF1B>Michiko<FF03>Ohohoho. Ohohohohohohoho.<FF02><FF01> <FF1B>Toro<FF03>Help me, please. Get that key quick.<FF02><FF04><FF1B>Toro<FF03>Blurrrrgh"
+ },
+ {
+  "id": "e1_00840",
+  "bytes": 28,
+  "orig": "<FF02><FF01><FF1B>Tsutomu<FF03>Ugh"
+ },
+ {
+  "id": "e1_00842",
+  "bytes": 32,
+  "orig": "<FF02><FF04><FF1B>Tsutomu<FF03>Where"
+ },
+ {
+  "id": "e1_00845",
+  "bytes": 40,
+  "orig": "<FF03>to unchain my heart"
+ },
+ {
+  "id": "e1_00846",
+  "bytes": 486,
+  "orig": " <0056>gasp<0056> <0056>pant<0056><FF02><FF01><FF1B>Mr! Devilish<FF03>What are you doing.? Stop slacking.<FF02><FF04><FF1B>Mr! Devilish<FF03>Hahahahaha. Gulp that milk.<FF03>Work those muscles.<FF02><FF01>  <FF1B>Yukino<FF03>We gotta help them, but we need that<FF03>Mirror Shard, too!<FF02><FF04><FF1B>Yukino<FF03>What should we do?<FF02><FF01>   <FF1B>Yukino<FF03>Michiko"
+ },
+ {
+  "id": "e1_00847",
+  "bytes": 46,
+  "orig": " We'll get you for this"
+ },
+ {
+  "id": "e1_00848",
+  "bytes": 204,
+  "orig": "<FF02><FF01> <FF1B>Ayase<FF03>It's a good lesson for those two, though,<FF03>don'tcha think?<FF02><FF04><FF1B>Ayase<FF03>I mean, they're kinda lame"
+ },
+ {
+  "id": "e1_00849",
+  "bytes": 168,
+  "orig": "<FF02><FF01><FF1B>Nanjo<FF03>It's immaterial to me whether we aim for<FF03>the Mirror Shard or save these two"
+ },
+ {
+  "id": "e1_00850",
+  "bytes": 654,
+  "orig": "<FF02><FF04><FF1B>Nanjo<FF03>My primary concern is beating some<FF03>manners into that Michiko.<FF02><FF01>   <FF1B>Brown<FF03>They get on my nerves sometimes, but<FF03>they're not that bad!<FF02><FF04><FF1B>Brown<FF03>I wanna help 'em out.<FF02><FF01>   <FF1B>Elly<FF03>Gah, I can't stand that Michiko.<FF02><FF01><FF1B>Mr! Devilish<FF03>I'm only doing what Lady Michiko ordered!<FF03>If you have a problem, take it up with her!<FF02><FF01>   <FF1B>Toro<FF03>No"
+ },
+ {
+  "id": "e1_00852",
+  "bytes": 60,
+  "orig": " urrrk. Blurrrrrgh.<FF02><FF04><FF1B>Toro<FF03>I'm"
+ },
+ {
+  "id": "e1_00853",
+  "bytes": 28,
+  "orig": " I'm gonna die"
+ },
+ {
+  "id": "e1_00854",
+  "bytes": 58,
+  "orig": "<FF02><FF01> <FF1B>Tsutomu<FF03><0056>gasp<0056> <0056>gasp<0056> Ugh"
+ },
+ {
+  "id": "e1_00862",
+  "bytes": 86,
+  "orig": " reaching here from the torture<FF03>chamber was"
+ },
+ {
+  "id": "e1_00863",
+  "bytes": 38,
+  "orig": " quite an excursion"
+ },
+ {
+  "id": "e1_00864",
+  "bytes": 182,
+  "orig": "<FF02><FF01> <FF1B>Elly<FF03>Is this the chest Michiko referred to<FF03>that contains a Mirror Shard?<FF02><FF04><FF1B>Elly<FF03>Dear me"
+ },
+ {
+  "id": "e1_00865",
+  "bytes": 116,
+  "orig": " I didn't think finding our<FF03>way here would be so strenuous"
+ },
+ {
+  "id": "e1_00866",
+  "bytes": 28,
+  "orig": "<FF02><FF01>  <FF1B>Ayase<FF03>Ugh"
+ },
+ {
+  "id": "e1_00867",
+  "bytes": 588,
+  "orig": " I'm like, gonna fall over and die<FF03>if I hafta move another inch.<FF02><FF04><FF1B>Ayase<FF03>Who's the genius who said we should go<FF03>get a Mirror Shard.?<FF02><FF04><FF1B>Ayase<FF03>If it turns out there isn't one in that<FF03>chest, we came all this way for nothing.<FF02><FF04><FF1B>Ayase<FF03>And that would SUCK.<FF02><FF01>   <FF1B>Nanjo<FF03>It's an awfully suspicious chest"
+ },
+ {
+  "id": "e1_00868",
+  "bytes": 370,
+  "orig": "<FF03>Any volunteers to open it?<FF02><FF04><FF1B>Nanjo<FF03>I'm 99!999<0053> certain it's a trap!<FF02><FF01><FF1B>Brown<FF03>That's a trap, no two ways about it,<FF03>don'tcha think?<FF02><FF04><FF1B>Brown<FF03>So who gets to open it?<FF02><FF04><FF1B>Brown<FF03>I'm kind of shy"
+ },
+ {
+  "id": "e1_00869",
+  "bytes": 56,
+  "orig": " not the type to take<FF03>charge"
+ },
+ {
+  "id": "e1_00870",
+  "bytes": 784,
+  "orig": " so I'm gonna pass!<FF02><FF01>  <FF1B>Yukino<FF03>Bitching and moaning about it won't do<FF03>us any good. Let's open 'er up.<FF02><FF01><FF1B>Yukino<FF03>Even though there's no real time limit,<FF03>we still took a little too long!<FF02><FF01>  <FF1B>Ayase<FF03>That's it. I'm TIRED. I have to rest.<FF02><FF01>  <FF1B>Nanjo<FF03>I've had just about enough of this<FF03>tower's devious design!<FF02><FF04><FF1B>Nanjo<FF03>It reflects Michiko's personality to a T!<FF02><FF01>   <FF1B>Brown<FF03>Argh. I'm beat.<FF02><FF04><FF1B>Brown<FF03>Oh man"
+ },
+ {
+  "id": "e1_00871",
+  "bytes": 156,
+  "orig": " I don't wanna think about<FF03>walking back to the torture chamber.<FF02><FF01>   <FF1B>Elly<FF03>Whew"
+ },
+ {
+  "id": "e1_00872",
+  "bytes": 198,
+  "orig": " Mind if we take a short break?<FF02><FF04><FF1B>Elly<FF03>I'm quite worn out!<FF02><FF01>   <0044> Obtained a <FF19><0300><FF18><0500>Mirror Shard<FF18> !<FF02><FF04><0044> "
+ },
+ {
+  "id": "e1_00873",
+  "bytes": 796,
+  "orig": "<FF05><1E00><FF03>You spot a piece of paper in the corner<FF03>of the chest!<FF02><FF04><0044> It appears to be a letter from Michiko!<FF02><FF04><0044> You open the letter!<FF02><FF01>  <0028>Ohohohoho. So you've reached this chest,<FF03>have you? What a greedy bunch.<FF02><FF04><0028>It must have been quite an endeavor!<FF03>Ohohohohohoho.<FF02><FF04><0028>You found what you sought, yes? Unlike<FF03>you rotters, I keep my promises.<FF02><FF04><0028>And now, as promised, I will reveal<FF03>my weakness.<FF02><FF04><0028>I'm at my weakest"
+ },
+ {
+  "id": "e1_00874",
+  "bytes": 810,
+  "orig": " When you don't<FF03>dawdle in getting to me. Ohohohohoho.<FF02><FF04><0028>I do hope this helps. So by all means,<FF03>hurry to my chamber. I'll be waiting.<FF02><FF04><0028>See you soon. <0204><FF03><FF03>               -From Michiko with love<0028><FF02><FF01> <0044> The chest is empty!<FF02><FF01><0F00> <B815> <4816> <A017> <D818> <F01A> <D01B> <281D> <C81D> <701E> <D01E> <C01F> <9820> <3021> <B822> <6026>                                                                                                                                                          <FFFF><1600><FFFF>"
+ },
+ {
+  "id": "e1_00882",
+  "bytes": 1148,
+  "orig": " <FF4D><1E00><FF6C><1000><FF73><0600><FF76><0601><FF4D><4000><FF74><0600><FF78><0600><FF4D><3C00><FF60> <FF67><3002><FF55> <5052> <FF68> <FF26><2800><E814> <FF67><0300><FF55> <E857> <FF68> <FF22> <0015>   <FF67><0600><FF55> <8858> <FF68> <FF22> <0015> <FF67><0500><FF55> <4859> <FF68> <FF81><6500><FF6C><1100><FF4D><1E00><FF67><3002><FF55> <985A> <FF68> <FF61> <FF81><6500><FF6C><1100><FF4D><1E00><FF26><2900><6015> <FF60> <FF67><0300><FF55> <3061> <FF68> <FF22> <8015> <FF60> <FF67><0700><FF55> <2863> <FF68> <FF22> <8015>   <FF67><3002><FF55> <2866> <FF68> <FF61> <FF81><6500><FF6C><1000><FF4D><1E00><FF6C><1000><FF4D><1E00><FF60> <FF67><0400><FF55> <186B> <FF68> <FF61> <FF78> <FF4D><3C00><FF81><6500><FF6C><0F00><FF26><5301><1816> <FF26><9100><F015> <FF80><FE00><FF28><1800><FF21>   <FF26><9300><0816> <FF80><FE00><FF28><1800><FF21>   <FF80><FE00><FF28><1B00><FF21>   <FF26><9100><3016> <FF80><FE00><FF28><1900><FF21>   <FF26><9300><4816> <FF80><FE00><FF28><1900><FF21>   <FF80><FE00><FF28><1C00><FF21>   <FF1B>Yukino<FF03>Michiko Matsudaira. We're here for you.<FF03>Give us the key to free Toro and Tsutomu.<FF02><FF04><FF1B>Yukino<FF03>We can take it by force, if that's the<FF03>way you want to play it.<FF02><FF04><FF1B>Yukino<FF03>That's my plan, anyway! I have a feeling<FF03>you won't give up that easily, huh?<FF02><FF01>  <FF1B>Michiko<FF03>I-Impossible. You're here so soon.?<FF02><FF04><FF1B>Michiko<FF03>Wh-What about the Mirror Shard? Didn't"
+ },
+ {
+  "id": "e1_00883",
+  "bytes": 70,
+  "orig": "<FF03>Didn't you go get it?<FF02><FF04><FF1B>Michiko<FF03>Oh"
+ },
+ {
+  "id": "e1_00884",
+  "bytes": 108,
+  "orig": " How can this be.?<FF02><FF04><FF1B>Michiko<FF03>The source of my strength"
+ },
+ {
+  "id": "e1_00885",
+  "bytes": 60,
+  "orig": " the power<FF03>of negative emotion"
+ },
+ {
+  "id": "e1_00886",
+  "bytes": 204,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>The hatred and anger is too weak. This<FF03>won't be enough at all.<FF02><FF04><FF1B>Michiko<FF03>Not only that, but"
+ },
+ {
+  "id": "e1_00887",
+  "bytes": 168,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>What are these disgusting feelings that<FF03>flow into me?<FF02><FF04><FF1B>Michiko<FF03>Gratitude"
+ },
+ {
+  "id": "e1_00889",
+  "bytes": 216,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>THIS is what those two are thinking as<FF03>they're being tortured?<FF02><FF04><FF1B>Michiko<FF03><0056>gasp<0056> You couldn't have"
+ },
+ {
+  "id": "e1_00890",
+  "bytes": 434,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>You figured out how this tower works.?<FF02><FF04><FF1B>Michiko<FF03>No. Simply impossible. My plans were<FF03>flawless.<FF02><FF04><FF1B>Michiko<FF03>Without exceptions, humans think, <0028>As<FF03>long as I'm okay, others don't matter!<0028><FF02><FF04><FF1B>Michiko<FF03>This mindset"
+ },
+ {
+  "id": "e1_00891",
+  "bytes": 616,
+  "orig": " no, it's even more<FF03>atavistic than that.<FF02><FF04><FF1B>Michiko<FF03>It's instinct.<FF02><FF04><FF1B>Michiko<FF03>My plans revolve around the basic human<FF03>instinct for self-preservation.<FF02><FF04><FF1B>Michiko<FF03>So why? Why.?<FF02><FF04><FF1B>Michiko<FF03>Why would you try to help others with<FF03>the expectation of no reward?<FF02><FF04><FF1B>Michiko<FF03>I can't understand at all.<FF02><FF04><FF1B>Michiko<FF03>My strength"
+ },
+ {
+  "id": "e1_00892",
+  "bytes": 564,
+  "orig": " This level of power is<FF03>FAR from adequate.<FF02><FF04><FF1B>Michiko<FF03>What am I supposed to do?<FF02><FF01><FF1B>Nanjo<FF03>Frankly, I'd normally be happy to leave<FF03>those two and retrieve the Mirror Shard!<FF02><FF04><FF1B>Nanjo<FF03>Hmph. As if I gave a damn what that empty<FF03>head of yours was scheming!<FF02><FF04><FF1B>Nanjo<FF03>But you made one fatal error"
+ },
+ {
+  "id": "e1_00893",
+  "bytes": 882,
+  "orig": "<FF02><FF04><FF1B>Nanjo<FF03>You have angered me!<FF02><FF04><FF1B>Nanjo<FF03>Did you seriously think you could mock<FF03>me and walk away unharmed?<FF02><FF04><FF1B>Nanjo<FF03>Kei Nanjo is no one's pet.<FF02><FF04><FF1B>Nanjo<FF03>You will pay for your insult with your<FF03>life! Prepare yourself.<FF02><FF01><FF1B>Brown<FF03>I'd never turn my back on my friends.<FF03>It's bad for my rep, man.<FF02><FF04><FF1B>Brown<FF03>And I'd DEFINITELY never forgive<FF03>a bitch like you.<FF02><FF04><FF1B>Brown<FF03>This is for torturing Toro and Tsutomu.<FF03>For calling us all <0028>whelps<0028>.<FF02><FF04><FF1B>Brown<FF03>But most of all"
+ },
+ {
+  "id": "e1_00894",
+  "bytes": 746,
+  "orig": "<FF02><FF04><FF1B>Brown<FF03>For saying I'm your pet. You're gonna<FF03>pay royally for that one.<FF02><FF04><FF1B>Brown<FF03>Now let's get this showdown started.<FF02><FF01><FF1B>Ayase<FF03>And you know what?<FF02><FF04><FF1B>Ayase<FF03>We don't even need all 12 Mirror Shards.<FF03>Eight or so should do the job just fine.<FF02><FF04><FF1B>Ayase<FF03>I like, don't care too much about what<FF03>happens to Toro or Tsutomu!<FF02><FF04><FF1B>Ayase<FF03>But seeing a jerk like you act like<FF03>some stuck-up celeb"
+ },
+ {
+  "id": "e1_00895",
+  "bytes": 258,
+  "orig": "<FF02><FF04><FF1B>Ayase<FF03>Now that totally pisses me off. Get it?<FF02><FF01> <FF1B>Michiko<FF03><0056>shriek<0056> Silence. Silence. SILENCE.<FF02><FF04><FF1B>Michiko<FF03>Let me be clear on this"
+ },
+ {
+  "id": "e1_00896",
+  "bytes": 222,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>You're saying that I am inferior to that<FF03>hideous pair?<FF02><FF04><FF1B>Michiko<FF03>I, the lovely Michiko?<FF02><FF04><FF1B>Michiko<FF03>Oh"
+ },
+ {
+  "id": "e1_00897",
+  "bytes": 228,
+  "orig": " This is outrageous.<FF02><FF04><FF1B>Michiko<FF03>My magnificent plans were simply too<FF03>sophisticated for you mangy curs.<FF02><FF04><FF1B>Michiko<FF03>Oh"
+ },
+ {
+  "id": "e1_00898",
+  "bytes": 362,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>I knew I should have slain you all as<FF03>soon as you entered this tower.<FF02><FF04><FF1B>Michiko<FF03>Ohhhhh.<FF02><FF01>  <FF1B>Nanjo<FF03>Will you cease those <0028>oh<0028>s of yours?<FF02><FF04><FF1B>Nanjo<FF03>Hmph! You sound like a seal"
+ },
+ {
+  "id": "e1_00899",
+  "bytes": 694,
+  "orig": "<FF02><FF04><FF1B>Nanjo<FF03>Regardless, it's just as Yuka said!<FF02><FF04><FF1B>Nanjo<FF03>A Mirror Shard or two either way has no<FF03>impact whatsoever on our victory.<FF02><FF04><FF1B>Nanjo<FF03>We cannot allow your ilk to continue<FF03>these ruthless, selfish acts.<FF02><FF04><FF1B>Nanjo<FF03>Today marks the end of your tyranny.<FF02><FF01>  <FF1B>Elly<FF03>Give in, Michiko!<FF02><FF04><FF1B>Elly<FF03>The more you squall, the more prominent<FF03>your unsightliness becomes"
+ },
+ {
+  "id": "e1_00900",
+  "bytes": 114,
+  "orig": "<FF02><FF04><FF1B>Elly<FF03>You should see yourself in a mirror!<FF02><FF04><FF1B>Elly<FF03>Ahaha"
+ },
+ {
+  "id": "e1_00901",
+  "bytes": 520,
+  "orig": " I, for one, would be ashamed to<FF03>look that way in public!<FF02><FF04><FF1B>Elly<FF03>Ayase is right!<FF02><FF04><FF1B>Elly<FF03>A failure to acquire a couple of Mirror<FF03>Shards in this tower won't hurt a bit!<FF02><FF04><FF1B>Elly<FF03>Let's draw a line under this conversation,<FF03>shall we?<FF02><FF04><FF1B>Elly<FF03>However much we explain it"
+ },
+ {
+  "id": "e1_00902",
+  "bytes": 658,
+  "orig": "<FF02><FF04><FF1B>Elly<FF03>You'll never understand our reasons for<FF03>coming directly here!<FF02><FF04><FF1B>Elly<FF03>Now, en garde.<FF02><FF01><FF1B>Michiko<FF03>No. I won't succumb to the human heart.<FF02><FF04><FF1B>Michiko<FF03>Kindness.<FF02><FF04><FF1B>Michiko<FF03>Friendship.<FF02><FF04><FF1B>Michiko<FF03>Trust.<FF02><FF04><FF1B>Michiko<FF03>Such things simply do not exist in<FF03>this world.<FF02><FF04><FF1B>Michiko<FF03>I'll prove it to you with your defeat.<FF02><FF04><FF1B>Michiko<FF03>Lord Nemesis"
+ },
+ {
+  "id": "e1_00903",
+  "bytes": 112,
+  "orig": " Be the shield which<FF03>protects me.<FF02><FF04><FF1B>Michiko<FF03>Lord Nemesis"
+ },
+ {
+  "id": "e1_00904",
+  "bytes": 470,
+  "orig": " Be the sword which<FF03>vanquishes my foe.<FF02><FF04><FF1B>Michiko<FF03>Heed my call.<FF02><FF04><FF1B>Michiko<FF03>Go. Nemesis.<FF02><FF01>   <FF1B>Yukino<FF03>Getting your Persona out, huh?<FF02><FF04><FF1B>Yukino<FF03>Okay, guys, battle stations. This one's<FF03>for Toro and Tsutomu.<FF02><FF01> <FF1B>Yukino<FF03>Looks like Michiko's room"
+ },
+ {
+  "id": "e1_00905",
+  "bytes": 350,
+  "orig": "<FF02><FF04><FF1B>Yukino<FF03>But talk about bad taste!<FF02><FF04><FF1B>Yukino<FF03>What are these faces on the walls?<FF02><FF01>   <FF1B>Michiko<FF03>Ohohohohoho.<FF02><FF04><FF1B>Michiko<FF03>These faces are all that's left of those<FF03>who didn't obey me"
+ },
+ {
+  "id": "e1_00906",
+  "bytes": 108,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>These faces are your future.<FF02><FF04><FF1B>Michiko<FF03>Hmhm"
+ },
+ {
+  "id": "e1_00907",
+  "bytes": 928,
+  "orig": " Five new faces for my collection!<FF03>Truly a red-letter day.<FF02><FF04><FF1B>Michiko<FF03>Ohohohohoho.<FF02><FF04><FF1B>Michiko<FF03>So, what do you think of my collection?<FF03>I hope you appreciate it!<FF02><FF04><FF1B>Michiko<FF03>Dirty thieves who value material objects<FF03>over friends should pay special attention!<FF02><FF04><FF1B>Michiko<FF03>Oh yes, don't think I didn't notice you<FF03>accepted my gift of the Mirror Shard!<FF02><FF04><FF1B>Michiko<FF03>Ohohohohohoho.<FF02><FF04><FF1B>Michiko<FF03>I can't believe you fell so easily into<FF03>my trap.<FF02><FF04><FF1B>Michiko<FF03>Lured by a single Mirror Shard"
+ },
+ {
+  "id": "e1_00908",
+  "bytes": 280,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>Thereby throwing away your only chance<FF03>of defeating me.<FF02><FF04><FF1B>Michiko<FF03>Ohohohohoho!<FF02><FF01>   <FF1B>Nanjo<FF03>Eh? A trap.?<FF02><FF04><FF1B>Nanjo<FF03><0056>gasp<0056> That letter"
+ },
+ {
+  "id": "e1_00909",
+  "bytes": 768,
+  "orig": " What was that<FF03>all about? Answer me.<FF02><FF01><FF1B>Brown<FF03>Huh? We fell into your trap?<FF03>Whaddaya mean?<FF02><FF04><FF1B>Brown<FF03>Hey, you better explain this to us.<FF02><FF01><FF1B>Ayase<FF03>Whatever, ugly.<FF02><FF04><FF1B>Ayase<FF03>You're just bluffing 'cause we got the<FF03>Mirror Shard and you're outta luck.<FF02><FF04><FF1B>Ayase<FF03>You're such a liar. Just let us beat<FF03>you already.<FF02><FF01>   <FF1B>Michiko<FF03>Hohohohohoho.<FF02><FF04><FF1B>Michiko<FF03>Allow me to tell you how this Nemesis<FF03>Tower works"
+ },
+ {
+  "id": "e1_00910",
+  "bytes": 64,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>Anger, hatred despair"
+ },
+ {
+  "id": "e1_00911",
+  "bytes": 166,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>The tower absorbs those negative emotions<FF03>as energy, allowing it to grow"
+ },
+ {
+  "id": "e1_00912",
+  "bytes": 228,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>You might say the tower is a living thing!<FF02><FF04><FF1B>Michiko<FF03>By tapping into the energy stored within<FF03>the tower"
+ },
+ {
+  "id": "e1_00913",
+  "bytes": 210,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>There's no limit to how strong I can<FF03>become.<FF02><FF04><FF1B>Michiko<FF03>Do you understand now?<FF02><FF04><FF1B>Michiko<FF03>Hmhmhm"
+ },
+ {
+  "id": "e1_00914",
+  "bytes": 142,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>The anguish and rage that hideous pair<FF03>felt as they suffered"
+ },
+ {
+  "id": "e1_00915",
+  "bytes": 176,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>The hatred and despair that filled their<FF03>hearts as their friends forsook them"
+ },
+ {
+  "id": "e1_00916",
+  "bytes": 404,
+  "orig": "<FF02><FF04><FF1B>Michiko<FF03>Hahahahah.<FF02><FF04><FF1B>Michiko<FF03>Those emotions have fueled the incredible<FF03>power I wield.<FF02><FF04><FF1B>Michiko<FF03>Ohohoho.<FF02><FF04><FF1B>Michiko<FF03>Low-born fools. Curse your own<FF03>selfish nature.<FF02><FF01>  <FF1B>Nanjo<FF03>Her power is indeed immense"
+ },
+ {
+  "id": "e1_00917",
+  "bytes": 326,
+  "orig": "<FF02><FF04><FF1B>Nanjo<FF03>Why, she's merely standing there, and I<FF03>can feel her strength from here.<FF02><FF04><FF1B>Nanjo<FF03>It must be true, then, that Kenta and<FF03>Tsutomu's anger and hatred fuel her"
+ },
+ {
+  "id": "e1_00918",
+  "bytes": 128,
+  "orig": "<FF02><FF04><FF1B>Nanjo<FF03>How could I have let this happen.?<FF02><FF01>   <FF1B>Elly<FF03>What.? Ngh"
+ }
+]

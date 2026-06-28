@@ -1,0 +1,702 @@
+{
+ "talk_polutar_00001": {
+  "t": "<FF02><FF04>Jiuk jiuk. Eres gracioso, senor.<FFF5>  Uuurrrrgh. Quieres pelear.?<FFFD><02FF><F500> Jiuk",
+  "shortened": true
+ },
+ "talk_polutar_00003": {
+  "t": "<FFF5>   Jiuk jiuk. Creo que empiezo a<FF03>creer lo que dices",
+  "shortened": true
+ },
+ "talk_polutar_00004": {
+  "t": "<FFF5> No es facil conquistarme, sabes.<FF03>No soy un <FFF0> barato.<FFF5>  Jiuk",
+  "shortened": true
+ },
+ "talk_polutar_00005": {
+  "t": " Tu cara da miedo cuando me<FF03>hablas, senor",
+  "shortened": true
+ },
+ "talk_polutar_00006": {
+  "t": "<FFFD><03FF><F500>Uuuurrrgh. Mi cerebro se pudre.<FF03>Odio lo que se pudre.<FFF5>Jiuk",
+  "shortened": true
+ },
+ "talk_polutar_00007": {
+  "t": " Tu garganta esta toda mal,<FF03>senor",
+  "shortened": true
+ },
+ "talk_polutar_00008": {
+  "t": "<FFF5> Ooojejeje. Eres lo maximo, senor. Otra.<FF03>Otra. Canta otra cancion.<FFFD><04FF><F500>  Por que tan desesperado? Jiuk jiuk<FF03>jiuk jiuk.<FFF5> Ni modo.<FFF5>Me necesitas? En serio? Yaaaay.<FF03>Que feliz.<FFF5>   Uuuurrrgh. No caigo en tu<FF03>labia, senora.<FFF5> Iep",
+  "shortened": true
+ },
+ "talk_polutar_00010": {
+  "t": " Estas tramando<FF03>algo",
+  "shortened": true
+ },
+ "talk_polutar_00011": {
+  "t": "<FFFD><05FF><F500>  Ooojejeje. De verdad sabes como se siente<FF03>ser un <FFF0>, senora!<FF02><FF04>Quizas eres fantasma tambien?<FFF5>Jiuk jiuk. Dices cosas graciosas<FF03>a veces, senora.<FF02><FF04>Como inventas tus chistes?<FFFD><06FF><F500>   Imposible que sea cierto. Has de ser<FF03>tonta. Cabeza hueca.<FFF5>  Ooojejeje. Lo supe. Solo<FF03>tenia ese presentimiento",
+  "shortened": true
+ },
+ "talk_polutar_00012": {
+  "t": "<FFF5>Jiuk jiuk. Por que tan asustado?<FFF5>  Uuuurrrrgh. Eres mas ruidoso que yo.<FFF5>   Ooojejeje. Doy miedo. Rarrr.<FF03>Oooejejejeee.<FFF5>   Jiuk jiuk. Senor, eres",
+  "shortened": true
+ },
+ "talk_polutar_00013": {
+  "t": " un idiota?<FF03>Lo eres? Eh?<FF02><FF04>Que tonto, coqueteandome a mi?<FF03>Cabeza hueca. No tienes remedio.<FFF5>Uuuurrrrgh. Soy un NINO. No te metas<FF03>conmigo, o te corto.<FFFD><07FF><F500>  Iep",
+  "shortened": true
+ },
+ "talk_polutar_00014": {
+  "t": " Es broma, verdad",
+  "shortened": true
+ },
+ "talk_polutar_00015": {
+  "t": "<FF02><FF04>Podrias decirle esas cosas a Silvie<FF03>en vez de mi",
+  "shortened": true
+ },
+ "talk_polutar_00016": {
+  "t": "<FFF5><0A89>   Ooojejeje. Buen ojo, senor.<FF02><FF04>No hay <FFF0> mas lindo<FF03>que nosotros.<FFF5>  Jiuk jiuk. Tus chistes son geniales,<FF03>senor! Nunca pasan de moda.<FFF5> Eso queria ser gracioso? Ooh",
+  "shortened": true
+ },
+ "talk_polutar_00017": {
+  "t": "<FF03>Ansias matar",
+  "shortened": true
+ },
+ "talk_polutar_00019": {
+  "t": "Vete al diablo.<FFF5>Uy",
+  "shortened": true
+ },
+ "talk_polutar_00020": {
+  "t": " E-Eso fue bien malo",
+  "shortened": true
+ },
+ "talk_polutar_00021": {
+  "t": "<FFF5>  Ooojejeje. Ooojejeje. Ooooejejejeee.<FFFD><08FF><F500>  Jiuk jiuk. Y luego? Y luego?<FFF5> Y que? Que sea un <FFF0><FF03>no quiere decir que tenga tiempo que perder.<FFF5>Ooojejeje. Me gustan las historias<FF03>sin sentido asi!<FFFD><09FF><F500>   Jiuk jiuk. Caiste, justo como<FF03>esperaba.<FFF5> Uuuurrgh. Para que fue eso, malo<FF03>de pelo cafe.?<FFF5>   Uy",
+  "shortened": true
+ },
+ "talk_polutar_00022": {
+  "t": " Que truco viejo",
+  "shortened": true
+ },
+ "talk_polutar_00023": {
+  "t": " Eso no esta<FF03>muy bien, senor!<FFFD><0AFF><F500>  Jiuk jiuk. Eh? Que es eso? Se ve<FF03>mas rico que las piedras de vida.<FFF5>   Uuuurrgh. No te burles de mi, rico<FF03>patan. No quiero eso.<FF02><FF04>Quiero otra cosa.<FFF1><FFF5>  Oooh, eso me gusta! Me lo vas a<FF03>dar? Ooojejeje.<FFFD><0BFF><F500>   Jiuk jiuk. Has de ser racionalista,<FF03>senor! Me gustan esos tipos!<FFF5>   Uuuurrrgh. Como te atreves a hablar tanto<FF03>de <FFF0>.?<FFFD><0CFF><F500>  Ooojejeje. Tienes razon, senor.<FFF5>Jiuk jiuk. E-Eso fue genial",
+  "shortened": true
+ },
+ "talk_polutar_00024": {
+  "t": " Ojala<FF03>pudiera decir cosas asi!<FFF5>  No te burles de mi, rico patan.<FF03>Tu eres del que<FF03>deberian burlarse.<FFF5> Iep",
+  "shortened": true
+ },
+ "talk_polutar_00026": {
+  "t": "<FFFD><0DFF><F500> Vaya, asi nos ve la gente!<FF03>Aprendi algo nuevo hoy.<FFFD><0EFF><F500> Grrrr. Tu cara ya es una desgracia.<FFF5>Ooojejeje. Bien dicho. La la la, la la<FF03>la la laaa",
+  "shortened": true
+ },
+ "talk_polutar_00027": {
+  "t": "<FFF5>Jiuk jiuk. Asi bailan<FF03>en Shibuya.<FFF5>Eh? No bailes cuando ni siquiera<FF03>puedes volar.<FF02><FF04>Mejor dejalo, senor. No hay<FF03>razon para esforzarte tanto.<FFF5>   No esta mal, senor. Pero soy muuuucho mejor<FF03>que tu.<FFF5> Jiuk jiuk. Vas a venir por mi?<FF03>O voy yo por ti?<FFFD><0FFF><F500>Uuuurrrrgh. Habla normal, idiota.<FFF5>Iep",
+  "shortened": true
+ },
+ "talk_polutar_00028": {
+  "t": " Tengo miedo, y ni siquiera<FF03>se por que.<FFF5>  Jiuk jiuk. No estaras mirando a la<FF03>persona equivocada, senor?<FFF5> Te burlas de mi? Crees que<FF03>soy un <FFF0> bajo.? Grrr",
+  "shortened": true
+ },
+ "talk_polutar_00029": {
+  "t": "<FF03>Eso es bien molesto.<FFF5> Ooojejeje. Necesitas algo de<FF03>mi? Que es? Anda, dime.<FFFD><10FF><F500>Jiuk jiuk. Vaya, no sabia eso.<FF03>Pero suena tan falso",
+  "shortened": true
+ },
+ "talk_polutar_00030": {
+  "t": "<FFFD><11FF><F500> Imposible que sea cierto. Eres<FF03>tonto senor? Gran bobo.<FFF5>  Ooojejeje. Lo sabia. Solo tenia<FF03>este presentimiento",
+  "shortened": true
+ },
+ "talk_polutar_00031": {
+  "t": "<FFF5>   Uuuurrrrgh. Soy un <FFF0>.<FF03>No te burles de los demonios.<FFF5>  Uy",
+  "shortened": true
+ },
+ "talk_polutar_00032": {
+  "t": " <0056>shiver<0056><FFF5>  Doy mas miedo que esa historia. Oye,<FF03>cuentame otra!<FFFD><12FF><F500>   Vaya, senora. Tienes un lindo acento<FF03>americano. Vienes del mismo<FF03>lugar que yo?<FFF5>  Uuuurrrrgh. No me gusta nada<FF03>excepto el rap. Anda, suelta rimas.<FFFD><13FF><F500>   Ooojejejeje. Esa cancion es linda.<FFF5> Jiuk jiuk. Dices cosas bien<FF03>lindas, senora!<FFF5>  Uuuurrgh. No soy un nino como crees<FF03>que soy.<FFF5>  Ooooejejejeje. Quieres actuar de bebe<FF03>tambien? Cuantos mas, mejor.<FFFD><14FF><F500>  Jiuk jiuk. Ha de ser duro para ti tambien,<FF03>senora! Quizas la proxima, si estoy libre,<FF03>le entro!<FFF5>No es facil conquistarme, sabes.<FF03>No soy un <FFF0> barato.<FFF5>  Ooojejeje. Supongo que aun sirvo.<FF03>Ooojejejejejeje.<FFF5>  Jiuk jiuk. Tienes estilo, senora.<FF02><FF04>Ningun <FFF0> diria cosas<FF03>tan horribles.<FFF5>  No te burles de mi, boba.<FFF5>   Iep",
+  "shortened": true
+ },
+ "talk_polutar_00034": {
+  "t": " No creo que<FF03>llegaras tan lejos",
+  "shortened": true
+ },
+ "talk_polutar_00035": {
+  "t": "<FFF5>Jiuk jiuk. Que quieres de mi, senora?<FF02><FF04>Mi carta de hechizo, quizas?<FFFD><15FF><F500>Uuuurrgh. Q-Que quieres que haga.?<FF02><FF04>No entiendo. Es muy dificil.<FFF5>  Yei. Yeeei. Hagamoslo. Eres la<FF03>mejor, senora.<FFF5>  Jiuk jiuk. Eres rara, senora! Te<FF03>sale baba de los ojos.<FFF5>Y que? Mucho problema.<FFF5> Uy",
+  "shortened": true
+ },
+ "talk_polutar_00036": {
+  "t": " El mundo humano es<FF03>aterrador, eh",
+  "shortened": true
+ },
+ "talk_polutar_00037": {
+  "t": "<FFFD><16FF><F500>   Jiuk jiuk. Eso quiere decir que vas<FF03>a cortarme la cabeza?<FF02><FF04>Jijiji",
+  "shortened": true
+ },
+ "talk_polutar_00038": {
+  "t": " Ni siquiera tengo cuello.<FFF5>Uuuurrgh. No te burles de mi.<FF03>Tonto, bobo, cabeza de caca.<FFF5>  Iep",
+  "shortened": true
+ },
+ "talk_polutar_00040": {
+  "t": "<FFFD><17FF><F500>   Como puedes decir algo asi.?<FF03>Eso es de adulto. Apestas.<FFF5> Iep",
+  "shortened": true
+ },
+ "talk_polutar_00041": {
+  "t": " N-No me odias, verdad,<FF03>senora",
+  "shortened": true
+ },
+ "talk_polutar_00042": {
+  "t": "<FFF5>   Ooojejejeje. Hazlo otra vez. Otra.<FFFD><18FF><F500> Jiuk jiuk. De verdad lo sabes todo,<FF03>eh senora? Eres asombrosa.<FFFD><19FF><F500> Que seas mas grande no quiere<FF03>decir que seas creida, senora.<FFF5>  Ooojejeje. Eso ya lo sabia.<FF02><FF04>Soy listo, eh? Ooojejejeje.<FFF5>  Soy un <FFF0>, sabes.<FF03>Es normal que hagamos esas cosas.<FFF5>Uy",
+  "shortened": true
+ },
+ "talk_polutar_00045": {
+  "t": "<FFF5>   Ooojejejeje. O sea, ni sali<FF03>del kinder todavia.<FFF5>Oye, senora! Si sabes cosas chidas, hablemos.<FF03>Porfa",
+  "shortened": true
+ },
+ "talk_polutar_00046": {
+  "t": "<FFFD><1AFF><F500>Que miras.? Uuuurrrrgh.<FF03>Eres TAN molesto.<FFF5>   D",
+  "shortened": true
+ },
+ "talk_polutar_00047": {
+  "t": " Hice algo malo",
+  "shortened": true
+ },
+ "talk_polutar_00048": {
+  "t": "<FFF5>Jiuk jiuk. Oye, que es? Dime.<FFF5>   Uuuurrrrgh. Que miras?<FF03>No me hagas matarte",
+  "shortened": true
+ },
+ "talk_polutar_00050": {
+  "t": " Se honesto conmigo, senor",
+  "shortened": true
+ },
+ "talk_polutar_00051": {
+  "t": "<FF03>Vas a atacar, verdad",
+  "shortened": true
+ },
+ "talk_polutar_00052": {
+  "t": "<FFF5>Jiuk jiuk. Eres bueno haciendo<FF03>amenazas chidas, senor!<FFF5>  Uuuurrrrgh. No tengo nada de miedo.<FF03>Ya veras.<FFF5> Iep",
+  "shortened": true
+ },
+ "talk_polutar_00053": {
+  "t": " E-Eso no es cierto",
+  "shortened": true
+ },
+ "talk_polutar_00054": {
+  "t": "<FF03>Aun puedo salir ganando.<FFF5>  Uuuurrrrgh. Uuuurrrrgh. Uuuurrrrgh.<FFF5>Iep",
+  "shortened": true
+ },
+ "talk_polutar_00056": {
+  "t": "<FFF5>Ooooejejeje. Ooooejejeje. Ooooejejeje.<FFF5>Eres mago, senor? P-Podrias<FF03>ensenarme un truco o dos alguna vez",
+  "shortened": true
+ },
+ "talk_polutar_00058": {
+  "t": " Brujos dan miedo",
+  "shortened": true
+ },
+ "talk_polutar_00059": {
+  "t": "<FFF5>  Ooojejeje. Tus trucos son los mejores,<FF03>senor.<FF02><FF04>Eres tan bueno que el Sr! Loki te<FF03>tendria envidia! Ooojejejeje.<FFF5> Jiuk jiuk. No lo entiendo, pero<FF03>es una historia interesante!<FFF5> Jiuk jiuk. Las historias humanas son tan<FF03>interesantes",
+  "shortened": true
+ },
+ "talk_polutar_00060": {
+  "t": "<FF02><FF04>Oye, tienes ganas de darme<FF03>algo porque si, verdad?<FFF1><FFF5>  Uuuurrrrgh. Y que.? Te callas<FF03>de una vez.?<FFF5>   Uuuurrgh. No quiero oir una historia<FF03>asi. Quiero algo fisico.<FFF1><FFF5>   Iep",
+  "shortened": true
+ },
+ "talk_polutar_00062": {
+  "t": " Encontre la verdad",
+  "shortened": true
+ },
+ "talk_polutar_00063": {
+  "t": " Eso no tiene nada que ver<FF03>conmigo",
+  "shortened": true
+ },
+ "talk_polutar_00064": {
+  "t": "<FFF5>   Ooojejeje. Sabia que intentarias eso.<FF02><FF04>Todo <FFF0> tiene buen<FF03>sexto sentido!<FFF5> Ooojejeje. Los humanos dicen cosas chistosas.<FFF5> Jiuk jiuk. Notas lo fuerte<FF03>que soy.? Asombroso.<FFF5>  Quieres mi ayuda.? Que sorpresa",
+  "shortened": true
+ },
+ "talk_polutar_00065": {
+  "t": "<FF03>Dame algo a cambio de sorprenderme<FF03>asi!<FFF1><FFF5> Uuuurrgh. Soy un <FFF0>.<FF03>No puedo ayudar a humanos.<FFF5>   Uuuurrgh. Que aburrido. Deberias<FF03>darme algo.<FFF1><FFF5>  Iep",
+  "shortened": true
+ },
+ "talk_polutar_00066": {
+  "t": " E-Eso no tiene que ver<FF03>conmigo",
+  "shortened": true
+ },
+ "talk_polutar_00067": {
+  "t": " No quiero",
+  "shortened": true
+ },
+ "talk_polutar_00068": {
+  "t": "<FFF5>   Ooojejejeje. No lo entiendo, pero<FF03>es divertido igual.<FFF5>   Ooojejejeje. Es genial ser necesitado.<FFF5>  Jiuk jiuk. Tratas de hacerme<FF03>enojar?<FF02><FF04>Jiji",
+  "shortened": true
+ },
+ "talk_polutar_00069": {
+  "t": " Eres gracioso.<FFF5> Jiuk jiuk. No siento nada con<FF03>cosas asi!<FF02><FF04>Anda, haz otra cosa. Porfa?<FF03>Porfis?<FFF5>Uuuurrgh. No te burles de mi.<FFF5>   Uuuurrgh. Que aburrido. Tienes que<FF03>darme algo.<FFF1><FFF5>Iep",
+  "shortened": true
+ },
+ "talk_polutar_00070": {
+  "t": " Te diviertes con cosas<FF03>que no me gustan?<FFF5>  Iep",
+  "shortened": true
+ },
+ "talk_polutar_00071": {
+  "t": " El modo en que me tratas",
+  "shortened": true
+ },
+ "talk_polutar_00072": {
+  "t": "<FF03>Eres uno de esos humanos peligrosos?<FFF5>Ooojejejeje. No lo entiendo, pero<FF03>es divertido igual.<FFF5>   Ooojejejeje. Ya descubri lo que<FF03>tratas de hacer.<FF02><FF04>No voy a huir solo porque<FF03>hiciste eso, igual!<FFF5> Jiuk jiuk. Oye, puedes hacer otra cosa?<FFF5>  Jiuk jiuk. Bien, te dejo darme<FF03>algo!<FFF1><FFF5>   Uuuurrgh. Quee aburridooo",
+  "shortened": true
+ },
+ "talk_polutar_00073": {
+  "t": "<FFF5>   Uuuurrgh. Esto es tan aburrido, ojala<FF03>te mueras de una vez.<FF02><FF04>Pero primero, dame algo!<FFF1><FFF5>  Iep",
+  "shortened": true
+ },
+ "talk_polutar_00074": {
+  "t": " De que se trato eso",
+  "shortened": true
+ },
+ "talk_polutar_00075": {
+  "t": "<FF03>Tu cerebro sigue en tu cabeza?<FFF5>   Iep",
+  "shortened": true
+ },
+ "talk_polutar_00076": {
+  "t": " Eres uno de esos tipos<FF03>que esta",
+  "shortened": true
+ },
+ "talk_polutar_00077": {
+  "t": " mal de la cabeza?<FFF5>  Ooojejeje. Esto es taaan divertido.<FFF5>  Yaaaay. Esto es tan divertido.<FFF5>  Jiuk jiuk. Aww, que chido.<FF03>Que debo hacer!<FFF5>Que debo hacer",
+  "shortened": true
+ },
+ "talk_polutar_00078": {
+  "t": " Bien, entendi.<FF03>Escucha mi peticion.<FFF1><FFF5>Uuuurrgh. No me alteras tan facil.<FFF5>   Uuuurrgh. Soy avaro, sabes?<FF03>Bien avaro.<FFF1><FFF5> Iep",
+  "shortened": true
+ },
+ "talk_polutar_00079": {
+  "t": " Sudo un sudor distinto<FF03>al de costumbre",
+  "shortened": true
+ },
+ "talk_polutar_00080": {
+  "t": " Que es este sentir",
+  "shortened": true
+ },
+ "talk_polutar_00081": {
+  "t": "<FFF5> Ooojejejeje. Ahora si hablas.<FFF5>   Ooojejejeje. Estoy justo al borde de<FF03>ser seducido, eh.?<FFF5> Asi eees. De verdad sabes mucho<FF03>de mi.<FFF5>  Jiuk jiuk. Asi es! No crees<FF03>tu tambien?<FF02><FF04>Hmm",
+  "shortened": true
+ },
+ "talk_polutar_00082": {
+  "t": " Pues bien",
+  "shortened": true
+ },
+ "talk_polutar_00083": {
+  "t": " que tal si me<FF03>das un regalo.<FFF1><FFF5> Uuuurrgh. No lo dices en serio.<FFF5> Uuuurrgh. Entonces prueba que si.<FFF1><FFF5>   Iep",
+  "shortened": true
+ },
+ "talk_polutar_00084": {
+  "t": " Como sabes tanto<FF03>de mi",
+  "shortened": true
+ },
+ "talk_polutar_00085": {
+  "t": " Me preocupa que pasa despues si<FF03>me halagas tanto",
+  "shortened": true
+ },
+ "talk_polutar_00086": {
+  "t": "<FFF5>  Ooojejejeje. No estaba de tan buen<FF03>humor hace rato.<FFF5> Ooojejeje. Asi es. Soy asombroso.<FFF5>  Ohhh",
+  "shortened": true
+ },
+ "talk_polutar_00087": {
+  "t": " Ya tienes mi carta de hechizo.<FF03>Ooooejejejeeee.<FFF5> Soy Polter Poltoleon! Si ves este<FF03>mensaje, tu tambien diras <0028>ooojejejeje.<0028><FFEF>   Ehhh",
+  "shortened": true
+ },
+ "talk_polutar_00088": {
+  "t": " No eres mas debil que yo?<FF02><FF04>Jaja, eres tan patetico. No te doy<FF03>mi carta de hechizo.<FFEF>  Eh.? Anda, no seas tan cruel",
+  "shortened": true
+ },
+ "talk_polutar_00089": {
+  "t": "<FFEF>  Bien. Te dare esto.<FFEF>   Esto es para ti tambien!<FFEF>   Um, pues",
+  "shortened": true
+ },
+ "talk_polutar_00090": {
+  "t": " Supongo que te dare esto!<FFEF>Nos vemos. Ooooejejejeeee.<FFEF> Tengo que irme",
+  "shortened": true
+ },
+ "talk_polutar_00091": {
+  "t": " Un <FFF0><FF03>no tiene mucho tiempo libre.<FFEF>  Te dare esto si me perdonas",
+  "shortened": true
+ },
+ "talk_polutar_00092": {
+  "t": "<FFEF>Ya no quiero hablarte!<FF03>Adios.<FFEF>  Estas acabado! Te dare esto",
+  "shortened": true
+ },
+ "talk_polutar_00093": {
+  "t": "<FF03>Mejor despidamonos aqui!<FFEF> Si fuera a expresar como me siento<FF03>ahora, diria",
+  "shortened": true
+ },
+ "talk_polutar_00094": {
+  "t": " Uuuurrgh.<FF03>En serio.<FFEF> Me alegra conocerte",
+  "shortened": true
+ },
+ "talk_polutar_00095": {
+  "t": " O sea, cuida bien<FF03>mi carta.<FFEF> Ya me decidi. Voy tambien.<FF03>Pero eso no depende de mi, eh",
+  "shortened": true
+ },
+ "talk_polutar_00096": {
+  "t": "<FFEF> No me gusta pelear! Me canse de<FF03>que todos salgan heridos!<FFEF> En vez",
+  "shortened": true
+ },
+ "talk_polutar_00097": {
+  "t": " Te dare esto!<FFEF> Iep",
+  "shortened": true
+ },
+ "talk_polutar_00098": {
+  "t": " Te dare mi carta de hechizo.<FF03>Solo dejame ir, porfa",
+  "shortened": true
+ },
+ "talk_polutar_00099": {
+  "t": "<FFEF>  Jiuk jiuk. Humanos y nosotros somos<FF03>diferentes.<FFF5> Jiuk jiuk. Ahora tengo curiosidad.<FF03>Picas mi interes",
+  "shortened": true
+ },
+ "talk_polutar_00100": {
+  "t": "<FFF1><FFF5>  Uuuurrgh. Por que respondiste, senor.?<FF03>Ahora estoy molesto.<FFF5>   Uuuurrgh. Si quieres que me calme,<FF03>tienes que darme algo.<FFF1><FFF5>  Iep",
+  "shortened": true
+ },
+ "talk_polutar_00101": {
+  "t": " Llame a alguien y resulta<FF03>que es bien aterrador",
+  "shortened": true
+ },
+ "talk_polutar_00103": {
+  "t": " me van a golpear",
+  "shortened": true
+ },
+ "talk_polutar_00104": {
+  "t": " Noooo.<FF03>No quiero.<FFF5>  Iep",
+  "shortened": true
+ },
+ "talk_polutar_00105": {
+  "t": " D-Dejame aclararlo",
+  "shortened": true
+ },
+ "talk_polutar_00106": {
+  "t": "<FF02><FF04>N-No soy rico",
+  "shortened": true
+ },
+ "talk_polutar_00107": {
+  "t": " Y tampoco soy<FF03>crujiente en leche",
+  "shortened": true
+ },
+ "talk_polutar_00108": {
+  "t": "<FFF5> Ooojejejeje. Estoy muy feliz ahora.<FFF5>   Ooojejeje. Juguemos, senor. Si?<FFF5>   <FFEE>Uy-uy",
+  "shortened": true
+ },
+ "talk_polutar_00110": {
+  "t": " No quiero<FF03>tratar con ellos, pero tampoco tengo<FF03>ganas de huir!<FFF5>   <FFED>Por que los humanos son humanos.? No lo entiendo!<FF03>Y eso me molesta, asi que dame algo.<FFF1><FFF5>   <FFEC>Jiuk",
+  "shortened": true
+ },
+ "talk_polutar_00111": {
+  "t": " Para mi, es como<FF03>dicen",
+  "shortened": true
+ },
+ "talk_polutar_00112": {
+  "t": " curiosidad gana miedo",
+  "shortened": true
+ },
+ "talk_polutar_00113": {
+  "t": "<FFF5><FFEE>Senti que habia algo que me<FF03>atraia",
+  "shortened": true
+ },
+ "talk_polutar_00114": {
+  "t": " Pero supongo que andare<FF03>contigo un rato",
+  "shortened": true
+ },
+ "talk_polutar_00115": {
+  "t": "<FFF5><FFEE>Creo que esta noche por fin<FF03>me enamoro de los humanos.<FFF5>   <FFEB>Quiero muchos tipos de amigos! Hmm",
+  "shortened": true
+ },
+ "talk_polutar_00116": {
+  "t": "<FF03>Quizas humanos sean buenos",
+  "shortened": true
+ },
+ "talk_polutar_00117": {
+  "t": "<FFF5> <FFEC>Quien eres, senor",
+  "shortened": true
+ },
+ "talk_polutar_00118": {
+  "t": " Quien.? Quien<FF03>eres, rayos",
+  "shortened": true
+ },
+ "talk_polutar_00119": {
+  "t": " E-Eso dio miedo.<FF03>Pero no voy a huir.<FFF5>  <FFED>Ooojejeje. Jaja",
+  "shortened": true
+ },
+ "talk_polutar_00120": {
+  "t": " Por cierto, estoy bien<FF03>enojado ahora.<FFF5>  <FFEB>Que gran luna llena. Tienes que<FF03>darme algo.<FF02><FF04>Jijiji. Hay muchas cosas que<FF03>quiero",
+  "shortened": true
+ },
+ "talk_polutar_00121": {
+  "t": " Que deberia pedir?<FFF1><FFF5> <FFEB>Estoy temblando",
+  "shortened": true
+ },
+ "talk_polutar_00122": {
+  "t": " Es esto emocion.?<FFF5> <FFEC>Jiuk",
+  "shortened": true
+ },
+ "talk_polutar_00123": {
+  "t": " Los humanos son buenos, no?<FF02><FF04>No debo ponerme nervioso, no?<FFF5>   Jiuk jiuk. Los humanos son interesantes!<FF03>Que necesitas de mi?<FFEF>   Uuuurrgh. No me gusta esta<FF03>negociacion. Estoy bien enojado.<FFEF>Iep",
+  "shortened": true
+ },
+ "talk_polutar_00124": {
+  "t": " Por que haces eso",
+  "shortened": true
+ },
+ "talk_polutar_00126": {
+  "t": "<FFEF>Ooojejejeje. Ooojejeje. Eso fue MUY<FF03>divertido. Que feliz.<FFEF> O sea, quieres que haga<FF03>algo, no.?<FFEF> Jiuk",
+  "shortened": true
+ },
+ "talk_polutar_00127": {
+  "t": " q-que quieres<FF03>de mi",
+  "shortened": true
+ },
+ "talk_polutar_00128": {
+  "t": "<FFEF>Es lo mas divertido que he tenido. Hare<FF03>lo que quieras.<FFEF>Iep",
+  "shortened": true
+ },
+ "talk_polutar_00129": {
+  "t": " Ooojejeje. Jiuk jejeje.<FF03>Jiji",
+  "shortened": true
+ },
+ "talk_polutar_00130": {
+  "t": " jiuk jiuk jiuk",
+  "shortened": true
+ },
+ "talk_polutar_00131": {
+  "t": "<FFEF>A eso le llamas negociar.? No<FF03>me gustan los bobos! Jajaja",
+  "shortened": true
+ },
+ "talk_polutar_00132": {
+  "t": "<FFEF>   Jiuk",
+  "shortened": true
+ },
+ "talk_polutar_00133": {
+  "t": " Los humanos son asombrosos! No se<FF03>que decir! Jiji.<FFEF>Quiero dinero!<FF03><FFF8> yen estara bien!<FFEF>  Yaaaay.<FFF5>  Que.? No tienes. Grrrr.<FFF5>  Te voy a matar!<FFF5>Quiero una piedra de vida! Solo una",
+  "shortened": true
+ },
+ "talk_polutar_00134": {
+  "t": "<FFEF>   Yaaaay. Tengo una piedra de vida.<FF03>Hurra.<FFF5>   Eh.? No tienes.? Eres un gran<FF03>bobo, verdad? Tonto.<FFF5> No te burles de mi. Te lanzare platos.<FF03>Rompere ventanas.<FFF5>Se que seguro diras que no",
+  "shortened": true
+ },
+ "talk_polutar_00136": {
+  "t": "<FFEF> En serio.? Yaaaay.<FFF5>   Oh",
+  "shortened": true
+ },
+ "talk_polutar_00137": {
+  "t": " no tienes",
+  "shortened": true
+ },
+ "talk_polutar_00138": {
+  "t": " Ups.<FF03>Rayos, rompi una ventana en algun lado!<FFF5>   Tienes razon, es una pena",
+  "shortened": true
+ },
+ "talk_polutar_00139": {
+  "t": " Pero igual<FF03>te matare!<FFF5>La energia vital se ve chida",
+  "shortened": true
+ },
+ "talk_polutar_00140": {
+  "t": " Sabe<FF03>rico? Dejame probar.<FFEF>E-Esto se ve delicioso",
+  "shortened": true
+ },
+ "talk_polutar_00141": {
+  "t": "Hora de comer.<FFF5>Eh",
+  "shortened": true
+ },
+ "talk_polutar_00142": {
+  "t": " No necesito.? Oooohhhh,<FF03>me haces enojar mucho.<FFF5>   Que feliz. Aunque no tenga<FF03>orejas",
+  "shortened": true
+ },
+ "talk_polutar_00143": {
+  "t": " Ooojejejeje.<FFF5>No te burles de mi.<FFF5>  Ooojejejeje. Ooojejejeje.<FF03>Ooooooejejejejejeee.<FFF5>No te burles de mi.<FFF5>  Lo comprare.<FFF5>   Vaya. Tienes agallas.<FFF5>  No te burles de mi",
+  "shortened": true
+ },
+ "talk_polutar_00144": {
+  "t": "Al diablo.<FFF5>Q-Que",
+  "shortened": true
+ },
+ "talk_polutar_00145": {
+  "t": " Entonces que se<FF03>supone que haga?<FFF5> Que? <0028>Yaaay",
+  "shortened": true
+ },
+ "talk_polutar_00146": {
+  "t": " Solo puedes morirte<FF03>de una vez!<FFF5> Sip, soy yo! No lo entiendo, pero<FF03>suena bien.<FFF5>  D-De verdad",
+  "shortened": true
+ },
+ "talk_polutar_00147": {
+  "t": "<FFF5>   Eh.? C-Creo que mi corazon empieza<FF03>a latir.<FFF5>  Tortugas. Perros. Gatos. Eso es lo<FF03>que me gusta. Ups",
+  "shortened": true
+ },
+ "talk_polutar_00148": {
+  "t": " Como que babee!<FFF5> Ese lugar da m-m-miedo",
+  "shortened": true
+ },
+ "talk_polutar_00149": {
+  "t": " E-Es<FF03>lugar aterrador",
+  "shortened": true
+ },
+ "talk_polutar_00150": {
+  "t": "<FFF5> Que pasa con eso? Oye, mentiroso.<FF03>No hablas en piscina.<FFF5>Oh, rayos",
+  "shortened": true
+ },
+ "talk_polutar_00152": {
+  "t": "<FFF5>Que haces.? Me estaba divirtiendo<FF03>mucho con eso.<FFF5>   Ooojejejeje. Oooejejejejeee.<FF03>Ooooooejeeejeeejeeejeeeeeee.<FFF5>Sip. Tu y yo nos llevamos bien,<FF03>senor.<FFF5>Entonces por que me dijiste eso.?<FFF5>  QUE.? Odio a los britanicos.<FFF5>  Aww",
+  "shortened": true
+ },
+ "talk_polutar_00153": {
+  "t": "ese dedo es bien chido",
+  "shortened": true
+ },
+ "talk_polutar_00154": {
+  "t": "<FF02><FF04>No me dejan hacerlo",
+  "shortened": true
+ },
+ "talk_polutar_00155": {
+  "t": " pero<FF03>seria divertido si pudiera.<FFF5>  Eh.? En serio.? Anda, apura y dame.<FF03>Jiji. Esto sera genial.<FFF5>Aww, en serio",
+  "shortened": true
+ },
+ "talk_polutar_00156": {
+  "t": " Curioso ahora",
+  "shortened": true
+ },
+ "talk_polutar_00157": {
+  "t": " que podra ser?<FFF5>   Eh",
+  "shortened": true
+ },
+ "talk_polutar_00158": {
+  "t": " Decir esas cosas a un<FF03><FFF0>",
+  "shortened": true
+ },
+ "talk_polutar_00159": {
+  "t": " Eres de esos que<FF03>viven al limite?<FFF5> Grrrrrr. No te burles de los alemanes.<FFF5>Iep",
+  "shortened": true
+ },
+ "talk_polutar_00161": {
+  "t": " Que me ayuden",
+  "shortened": true
+ },
+ "talk_polutar_00162": {
+  "t": "<FFF5> No digas eso con cara tan seria.<FF03>Vaya, eres un humano vergonzoso.<FF03>Solo vete a morir!<FFF5>D-De verdad",
+  "shortened": true
+ },
+ "talk_polutar_00163": {
+  "t": "Humanos dan miedo",
+  "shortened": true
+ },
+ "talk_polutar_00164": {
+  "t": "<FFF5>   Eh? Carne molida? Salsa BBQ? De carne?<FF03>Carne carnosa? Oye, que tiene de<FF03>carnoso eso?<FFF5>  Sip! Lo hare. Lo estoy haciendo.<FFF5>   N-Ni modo",
+  "shortened": true
+ },
+ "talk_polutar_00165": {
+  "t": " Te gusta que te<FF03>golpeen",
+  "shortened": true
+ },
+ "talk_polutar_00166": {
+  "t": "<FFF5>Grrr. Odio cuando dicen eso.<FFF5> Ooojejejeje. No es chido.? El pulgar<FF03>no me funciona.<FFF5>Eh",
+  "shortened": true
+ },
+ "talk_polutar_00167": {
+  "t": " Que miras, senor?<FF03>Eres un pervertido",
+  "shortened": true
+ },
+ "talk_polutar_00168": {
+  "t": "<FFF5>  Nop.<FFF5>Ooojejejeje. Eso crei. No me puedes<FF03>enganar.<FFF5>  Yaaaay. Rompi ese plato.<FFF5>  <0028>Que mascara?<0028> No te burles de mi.<FFF5> Sip. Este sera un buen companero para mi!<FFF5> No te burles de mi. Vuelve a<FF03>America, senora.<FFF5>Quien es ese? No conozco a nadie<FF03>asi! Quien sera",
+  "shortened": true
+ },
+ "talk_polutar_00169": {
+  "t": " Si eres tan amable",
+  "shortened": true
+ },
+ "talk_polutar_00170": {
+  "t": "<FF03>Quizas estas tramando algo",
+  "shortened": true
+ },
+ "talk_polutar_00171": {
+  "t": "<FFF5> Eres como una mamita, senora",
+  "shortened": true
+ },
+ "talk_polutar_00172": {
+  "t": "<FFF5>   Ooojejejeje. Soy tan popular.<FFF5>   Eeeh? Que pasa con eso",
+  "shortened": true
+ },
+ "talk_polutar_00173": {
+  "t": " Mejor no<FF03>te hayas burlado de mi.<FFF5>Iep",
+  "shortened": true
+ },
+ "talk_polutar_00175": {
+  "t": " Mi pancita no se<FF03>siente muy bien ahora",
+  "shortened": true
+ },
+ "talk_polutar_00176": {
+  "t": "<FFF5>   Bien, lo olvidare!<FFF5>  Iep",
+  "shortened": true
+ },
+ "talk_polutar_00177": {
+  "t": " Eres una senora mala",
+  "shortened": true
+ },
+ "talk_polutar_00178": {
+  "t": "<FFF5>Ohhh, estabas bromeando! Uf.<FFF5>  Jiji. Estoy tan emocionado.<FFF5>Eh.? Por que? Por que no lo dices.?<FFF5>  Jaja, eso no es cierto. Creo<FF03>que seria divertido ir contigo, senora!<FFF5>Ni modo. Eso fue total asombroso.<FFF5>  Sabes, soy bueno saliendo<FF03>en fotos.<FFF5>Ya me harte",
+  "shortened": true
+ },
+ "talk_polutar_00179": {
+  "t": " Perdi la cabeza del todo.<FFF5>No te burles de mi. Vete a morir.<FFF5>   Jiuk jiuk. Tienes agallas, senor.<FFF5>   Eh",
+  "shortened": true
+ },
+ "talk_polutar_00180": {
+  "t": " Yo tambien.<FFF5>  Humanos tan pobres? No lo sabia",
+  "shortened": true
+ },
+ "talk_polutar_00181": {
+  "t": "<FFF5> Me pregunto si falle",
+  "shortened": true
+ },
+ "talk_polutar_00182": {
+  "t": " Si decia <0028>piedras<FF03>de vida,<0028> quizas tendria una",
+  "shortened": true
+ },
+ "talk_polutar_00183": {
+  "t": "<FFF5>Eh.? No tienes.? Whoa",
+  "shortened": true
+ },
+ "talk_polutar_00184": {
+  "t": "<FF03>Las piedras de vida son clave cuando<FF03>quieres negociar, sabes!<FFF5>   Me pregunto si falle",
+  "shortened": true
+ },
+ "talk_polutar_00185": {
+  "t": " Si decia <0028>dinero,<0028><FF03>quizas tendria algo",
+  "shortened": true
+ },
+ "talk_polutar_00186": {
+  "t": "<FFF5> No me sorprende",
+  "shortened": true
+ },
+ "talk_polutar_00187": {
+  "t": " son gemas<FF03>y eso",
+  "shortened": true
+ },
+ "talk_polutar_00188": {
+  "t": " Pero igual estoy algo<FF03>decepcionado!<FFF5>N-No dices que no me necesitas?<FF03>Eres malo",
+  "shortened": true
+ },
+ "talk_polutar_00189": {
+  "t": "<FFF5> Uuuurrgh. Urgh, urgh, uuuurrrrgggghhh.<FF02><FF04>Ooh, eso tuvo un ritmo chido",
+  "shortened": true
+ },
+ "talk_polutar_00190": {
+  "t": " Te dare<FF03>mi carta de hechizo.<FFEF>  ",
+  "shortened": true
+ },
+ "talk_polutar_00191": {
+  "t": "Oh, cierto. Te dare mi<FF03>carta de hechizo! Si haces una Persona<FF03>conmigo, podemos estar juntos.<FFEF>  ",
+  "shortened": true
+ },
+ "talk_polutar_00193": {
+  "t": "<FFF5> Quiero tu cuerpo.<FFF5>  Es Hong Kong!<FFF5>Es un barrio bajo!<FFF5>   Es Kuala Lumpur!<FFF5> Intenta apunalarme!<FFF5>   Basta.<FFF5>   Que deje de reir<FFF5>  Dejalo en paz<FFF5> Si, es genial!<FFF5>  No es tan genial!<FFF5> Da la senal de paz<FFF5>Saca el dedo<FFF5>  Luego, lo prometo!<FFF5>  No te toca nada!<FFF5> Eres un tonto!<FFF5> <0056>snort<0056><FFF5>Hmph. Cobarde.<FFF5>  Soy bueno!<FFF5>  Entonces paga!<FFF5>   Fue solo sarcasmo!<FFF5>   Alla voy.<FFF5> Tu turno, tonto.<FFF5>   No tengo nariz!<FFF5> No tengo ojos!<FFF5> No tengo ombligo!<FFF5>Creeme.<FFF5>Jaja, menti!<FFF5>  Historias de Mitsuya<FFF5>  Presagio<FFF5>   Hamah<FFF5>  AT<FFF5> Komiya<FFF5> Bien.<FFF5>  No.<FFF5>Asi es!<FFF5>  No es eso!<FFF5> Asi que porfa, ayudame.<FFF5>Sin problemas!<FFF5>Asi es!<FFF5>  Es broma!<FFF5>   Fuera de mi vista.<FFF5> Olvidalo",
+  "shortened": true
+ },
+ "talk_polutar_00194": {
+  "t": "<FFF5> Eso no es cierto!<FFF5>   ",
+  "shortened": true
+ },
+ "talk_polutar_00195": {
+  "t": "No lo hagas!<FFF5>Habla de camaras<FFF5> Sigue ignorando<FFF5>  Mira, luego ignora<FFF5>Fulmina e ignora<FFF5> Fulmina e ignora<FFF5> <9E00><A200>  <0180><0180><FFFF><FFFF><FFFF>",
+  "shortened": true
+ }
+}

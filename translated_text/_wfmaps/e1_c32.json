@@ -1,0 +1,90 @@
+{
+ "e1_01108": {
+  "t": "<FF02><FF01>  <0044> Parece que no hay nada aqui!<FF02><FF01> <0044> Persona de Yukino esta aqui!<FF02><FF01>   <0044> Recuperar Persona de Yukino?<FF02><FF0E> <FF01> <0044> El poder de Persona de Yukino<FF03>volvio",
+  "shortened": true
+ },
+ "e1_01109": {
+  "t": "<FF02><FF01>  <0044> Parece que no hay nada aqui!<FF02><FF01> <0044> Persona de Ayase esta aqui!<FF02><FF01><0044> Recuperar Persona de Ayase?<FF02><FF0E> <FF01>  <0044> El poder de Persona de Ayase<FF03>volvio",
+  "shortened": true
+ },
+ "e1_01110": {
+  "t": "<FF02><FF01>   <0044> Parece que no hay nada aqui!<FF02><FF01> <0044> Persona de Nanjo esta aqui!<FF02><FF01><0044> Recuperar Persona de Nanjo?<FF02><FF0E> <FF01>  <0044> El poder de Persona de Nanjo<FF03>volvio",
+  "shortened": true
+ },
+ "e1_01111": {
+  "t": "<FF02><FF01>   <0044> Parece que no hay nada aqui!<FF02><FF01> <0044> Persona de Brown esta aqui!<FF02><FF01><0044> Recuperar Persona de Brown?<FF02><FF0E> <FF01>  <0044> El poder de Persona de Brown<FF03>volvio",
+  "shortened": true
+ },
+ "e1_01112": {
+  "t": "<FF02><FF01>   <0044> Parece que no hay nada aqui!<FF02><FF01> <0044> Persona de Elly esta aqui!<FF02><FF01> <0044> Recuperar Persona de Elly?<FF02><FF0E> <FF01>   <0044> El poder de Persona de Elly<FF03>volvio",
+  "shortened": true
+ },
+ "e1_01113": {
+  "t": "<FF02><FF01><0044> Parece que no hay nada aqui!<FF02><FF01> <0044> Decides dejar la Persona<FF03>donde esta!<FF02><FF01><FF1B>Chica con camara<FF03>Oh, hola. Mucho gusto!<FF02><FF04><FF1B>Chica con camara<FF03>Soy Mariko Yabe de la Prepa Yamakumo,<FF03>Club de Vigilantes Paranormales.<FF02><FF04><FF1B>Mariko<FF03>Un gusto.<FF02><FF04><FF1B>Mariko<FF03>Es un club no oficial, y soy la<FF03>presidenta y unica miembro.<FF02><FF04><FF1B>Mariko<FF03>Mi maestro no reconoce mi club,<FF03>solo porque le parece tonto.<FF02><FF04><FF1B>Mariko<FF03>Vine a ver a Tsutomu, mi colega<FF03>devoto, pero",
+  "shortened": true
+ },
+ "e1_01115": {
+  "t": "<FF02><FF04><FF1B>Mariko<FF03>Esto es GENIAL. Que suerte ver<FF03>un evento paranormal asi.<FF02><FF04><FF1B>Mariko<FF03>Tome muchas fotos ya. Las enviare<FF03>a revistas nacionales.<FF02><FF04><FF1B>Mariko<FF03>Si los medios las validan, quiza<FF03>mi maestro reconozca mi club.<FF02><FF04><FF1B>Mariko<FF03>Alla voy.<FF02><FF01><2000> <9816> <5017> <F817> <8019> <881A> <301B> <401D> <781D> <B01D> <181E> <601E> <A01E> <E01E> <481F> <901F> <C81F> <0820> <7020> <B820> <F020> <3021> <9821> <E021> <1822> <5822> <C022> <0823> <4023> <8023> <E023> <2824> <8824>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <FFFF><1600><FFFF>",
+  "shortened": true
+ },
+ "e1_01136": {
+  "t": " <E801><FF26><6801><9015> <FF60> <FF67><0401><FF55> <F018> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <6819> <FF68> <FF61> <FF21>   <FF26><6801><D815> <FF60> <FF67><0501><FF55> <681A> <FF68> <FF61> <FF21>   <FF60> <FF67><0501><FF55> <C01A> <FF68> <FF61> <FF21>   <FF26><6801><2016> <FF60> <FF67><0301><FF55> <101B> <FF68> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <981B> <FF68> <FF61> <FF21>   <FF26><6801><6816> <FF60> <FF67><0601><FF55> <181C> <FF68> <FF61> <FF21>   <FF60> <FF67><0601><FF55> <201D> <FF68> <FF61> <FF21>   <FF26><6801><B016> <FF60> <FF67><0701><FF55> <981D> <FF68> <FF61> <FF21>   <FF60> <FF67><0701><FF55> <F01D> <FF68> <FF61> <FF21>   <FF26><6801><F016> <FF24><6801><FF60> <FF55> <4027> <FF61> <FF21> <FF26><5A01><C018> <FF60> <FF55> <781E> <FF67><0001><FF55> <9821> <FF54> <2817> <FF54>`<9018> <FF61> <FF21> <FF3E> <8813> <A818> <FF3F>`<8813> <FF68> <FF24><5A01><FF55> <E021> <FF26><AD00><6017> <FF24><AD00><FF22> <6818> <FF26><AE00><7817> <FF24><AE00><FF22> <6818>   <FF26><AF00><9017> <FF24><AF00><FF22> <6818>   <FF26><B000><A817> <FF24><B000><FF22> <6818>   <FF26><B100><C017> <FF24><B100><FF22> <6818>   <FF26><B200><D817> <FF24><B200><FF22> <6818>   <FF26><B300><F017> <FF24><B300><FF22> <6818>   <FF26><B400><0818> <FF24><B400><FF22> <6818>   <FF26><B500><2018> <FF24><B500><FF22> <6818>   <FF26><B600><3818> <FF24><B600><FF22> <6818>   <FF26><B700><5018> <FF24><B700><FF22> <6818>   <FF26><B800><6818> <FF24><B800><FF22> <6818>   <FF61> <FF2D>,<FF81><7D00><FF60> <FF55> <F022> <FF3C><6A00>` <FF61> <FF21> <FF68> <FF55> <3823> <FF61> <FF21>   <FF68> <FF55> <3024> <FF61> <FF21>   <FF60> <FF55> <B025> <FF61> <FF21>   <FF60> <FF55> <1027> <FF61> <FF21>   <FF1B>Yukino<FF03>Quien es esa chica con la camara al<FF03>cuello?<FF02><FF01>  <FF1B>Yukino<FF03>Esa Mariko es bien rara!<FF02><FF04><FF1B>Yukino<FF03>Igual Tsutomu! No entiendo a<FF03>estos del ocultismo!<FF02><FF01> <FF1B>Ayase<FF03>Esa chica da miedo! Total!<FF02><FF01> <FF1B>Ayase<FF03>Su uniforme rosa es lindo, no?<FF02><FF01>  <FF1B>Nanjo<FF03>Quien es esa chica? No parece<FF03>de nuestra escuela!<FF02><FF01><FF1B>Nanjo<FF03>That Mariko",
+  "shortened": true
+ },
+ "e1_01137": {
+  "t": " Sin duda disfruta<FF03>la situacion!<FF02><FF01><FF1B>Brown<FF03>Es el uniforme de la Prepa Yamakumo! Son<FF03>una escuela liberal!<FF02><FF04><FF1B>Brown<FF03>Y wow, es bien linda. Me pregunto quien<FF03>es",
+  "shortened": true
+ },
+ "e1_01138": {
+  "t": "<FF02><FF01><FF1B>Brown<FF03>Quiza deberia explorar esta torre<FF03>con Mariko",
+  "shortened": true
+ },
+ "e1_01139": {
+  "t": "<FF02><FF01>   <FF1B>Elly<FF03>Que hace esa chica aqui?<FF02><FF01>   <FF1B>Elly<FF03>Quiza sea mas peligro para si<FF03>misma que Tsutomu",
+  "shortened": true
+ },
+ "e1_01140": {
+  "t": "<FF02><FF01> <FF1B>Mariko<FF03>Huh? Quieren saber si habia algo<FF03>en ese cofre de alla?<FF02><FF04><FF1B>Mariko<FF03>Si, claro. Este trozo de espejo roto.<FF03>Siento fuerte energia espiritual en el!<FF02><FF04><FF1B>Mariko<FF03>Debe ser un objeto sobrenatural<FF03>poderoso!<FF02><FF04><FF1B>Mariko<FF03>Huh? Lo quieren",
+  "shortened": true
+ },
+ "e1_01142": {
+  "t": "<FF02><FF04><FF1B>Mariko<FF03>Que tal esto? Lo vendo por<FF03>5,000 yen.<FF02><FF04><FF1B>Mariko<FF03>Al fin yo lo halle primero",
+  "shortened": true
+ },
+ "e1_01143": {
+  "t": " No es<FF03>mal precio, o si?<FF02><FF01>   <0044> Comprarle el Mirror Shard?<FF02><FF0E> <FF01><FF1B>Mariko<FF03>Gracias.<FF02><FF04><FF1B>Mariko<FF03>He tomado rollo tras rollo de fotos<FF03>aqui, casi me quedo sin pelicula!<FF02><FF04><FF1B>Mariko<FF03>Ahora puedo comprar mas.<FF02><FF01>  <0044> Obtuviste un <FF19><0300><FF18><0500>Mirror Shard<FF18> !<FF02><FF01>  <FF1B>Mariko<FF03>Oh, no lo quieren?<FF02><FF04><FF1B>Mariko<FF03>Esta bien! Lo enviare al<FF03>Atlantis News para que lo tasen.<FF02><FF01>  <FF1B>Mariko<FF03>Huh? Ni tienen 5,000 yen?<FF03><0056>sigh<0056> Que triste.<FF02><FF04><FF1B>Mariko<FF03>Les dire algo, lo pueden pagar como<FF03>mi asistente!<FF02><FF04><FF1B>Mariko<FF03>Que? Ni hablar",
+  "shortened": true
+ },
+ "e1_01144": {
+  "t": "<FF02><FF04><FF1B>Mariko<FF03>Entonces suelta el dinero.<FF02><FF01>  <FF1B>Mariko<FF03>Que suerte la mia.<FF02><FF04><FF1B>Mariko<FF03>No todos los dias tomas fotos<FF03>del mas alla.<FF02><FF04><FF1B>Mariko<FF03>Las enviare al Fortean Times<FF03>en cuanto vuelva.<FF02><FF01><0044> El cofre esta vacio!<FF02><FF01> <FF1B>Chica con camara<FF03>Oh, hola. Mucho gusto!<FF02><FF04><FF1B>Chica con camara<FF03>Soy Mariko Yabe de la Prepa Yamakumo,<FF03>Club de Vigilantes Paranormales.<FF02><FF04><FF1B>Mariko<FF03>Un gusto.<FF02><FF04><FF1B>Mariko<FF03>Es un club no oficial, y soy la<FF03>presidenta y unica miembro.<FF02><FF04><FF1B>Mariko<FF03>Mi maestro no reconoce mi club,<FF03>solo porque le parece tonto.<FF02><FF04><FF1B>Mariko<FF03>Vine a ver a Tsutomu, mi colega<FF03>devoto, pero",
+  "shortened": true
+ },
+ "e1_01146": {
+  "t": "<FF02><FF04><FF1B>Mariko<FF03>Esto es GENIAL. Que suerte ver<FF03>un evento paranormal asi.<FF02><FF04><FF1B>Mariko<FF03>Tome muchas fotos ya. Las enviare<FF03>a revistas nacionales.<FF02><FF04><FF1B>Mariko<FF03>Si los medios las validan, quiza<FF03>mi maestro reconozca mi club.<FF02><FF04><FF1B>Mariko<FF03>Alla voy.<FF02><FF01><1300> <F018> <6819> <681A> <C01A> <101B> <981B> <181C> <201D> <981D> <F01D> <781E> <9821> <E021> <F022> <3823> <3024> <B025> <1027> <4027>                                                                                                                                                                                                                                                                                                                                                                                            <FFFF><1600><FFFF>",
+  "shortened": true
+ },
+ "e1_01172": {
+  "t": " <FF4D><1E00><FF6C><1000><FF73><0600><FF76><0601><FF4D><4000><FF74><0600><FF78><0600><FF4D><3C00><FF60> <FF67><3102><FF55> <D02A> <FF68> <FF67><0400><FF55> <D02D> <FF68> <FF61> <FF78> <FF4D><3C00><FF81><6500><FF6C><0F00><FF26><9100><0813> <FF80><FE00><FF28><1D00><FF21>   <FF26><9200><2013> <FF80><FE00><FF28><1D00><FF21>   <FF80><FE00><FF28><1E00><FF21>   <FF1B>Yukino<FF03>Parece que llegamos a la sala de Yuriko!<FF02><FF04><FF1B>Yukino<FF03>Pero no es lo que esperaba de<FF03>su actitud monisima",
+  "shortened": true
+ },
+ "e1_01173": {
+  "t": "<FF02><FF04><FF1B>Yukino<FF03>Oye, Yuriko. Sabes que estamos aqui, no?<FF03>Apurate y sal.<FF02><FF04><FF1B>Yukino<FF03>O tramas algo otra vez?<FF02><FF01>   <FF1B>Yuriko<FF03>Por Dios. No hace falta despertar a los<FF03>muertos. Las oigo bien.<FF02><FF04><FF1B>Yuriko<FF03>En fin",
+  "shortened": true
+ },
+ "e1_01174": {
+  "t": " Tienes una cara muy linda.<FF02><FF04><FF1B>Yuriko<FF03>Y si mueres aqui? Asi puedes<FF03>conservar tu aspecto por siempre.<FF02><FF04><FF1B>Yuriko<FF03>Si sigues viviendo, envejeceras<FF03>y acabaras arrugada y fea.<FF02><FF04><FF1B>Yuriko<FF03>Asi que vamos, por que no morir ahora, que<FF03>estas mas bella, como hice yo?<FF02><FF04><FF1B>Yuriko<FF03>Asi viviriamos juntas en esta torre,<FF03>luciendo hermosas.<FF02><FF04><FF1B>Yuriko<FF03>No suena genial? Vamos, deberiamos<FF03>de verdad.<FF02><FF04><FF1B>Yuriko<FF03>Sera tan divertido.<FF02><FF04><FF1B>Yuriko<FF03>Que bueno que vine a esta torre,<FF03>como dijo la mascara de la Snow Queen.<FF02><FF04><FF1B>Yuriko<FF03>Seguire joven y bonita por siempre<FF03>jamas.<FF02><FF04><FF1B>Yuriko<FF03>Pero me aburria un poco, aqui<FF03>solita!<FF02><FF04><FF1B>Yuriko<FF03>Y no quiero pelear con ustedes, asi que",
+  "shortened": true
+ },
+ "e1_01175": {
+  "t": "<FF03>Que dicen?<FF02><FF01>  <FF1B>Nanjo<FF03>Entiendes la esencia de lo que<FF03>dices?<FF02><FF04><FF1B>Nanjo<FF03>Lo que obtuviste con la muerte y el<FF03>poder de la mascara",
+  "shortened": true
+ },
+ "e1_01176": {
+  "t": "<FF02><FF04><FF1B>Nanjo<FF03>Es solo el fin de tu existencia,<FF03>el mundo real sin ti",
+  "shortened": true
+ },
+ "e1_01177": {
+  "t": "<FF02><FF04><FF1B>Nanjo<FF03>Soledad absoluta y sin fin dentro<FF03>de esta torre!<FF02><FF04><FF1B>Nanjo<FF03>Esta no es la belleza eterna que<FF03>deseabas.<FF02><FF01><FF1B>Brown<FF03>Huh? Yuriko",
+  "shortened": true
+ }
+}

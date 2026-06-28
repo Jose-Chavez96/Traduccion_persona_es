@@ -1,0 +1,946 @@
+{
+ "e0_00053": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00056": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00066": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00137": {
+  "t": "<FF02><FF03>O si el repartidor se pasa, ganas!<FF02><FF04>Si tu y el repartidor empatan, o si ambos<FF03>tienen blackjack, es empate,<FF03>y tu apuesta se devuelve!<FF02><FF04>Aparte de Pedir y Plantarse, puedes<FF03>tambien Doblar o Dividir!<FF02><FF04> <0043>Doblar<0044> <FF02><FF04>Solo es opcion mientras aun<FF03>tengas dos cartas en mano!<FF02><FF04>Puedes doblar tu apuesta con la<FF03>condicion de Pedir solo una vez!<FF02><FF04>No estara disponible si tienes<FF03>menos fichas que la apuesta!<FF02><FF04>Si Doblas y vences al repartidor,<FF03>tus ganancias se duplican!<FF02><FF04><0043>Dividir<0044><FF02><FF04>Puedes Dividir si tus dos cartas<FF03>iniciales son del mismo valor!<FF02><FF04>Tu mano se divide, con una segunda<FF03>apuesta cubriendo la otra mano!<FF02><FF04>No estara disponible si tienes<FF03>menos fichas que la apuesta!<FF02><FF04>Aun tras Dividir, puedes Doblar<FF03>en una o ambas manos!<FF02><FF04>Pero, si divides, aun con una<FF03>combinacion de A con 10 a K",
+  "shortened": true
+ },
+ "e0_00171": {
+  "t": " No shon<FF03>demonioh",
+  "shortened": true
+ },
+ "e0_00172": {
+  "t": "<FF02><FF04><FF1B>Alegre<FF03>Quee laastimaa",
+  "shortened": true
+ },
+ "e0_00177": {
+  "t": "<FF02><FF03>O si el repartidor se pasa, ganas!<FF02><FF04>Si tu y el repartidor empatan, o si ambos<FF03>tienen blackjack, es empate,<FF03>y tu apuesta se devuelve!<FF02><FF04>Aparte de Pedir y Plantarse, puedes<FF03>tambien Doblar o Dividir!<FF02><FF04> <0043>Doblar<0044> <FF02><FF04>Solo es opcion mientras aun<FF03>tengas dos cartas en mano!<FF02><FF04>Puedes doblar tu apuesta con la<FF03>condicion de Pedir solo una vez!<FF02><FF04>No estara disponible si tienes<FF03>menos fichas que la apuesta!<FF02><FF04>Si Doblas y vences al repartidor,<FF03>tus ganancias se duplican!<FF02><FF04><0043>Dividir<0044><FF02><FF04>Puedes Dividir si tus dos cartas<FF03>iniciales son del mismo valor!<FF02><FF04>Tu mano se divide, con una segunda<FF03>apuesta cubriendo la otra mano!<FF02><FF04>No estara disponible si tienes<FF03>menos fichas que la apuesta!<FF02><FF04>Aun tras Dividir, puedes Doblar<FF03>en una o ambas manos!<FF02><FF04>Pero, si divides, aun con una<FF03>combinacion de A con 10 a K",
+  "shortened": true
+ },
+ "e0_00178": {
+  "t": "<FF02><FF04>Contara como 21 sin ser<FF03>considerado blackjack!<FF02><FF04><FF03><0039>Sobre el seguro<003A><FF02><FF04>Una apuesta de seguro es lo que suena",
+  "shortened": true
+ },
+ "e0_00179": {
+  "t": "<FF02><FF03>Solo se coloca si la primera carta<FF03>del repartidor es un as!<FF02><FF04>Elige Si para apostar seguro,<FF03>y No para rechazar!<FF02><FF04>Si eliges No, el juego sigue<FF03>normal!<FF02><FF04>Si eliges Si, primero debes<FF03>pagar la mitad de tu apuesta como seguro!<FF02><FF04>Si la segunda carta del repartidor es 10<FF03>a K, formando blackjack",
+  "shortened": true
+ },
+ "e0_00180": {
+  "t": "<FF02><FF04>La apuesta inicial se pierde!<FF03>Pero",
+  "shortened": true
+ },
+ "e0_00181": {
+  "t": "<FF02><FF04>El seguro paga a<FF03>3 por 1, y el juego termina!<FF02><FF04>Si la carta del repartidor es A a 9,<FF03>el seguro se pierde y el juego<FF03>sigue normal!<FF02><FF04>Como se usan 4 mazos en este<FF03>juego, hay chance de que dos o mas<FF03>cartas iguales salgan!<FF02><FF01>  <0039><003E> boton<003A> <FF02><FF04><0043>Antes de empezar<0044><FF03>Anade una ficha!<FF02><FF04><0043>Durante el juego<0044><FF03>Pide para sacar carta!<FF02><FF04> <0039><005B> boton<003A> <FF02><FF04><0043>Antes de empezar<0044><FF03>Quita una ficha!<FF02><FF04><0043>Durante el juego<0044><FF03>Plantate para terminar tu turno!<FF02><FF04> <0039><0062> boton<003A> <FF02><FF04><0043>Antes de empezar<0044><FF03>Apuesta el maximo posible!<FF02><FF04><0043>Durante el juego<0044><FF03>Dobla!<FF02><FF04> <0039><0060> boton<003A> <FF02><FF04><0043>Antes de empezar<0044><FF03>No se usa!<FF02><FF04><0043>Durante el juego<0044><FF03>Divide cuando sea posible!<FF02><FF04> <0039>boton R<003A> <FF02><FF04><0043>Antes de empezar<0044><FF03>Inicia el juego si hay apuesta!<FF02><FF04><0043>Durante el juego<0044><FF03>No se usa!<FF02><FF04> <0039>boton L<003A> <FF02><FF04><0043>Antes de empezar<0044><FF03>Termina el juego!<FF02><FF04><0043>Durante el juego<0044><FF03>No se usa!<FF02><FF04> <0039>Botones direccionales<003A> <FF02><FF04><0043>Antes de empezar<0044><FF03>No se usa!<FF02><FF04><0043>Durante el juego<0044><FF03>No se usa!<FF02><FF01> Ganar el juego<0006><FF03>Si tu mano es mayor que la del repartidor<FF03>sin pasar de 21",
+  "shortened": true
+ },
+ "e0_00182": {
+  "t": "<FF02><FF04>O si el repartidor se pasa, ganas!<FF02><FF04>Blackjack<0006><FF03>Un A con una segunda carta de<FF03>10 a K! <0029>Plantado automatico!<002A><FF02><FF04>Si elegiste Dividir, esto no<FF03>cuenta como blackjack sino como 21!<FF02><FF04>6 Cartas<0006><FF03>Si te plantas con seis<FF03>cartas sin pasar de 21!<FF02><FF04>7 Cartas<0006><FF03>Si sacas siete cartas sin<FF03>pasar de 21! <0029>Plantado automatico!<002A><FF02><FF04>",
+  "shortened": true
+ },
+ "e0_00357": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00395": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00398": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00421": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00540": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00543": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00546": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00803": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00806": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00809": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00812": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_00815": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01023": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01026": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01029": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01032": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01035": {
+  "t": "<FF21> <FF1B>Trish<FF03>Hola. Soy Trish y esta es mi fuente<FF03>de sanacion.<FF02><FF04><FF1B>Trish<FF03>El mundo va de dar y recibir. Dame<FF03>dinero y te quito el dolor.<FF02><FF01><FF1B>Trish<FF03>Que dices?<FF02><FF0E><1100><FF01> <FF1B>Trish<FF03>Bien.<FF02><FF01>  <FF1B>Trish<FF03>Um, con la tarifa actual de sanacion",
+  "shortened": true
+ },
+ "e0_01036": {
+  "t": "<FF03>Y todos ustedes juntos",
+  "shortened": true
+ },
+ "e0_01038": {
+  "t": " Con eso basta.<FF03>Estan listos.<FF02><FF01><FF1B>Trish<FF03>Algo mas?<FF02><FF0E> <FF01><FF1B>Trish<FF03>No te alcanza.? Bah.<FF03>Nada odio mas que a los pobres.<FF02><FF04><FF1B>Trish<FF03>Vuelve con la cartera mas llena!<FF03>Adios.<FF02><FF01><FF1B>Trish<FF03>Bah. Sucio vagabundo.<FF03>No me culpes si acabas muerto.<FF02><FF01> <FF1B>Trish<FF03>Bueno, vuelve! Te espero.<FF03>Adios.<FF02><FF01><FF1B>Trish<FF03>Me llamaste sin razon.?<FF03>Bah. Largate de aqui.<FF02><FF01><0B00> <081E> <281F> <601F> <801F> <2020> <8820> <F020> <A021> <B822> <5823> <C023>                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <FFFF><1600><FFFF>",
+  "shortened": true
+ },
+ "e0_01040": {
+  "t": "<FF21> <FF1B>Agastya Tree<FF03>Jovenes",
+  "shortened": true
+ },
+ "e0_01041": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01051": {
+  "t": " Es un placer<FF03>conocerte!<FF02><FF04><FF1B>Igor<FF03>Este lugar existe entre el sueno y<FF03>la realidad, mente y materia",
+  "shortened": true
+ },
+ "e0_01052": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Hace tiempo que no<FF03>teniamos un invitado!<FF02><FF04><FF1B>Igor<FF03>Solo quienes atan un<FF03><0028>contrato<0028> pueden entrar",
+  "shortened": true
+ },
+ "e0_01053": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>De hoy en adelante, seras nuestro<FF03>invitado en esta Velvet Room!<FF02><FF04><FF1B>Igor<FF03>Tu destino exigira que afines<FF03>tu poder",
+  "shortened": true
+ },
+ "e0_01054": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Y para eso, inevitablemente<FF03>requeriras nuestra ayuda!<FF02><FF04><FF1B>Igor<FF03>La Velvet Room es el<FF03>cuarto de las Personas!<FF02><FF04><FF1B>Igor<FF03>Una Persona es un lado de ti que<FF03>surge al enfrentar el mundo",
+  "shortened": true
+ },
+ "e0_01055": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Es una fachada de proteccion<FF03>que vistes ante las penurias!<FF02><FF04><FF1B>Igor<FF03>Hm",
+  "shortened": true
+ },
+ "e0_01056": {
+  "t": " Quizas eso fue algo<FF03>dificil de entender",
+  "shortened": true
+ },
+ "e0_01057": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Para luchar rivales que no pueden<FF03>vencerse con fuerza humana",
+  "shortened": true
+ },
+ "e0_01058": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Aqui te prestaremos<FF03>poder inhumano",
+  "shortened": true
+ },
+ "e0_01060": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Ahora! Permite que explique mi rol<FF03>aqui",
+  "shortened": true
+ },
+ "e0_01061": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Te asistire en dar a luz a<FF03>nuevas Personas!<FF02><FF04><FF1B>Igor<FF03>Los demonios contenidos en las <FF18><0700>cartas<FF03>de hechizo<FF18>  que tienes se fusionaran en uno",
+  "shortened": true
+ },
+ "e0_01062": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Asi creando una nueva Persona!<FF02><FF04><FF1B>Igor<FF03>Si te hallas con estas<FF03>cartas, por favor traelas aqui!<FF02><FF01>  <FF1B>Igor<FF03>Bienvenido a la Velvet Room",
+  "shortened": true
+ },
+ "e0_01063": {
+  "t": "<FF02><FF01>   <FF1B>Igor<FF03>Que es lo que deseas?<FF02><FF0E><0C00><FF01><FF1B>Igor<FF03>Bueno, que te gustaria<FF03>saber?<FF02><FF0E><1700><FF01>   <FF1B>Igor<FF03>Me temo que no tienes suficientes <FF18><0700>cartas<FF03>de hechizo<FF18>  para dar a luz una nueva Persona!<FF02><FF01><FF1B>Igor<FF03>Ay, no podemos cuidar mas<FF03>Personas!<FF02><FF01>   <FF1B>Igor<FF03>Que te gustaria hacer?<FF02><FF0E><1500><FF01><FF1B>Igor<FF03>Bueno",
+  "shortened": true
+ },
+ "e0_01065": {
+  "t": "<FF02><FF01><FF1B>Igor<FF03>Si quieres nuevas Personas, las fusionare<FF03>y creare para ti!<FF02><FF04><FF1B>Igor<FF03>Primero, debo invocar demonios para<FF03>fusionarlos en una Persona!<FF02><FF04><FF1B>Igor<FF03>Y para eso, cierto tipo de carta<FF03>es necesario!<FF02><FF04><FF1B>Igor<FF03>Veras, estas cartas estan inscritas con<FF03>hechizos de invocacion de demonios!<FF02><FF04><FF1B>Igor<FF03>Se conocen como cartas de hechizo, y todos<FF03>los demonios cargan una!<FF02><FF04><FF1B>Igor<FF03>Asi, para realizar una fusion, necesitare<FF03>que juntes cartas de hechizo!<FF02><FF04><FF1B>Igor<FF03>Ve, negocia con demonios,<FF03>y trae estas cartas de hechizo aqui!<FF02><FF04><FF1B>Igor<FF03>El combate no es el unico modo de lidiar<FF03>con demonios",
+  "shortened": true
+ },
+ "e0_01066": {
+  "t": " Entiendes?<FF02><FF04><FF1B>Igor<FF03>Y no todos los demonios necesariamente<FF03>desean pelear",
+  "shortened": true
+ },
+ "e0_01067": {
+  "t": "<FF02><FF01> <FF1B>Igor<FF03>No basta solo con fusionar una nueva<FF03>Persona para hacerla tuya",
+  "shortened": true
+ },
+ "e0_01068": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Hay algo mas que eso,<FF03>me temo!<FF02><FF04><FF1B>Igor<FF03>Debes tomar una Persona sobre ti<FF03>para usar su poder!<FF02><FF04><FF1B>Igor<FF03>Cada uno de ustedes puede portar hasta<FF03>tres Personas!<FF02><FF04><FF1B>Igor<FF03>Una Persona recien fusionada quedara<FF03>a mi cuidado!<FF02><FF04><FF1B>Igor<FF03>Avisame cuando quieras<FF03>tomar nuevas Personas!<FF02><FF04><FF1B>Igor<FF03>Pero solo puedo cuidar 16 Personas<FF03>a la vez, eso si!<FF02><FF04><FF1B>Igor<FF03>Hay tantas Personas como hay<FF03>personalidades",
+  "shortened": true
+ },
+ "e0_01069": {
+  "t": " una variedad infinita!<FF02><FF04><FF1B>Igor<FF03>Cada una tiene su forma y sustancia,<FF03>a usar segun la situacion!<FF02><FF04><FF1B>Igor<FF03>Si dominas ese principio,<FF03>seras un fino usuario de Persona!<FF02><FF01><FF1B>Igor<FF03>Cada uno puede tomar hasta<FF03>tres Personas a la vez!<FF02><FF04><FF1B>Igor<FF03>De las tres, solo una puede invocarse<FF03>activamente en batalla!<FF02><FF04><FF1B>Igor<FF03>Invocar una Persona es convocarla<FF03>en combate!<FF02><FF04><FF1B>Igor<FF03>Las otras dos quedaran en<FF03>reserva",
+  "shortened": true
+ },
+ "e0_01070": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Listas para asumirse en cualquier momento<FF03>de la batalla!<FF02><FF04><FF1B>Igor<FF03>Distintas Personas activas te daran<FF03>distintas habilidades!<FF02><FF04><FF1B>Igor<FF03>Sin el poder de Persona, no eres<FF03>distinto de un humano comun",
+  "shortened": true
+ },
+ "e0_01071": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Seras impotente ante el arcano<FF03>poder de los hechizos demoniacos!<FF02><FF04><FF1B>Igor<FF03>Si por casualidad te golpea un hechizo en<FF03>ese estado, serias derribado!<FF02><FF04><FF1B>Igor<FF03>Pero al tomar una Persona, tu defensa<FF03>contra hechizos mejora bastante!<FF02><FF04><FF1B>Igor<FF03>Para algunos, puede dar fuerza,<FF03>o subir la suerte de otros!<FF02><FF04><FF1B>Igor<FF03>Esto, tambien, es el poder de Persona!<FF02><FF04><FF1B>Igor<FF03>Aunque se llaman Personas, cada una<FF03>es un lado oculto de ti!<FF02><FF04><FF1B>Igor<FF03>Sugiero que examines tu estado<FF03>con cuidado tras asumir una!<FF02><FF04><FF1B>Igor<FF03>Asi, podras ver cuales de tus<FF03>cualidades cambiaron!<FF02><FF04><FF1B>Igor<FF03>Al inicio, no podras aprovechar<FF03>los poderes de tu Persona al maximo!<FF02><FF04><FF1B>Igor<FF03>Pero mientras mas invoques una Persona,<FF03>mas poderes te dara!<FF02><FF04><FF1B>Igor<FF03>Al aprender tu Persona nuevas destrezas,<FF03>tendras mas opciones en batalla!<FF02><FF04><FF1B>Igor<FF03>Aunque tu Persona aprenda una destreza<FF03>potente, el SP que pide queda constante!<FF02><FF04><FF1B>Igor<FF03>Creceras en combate, pero no<FF03>olvides que tus Personas crecen tambien!<FF02><FF01><FF1B>Igor<FF03>Perdon por ser entrometido, pero",
+  "shortened": true
+ },
+ "e0_01072": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Las Personas tienen ocho niveles de crecimiento!<FF03>Deberias desarrollarlas del todo!<FF02><FF04><FF1B>Igor<FF03>Seguro habra una amplia<FF03>recompensa por hacerlo",
+  "shortened": true
+ },
+ "e0_01073": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Tambien te interesara saber<FF03>de varios factores en la fusion!<FF02><FF04><FF1B>Igor<FF03>Por ejemplo, aun al crear la<FF03>misma Persona",
+  "shortened": true
+ },
+ "e0_01074": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>La combinacion de cartas, las<FF03>afinidades de los demonios",
+  "shortened": true
+ },
+ "e0_01075": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>La posicion de Terra y Luna, y la<FF03>esencia anadida a la mezcla",
+  "shortened": true
+ },
+ "e0_01076": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Todo esto influye en la Persona<FF03>resultante! Y una cosa mas",
+  "shortened": true
+ },
+ "e0_01077": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Tambien puedes anadir un objeto a la<FF03>fusion para activar un cambio!<FF02><FF04><FF1B>Igor<FF03>Hay objetos cuyo<FF03>resultado es facil de predecir",
+  "shortened": true
+ },
+ "e0_01078": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Pero a veces, ni yo podre<FF03>adivinar lo que pueda pasar!<FF02><FF04><FF1B>Igor<FF03>Si eso ocurre, espero que<FF03>me perdones!<FF02><FF04><FF1B>Igor<FF03>Pero no te enganes, de verdad creo<FF03>que vale la pena intentar",
+  "shortened": true
+ },
+ "e0_01079": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Sugiero gemas para una fusion de rango<FF03>mayor o menor dentro de un orden!<FF02><FF04><FF1B>Igor<FF03>En cuanto a los otros objetos, debes<FF03>experimentar por tu cuenta!<FF02><FF01><0C00> <4052> <005C> <505C> <905C> <F85C> <A85D> <185E> <605E> <A05E> <B063> <5869> <9874>                                                                                                                                                                                                                                                                                                                                                                                     <FFFF><1A00><FFFF>",
+  "shortened": true
+ },
+ "e0_01089": {
+  "t": " Es un placer<FF03>conocerte!<FF02><FF04><FF1B>Igor<FF03>Este lugar existe entre el sueno y<FF03>la realidad, mente y materia",
+  "shortened": true
+ },
+ "e0_01090": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Hace tiempo que no<FF03>teniamos un invitado!<FF02><FF04><FF1B>Igor<FF03>Solo quienes atan un<FF03><0028>contrato<0028> pueden entrar",
+  "shortened": true
+ },
+ "e0_01091": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>De hoy en adelante, seras nuestro<FF03>invitado en esta Velvet Room!<FF02><FF04><FF1B>Igor<FF03>Tu destino exigira que afines<FF03>tu poder",
+  "shortened": true
+ },
+ "e0_01092": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Y para eso, inevitablemente<FF03>requeriras nuestra ayuda!<FF02><FF04><FF1B>Igor<FF03>La Velvet Room es el<FF03>cuarto de las Personas!<FF02><FF04><FF1B>Igor<FF03>Una Persona es un lado de ti que<FF03>surge al enfrentar el mundo",
+  "shortened": true
+ },
+ "e0_01093": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Es una fachada de proteccion<FF03>que vistes ante las penurias!<FF02><FF04><FF1B>Igor<FF03>Hm",
+  "shortened": true
+ },
+ "e0_01094": {
+  "t": " Quizas eso fue algo<FF03>dificil de entender",
+  "shortened": true
+ },
+ "e0_01095": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Para luchar rivales que no pueden<FF03>vencerse con fuerza humana",
+  "shortened": true
+ },
+ "e0_01096": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Aqui te prestaremos<FF03>poder inhumano",
+  "shortened": true
+ },
+ "e0_01098": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Ahora! Permite que explique mi rol<FF03>aqui",
+  "shortened": true
+ },
+ "e0_01099": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Te asistire en dar a luz a<FF03>nuevas Personas!<FF02><FF04><FF1B>Igor<FF03>Los demonios contenidos en las <FF18><0700>cartas<FF03>de hechizo<FF18>  que tienes se fusionaran en uno",
+  "shortened": true
+ },
+ "e0_01100": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Asi creando una nueva Persona!<FF02><FF04><FF1B>Igor<FF03>Si te hallas con estas<FF03>cartas, por favor traelas aqui!<FF02><FF01>  <FF1B>Igor<FF03>Bienvenido a la Velvet Room",
+  "shortened": true
+ },
+ "e0_01101": {
+  "t": "<FF02><FF01>   <FF1B>Igor<FF03>Que es lo que deseas?<FF02><FF0E><0C00><FF01><FF1B>Igor<FF03>Bueno, que te gustaria<FF03>saber?<FF02><FF0E><1700><FF01>   <FF1B>Igor<FF03>Me temo que no tienes suficientes <FF18><0700>cartas<FF03>de hechizo<FF18>  para dar a luz una nueva Persona!<FF02><FF01><FF1B>Igor<FF03>Ay, no podemos cuidar mas<FF03>Personas!<FF02><FF01>   <FF1B>Igor<FF03>Que te gustaria hacer?<FF02><FF0E><1500><FF01><FF1B>Igor<FF03>Bueno",
+  "shortened": true
+ },
+ "e0_01103": {
+  "t": "<FF02><FF01><FF1B>Igor<FF03>Si quieres nuevas Personas, las fusionare<FF03>y creare para ti!<FF02><FF04><FF1B>Igor<FF03>Primero, debo invocar demonios para<FF03>fusionarlos en una Persona!<FF02><FF04><FF1B>Igor<FF03>Y para eso, cierto tipo de carta<FF03>es necesario!<FF02><FF04><FF1B>Igor<FF03>Veras, estas cartas estan inscritas con<FF03>hechizos de invocacion de demonios!<FF02><FF04><FF1B>Igor<FF03>Se conocen como cartas de hechizo, y todos<FF03>los demonios cargan una!<FF02><FF04><FF1B>Igor<FF03>Asi, para realizar una fusion, necesitare<FF03>que juntes cartas de hechizo!<FF02><FF04><FF1B>Igor<FF03>Ve, negocia con demonios,<FF03>y trae estas cartas de hechizo aqui!<FF02><FF04><FF1B>Igor<FF03>El combate no es el unico modo de lidiar<FF03>con demonios",
+  "shortened": true
+ },
+ "e0_01104": {
+  "t": " Entiendes?<FF02><FF04><FF1B>Igor<FF03>Y no todos los demonios necesariamente<FF03>desean pelear",
+  "shortened": true
+ },
+ "e0_01105": {
+  "t": "<FF02><FF01> <FF1B>Igor<FF03>No basta solo con fusionar una nueva<FF03>Persona para hacerla tuya",
+  "shortened": true
+ },
+ "e0_01106": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Hay algo mas que eso,<FF03>me temo!<FF02><FF04><FF1B>Igor<FF03>Debes tomar una Persona sobre ti<FF03>para usar su poder!<FF02><FF04><FF1B>Igor<FF03>Cada uno de ustedes puede portar hasta<FF03>tres Personas!<FF02><FF04><FF1B>Igor<FF03>Una Persona recien fusionada quedara<FF03>a mi cuidado!<FF02><FF04><FF1B>Igor<FF03>Avisame cuando quieras<FF03>tomar nuevas Personas!<FF02><FF04><FF1B>Igor<FF03>Pero solo puedo cuidar 16 Personas<FF03>a la vez, eso si!<FF02><FF04><FF1B>Igor<FF03>Hay tantas Personas como hay<FF03>personalidades",
+  "shortened": true
+ },
+ "e0_01107": {
+  "t": " una variedad infinita!<FF02><FF04><FF1B>Igor<FF03>Cada una tiene su forma y sustancia,<FF03>a usar segun la situacion!<FF02><FF04><FF1B>Igor<FF03>Si dominas ese principio,<FF03>seras un fino usuario de Persona!<FF02><FF01><FF1B>Igor<FF03>Cada uno puede tomar hasta<FF03>tres Personas a la vez!<FF02><FF04><FF1B>Igor<FF03>De las tres, solo una puede invocarse<FF03>activamente en batalla!<FF02><FF04><FF1B>Igor<FF03>Invocar una Persona es convocarla<FF03>en combate!<FF02><FF04><FF1B>Igor<FF03>Las otras dos quedaran en<FF03>reserva",
+  "shortened": true
+ },
+ "e0_01108": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Listas para asumirse en cualquier momento<FF03>de la batalla!<FF02><FF04><FF1B>Igor<FF03>Distintas Personas activas te daran<FF03>distintas habilidades!<FF02><FF04><FF1B>Igor<FF03>Sin el poder de Persona, no eres<FF03>distinto de un humano comun",
+  "shortened": true
+ },
+ "e0_01109": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Seras impotente ante el arcano<FF03>poder de los hechizos demoniacos!<FF02><FF04><FF1B>Igor<FF03>Si por casualidad te golpea un hechizo en<FF03>ese estado, serias derribado!<FF02><FF04><FF1B>Igor<FF03>Pero al tomar una Persona, tu defensa<FF03>contra hechizos mejora bastante!<FF02><FF04><FF1B>Igor<FF03>Para algunos, puede dar fuerza,<FF03>o subir la suerte de otros!<FF02><FF04><FF1B>Igor<FF03>Esto, tambien, es el poder de Persona!<FF02><FF04><FF1B>Igor<FF03>Aunque se llaman Personas, cada una<FF03>es un lado oculto de ti!<FF02><FF04><FF1B>Igor<FF03>Sugiero que examines tu estado<FF03>con cuidado tras asumir una!<FF02><FF04><FF1B>Igor<FF03>Asi, podras ver cuales de tus<FF03>cualidades cambiaron!<FF02><FF04><FF1B>Igor<FF03>Al inicio, no podras aprovechar<FF03>los poderes de tu Persona al maximo!<FF02><FF04><FF1B>Igor<FF03>Pero mientras mas invoques una Persona,<FF03>mas poderes te dara!<FF02><FF04><FF1B>Igor<FF03>Al aprender tu Persona nuevas destrezas,<FF03>tendras mas opciones en batalla!<FF02><FF04><FF1B>Igor<FF03>Aunque tu Persona aprenda una destreza<FF03>potente, el SP que pide queda constante!<FF02><FF04><FF1B>Igor<FF03>Creceras en combate, pero no<FF03>olvides que tus Personas crecen tambien!<FF02><FF01><FF1B>Igor<FF03>Perdon por ser entrometido, pero",
+  "shortened": true
+ },
+ "e0_01110": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Las Personas tienen ocho niveles de crecimiento!<FF03>Deberias desarrollarlas del todo!<FF02><FF04><FF1B>Igor<FF03>Seguro habra una amplia<FF03>recompensa por hacerlo",
+  "shortened": true
+ },
+ "e0_01111": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Tambien te interesara saber<FF03>de varios factores en la fusion!<FF02><FF04><FF1B>Igor<FF03>Por ejemplo, aun al crear la<FF03>misma Persona",
+  "shortened": true
+ },
+ "e0_01112": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>La combinacion de cartas, las<FF03>afinidades de los demonios",
+  "shortened": true
+ },
+ "e0_01113": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>La posicion de Terra y Luna, y la<FF03>esencia anadida a la mezcla",
+  "shortened": true
+ },
+ "e0_01114": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Todo esto influye en la Persona<FF03>resultante! Y una cosa mas",
+  "shortened": true
+ },
+ "e0_01115": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Tambien puedes anadir un objeto a la<FF03>fusion para activar un cambio!<FF02><FF04><FF1B>Igor<FF03>Hay objetos cuyo<FF03>resultado es facil de predecir",
+  "shortened": true
+ },
+ "e0_01116": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Pero a veces, ni yo podre<FF03>adivinar lo que pueda pasar!<FF02><FF04><FF1B>Igor<FF03>Si eso ocurre, espero que<FF03>me perdones!<FF02><FF04><FF1B>Igor<FF03>Pero no te enganes, de verdad creo<FF03>que vale la pena intentar",
+  "shortened": true
+ },
+ "e0_01117": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Sugiero gemas para lograr una fusion de<FF03>rango mayor o menor dentro de un orden!<FF02><FF04><FF1B>Igor<FF03>En cuanto a los otros objetos, deberias<FF03>experimentar por ti mismo!<FF02><FF01><0C00> <4052> <005C> <505C> <905C> <F85C> <A85D> <185E> <605E> <A05E> <B063> <5869> <9874>                                                                                                                                                                                                                                                                                                                                                                                     <FFFF><1600><FFFF>",
+  "shortened": true
+ },
+ "e0_01120": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01123": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01126": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01129": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01132": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01135": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01152": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01197": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01200": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01203": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01247": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01250": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01314": {
+  "t": " Conozco esta pintura.<FF03>Es de Chisato",
+  "shortened": true
+ },
+ "e0_01315": {
+  "t": "<FF02><FF01> <FF1B>Mark<FF03>Que, de Chisato Kasai? Crei que<FF03>dijeron que desaparecio!<FF02><FF04><FF1B>Mark<FF03>Espera",
+  "shortened": true
+ },
+ "e0_01316": {
+  "t": " La pintura de Chisato esta aqui,<FF03>y dicen que es de la Reina",
+  "shortened": true
+ },
+ "e0_01317": {
+  "t": "<FF02><FF01> <FF1B>Maki<FF03>Por que?<FF02><FF04><FF1B>Maki<FF03>Esto significa",
+  "shortened": true
+ },
+ "e0_01458": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01461": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01464": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01467": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01470": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01473": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01476": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01479": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01482": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01485": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01488": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01490": {
+  "t": "<FF21> <FF1B>Agastya Tree<FF03>Jovenes",
+  "shortened": true
+ },
+ "e0_01491": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01607": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01610": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01613": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01616": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01619": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01646": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01649": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01732": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01817": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01820": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01823": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01826": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01829": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01890": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_01893": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02060": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02063": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02066": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02129": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02132": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02135": {
+  "t": "<FF4D><3C00><FF2C><FFFF><FFFF><FFFF><FF21> <FF68> <FF67><4101><FF55> <C023> <FF68> <FF61> <FF4D><3C00><FF2C><FFFF><FFFF><FFFF><FF21> <FF1B>Trish<FF03>Hola. Soy Trish y esta es mi fuente<FF03>de sanacion.<FF02><FF04><FF1B>Trish<FF03>El mundo es dar y recibir. Dame<FF03>dinero y te quito el dolor.<FF02><FF01><FF1B>Trish<FF03>Que dices?<FF02><FF0E><1100><FF01> <FF1B>Trish<FF03>Bien.<FF02><FF01>  <FF1B>Trish<FF03>Umm, con la tarifa actual de sanacion",
+  "shortened": true
+ },
+ "e0_02136": {
+  "t": "<FF03>Y todos ustedes juntos",
+  "shortened": true
+ },
+ "e0_02137": {
+  "t": "<FF02><FF01> <FF1B>Trish<FF03>Seran 4,000 yenes!<FF03>Esta bien, no?<FF02><FF0E> <FF01>  <FF1B>Trish<FF03>Bien. Aqui va.<FF03>Dolor, dolor, vete.<FF02><FF01><FF1B>Trish<FF03>Uf",
+  "shortened": true
+ },
+ "e0_02138": {
+  "t": " Con eso basta.<FF03>Listos para irse.<FF02><FF01><FF1B>Trish<FF03>Necesitan algo mas?<FF02><FF0E> <FF01><FF1B>Trish<FF03>No tienen suficiente.? Buu.<FF03>Nada odio mas que a los pobres.<FF02><FF04><FF1B>Trish<FF03>Vuelvan con la billetera mas llena!<FF03>Adios.<FF02><FF01><FF1B>Trish<FF03>Buu. Vago sucio y sarnoso.<FF03>No me culpes si acabas muerto.<FF02><FF01> <FF1B>Trish<FF03>Bueno, vuelvan! Los esperare.<FF03>Adios.<FF02><FF01><FF1B>Trish<FF03>Me llamaste sin razon.?<FF03>Buu. Largo de aqui.<FF02><FF01><0B00> <081E> <281F> <601F> <801F> <2020> <8820> <F020> <A021> <B822> <5823> <C023>                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <FFFF><1A00><FFFF>",
+  "shortened": true
+ },
+ "e0_02149": {
+  "t": " Es un placer<FF03>conocerte!<FF02><FF04><FF1B>Igor<FF03>Este lugar existe entre el sueno y<FF03>la realidad, mente y materia",
+  "shortened": true
+ },
+ "e0_02150": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Hace tiempo que no<FF03>teniamos un invitado!<FF02><FF04><FF1B>Igor<FF03>Solo quienes atan un<FF03><0028>contrato<0028> pueden entrar",
+  "shortened": true
+ },
+ "e0_02151": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>De hoy en adelante, seras nuestro<FF03>invitado en esta Velvet Room!<FF02><FF04><FF1B>Igor<FF03>Tu destino exigira que afines<FF03>tu poder",
+  "shortened": true
+ },
+ "e0_02152": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Y para eso, inevitablemente<FF03>requeriras nuestra ayuda!<FF02><FF04><FF1B>Igor<FF03>La Velvet Room es el<FF03>cuarto de las Personas!<FF02><FF04><FF1B>Igor<FF03>Una Persona es un lado de ti que<FF03>surge al enfrentar el mundo",
+  "shortened": true
+ },
+ "e0_02153": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Es una fachada de proteccion<FF03>que vistes ante las penurias!<FF02><FF04><FF1B>Igor<FF03>Hm",
+  "shortened": true
+ },
+ "e0_02154": {
+  "t": " Quizas eso fue algo<FF03>dificil de entender",
+  "shortened": true
+ },
+ "e0_02155": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Para luchar rivales que no pueden<FF03>vencerse con fuerza humana",
+  "shortened": true
+ },
+ "e0_02156": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Aqui te prestaremos<FF03>poder inhumano",
+  "shortened": true
+ },
+ "e0_02158": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Ahora! Permite que explique mi rol<FF03>aqui",
+  "shortened": true
+ },
+ "e0_02159": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Te asistire en dar a luz a<FF03>nuevas Personas!<FF02><FF04><FF1B>Igor<FF03>Los demonios contenidos en las <FF18><0700>cartas<FF03>de hechizo<FF18>  que tienes se fusionaran en uno",
+  "shortened": true
+ },
+ "e0_02160": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Asi creando una nueva Persona!<FF02><FF04><FF1B>Igor<FF03>Si te hallas con estas<FF03>cartas, por favor traelas aqui!<FF02><FF01>  <FF1B>Igor<FF03>Bienvenido a la Velvet Room",
+  "shortened": true
+ },
+ "e0_02161": {
+  "t": "<FF02><FF01>   <FF1B>Igor<FF03>Que es lo que deseas?<FF02><FF0E><0C00><FF01><FF1B>Igor<FF03>Bueno, que te gustaria<FF03>saber?<FF02><FF0E><1700><FF01>   <FF1B>Igor<FF03>Me temo que no tienes suficientes <FF18><0700>cartas<FF03>de hechizo<FF18>  para dar a luz una nueva Persona!<FF02><FF01><FF1B>Igor<FF03>Ay, no podemos cuidar mas<FF03>Personas!<FF02><FF01>   <FF1B>Igor<FF03>Que te gustaria hacer?<FF02><FF0E><1500><FF01><FF1B>Igor<FF03>Bueno",
+  "shortened": true
+ },
+ "e0_02163": {
+  "t": "<FF02><FF01><FF1B>Igor<FF03>Si quieres nuevas Personas, las fusionare<FF03>y creare para ti!<FF02><FF04><FF1B>Igor<FF03>Primero, debo invocar demonios para<FF03>fusionarlos en una Persona!<FF02><FF04><FF1B>Igor<FF03>Y para eso, cierto tipo de carta<FF03>es necesario!<FF02><FF04><FF1B>Igor<FF03>Veras, estas cartas estan inscritas con<FF03>hechizos de invocacion de demonios!<FF02><FF04><FF1B>Igor<FF03>Se conocen como cartas de hechizo, y todos<FF03>los demonios cargan una!<FF02><FF04><FF1B>Igor<FF03>Asi, para realizar una fusion, necesitare<FF03>que juntes cartas de hechizo!<FF02><FF04><FF1B>Igor<FF03>Ve, negocia con demonios,<FF03>y trae estas cartas de hechizo aqui!<FF02><FF04><FF1B>Igor<FF03>El combate no es el unico modo de lidiar<FF03>con demonios",
+  "shortened": true
+ },
+ "e0_02164": {
+  "t": " Entiendes?<FF02><FF04><FF1B>Igor<FF03>Y no todos los demonios necesariamente<FF03>desean pelear",
+  "shortened": true
+ },
+ "e0_02165": {
+  "t": "<FF02><FF01> <FF1B>Igor<FF03>No basta solo con fusionar una nueva<FF03>Persona para hacerla tuya",
+  "shortened": true
+ },
+ "e0_02166": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Hay algo mas que eso,<FF03>me temo!<FF02><FF04><FF1B>Igor<FF03>Debes tomar una Persona sobre ti<FF03>para usar su poder!<FF02><FF04><FF1B>Igor<FF03>Cada uno de ustedes puede portar hasta<FF03>tres Personas!<FF02><FF04><FF1B>Igor<FF03>Una Persona recien fusionada quedara<FF03>a mi cuidado!<FF02><FF04><FF1B>Igor<FF03>Avisame cuando quieras<FF03>tomar nuevas Personas!<FF02><FF04><FF1B>Igor<FF03>Pero solo puedo cuidar 16 Personas<FF03>a la vez, eso si!<FF02><FF04><FF1B>Igor<FF03>Hay tantas Personas como hay<FF03>personalidades",
+  "shortened": true
+ },
+ "e0_02167": {
+  "t": " una variedad infinita!<FF02><FF04><FF1B>Igor<FF03>Cada una tiene su forma y sustancia,<FF03>a usar segun la situacion!<FF02><FF04><FF1B>Igor<FF03>Si dominas ese principio,<FF03>seras un fino usuario de Persona!<FF02><FF01><FF1B>Igor<FF03>Cada uno puede tomar hasta<FF03>tres Personas a la vez!<FF02><FF04><FF1B>Igor<FF03>De las tres, solo una puede invocarse<FF03>activamente en batalla!<FF02><FF04><FF1B>Igor<FF03>Invocar una Persona es convocarla<FF03>en combate!<FF02><FF04><FF1B>Igor<FF03>Las otras dos quedaran en<FF03>reserva",
+  "shortened": true
+ },
+ "e0_02168": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Listas para asumirse en cualquier momento<FF03>de la batalla!<FF02><FF04><FF1B>Igor<FF03>Distintas Personas activas te daran<FF03>distintas habilidades!<FF02><FF04><FF1B>Igor<FF03>Sin el poder de Persona, no eres<FF03>distinto de un humano comun",
+  "shortened": true
+ },
+ "e0_02169": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Seras impotente ante el arcano<FF03>poder de los hechizos demoniacos!<FF02><FF04><FF1B>Igor<FF03>Si por casualidad te golpea un hechizo en<FF03>ese estado, serias derribado!<FF02><FF04><FF1B>Igor<FF03>Pero al tomar una Persona, tu defensa<FF03>contra hechizos mejora bastante!<FF02><FF04><FF1B>Igor<FF03>Para algunos, puede dar fuerza,<FF03>o subir la suerte de otros!<FF02><FF04><FF1B>Igor<FF03>Esto, tambien, es el poder de Persona!<FF02><FF04><FF1B>Igor<FF03>Aunque se llaman Personas, cada una<FF03>es un lado oculto de ti!<FF02><FF04><FF1B>Igor<FF03>Sugiero que examines tu estado<FF03>con cuidado tras asumir una!<FF02><FF04><FF1B>Igor<FF03>Asi, podras ver cuales de tus<FF03>cualidades cambiaron!<FF02><FF04><FF1B>Igor<FF03>Al inicio, no podras aprovechar<FF03>los poderes de tu Persona al maximo!<FF02><FF04><FF1B>Igor<FF03>Pero mientras mas invoques una Persona,<FF03>mas poderes te dara!<FF02><FF04><FF1B>Igor<FF03>Al aprender tu Persona nuevas destrezas,<FF03>tendras mas opciones en batalla!<FF02><FF04><FF1B>Igor<FF03>Aunque tu Persona aprenda una destreza<FF03>potente, el SP que pide queda constante!<FF02><FF04><FF1B>Igor<FF03>Creceras en combate, pero no<FF03>olvides que tus Personas crecen tambien!<FF02><FF01><FF1B>Igor<FF03>Perdon por ser entrometido, pero",
+  "shortened": true
+ },
+ "e0_02170": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Las Personas tienen ocho niveles de crecimiento!<FF03>Deberias desarrollarlas del todo!<FF02><FF04><FF1B>Igor<FF03>Seguro habra una amplia<FF03>recompensa por hacerlo",
+  "shortened": true
+ },
+ "e0_02171": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Tambien te interesara saber<FF03>de varios factores en la fusion!<FF02><FF04><FF1B>Igor<FF03>Por ejemplo, aun al crear la<FF03>misma Persona",
+  "shortened": true
+ },
+ "e0_02172": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>La combinacion de cartas, las<FF03>afinidades de los demonios",
+  "shortened": true
+ },
+ "e0_02173": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>La posicion de Terra y Luna, y la<FF03>esencia anadida a la mezcla",
+  "shortened": true
+ },
+ "e0_02174": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Todo esto influye en la Persona<FF03>resultante! Y una cosa mas",
+  "shortened": true
+ },
+ "e0_02175": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Tambien puedes anadir un objeto a la<FF03>fusion para activar un cambio!<FF02><FF04><FF1B>Igor<FF03>Hay objetos cuyo<FF03>resultado es facil de predecir",
+  "shortened": true
+ },
+ "e0_02176": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Pero a veces, ni yo podre<FF03>adivinar lo que pueda pasar!<FF02><FF04><FF1B>Igor<FF03>Si eso ocurre, espero que<FF03>me perdones!<FF02><FF04><FF1B>Igor<FF03>Pero no te enganes, de verdad creo<FF03>que vale la pena intentar",
+  "shortened": true
+ },
+ "e0_02177": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Sugiero gemas para lograr una fusion de<FF03>rango mayor o menor dentro de un orden!<FF02><FF04><FF1B>Igor<FF03>En cuanto a los otros objetos, deberias<FF03>experimentar por ti mismo!<FF02><FF01><0C00> <4052> <005C> <505C> <905C> <F85C> <A85D> <185E> <605E> <A05E> <B063> <5869> <9874>                                                                                                                                                                                                                                                                                                                                                                                     <FFFF><1600><FFFF>",
+  "shortened": true
+ },
+ "e0_02180": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02183": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02329": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02332": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02335": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02338": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02341": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02344": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02347": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02350": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02353": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02356": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02359": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02362": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02365": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02390": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02424": {
+  "t": "<FF21> <FF1B>Trish<FF03>Hola. Soy Trish y esta es mi fuente<FF03>de sanacion.<FF02><FF04><FF1B>Trish<FF03>El mundo va de dar y recibir. Dame<FF03>dinero y te quito el dolor.<FF02><FF01><FF1B>Trish<FF03>Que dices?<FF02><FF0E><1100><FF01> <FF1B>Trish<FF03>Bien.<FF02><FF01>  <FF1B>Trish<FF03>Um, con la tarifa actual de sanacion",
+  "shortened": true
+ },
+ "e0_02425": {
+  "t": "<FF03>Y todos ustedes juntos",
+  "shortened": true
+ },
+ "e0_02427": {
+  "t": " Con eso basta.<FF03>Estan listos.<FF02><FF01><FF1B>Trish<FF03>Algo mas?<FF02><FF0E> <FF01><FF1B>Trish<FF03>No te alcanza.? Bah.<FF03>Nada odio mas que a los pobres.<FF02><FF04><FF1B>Trish<FF03>Vuelve con la cartera mas llena!<FF03>Adios.<FF02><FF01><FF1B>Trish<FF03>Bah. Sucio vagabundo.<FF03>No me culpes si acabas muerto.<FF02><FF01> <FF1B>Trish<FF03>Bueno, vuelve! Te espero.<FF03>Adios.<FF02><FF01><FF1B>Trish<FF03>Me llamaste sin razon.?<FF03>Bah. Largate de aqui.<FF02><FF01><0B00> <081E> <281F> <601F> <801F> <2020> <8820> <F020> <A021> <B822> <5823> <C023>                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <FFFF><1600><FFFF>",
+  "shortened": true
+ },
+ "e0_02430": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02434": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02437": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02440": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02443": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02446": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02449": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02452": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02464": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02485": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02523": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02526": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02529": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02532": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02535": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02570": {
+  "t": "<FF21> <FF1B>Agastya Tree<FF03>Jovenes",
+  "shortened": true
+ },
+ "e0_02571": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02575": {
+  "t": "<FF21> <FF1B>Trish<FF03>Hola. Soy Trish y esta es mi fuente<FF03>de sanacion.<FF02><FF04><FF1B>Trish<FF03>El mundo va de dar y recibir. Dame<FF03>dinero y te quito el dolor.<FF02><FF01><FF1B>Trish<FF03>Que dices?<FF02><FF0E><1100><FF01> <FF1B>Trish<FF03>Bien.<FF02><FF01>  <FF1B>Trish<FF03>Um, con la tarifa actual de sanacion",
+  "shortened": true
+ },
+ "e0_02576": {
+  "t": "<FF03>Y todos ustedes juntos",
+  "shortened": true
+ },
+ "e0_02577": {
+  "t": "<FF02><FF01> <FF1B>Trish<FF03>Seran 8,000 yenes!<FF03>Esta bien, no?<FF02><FF0E> <FF01>  <FF1B>Trish<FF03>Bien. Aqui va.<FF03>Dolor, dolor, vete.<FF02><FF01><FF1B>Trish<FF03>Uf",
+  "shortened": true
+ },
+ "e0_02578": {
+  "t": " Con eso basta.<FF03>Listos para irse.<FF02><FF01><FF1B>Trish<FF03>Necesitan algo mas?<FF02><FF0E> <FF01><FF1B>Trish<FF03>No tienen suficiente.? Buu.<FF03>Nada odio mas que a los pobres.<FF02><FF04><FF1B>Trish<FF03>Vuelvan con la billetera mas llena!<FF03>Adios.<FF02><FF01><FF1B>Trish<FF03>Buu. Vago sucio y sarnoso.<FF03>No me culpes si acabas muerto.<FF02><FF01> <FF1B>Trish<FF03>Bueno, vuelvan! Los esperare.<FF03>Adios.<FF02><FF01><FF1B>Trish<FF03>Me llamaste sin razon.?<FF03>Buu. Largo de aqui.<FF02><FF01><0B00> <081E> <281F> <601F> <801F> <2020> <8820> <F020> <A021> <B822> <5823> <C023>                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <FFFF><1A00><FFFF>",
+  "shortened": true
+ },
+ "e0_02589": {
+  "t": " Es un placer<FF03>conocerte!<FF02><FF04><FF1B>Igor<FF03>Este lugar existe entre el sueno y<FF03>la realidad, mente y materia",
+  "shortened": true
+ },
+ "e0_02590": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Hace tiempo que no<FF03>teniamos un invitado!<FF02><FF04><FF1B>Igor<FF03>Solo quienes atan un<FF03><0028>contrato<0028> pueden entrar",
+  "shortened": true
+ },
+ "e0_02591": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>De hoy en adelante, seras nuestro<FF03>invitado en esta Velvet Room!<FF02><FF04><FF1B>Igor<FF03>Tu destino exigira que afines<FF03>tu poder",
+  "shortened": true
+ },
+ "e0_02592": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Y para eso, inevitablemente<FF03>requeriras nuestra ayuda!<FF02><FF04><FF1B>Igor<FF03>La Velvet Room es el<FF03>cuarto de las Personas!<FF02><FF04><FF1B>Igor<FF03>Una Persona es un lado de ti que<FF03>surge al enfrentar el mundo",
+  "shortened": true
+ },
+ "e0_02593": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Es una fachada de proteccion<FF03>que vistes ante las penurias!<FF02><FF04><FF1B>Igor<FF03>Hm",
+  "shortened": true
+ },
+ "e0_02594": {
+  "t": " Quizas eso fue algo<FF03>dificil de entender",
+  "shortened": true
+ },
+ "e0_02595": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Para luchar rivales que no pueden<FF03>vencerse con fuerza humana",
+  "shortened": true
+ },
+ "e0_02596": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Aqui te prestaremos<FF03>poder inhumano",
+  "shortened": true
+ },
+ "e0_02598": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Ahora! Permite que explique mi rol<FF03>aqui",
+  "shortened": true
+ },
+ "e0_02599": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Te asistire en dar a luz a<FF03>nuevas Personas!<FF02><FF04><FF1B>Igor<FF03>Los demonios contenidos en las <FF18><0700>cartas<FF03>de hechizo<FF18>  que tienes se fusionaran en uno",
+  "shortened": true
+ },
+ "e0_02600": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Asi creando una nueva Persona!<FF02><FF04><FF1B>Igor<FF03>Si te hallas con estas<FF03>cartas, por favor traelas aqui!<FF02><FF01>  <FF1B>Igor<FF03>Bienvenido a la Velvet Room",
+  "shortened": true
+ },
+ "e0_02601": {
+  "t": "<FF02><FF01>   <FF1B>Igor<FF03>Que es lo que deseas?<FF02><FF0E><0C00><FF01><FF1B>Igor<FF03>Bueno, que te gustaria<FF03>saber?<FF02><FF0E><1700><FF01>   <FF1B>Igor<FF03>Me temo que no tienes suficientes <FF18><0700>cartas<FF03>de hechizo<FF18>  para dar a luz una nueva Persona!<FF02><FF01><FF1B>Igor<FF03>Ay, no podemos cuidar mas<FF03>Personas!<FF02><FF01>   <FF1B>Igor<FF03>Que te gustaria hacer?<FF02><FF0E><1500><FF01><FF1B>Igor<FF03>Bueno",
+  "shortened": true
+ },
+ "e0_02603": {
+  "t": "<FF02><FF01><FF1B>Igor<FF03>Si quieres nuevas Personas, las fusionare<FF03>y creare para ti!<FF02><FF04><FF1B>Igor<FF03>Primero, debo invocar demonios para<FF03>fusionarlos en una Persona!<FF02><FF04><FF1B>Igor<FF03>Y para eso, cierto tipo de carta<FF03>es necesario!<FF02><FF04><FF1B>Igor<FF03>Veras, estas cartas estan inscritas con<FF03>hechizos de invocacion de demonios!<FF02><FF04><FF1B>Igor<FF03>Se conocen como cartas de hechizo, y todos<FF03>los demonios cargan una!<FF02><FF04><FF1B>Igor<FF03>Asi, para realizar una fusion, necesitare<FF03>que juntes cartas de hechizo!<FF02><FF04><FF1B>Igor<FF03>Ve, negocia con demonios,<FF03>y trae estas cartas de hechizo aqui!<FF02><FF04><FF1B>Igor<FF03>El combate no es el unico modo de lidiar<FF03>con demonios",
+  "shortened": true
+ },
+ "e0_02604": {
+  "t": " Entiendes?<FF02><FF04><FF1B>Igor<FF03>Y no todos los demonios necesariamente<FF03>desean pelear",
+  "shortened": true
+ },
+ "e0_02605": {
+  "t": "<FF02><FF01> <FF1B>Igor<FF03>No basta solo con fusionar una nueva<FF03>Persona para hacerla tuya",
+  "shortened": true
+ },
+ "e0_02606": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Hay algo mas que eso,<FF03>me temo!<FF02><FF04><FF1B>Igor<FF03>Debes tomar una Persona sobre ti<FF03>para usar su poder!<FF02><FF04><FF1B>Igor<FF03>Cada uno de ustedes puede portar hasta<FF03>tres Personas!<FF02><FF04><FF1B>Igor<FF03>Una Persona recien fusionada quedara<FF03>a mi cuidado!<FF02><FF04><FF1B>Igor<FF03>Avisame cuando quieras<FF03>tomar nuevas Personas!<FF02><FF04><FF1B>Igor<FF03>Pero solo puedo cuidar 16 Personas<FF03>a la vez, eso si!<FF02><FF04><FF1B>Igor<FF03>Hay tantas Personas como hay<FF03>personalidades",
+  "shortened": true
+ },
+ "e0_02607": {
+  "t": " una variedad infinita!<FF02><FF04><FF1B>Igor<FF03>Cada una tiene su forma y sustancia,<FF03>a usar segun la situacion!<FF02><FF04><FF1B>Igor<FF03>Si dominas ese principio,<FF03>seras un fino usuario de Persona!<FF02><FF01><FF1B>Igor<FF03>Cada uno puede tomar hasta<FF03>tres Personas a la vez!<FF02><FF04><FF1B>Igor<FF03>De las tres, solo una puede invocarse<FF03>activamente en batalla!<FF02><FF04><FF1B>Igor<FF03>Invocar una Persona es convocarla<FF03>en combate!<FF02><FF04><FF1B>Igor<FF03>Las otras dos quedaran en<FF03>reserva",
+  "shortened": true
+ },
+ "e0_02610": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Las Personas tienen ocho niveles de crecimiento!<FF03>Deberias desarrollarlas del todo!<FF02><FF04><FF1B>Igor<FF03>Seguro habra una amplia<FF03>recompensa por hacerlo",
+  "shortened": true
+ },
+ "e0_02611": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Tambien te interesara saber<FF03>de varios factores en la fusion!<FF02><FF04><FF1B>Igor<FF03>Por ejemplo, aun al crear la<FF03>misma Persona",
+  "shortened": true
+ },
+ "e0_02612": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>La combinacion de cartas, las<FF03>afinidades de los demonios",
+  "shortened": true
+ },
+ "e0_02613": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>La posicion de Terra y Luna, y la<FF03>esencia anadida a la mezcla",
+  "shortened": true
+ },
+ "e0_02614": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Todo esto influye en la Persona<FF03>resultante! Y una cosa mas",
+  "shortened": true
+ },
+ "e0_02615": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Tambien puedes anadir un objeto a la<FF03>fusion para activar un cambio!<FF02><FF04><FF1B>Igor<FF03>Hay objetos cuyo<FF03>resultado es facil de predecir",
+  "shortened": true
+ },
+ "e0_02616": {
+  "t": "<FF02><FF04><FF1B>Igor<FF03>Pero a veces, ni yo podre<FF03>adivinar lo que pueda pasar!<FF02><FF04><FF1B>Igor<FF03>Si eso ocurre, espero que<FF03>me perdones!<FF02><FF04><FF1B>Igor<FF03>Pero no te enganes, de verdad creo<FF03>que vale la pena intentar",
+  "shortened": true
+ },
+ "e0_02651": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02730": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02735": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02738": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ },
+ "e0_02741": {
+  "t": " Su presencia es bienvenida!<FF02><FF01> <FF1B>Arbol Agastya<FF03>Inscribiran su historia en mi?<FF02><FF0E> <FF01>   <FF1B>Arbol Agastya<FF03>Cuiden en su viaje, jovenes",
+  "shortened": true
+ }
+}

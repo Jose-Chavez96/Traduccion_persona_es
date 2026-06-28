@@ -1,0 +1,90 @@
+{
+ "e0_00050": {
+  "t": "<FF02><FF01> <FF18><0200><0044> Masao Inaba <0029>Apodo<0006> Mark<002A><FF03>El hijo mimado de los duenos de<FF03>Tintoreria Inaba! Sincero y exaltado!<FF18> <FF02><FF01> <FF18><0200><0044> Kei Nanjo <0029>Apodo<0006> Nanjo<002A><FF03>Heredero del Grupo Nanjo! Un total<FF03>pragmatico y esceptico!<FF18> <FF02><FF01>   <FF18><0300><0044> Yukino Mayuzumi <0029>Apodo<0006> Yukino<002A><FF03>Confiada por todos, es como una<FF03>hermana mayor para los alumnos!<FF18> <FF02><FF01> <FF18><0200><0044> Hidehiko Uesugi <0029>Apodo<0006> Brown<002A><FF03>Ansia atencion y no se toma las<FF03>cosas muy en serio!<FF18> <FF02><FF01>  <FF18><0300><0044> Yuka Ayase <0029>Apodo<0006> Ayase<002A><FF03>Una problematica del grupo bronceado<FF03>y oxigenado de las <0028>kogal<0028>!<FF18> <FF02><FF01><FF18><0300><0044> Eriko Kirishima <0029>Apodo<0006> Elly<002A><FF03>Una alumna fina recien vuelta del<FF03>extranjero! Bella e inteligente!<FF18> <FF02><FF01><2E00> <7019> <101B> <E81C> <C81D> <281E> <A01E> <E01E> <501F> <F01F> <6020> <B820> <2821> <7021> <C821> <2022> <B822> <F022> <6823> <D823> <2024> <9024> <1825> <A025> <8026> <F826> <8027> <F827> <0829> <6829> <C029> <582A> <802A> <E02A> <582B> <402C> <B02C> <E02C> <282D> <882D> <D02D> <582E> <302F> <F02F> <D030> <9831> <6832>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <FFFF><1600><FFFF>",
+  "shortened": true
+ },
+ "e0_00059": {
+  "t": "<FF05><8000><FF05><5000><FF01>  <FF05><2000>Si! Es bastante extraordinario!<FF05><8000><FF05><5000><FF01>   Crees que el tambien lo ve?<FF05><8000><FF05><5000><FF01>  <FF1B>Maestra de enfermera<FF03>Oh, <FF07>, despertaste!<FF02><FF04><FF1B>Maestra de enfermera<FF03>Ahaha, bienvenido a la enfermeria!<FF03>Te ves lindo dormido!<FF02><FF01>   <FF18><0300><0044> Natsumi Yoshino<FF03>Enfermera de St! Hermelin! No parece<FF03>muy buena cocinera!<FF18> <FF02><FF01> <FF1B>Maestra preocupada<FF03><FF07>. Estas bien.?<FF02><FF01>   <FF1B>Maestra preocupada<FF03>Gracias a Dios despertaste, <FF07>.<FF02><FF04><FF1B>Maestra preocupada<FF03>Me asuste mucho al oir que te<FF03>desmayaste.<FF02><FF01>  <FF18><0300><0044> Saeko Takami<FF03>Maestra de salon de <FF07> y los<FF03>demas! Muy popular con los alumnos!<FF18> <FF02><FF01> <FF1B>Ms! Saeko<FF03>Perdon que lidiaras con mis<FF03>alumnos, Natsumi!<FF02><FF01>   <FF1B>Mark<FF03>Vamos, cuidar alumnos es su<FF03>trabajo. Que tenemos de malo",
+  "shortened": true
+ },
+ "e0_00060": {
+  "t": "<FF02><FF01> <FF1B>Ms! Saeko<FF03>Calma, Masao. Quiero que pienses<FF03>en lo que hiciste.<FF02><FF04><FF1B>Ms! Saeko<FF03>En fin, Eriko y Ayase me contaron lo<FF03>que paso! Hoy no ayudas.<FF02><FF04><FF1B>Ms! Saeko<FF03>Mejor vayan a revisarse<FF03>en <FF18><0700>Mikage Hospital<FF18>  y a casa.<FF02><FF01> <FF1B>Yukino<FF03>Asi que crees que algo anda mal<FF03>con nosotros tambien?<FF02><FF01>  <FF1B>Ms! Saeko<FF03>Oh, no asi! Con verlos se nota<FF03>que estan perfectamente cuerdos!<FF02><FF04><FF1B>Ms! Saeko<FF03>Pero temo que se hayan lastimado<FF03>al caer, asi que vean al doctor!<FF02><FF01><FF1B>Yukino<FF03>Asi que algo si puede asustarte,<FF03>Ms! Saeko",
+  "shortened": true
+ },
+ "e0_00061": {
+  "t": " Bien, iremos!<FF02><FF01>  <FF1B>Nurse Natsumi<FF03>Hablando de Mikage Hospital, no habia una<FF03>alumna de tu clase internada ahi?<FF02><FF01> <FF1B>Mark<FF03>Hablas de Maki, no",
+  "shortened": true
+ },
+ "e0_00062": {
+  "t": "<FF02><FF01><FF1B>Ms! Saeko<FF03>Si, asi es!<FF02><FF04><FF1B>Ms! Saeko<FF03>Deberian visitarla ya que estan<FF03>ahi!<FF02><FF04><FF1B>Ms! Saeko<FF03>Lleva internada ahi mas de un<FF03>ano ya",
+  "shortened": true
+ },
+ "e0_00063": {
+  "t": " Seguro se siente sola!<FF02><FF01>   <FF1B>Ms! Saeko<FF03>Que hacian, por cierto? Les pedi<FF03>preparar el festival deportivo!<FF02><FF04><FF1B>Ms! Saeko<FF03>Solo queda un mes y nada esta<FF03>listo aun!<FF02><FF04><FF1B>Ms! Saeko<FF03>Mejor lo cancelamos este ano",
+  "shortened": true
+ },
+ "e0_00064": {
+  "t": "<FF02><FF01> <FF1B>Nanjo<FF03>Parece que no tenemos opcion en<FF03>esto! Mejor acabar con ello!<FF02><FF01><FF1B>Mark<FF03>Mikage Hospital, eh? Es algo<FF03>lejos de la escuela!<FF02><FF04><FF1B>Mark<FF03>Esta al noreste! Sales de la<FF03>escuela, vas al norte",
+  "shortened": true
+ },
+ "e0_00065": {
+  "t": "<FF02><FF04><FF1B>Mark<FF03>Y vas hasta el 3er distrito,<FF03>luego giras a la derecha en Ruinas Mikage!<FF02><FF04><FF1B>Mark<FF03>Eh, si solo deambulamos, llegaremos<FF03>tarde o temprano!<FF02><FF01> <FF1B>Yukino<FF03>Yo no soportaria estar encerrada<FF03>en el hospital un ano entero!<FF02><FF04><FF1B>Yukino<FF03>Vamos a animarla.<FF02><FF01><FF1B>Ms! Saeko<FF03><FF07>. De veras deberian ir<FF03>camino a <FF18><0700>Mikage Hospital<FF18> .<FF02><FF01><FF1B>Arbol Agastya<FF03>Jovenes",
+  "shortened": true
+ },
+ "e0_00067": {
+  "t": "<FF02><FF01><FF60> <FF67><1401><FF55> <582A> <FF68> <FF61> <FF21>   <FF1B>Nurse Natsumi<FF03>Puse una planta nueva! Que te<FF03>parece? Anima el cuarto, no?<FF02><FF04><FF1B>Nurse Natsumi<FF03>Dicen que crecen mejor si les<FF03>hablas! Pruebalo, <FF07>!<FF02><FF01><1900> <2016> <C816> <1017> <5018> <0819> <6019> <481A> <001B> <881B> <301C> <281E> <981E> <0020> <A820> <6021> <A021> <F822> <9024> <2825> <7027> <5828> <E828> <5829> <C829> <582A>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <FFFF><FFFF><FFFF><FFFF><FFFF><0800><FFFF><FFFF><FFFF><FFFF><0300><FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><0300><FFFF><8C1D> <D810> <F810> <E010> <F810> <E810> <F810> <F010> <F810> <D80C> <0200><100B>` <FFFF><FFFF>  ",
+  "shortened": true
+ },
+ "e0_00070": {
+  "t": " La biblioteca<FF03>de casa esta mucho mejor surtida!<FF02><FF01><FF1B>Mark<FF03>Que hacemos en la biblioteca? Apuremos<FF03>a ver--digo, a revisarnos.<FF02><FF01>  <FF1B>Yukino<FF03>Esos dos de alla se burlan de<FF03>Chico Diablo",
+  "shortened": true
+ },
+ "e0_00071": {
+  "t": "<FF02><FF04><FF1B>Yukino<FF03>Pero prefiero a Chico Diablo que a ellos!<FF03>Al menos no se cree la gran cosa!<FF02><FF01> <FF1B>Tsutomu Kurouri<FF03>",
+  "shortened": true
+ },
+ "e0_00072": {
+  "t": "Oh, eres tu, <FF0F>!<FF02><FF04><FF1B>Tsutomu Kurouri<FF03>Eeeheehee",
+  "shortened": true
+ },
+ "e0_00073": {
+  "t": " Investigo los<FF03>siete misterios de St! Hermelin!<FF02><FF04><FF1B>Tsutomu Kurouri<FF03>Quieres saber que descubri?<FF03>Eeeheehee",
+  "shortened": true
+ },
+ "e0_00075": {
+  "t": "<FF02><FF01>   <FF18><0200><0044> Tsutomu Kurouri <0029>Nickname<0006> Chico Diablo<002A><FF03>Experto en lo oculto, pero a<FF03>menudo tiene info incorrecta!<FF18> <FF02><FF01>   <FF1B>Estudiante<FF03>Lo llaman Chico Diablo, pero lo que<FF03>te dice es pura basura!<FF02><FF04><FF1B>Estudiante<FF03>Yo se mucho mas de lo oculto! Aunque<FF03>nunca se lo diria a un novato!<FF02><FF01>   <FF1B>Estudiante<FF03>Para mi, debe haber demonios<FF03>que se llevan bien y otros que no!<FF02><FF04><FF1B>Estudiante<FF03>Si demonios que se odian se topan,<FF03>seguro seria desastroso!<FF02><FF01>  <FF1B>Estudiante de biblioteca<FF03>Ves a ese de alla? Al que<FF03>llaman Chico Diablo?<FF02><FF04><FF1B>Estudiante de biblioteca<FF03>Tropezo y cayo otra vez hoy<FF03>en gimnasia! Fue comiquisimo.<FF02><FF04><FF1B>Estudiante de biblioteca<FF03>Ni una flexion puede hacer.<FF03>Que perdedor.<FF02><FF01><0800> <7813> <1814> <C814> <F015> <A817> <9818> <081A> <781B>                                                                                                                                                                                                                                                                                                         <FFFF><FFFF><FFFF><FFFF><FFFF><0900><FFFF><FFFF><FFFF><FFFF><0800><FFFF><FFFF>`<FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><FFFF><0300><FFFF><4619> <D810> <F810> <E010> <F810> <E810> <F810> <F010> <F810> <D80C>  <0A08>` <2811>   ",
+  "shortened": true
+ },
+ "e0_00077": {
+  "t": " <0203><FF00>  <FF60> <FF55> <F811> <FF55> <C812> <FF55> <F813> <FF61> <FF21>   <FF60> <FF67><0301><FF55> <C814> <FF68> <FF61> <FF21>   <FF60> <FF67><0201><FF55> <4015> <FF68> <FF61> <FF21>   <FF60> <FF67><0401><FF55> <C015> <FF68> <FF61> <FF21>   <FF60> <FF55> <3816> <FF61> <FF21>   <FF60> <FF55> <9017> <FF61> <FF21>   <FF60> <FF55> <4018> <FF61> <FF21>   <FF1B>Miembro de Drama<FF03>Oye, no decidimos que obra haremos<FF03>para el festival cultural, no?<FF02><FF01>  <FF1B>Miembro de Drama<FF03>Oi que habia una obra tradicional<FF03>que soliamos montar",
+  "shortened": true
+ },
+ "e0_00078": {
+  "t": " Por que no esa?<FF02><FF04><FF1B>Miembro de Drama<FF03>Creo que se llamaba The Snow--<FF02><FF01>   <FF1B>Presidente de Drama<FF03>Para nada. Esa esta prohibida!<FF03>Decidire pronto",
+  "shortened": true
+ },
+ "e0_00079": {
+  "t": " Denme tiempo!<FF02><FF01>   <FF1B>Nanjo<FF03>Snow",
+  "shortened": true
+ },
+ "e0_00080": {
+  "t": " Iba a sugerir<FF03>The Snow Queen?<FF02><FF01>   <FF1B>Mark<FF03>Quien necesita obra? Dejenme bailar<FF03>en el escenario.<FF02><FF01>   <FF1B>Yukino<FF03>Esta escuela tiene obra tradicional?<FF03>No lo sabia!<FF02><FF01>   <FF1B>Miembro de Drama<FF03>St! Hermelin gano el concurso de drama<FF03>hace nueve anos, tambien",
+  "shortened": true
+ },
+ "e0_00081": {
+  "t": "<FF02><FF04><FF1B>Miembro de Drama<FF03>Pero el trofeo de ese ano se perdio!<FF03>Me pregunto que le paso!<FF02><FF01> <FF1B>Miembro de Drama<FF03>El presidente se veia algo sensible",
+  "shortened": true
+ },
+ "e0_00085": {
+  "t": " Es un<FF03>valioso artefacto cultural!<FF02><FF04><FF1B>Nanjo<FF03>Quien lo construyo? Para que?<FF03>Nunca deja de fascinarme!<FF02><FF01><FF1B>Mark<FF03>Nuestra directora es genial",
+  "shortened": true
+ },
+ "e0_00086": {
+  "t": " pero a veces<FF03>es demasiado melosa!<FF02><FF01> <FF1B>Yukino<FF03>Hoy tengo trabajo de medio tiempo! Apuremos<FF03>al hospital y acabemos con esto!<FF02><FF01>  <FF1B>Directora Ooishi<FF03>Vaya, hola, <FF07>.<FF03>Tambien estan de paseo?<FF02><FF04><FF1B>Directora Ooishi<FF03>Es parte de mi rutina diaria,<FF03>desde que era nina",
+  "shortened": true
+ },
+ "e0_00087": {
+  "t": "<FF02><FF04><FF1B>Directora Ooishi<FF03>",
+  "shortened": true
+ }
+}
